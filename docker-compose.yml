@@ -1,6 +1,6 @@
 services:
   wuwa-api:
-    build: .
+    image: ghcr.io/ProjektCode/wuwa-api:main
     container_name: wuwa-api
     restart: unless-stopped
     environment:
@@ -12,10 +12,11 @@ services:
       RATE_LIMIT_LIST_MAX: 15
       RATE_LIMIT_DETAIL_MAX: 60
       RATE_LIMIT_IMAGE_MAX: 60
+      RATE_LIMIT_DOCS_MAX: 120
       # Demo should stay off in production
       ENABLE_DEMO: "false"
     volumes:
-      # If you want to update dataset/images without rebuilding:
+      # Optional: override baked-in dataset/images without rebuilding.
       - ./assets:/app/assets:ro
     expose:
       - "3000"

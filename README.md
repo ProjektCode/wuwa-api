@@ -218,7 +218,12 @@ Key points:
 Run:
 
 ```bash
-docker compose up -d --build
+# first start
+docker compose up -d
+
+# updates (pull new image)
+docker compose pull
+docker compose up -d
 ```
 
 #### NPM UI setup
