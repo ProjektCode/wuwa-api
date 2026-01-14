@@ -1,6 +1,8 @@
 # wuwa-api
 
-A Node.js (Fastify) REST API + importer for **Wuthering Waves** data. It serves structured JSON (characters, weapons, metadata) and local images.
+A Node.js (Fastify) REST API for **Wuthering Waves** data. It serves structured JSON (characters, weapons, metadata) and local images.
+
+Data generation/import is maintained privately; this repo ships only the API + the published dataset under `assets/`.
 
 Not affiliated with or endorsed by Kuro Games.
 
@@ -11,7 +13,7 @@ Not affiliated with or endorsed by Kuro Games.
 - File-backed dataset:
   - `assets/data/**/en.json`
   - `assets/images/**` (normalized `.webp`)
-- Importer that pulls from community sources (Prydwen + Fandom) and normalizes:
+- Published dataset under `assets/` (generated privately from community sources and normalized):
   - character skills + scaling tables
   - character base stats at levels `20/50/90`
   - character images: `icon/card/splash/attribute`
@@ -152,20 +154,9 @@ Rate limiting is enforced by `@fastify/rate-limit` using **route-level tiers**.
 
 This API is designed to be public but discourage heavy usage (encourage self-hosting).
 
-## Importer (private)
-
-This repository intentionally does **not** include the importer/scraper.
-
-Reason: publishing scraping code in a public repository can cause unwanted load on upstream community sites.
-
-If you are the maintainer and want the importer:
-- keep it in a **private** repo
-- run it locally to generate `assets/data` and `assets/images`
-- then publish only the dataset you’re comfortable making public (or keep the repo private)
-
 ## Validate data
 
-After importing (or after manual edits):
+After updating `assets/` (or after manual edits):
 
 ```bash
 npm run validate-data
@@ -188,10 +179,6 @@ The demo HTML is loaded from `.local/demo` (gitignored) so it won’t be publish
 
 The dataset in `assets/` is sourced from community resources (e.g. Prydwen and Fandom).
 
-If you maintain your own private importer, be respectful:
-- avoid tight loops
-- keep delays reasonable
-- comply with site rules/ToS
 
 ## Docker + deployment notes
 
