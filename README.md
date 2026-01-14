@@ -61,6 +61,10 @@ Rate limit tiers (self-hosters can change these in `.env` or in `docker-compose.
 - `RATE_LIMIT_LIST_MAX` (default `15`) — list endpoints (`/v1/characters`, `/v1/weapons`)
 - `RATE_LIMIT_DETAIL_MAX` (default `60`) — detail endpoints (`/v1/characters/:id`, `/v1/weapons/:id`)
 - `RATE_LIMIT_IMAGE_MAX` (default `60`) — character image routes
+- `RATE_LIMIT_DOCS_MAX` (default `120`) — docs routes (`/docs`, `/documentation/*`)
+
+CORS:
+- `CORS_ALLOWED_ORIGINS` (comma-separated) — browser allowlist for cross-origin requests (curl/server-to-server clients are unaffected)
 
 Demo:
 - `ENABLE_DEMO` (default `false`) — enables `/demo/*` (served from `.local/demo` and not intended for public deploys)
@@ -144,6 +148,7 @@ Rate limiting is enforced by `@fastify/rate-limit` using **route-level tiers**.
 - List endpoints (`/v1/characters`, `/v1/weapons`): `RATE_LIMIT_LIST_MAX` per `RATE_LIMIT_WINDOW`
 - Detail endpoints (`/v1/characters/:id`, `/v1/weapons/:id`): `RATE_LIMIT_DETAIL_MAX` per `RATE_LIMIT_WINDOW`
 - Character image endpoints (`/v1/characters/:id/images*`): `RATE_LIMIT_IMAGE_MAX` per `RATE_LIMIT_WINDOW`
+- Docs endpoints (`/docs`, `/documentation/*`): `RATE_LIMIT_DOCS_MAX` per `RATE_LIMIT_WINDOW`
 
 This API is designed to be public but discourage heavy usage (encourage self-hosting).
 

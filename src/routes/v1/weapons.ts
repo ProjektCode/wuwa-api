@@ -15,6 +15,7 @@ export type RateLimitTiers = {
   timeWindow: string;
   list: { max: number };
   detail: { max: number };
+  docs: { max: number };
 };
 
 export async function registerWeaponRoutes(

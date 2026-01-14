@@ -84,6 +84,16 @@ export async function createDataStore(dataRoot: string): Promise<DataStore> {
     loadEntities<Weapon>(dataRoot, "weapons"),
   ]);
 
+  // Normalize character base stats (in-game values are whole numbers).
+  for (const c of characters.values()) {
+    if (!c.statsByLevel) continue;
+    for (const stats of Object.values(c.statsByLevel)) {
+      stats.hp = Math.round(stats.hp);
+      stats.atk = Math.round(stats.atk);
+      stats.def = Math.round(stats.def);
+    }
+  }
+
   return {
     listCharacters: () => [...characters.values()],
     getCharacter: (id) => characters.get(id) ?? null,

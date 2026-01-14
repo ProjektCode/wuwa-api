@@ -1,3 +1,4 @@
+import crypto from "node:crypto";
 import { readdir, readFile, stat } from "node:fs/promises";
 import path from "node:path";
 
@@ -10,6 +11,7 @@ export type DatasetInfo = {
   };
   lastUpdatedMax: string | null;
   fileMtimeMaxMs: number | null;
+  version: string;
 };
 
 async function listIds(dirPath: string): Promise<string[]> {
@@ -66,8 +68,7 @@ export async function computeDatasetInfo(dataRoot: string): Promise<DatasetInfo>
     .filter((v): v is number => typeof v === "number")
     .reduce<number | null>((acc, cur) => (acc === null ? cur : Math.max(acc, cur)), null);
 
-  return {
-    dataRoot,
+  const signature = {
     languages: ["en"],
     counts: {
       characters: characterIds.length,
@@ -75,5 +76,17 @@ export async function computeDatasetInfo(dataRoot: string): Promise<DatasetInfo>
     },
     lastUpdatedMax,
     fileMtimeMaxMs,
+  };
+
+  const version = crypto
+    .createHash("sha1")
+    .update(JSON.stringify(signature))
+    .digest("hex")
+    .slice(0, 12);
+
+  return {
+    dataRoot,
+    ...signature,
+    version,
   };
 }

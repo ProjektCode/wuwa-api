@@ -19,6 +19,7 @@ export type RateLimitTiers = {
   list: { max: number };
   detail: { max: number };
   image: { max: number };
+  docs: { max: number };
 };
 
 export async function registerCharacterRoutes(

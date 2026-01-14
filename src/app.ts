@@ -29,7 +29,54 @@ export async function buildApp(config: AppConfig): Promise<FastifyInstance> {
     },
   });
 
-  await app.register(cors, { origin: true });
+  const poweredBy = "OpenCode + GPT-5.2";
+
+  const isProd = process.env.NODE_ENV === "production";
+
+  const defaultCorsOrigins = ["https://wuwa.projektcode.com", "https://projektcode.github.io"];
+  const devCorsOrigins = [
+    "http://localhost:8080",
+    "http://127.0.0.1:8080",
+    "http://localhost:5173",
+    "http://127.0.0.1:5173",
+  ];
+
+  const allowedCorsOrigins = (
+    process.env.CORS_ALLOWED_ORIGINS ??
+    [...defaultCorsOrigins, ...(isProd ? [] : devCorsOrigins)].join(",")
+  )
+    .split(",")
+    .map((o) => o.trim())
+    .filter(Boolean);
+
+  await app.register(cors, {
+    origin: (origin, cb) => {
+      // allow non-browser clients (curl, server-to-server)
+      if (!origin) return cb(null, true);
+      return cb(null, allowedCorsOrigins.includes(origin));
+    },
+  });
+
+  app.addHook("onRequest", async (req, reply) => {
+    reply.header("X-Powered-By", poweredBy);
+    reply.header("X-Content-Type-Options", "nosniff");
+    reply.header("Referrer-Policy", "strict-origin-when-cross-origin");
+    reply.header("X-Frame-Options", "SAMEORIGIN");
+    reply.header(
+      "Permissions-Policy",
+      "camera=(), microphone=(), geolocation=(), interest-cohort=()"
+    );
+
+    // HSTS only makes sense behind HTTPS.
+    const forwardedProto = req.headers["x-forwarded-proto"];
+    const isHttps =
+      forwardedProto === "https" ||
+      (Array.isArray(forwardedProto) && forwardedProto.includes("https"));
+    if (isProd && isHttps) {
+      reply.header("Strict-Transport-Security", "max-age=15552000; includeSubDomains");
+    }
+  });
+
   await app.register(compress, { global: true });
   const rateLimitWindow = process.env.RATE_LIMIT_WINDOW ?? "1 minute";
   const listMax = Number(process.env.RATE_LIMIT_LIST_MAX ?? 15);
@@ -59,6 +106,7 @@ export async function buildApp(config: AppConfig): Promise<FastifyInstance> {
       info: {
         title: "Wuthering Waves API",
         version: "0.1.0",
+        description: `Powered by ${poweredBy}`,
       },
     },
   });
@@ -105,9 +153,12 @@ export async function buildApp(config: AppConfig): Promise<FastifyInstance> {
     return {
       name: "wuwa-api",
       version: "0.1.0",
+      poweredBy,
       dataset,
     };
   });
+
+  const docsMax = Number(process.env.RATE_LIMIT_DOCS_MAX ?? 120);
 
   const rateTiers = {
     timeWindow: rateLimitWindow,
@@ -120,12 +171,25 @@ export async function buildApp(config: AppConfig): Promise<FastifyInstance> {
     image: {
       max: Number.isFinite(imageMax) ? imageMax : 60,
     },
+    docs: {
+      max: Number.isFinite(docsMax) ? docsMax : 120,
+    },
   };
+
+  const docsLimiter = app.rateLimit({
+    max: rateTiers.docs.max,
+    timeWindow: rateTiers.timeWindow,
+    groupId: "docs",
+  });
+  app.addHook("preHandler", async (req, reply) => {
+    const url = req.url;
+    if (!url.startsWith("/docs") && !url.startsWith("/documentation")) return;
+
+    await docsLimiter.call(app, req, reply);
+  });
 
   await registerCharacterRoutes(app, store, config.imagesRoot, rateTiers);
   await registerWeaponRoutes(app, store, rateTiers);
-
-  const isProd = process.env.NODE_ENV === "production";
 
   await app.register(fastifyStatic, {
     root: path.resolve(config.imagesRoot),
