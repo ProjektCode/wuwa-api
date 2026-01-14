@@ -1,0 +1,139 @@
+{
+  "id": "lingyang",
+  "name": "Lingyang",
+  "rarity": 5,
+  "element": "Glacio",
+  "weaponType": "Gauntlets",
+  "skills": [
+    {
+      "id": "basic-attack-majestic-fists",
+      "name": "Majestic Fists",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "Basic Attack\n\nPerform up to **5 **attacks, dealing Glacio damage.\n\nBasic Attack: Feral Roars\n\nAfter Resonance Skill Furious Punches is cast, Basic Attack V is replaced with Feral Roars, dealing Glacio damage.\n\nHeavy Attack\n\nConsume Stamina to attack the target, dealing Glacio damage.\n\nMid-air Attack\n\nConsume Stamina to perform a Mid-air Plunging Attack, dealing Glacio damage.\n\nDodge Counter\n\nUse a Basic Attack after a successful Dodge to attack the target, dealing Glacio damage.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Part 1 Damage | 30.00% |\n| Part 2 Damage | 40.00% |\n| Part 3 Damage | 36.65%*2 |\n| Part 4 Damage | 10.27%*5+21.99% |\n| Part 5 Damage | 76.70% |\n| Feral Roars Damage | 40.00%*2 |\n| Heavy Attack Damage | 73.30% |\n| Mid-Air Attack Damage | 62.00% |\n| Dodge Counter Damage | 63.40%*2 |\n| Heavy Attack Stamina Consumption | 25 |\n| Mid-Air Attack Stamina Consumption | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Part 1 Damage | 40.83% |\n| Part 2 Damage | 54.44% |\n| Part 3 Damage | 49.88%*2 |\n| Part 4 Damage | 13.97%*5+29.93% |\n| Part 5 Damage | 104.38% |\n| Feral Roars Damage | 54.44%*2 |\n| Heavy Attack Damage | 99.75% |\n| Mid-Air Attack Damage | 84.37% |\n| Dodge Counter Damage | 86.28%*2 |\n| Heavy Attack Stamina Consumption | 25 |\n| Mid-Air Attack Stamina Consumption | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Part 1 Damage | 59.65% |\n| Part 2 Damage | 79.53% |\n| Part 3 Damage | 72.87%*2 |\n| Part 4 Damage | 20.41%*5+43.72% |\n| Part 5 Damage | 152.49% |\n| Feral Roars Damage | 79.53%*2 |\n| Heavy Attack Damage | 145.73% |\n| Mid-Air Attack Damage | 123.27% |\n| Dodge Counter Damage | 126.05%*2 |\n| Heavy Attack Stamina Consumption | 25 |\n| Mid-Air Attack Stamina Consumption | 30 |"
+      }
+    },
+    {
+      "id": "resonance-skill-ancient-arts",
+      "name": "Ancient Arts",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "Ancient Arts\n\nAttack the target, dealing Glacio damage.\n\nFurious Punches\n\nWhen Basic Attacks III, IV, or V or Basic Attack Feral Roars hits the target, Resonance Skill Ancient Arts is replaced with Resonance Skill Swift Punches. If Lingyang uses Basic Attack after casting Basic Attack Feral Roars and Resonance Skill Swift Punches, he will start from Basic Attack III. \n\nLingyang's Resonance Skill will not reset his Basic Attack stage.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Ancient Arts Damage | 66.70% |\n| Furious Punches Damage | 38.35%*2 |\n| Cooldown | 0 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Ancient Arts Damage | 90.77% |\n| Furious Punches Damage | 52.19%*2 |\n| Cooldown | 0 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Ancient Arts Damage | 132.61% |\n| Furious Punches Damage | 76.25%*2 |\n| Cooldown | 0 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-strive-lions-vigor",
+      "name": "Strive: Lion's Vigor",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Attack the target, dealing Glacio damage, and receive the blessing of Lion's Vigor, which lasts for **14 **seconds.\n\nLion's Vigor\n\nLingyang's Glacio DMG Bonus is increased by **50%**;",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill Damage | 200.00% |\n| Lion's Vigor Duration | 14 |\n| Cooldown | 20 |\n| Res. Energy Cost | 125 |\n| Con. Energy Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill Damage | 272.16% |\n| Lion's Vigor Duration | 14 |\n| Cooldown | 20 |\n| Res. Energy Cost | 125 |\n| Con. Energy Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill Damage | 397.62% |\n| Lion's Vigor Duration | 14 |\n| Cooldown | 20 |\n| Res. Energy Cost | 125 |\n| Con. Energy Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-unification-of-spirits",
+      "name": "Unification of Spirits",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "Heavy Attack: Glorious Plunge\n\nWhen Lion's Spirit is full, use Heavy Attack to perform Glorious Plunge, dealing Glacio damage.\n\nMid-air Attack: Tail Strike\n\nWhen Lion's Spirit is not full, use Basic Attack after Heavy Attack to perform Tail Strike, dealing Glacio damage.\n\nStriding Lion\n\nAfter casting Heavy Attack Glorious Plunge, enter Striding Lion state; After casting Intro Skill Lion Awakens or Resonance Liberation Strive: Lion's Vigor, if Lion's Spirit is full, use Basic Attack to enter Striding Lion state.\nIn the Striding Lion state: Attacks can be launched in mid-air. If you are back on the ground, use Heavy Attack Glorious Plunge to get back in the air.\n\nLion's Spirit is continuously consumed, and the Striding Lion state ends in **5s **after Lion's Spirit runs out; If Lingyang is in the Resonance Liberation Lion's Vigor state, the consumption speed of Lion's Spirit is reduced by **50%**, extending Striding Lion state by up to **10s**.\n\nLingyang's Basic Attack is replaced with Basic Attack Feral Gyrate, which performs up to **2 **consecutive attacks, dealing Glacio damage. Lingyang's Resonance Skill is replaced with Mountain Roamer, dealing Glacio damage.\nWhen Lion's Spirit is less than **10**, use Basic Attack to perform Stormy Kicks, dealing Glacio damage; after performing Basic Attack Stormy Kicks, the Mid-air Attack Radiant Plunge becomes available. Concerto Energy is restored when Lion's Spirit is consumed.\n\nLion's Spirit\n\nLingyang can hold up to **100 **Lion's Spirit. When casting Resonance Skill Furious Punches, Lion's Spirit is restored.\nWhen casting Intro Skill Lion Awakens, Lion's Spirit is restored. When casting Resonance Liberation Strive: Lion's Vigor, Lion's Spirit is restored.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Glorious Plunge Damage | 86.70% |\n| Feral Gyrate Part 1 Damage | 43.80%*2+58.40% |\n| Feral Gyrate Part 2 Damage | 15.98%*6 |\n| Mountain Roamer Damage | 41.69%*2 |\n| Stormy Kicks Damage | 18.13%*8+96.65% |\n| Tail Strike Damage | 88.00%*2 |\n| Lion's Spirit\" Con. Energy Regen | 35 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Glorious Plunge Damage | 117.99% |\n| Feral Gyrate Part 1 Damage | 59.61%*2+79.48% |\n| Feral Gyrate Part 2 Damage | 21.75%*6 |\n| Mountain Roamer Damage | 56.73%*2 |\n| Stormy Kicks Damage | 24.67%*8+131.53% |\n| Tail Strike Damage | 119.76%*2 |\n| Lion's Spirit\" Con. Energy Regen | 35 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Glorious Plunge Damage | 172.37% |\n| Feral Gyrate Part 1 Damage | 87.08%*2+116.11% |\n| Feral Gyrate Part 2 Damage | 31.77%*6 |\n| Mountain Roamer Damage | 82.88%*2 |\n| Stormy Kicks Damage | 36.03%*8+192.15% |\n| Tail Strike Damage | 174.96%*2 |\n| Lion's Spirit\" Con. Energy Regen | 35 |"
+      }
+    },
+    {
+      "id": "inherent-skill-lions-pride",
+      "name": "Lion's Pride",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "The damage of the Intro Skill Lion Awakens is increased by **50%.**",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-diligent-practice",
+      "name": "Diligent Practice",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Under the Striding Lion state, within **3s **after each Basic Attack, the next Mountain Roamer will deal an additional Glacio damage, equal to **150% **of Mountain Roamer damage, considered as Resonance Skill damage.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-lion-awakens",
+      "name": "Lion Awakens",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Lingyang appears and deals Glacio damage.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill Damage | 50.00%*2 |\n| Con. Energy Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill Damage | 68.04%*2 |\n| Con. Energy Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill Damage | 99.41%*2 |\n| Con. Energy Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-frosty-marks",
+      "name": "Frosty Marks",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "Lingyang releases a shock wave centered on the skill target, dealing Glacio DMG equal to **587.94%** of Lingyang's ATK to targets within the range.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/lingyang/icon.webp",
+    "card": "/v1/images/characters/lingyang/card.webp",
+    "splash": "/v1/images/characters/lingyang/splash.webp",
+    "attribute": "/v1/images/characters/lingyang/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/lingyang",
+      "updatedAt": "January 6th, 2026"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Lingyang",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Lingyang/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 2160.6,
+      "atk": 91,
+      "def": 253.44
+    },
+    "50": {
+      "hp": 5368.26,
+      "atk": 231.35,
+      "def": 627.66
+    },
+    "90": {
+      "hp": 10387.5,
+      "atk": 437.5,
+      "def": 1209.98
+    }
+  }
+}

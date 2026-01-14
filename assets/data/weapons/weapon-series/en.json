@@ -1,0 +1,17 @@
+{
+  "id": "weapon-series",
+  "name": "Weapon Series",
+  "rarity": null,
+  "type": null,
+  "secondaryStatType": null,
+  "passive": null,
+  "images": {
+    "icon": "/v1/images/weapons/weapon-series/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Weapon%20Series"
+    }
+  },
+  "lastUpdated": "2026-01-14"
+}

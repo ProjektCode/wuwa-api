@@ -1,0 +1,139 @@
+{
+  "id": "lumi",
+  "name": "Lumi",
+  "rarity": 4,
+  "element": "Electro",
+  "weaponType": "Broadblade",
+  "skills": [
+    {
+      "id": "basic-attack-navigation-support",
+      "name": "Navigation Support",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Yellow Light: Basic Attack**\n\nSummon Squeakie to shoot three shots in a row, dealing Electro DMG.\n\n**Yellow Light: Sprint **\n\nDodge to perform Sprint and enter Zoom Mode. Lumi is unable to Dodge when performing Sprint.\n\n**Yellow Light: Zoom**\n\nWhen in this state, automatically shoot Glitters at a locked-on target and deal Electro DMG, considered Basic Attack DMG.\n\n**Yellow Light: Plunging Attack**\n\nConsume STA to perform a Plunging Attack, dealing Electro DMG.\n\n**Red Light: Basic Attack**\n\nPerform up to **3** consecutive attacks, dealing Electro DMG.\n\n**Red Light: Heavy Attack**\n\nConsume STA to strike the ground with Squeakie, causing an impact dealing Electro DMG, considered Basic Attack DMG.\n\n**Red Light: Plunging Attack**\n\nConsume STA to perform a Plunging Attack, dealing Electro DMG.\n\n**Red Light: Dodge Counter**\n\nUse Basic Attack right after a successful Dodge to attack the target, dealing Electro DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Yellow Light: Basic Attack | 16.00%*3 |\n| Glitter | 32.00% |\n| Yellow Light: Plunging Attack | 48.00% |\n| Red Light: Basic Attack 1 DMG | 45.60% |\n| Red Light: Basic Attack 2 DMG | 54.15% + 10.83%*5 |\n| Red Light: Basic Attack 3 DMG | 32.49% + 75.81% |\n| Red Light: Heavy Attack DMG | 33.25%*2 |\n| Red Light: Plunging Attack DMG | 57.00% |\n| Red Light: Dodge Counter DMG | 84.15% + 16.83%*5 |\n| Yellow Light: Plunging Attack STA Cost | 30 |\n| Red Light: Heavy Attack STA Cost | 25 |\n| Red Light: Plunging Attack STA Cost | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Yellow Light: Basic Attack | 21.78%*3 |\n| Glitter | 43.55% |\n| Yellow Light: Plunging Attack | 65.32% |\n| Red Light: Basic Attack 1 DMG | 62.06% |\n| Red Light: Basic Attack 2 DMG | 73.69% + 14.74%*5 |\n| Red Light: Basic Attack 3 DMG | 44.22% + 103.17% |\n| Red Light: Heavy Attack DMG | 45.25%*2 |\n| Red Light: Plunging Attack DMG | 77.57% |\n| Red Light: Dodge Counter DMG | 114.52% + 22.91%*5 |\n| Yellow Light: Plunging Attack STA Cost | 30 |\n| Red Light: Heavy Attack STA Cost | 25 |\n| Red Light: Plunging Attack STA Cost | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Yellow Light: Basic Attack | 31.81%*3 |\n| Glitter | 63.62% |\n| Yellow Light: Plunging Attack | 95.43% |\n| Red Light: Basic Attack 1 DMG | 90.66% |\n| Red Light: Basic Attack 2 DMG | 107.66% + 21.54%*5 |\n| Red Light: Basic Attack 3 DMG | 64.60% + 150.72% |\n| Red Light: Heavy Attack DMG | 66.11%*2 |\n| Red Light: Plunging Attack DMG | 113.33% |\n| Red Light: Dodge Counter DMG | 167.30% + 33.46%*5 |\n| Yellow Light: Plunging Attack STA Cost | 30 |\n| Red Light: Heavy Attack STA Cost | 25 |\n| Red Light: Plunging Attack STA Cost | 30 |"
+      }
+    },
+    {
+      "id": "resonance-skill-searchlight-service",
+      "name": "Searchlight Service",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "**Pounce**\n\nWhen in Yellow Light Mode, use Resonance Skill to perform Pounce, which consumes STA to pounce on the target before switching to Red Light Mode.\n\nLumi will perform a Pounce without STA cost when switched onto the field.\n\n**Rebound**\n\nWhen in Red Light Mode, use Resonance Skill to perform Rebound, which consumes STA to leap backward and attack the target before switching to Yellow Light Mode.\n\n**Yellow Light Mode**\n\nPerform ranged attacks when in Yellow Light Mode.\n\n**Red Light Mode**\n\nPerform melee attacks when in Red Light Mode.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Pounce DMG | 91.20% |\n| Rebound DMG | 87.40% |\n| Pounce STA Cost | 30 |\n| Rebound STA Cost | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Pounce DMG | 124.11% |\n| Rebound DMG | 118.94% |\n| Pounce STA Cost | 30 |\n| Rebound STA Cost | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Pounce DMG | 181.32% |\n| Rebound DMG | 173.76% |\n| Pounce STA Cost | 30 |\n| Rebound STA Cost | 30 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-squeakie-express",
+      "name": "Squeakie Express",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Throw the giant Squeakie at the target, dealing Electro DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 480.00% |\n| Cooldown | 20 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 653.19% |\n| Cooldown | 20 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 954.29% |\n| Cooldown | 20 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-signal-light",
+      "name": "Signal Light",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "**Energized Pounce**\n\nWhen Yellow Light Spark is fully recovered, replace Resonance Skill with Resonance Skill Energized Pounce that deals Electro DMG and enter Red Spotlight Mode. The DMG dealt is considered Basic Attack DMG.\n\nWhen in Red Spotlight Mode, the DMG Multiplier of Red Light: Basic Attack and Red Light: Heavy Attack is increased, with an extra amount of Sparks recovered.\n\nRed Spotlight Mode ends after performing altogether **4** Basic Attacks and/or Heavy Attacks.\n\n**Energized Rebound**\n\nWhen Red Light Spark is fully recovered, replace Resonance Skill with Resonance Skill Energized Rebound that deals Electro DMG and enter Yellow Spotlight Mode. The DMG dealt is considered Basic Attack DMG.\n\nWhen in Yellow Spotlight Mode, Glitter is replaced by Glare, with an increased DMG Multiplier and an extra amount of Sparks recovered.\n\nYellow Spotlight Mode ends after shooting **6 **Glares.\n\n**Laser**\n\nCasting Outro Skill consumes all Sparks obtained in the current mode.\n\nLaser can be cast when the amount of consumed Sparks is greater than or equal to **25**, dealing Electro DMG. The DMG dealt is considered Basic Attack DMG. \n\nEvery **25 **Sparks consumed generates **1 **extra Laser beam, up to **4 **Laser beams.\n\n**Yellow Light Spark**\n\nLumi can hold up to **100 **Yellow Light Sparks.\n\nLumi obtains Yellow Light Spark under the following conditions: \n\n- When Yellow Light: Basic Attack hits the target;\n  When Glitter hits the target;\n- When Glare hits the target;\n- When Resonance Skill Energized Rebound hits the target;\n- When casting Intro Skill Sepcial Delivery.\n\n**Red Light Spark**\n\nLumi can hold up to **100 **Red Light Sparks.\n\nLumi obtains Red Light Spark under the following conditions:\n\n- When Normal Attack Navigation Support hits the target in Red Light Mode or Red Spotlight Mode.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Glare DMG | 41.00% |\n| Red Spotlight: Basic Attack 1 DMG | 60.48% |\n| Red Spotlight: Basic Attack 2 DMG | 69.57% + 13.92%*5 |\n| Red Spotlight: Basic Attack 3 DMG | 47.15% + 110.00% |\n| Red Spotlight: Heavy Attack DMG | 44.35%*2 |\n| Energized Pounce DMG | 92.20%*2 |\n| Energized Rebound DMG | 126.60% |\n| Single Laser Beam DMG | 37.50% |\n| Energized Pounce Concerto Regen | 12 |\n| Energized Rebound Concerto Regen | 12 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Glare DMG | 55.80% |\n| Red Spotlight: Basic Attack 1 DMG | 82.31% |\n| Red Spotlight: Basic Attack 2 DMG | 94.68% + 18.94%*5 |\n| Red Spotlight: Basic Attack 3 DMG | 64.16% + 149.69% |\n| Red Spotlight: Heavy Attack DMG | 60.36%*2 |\n| Energized Pounce DMG | 125.47%*2 |\n| Energized Rebound DMG | 172.28% |\n| Single Laser Beam DMG | 51.03% |\n| Energized Pounce Concerto Regen | 12 |\n| Energized Rebound Concerto Regen | 12 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Glare DMG | 81.52% |\n| Red Spotlight: Basic Attack 1 DMG | 120.25% |\n| Red Spotlight: Basic Attack 2 DMG | 138.32% + 27.67%*5 |\n| Red Spotlight: Basic Attack 3 DMG | 93.73% + 218.69% |\n| Red Spotlight: Heavy Attack DMG | 88.18%*2 |\n| Energized Pounce DMG | 183.31%*2 |\n| Energized Rebound DMG | 251.70% |\n| Single Laser Beam DMG | 74.56% |\n| Energized Pounce Concerto Regen | 12 |\n| Energized Rebound Concerto Regen | 12 |"
+      }
+    },
+    {
+      "id": "inherent-skill-pathfinding",
+      "name": "Pathfinding",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Gain **10%** Electro DMG Bonus when in Red Light Mode.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-expediting",
+      "name": "Expediting",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Casting Energized Pounce or Energized Rebound increases ATK by **10%** for **5s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-special-delivery",
+      "name": "Special Delivery",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Enter Yellow Light Mode and attack the target, dealing Electro DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 28.34%*3 |\n| Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 38.56%*3 |\n| Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 56.33%*3 |\n| Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-escorting",
+      "name": "Escorting",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "The incoming Resonator has their Resonance Skill DMG Amplified by **38% **for **10s **or until they are switched out.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/lumi/icon.webp",
+    "card": "/v1/images/characters/lumi/card.webp",
+    "splash": "/v1/images/characters/lumi/splash.webp",
+    "attribute": "/v1/images/characters/lumi/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/lumi",
+      "updatedAt": "December 31st, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Lumi",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Lumi/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 1768,
+      "atk": 70.2,
+      "def": 184.32
+    },
+    "50": {
+      "hp": 4392.8,
+      "atk": 178.47,
+      "def": 456.48
+    },
+    "90": {
+      "hp": 8500,
+      "atk": 337.5,
+      "def": 879.98
+    }
+  }
+}

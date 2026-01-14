@@ -1,0 +1,139 @@
+{
+  "id": "phrolova",
+  "name": "Phrolova",
+  "rarity": 5,
+  "element": "Havoc",
+  "weaponType": "Rectifier",
+  "skills": [
+    {
+      "id": "basic-attack-movement-of-life-and-death",
+      "name": "Movement of Life and Death",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack**\n\nPerform up to **3** consecutive attacks, dealing Havoc DMG.\n\nWhen performing Basic Attack Stage 3, enter Reincarnate state.\n\n**Heavy Attack**\n\nConsume STA to attack the target, dealing Havoc DMG.\n\nPress Normal Attack shortly after casting this skill to cast Basic Attack Stage 2.\n\n**Scarlet Coda**\n\nPhrolova enters the Compose state every **25s**.\n\nWhen the following **3** conditions are met, Heavy Attack is replaced with Scarlet Coda.\n\n- Has **6** Volatile Notes.\n- In the Compose state.\n- Not in the Resolving Chord state.\n\nScarlet Coda: Consume STA to deal Havoc DMG, Stagnating and pulling in nearby targets. This instance of damage is considered Resonance Skill DMG.\n\nEach stack of Aftersound additionally increases the DMG Multiplier of this instance of damage.\n\nCasting this skill is considered as casting Echo Skill.\n\nCasting this skill sends Compose state into cooldown and activates the Resolving Chord state.\n\n**Mid-air Attack**\n\nConsume STA to perform a Plunging Attack, dealing Havoc DMG.\n\n**Dodge Counter**\n\nPress Normal Attack after a successful Dodge to attack the target, dealing Havoc DMG.\n\nPress Normal Attack shortly after casting this skill to cast Basic Attack Stage 3.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 26.88%*2 |\n| Stage 2 DMG | 48.00% |\n| Stage 3 DMG | 16.44%*6 |\n| Heavy Attack DMG | 40.16%*2 |\n| Scarlet Coda DMG | 16.61%*2+6.23%*8+249.03% |\n| DMG Multiplier Increase per Aftersound | 41.53% |\n| Mid-air Attack DMG | 64.00% |\n| Dodge Counter DMG | 61.36% |\n| Scarlet Coda Concerto Regen | 40 |\n| Heavy Attack STA Cost | 25 |\n| Scarlet Coda STA Cost | 25 |\n| Mid-air Attack STA Cost | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 36.58%*2 |\n| Stage 2 DMG | 65.32% |\n| Stage 3 DMG | 22.38%*6 |\n| Heavy Attack DMG | 54.65%*2 |\n| Scarlet Coda DMG | 22.60%*2+8.48%*8+338.89% |\n| DMG Multiplier Increase per Aftersound | 56.50% |\n| Mid-air Attack DMG | 87.10% |\n| Dodge Counter DMG | 83.50% |\n| Scarlet Coda Concerto Regen | 40 |\n| Heavy Attack STA Cost | 25 |\n| Scarlet Coda STA Cost | 25 |\n| Mid-air Attack STA Cost | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 53.45%*2 |\n| Stage 2 DMG | 95.43% |\n| Stage 3 DMG | 32.69%*6 |\n| Heavy Attack DMG | 79.85%*2 |\n| Scarlet Coda DMG | 33.01%*2+12.38%*8+495.10% |\n| DMG Multiplier Increase per Aftersound | 82.55% |\n| Mid-air Attack DMG | 127.24% |\n| Dodge Counter DMG | 121.99% |\n| Scarlet Coda Concerto Regen | 40 |\n| Heavy Attack STA Cost | 25 |\n| Scarlet Coda STA Cost | 25 |\n| Mid-air Attack STA Cost | 30 |"
+      }
+    },
+    {
+      "id": "resonance-skill-whispers-in-a-fleeting-dream",
+      "name": "Whispers in a Fleeting Dream",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "Attack the target and deal Havoc DMG.\n\nCasting this skill sends Phrolova into Reincarnate.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 53.30%*2 |\n| Cooldown | 12 |\n| Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 72.54%*2 |\n| Cooldown | 12 |\n| Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 105.97%*2 |\n| Cooldown | 12 |\n| Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-waltz-of-forsaken-depths",
+      "name": "Waltz of Forsaken Depths",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "**Waltz of Forsaken Depths**\n\nPhrolova's max Resonance Energy is **0**. Waltz of Forsaken Depths does not consume Resonance Energy.\n\nWhen in the Resolving Chord state, Waltz of Forsaken Depths becomes available.\n\nCasting this skill ends the Resolving Chord state, and Phrolova enters the Maestro state for **24s**.\n\n**Maestro**\n\nGain **120%** ATK increase.\n\nPhrolova floats in the air and commands Hecate to fight. Hecate will share Phrolova's stats and statuses, and damage dealt by Hecate will be considered coming from Phrolova. Hecate's attacks will not remove the target's Hazy Dream state.\n\nDuring this period, Phrolova plays the Volatile Notes in turn. Each Volatile Note holds for **4s**.\n\nIf Phrolova is the active Resonator on the field, she can give the following cues to Hecate. Any damage taken by Hecate in this state affects Phrolova as well.\n\n- **Cue - Basic Attack**: Press Normal Attack to command Hecate to cast Basic Attack - Hecate. When Phrolova is the active Resonator on the field, for every **2** times Hecate casts Basic Attack - Hecate, the next Basic Attack - Hecate is replaced with Enhanced Attack - Hecate.\n- **Cue - Dodge**: Press Dodge to command Hecate to dodge an attack. Hecate takes no damage from a hit successfully Dodged.\n- **Cue - Reset**: Press Jump to reset Hecate's position.\n- Cu**e - Curtain Call**: Press Resonance Liberation to command Hecate to cast Curtain Call and end the Maestro state.\n\nWhen Phrolova is not the active Resonator, Hecate takes no damage and automatically casts Basic Attack - Hecate to attack the target. When Resonators in the team cast Echo Skill, Hecate casts Enhanced Attack - Hecate to attack the target. This effect can be triggered up to **10 **times in total during Phrolova's Maestro state. Echoes of the same name can trigger this effect **1 **times.\n\nSwitching back to Phrolova ends Maestro state.\n\nEnding Maestro state removes all Volatile Notes.\n\n**Basic Attack - Hecate**\n\nPerform up to 2 consecutive attacks, dealing Havoc DMG (considered Echo Skill DMG).\n\n**Enhanced Attack - Hecate: Strings**\n\nWhen Phrolova plays Volatile Note - Strings, Hecate casts Enhanced Attack - Hecate: Strings when casting Enhanced Attack - Hecate, dealing Havoc DMG and Stagnating the targets (considered Echo Skill DMG).\n\n**Enhanced Attack - Hecate: Winds**\n\nWhen Phrolova plays Volatile Note - Winds, Hecate casts Enhanced Attack - Hecate: Winds when casting Enhanced Attack - Hecate, dealing Havoc DMG, pulling the targets in (considered Echo Skill DMG).\n\n**Enhanced Attack - Hecate: Cadenza**\n\nWhen Phrolova plays Volatile Note - Cadenza, Hecate casts Enhanced Attack - Hecate: Cadenza when casting Enhanced Attack - Hecate, dealing Havoc DMG, Stagnating and pulling the targets in (considered Echo Skill DMG).\n\n**Curtain Call**\n\nCurtain Call can be cast via the following 5 ways, Stagnating the targets and dealing Havoc DMG.\n\n- When Phrolova is the active Resonator on the field, end the Maestro state.\n- When Phrolova is in the Maestro state, switch to Phrolova without casting Intro Skill.\n- When Phrolova is not the active Resonator and the Maestro state ends, switch to Phrolova without casting Intro Skill.\n- When Phrolova is in the Maestro state, press Resonance Liberation.\n- When Phrolova is in the Resolving Chord state, hold Resonance Liberation.\n\nWhen in Resolving Chord state, casting Curtain Call removes all Volatile Notes and ends the Resolving Chord state.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Basic Attack - Hecate Stage 1 DMG | 14.00% |\n| Basic Attack - Hecate Stage 2 DMG | 7.00%*2 |\n| Enhanced Attack - Hecate: Strings DMG | 52.50%+122.50% |\n| Enhanced Attack - Hecate: Winds DMG | 49.88%+116.38% |\n| Enhanced Attack - Hecate: Cadenza DMG | 52.50%+122.50% |\n| Curtain Call DMG | 234.00% |\n| Waltz of Forsaken Depths Concerto Regen | 20 |\n| Waltz of Forsaken Depths Duration | 24s |",
+        "5": "| Name | Value |\n| --- | --- |\n| Basic Attack - Hecate Stage 1 DMG | 19.06% |\n| Basic Attack - Hecate Stage 2 DMG | 9.53%*2 |\n| Enhanced Attack - Hecate: Strings DMG | 71.45%+166.70% |\n| Enhanced Attack - Hecate: Winds DMG | 67.87%+158.37% |\n| Enhanced Attack - Hecate: Cadenza DMG | 71.45%+166.70% |\n| Curtain Call DMG | 318.43% |\n| Waltz of Forsaken Depths Concerto Regen | 20 |\n| Waltz of Forsaken Depths Duration | 24s |",
+        "10": "| Name | Value |\n| --- | --- |\n| Basic Attack - Hecate Stage 1 DMG | 27.84% |\n| Basic Attack - Hecate Stage 2 DMG | 13.92%*2 |\n| Enhanced Attack - Hecate: Strings DMG | 104.38%+243.55% |\n| Enhanced Attack - Hecate: Winds DMG | 99.16%+231.37% |\n| Enhanced Attack - Hecate: Cadenza DMG | 104.38%+243.55% |\n| Curtain Call DMG | 465.22% |\n| Waltz of Forsaken Depths Concerto Regen | 20 |\n| Waltz of Forsaken Depths Duration | 24s |"
+      }
+    },
+    {
+      "id": "forte-circuit-rhapsody-of-a-new-world",
+      "name": "Rhapsody of a New World",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "**Basic Attack - Movement of Fate and Finality**\n\nWhen in Reincarnate, press Normal Attack on the ground to cast Movement of Fate and Finality, which Stagnates the target, dealing Havoc DMG (considered Resonance Skill DMG) and ending Reincarnate afterward.\n\n**Resonance Skill - Murmurs in a Haunting Dream**\n\nWhen in Reincarnate, press Resonance Skill on the ground to cast Murmurs in a Haunting Dream, dealing Havoc DMG (considered Resonance Skill DMG) and ending Reincarnate afterward.\n\n**Aftersound**\n\nPhrolova can hold up to **24 **stacks of Aftersound.\n\nWhen Phrolova is not the active Resonator, casting Enhanced Attack - Hecate: Strings, Enhanced Attack - Hecate: Winds, and Enhanced Attack - Hecate: Cadenza grants **1** stacks of Aftersound.\n\nWhen Phrolova is out of combat, all stacks of Aftersound are removed every **30s**.\n\n**Volatile Note**\n\nPhrolova can hold up to **6 **Volatile Notes. When Volatile Notes reach the max number, gaining new Volatile Notes moves all Volatile Notes one slot to the left, and the leftmost Volatile Note - Strings or Volatile Note - Winds will be removed.\n\nHitting a target with Basic Attack Stage 3 or Movement of Fate and Finality grants **1 **Volatile Note - Strings.\n\nHitting a target with Resonance Skill Whispers in a Fleeting Dream or Resonance Skill Murmurs in a Haunting Dream grants **1 **Volatile Note - Winds.\n\nWhen Inherent Skill - Accidental is activated, casting Suite of Quietus, Suite of Immortality, or Echo Skill grants **1 **Volatile Note - Cadenza.\n\nPhrolova cannot obtain Volatile Notes during Resolving Chord.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Movement of Fate and Finality DMG | 19.05%*4+59.27%*3 |\n| Murmurs in a Haunting Dream DMG | 11.67%*4+23.34%+163.38% |",
+        "5": "| Name | Value |\n| --- | --- |\n| Movement of Fate and Finality DMG | 25.93%*4+80.66%*3 |\n| Murmurs in a Haunting Dream DMG | 15.89%*4+31.77%+222.33% |",
+        "10": "| Name | Value |\n| --- | --- |\n| Movement of Fate and Finality DMG | 37.88%*4+117.83%*3 |\n| Murmurs in a Haunting Dream DMG | 23.21%*4+46.41%+324.82% |"
+      }
+    },
+    {
+      "id": "inherent-skill-accidental",
+      "name": "Accidental",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Casting Echo Skill grants increased resistance to interruption and reduces damage taken by **30%** for **15s**.\n\nAfter casting Suite of Quietus, Suite of Immortality, and Echo Skill, the next Volatile Note becomes Volatile Note - Cadenza.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-octet",
+      "name": "Octet",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Obtain **10 **stacks of Aftersound upon entering battle. This effect cannot be triggered again within **4s **after exiting the combat state. For every **1 **stacks of Aftersound, Crit. DMG is increased by **2.5%**.\n\nWhen Aftersound reaches the max, each new stack of Aftersound increases Phrolova's Crit. DMG by** 1%**, up to **100%**. The increased Crit. DMG is removed when Aftersound stacks are cleared.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-suite-of-quietus",
+      "name": "Suite of Quietus",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "**Suite of Quietus**\n\nAttack the target, dealing Havoc DMG.\n\nPress Normal Attack shortly after casting this skill to cast Basic Attack Stage 3.\n\n**Suite of Immortality**\n\nWhen in the Maestro state, the next Suite of Quietus is replaced with Suite of Immortality. This replacement is cancelled if Curtain Call is cast while in this state. Suite of Immortality deals Havoc DMG (considered Resonance Skill DMG) and Stagnates the target.\n\nPress Normal Attack shortly after casting this skill to cast Basic Attack Stage 3.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Suite of Quietus DMG | 40.55%+60.82% |\n| Suite of Immortality DMG | 300.00% |\n| Suite of Quietus Concerto Regen | 10 |\n| Suite of Immortality Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Suite of Quietus DMG | 55.18%+82.76% |\n| Suite of Immortality DMG | 408.24% |\n| Suite of Quietus Concerto Regen | 10 |\n| Suite of Immortality Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Suite of Quietus DMG | 80.61%+120.91% |\n| Suite of Immortality DMG | 596.43% |\n| Suite of Quietus Concerto Regen | 10 |\n| Suite of Immortality Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-unfinished-piece",
+      "name": "Unfinished Piece",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "The incoming Resonator gains **20% **Havoc DMG Amplification and** 25%** Heavy Attack DMG Amplification for 14s or until they are switched out.\n\nIf Phrolova is in Maestro state when she casts this skill, Hecate additionally casts Enhanced Attack - Hecate **2** times when Phrolova is switched off the field while in the same Maestro state duration.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/phrolova/icon.webp",
+    "card": "/v1/images/characters/phrolova/card.webp",
+    "splash": "/v1/images/characters/phrolova/splash.webp",
+    "attribute": "/v1/images/characters/phrolova/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/phrolova",
+      "updatedAt": "January 6th, 2026"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Phrolova",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Phrolova/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 2241.2,
+      "atk": 91,
+      "def": 238.08
+    },
+    "50": {
+      "hp": 5568.52,
+      "atk": 231.35,
+      "def": 589.62
+    },
+    "90": {
+      "hp": 10775,
+      "atk": 437.5,
+      "def": 1136.65
+    }
+  }
+}

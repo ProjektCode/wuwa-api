@@ -1,0 +1,37 @@
+{
+  "id": "autumntrace",
+  "name": "Autumntrace",
+  "rarity": 4,
+  "type": "Broadblade",
+  "secondaryStatType": "Crit. Rate",
+  "passive": {
+    "name": "Edge Direction",
+    "descriptionMdByRank": {
+      "1": "Increases ATK by **4%** upon dealing Basic Attack DMG or Heavy Attack DMG, stacking up to 5 time(s). This effect lasts for 7s and can be triggered 1 time(s) every 1s..",
+      "2": "Increases ATK by **6.2%** upon dealing Basic Attack DMG or Heavy Attack DMG, stacking up to 5 time(s). This effect lasts for 7s and can be triggered 1 time(s) every 1s..",
+      "3": "Increases ATK by **8.4%** upon dealing Basic Attack DMG or Heavy Attack DMG, stacking up to 5 time(s). This effect lasts for 7s and can be triggered 1 time(s) every 1s..",
+      "4": "Increases ATK by **10.6%** upon dealing Basic Attack DMG or Heavy Attack DMG, stacking up to 5 time(s). This effect lasts for 7s and can be triggered 1 time(s) every 1s..",
+      "5": "Increases ATK by **12.8%** upon dealing Basic Attack DMG or Heavy Attack DMG, stacking up to 5 time(s). This effect lasts for 7s and can be triggered 1 time(s) every 1s.."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/autumntrace/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Autumntrace"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 85
+    },
+    "50": {
+      "atk": 213
+    },
+    "90": {
+      "atk": 412
+    }
+  }
+}

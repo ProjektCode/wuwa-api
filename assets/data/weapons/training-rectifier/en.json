@@ -1,0 +1,26 @@
+{
+  "id": "training-rectifier",
+  "name": "Training Rectifier",
+  "rarity": 1,
+  "type": "Rectifier",
+  "secondaryStatType": "ATK",
+  "passive": {
+    "name": "Persevere",
+    "descriptionMdByRank": {
+      "1": "Increases ATK by **4%**.",
+      "2": "Increases ATK by **5%**.",
+      "3": "Increases ATK by **6%**.",
+      "4": "Increases ATK by **7%**.",
+      "5": "Increases ATK by **8%**."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/training-rectifier/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Training%20Rectifier"
+    }
+  },
+  "lastUpdated": "2026-01-14"
+}

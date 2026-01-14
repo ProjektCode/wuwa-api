@@ -1,0 +1,37 @@
+{
+  "id": "cadenza",
+  "name": "Cadenza",
+  "rarity": 4,
+  "type": "Pistols",
+  "secondaryStatType": "Energy Regen",
+  "passive": {
+    "name": "Ceaseless Aria",
+    "descriptionMdByRank": {
+      "1": "When Resonance Skill is released, restores Concerto Energy by **8**. This effect can be triggered 1 time every 20s.",
+      "2": "When Resonance Skill is released, restores Concerto Energy by **10**. This effect can be triggered 1 time every 20s.",
+      "3": "When Resonance Skill is released, restores Concerto Energy by **12**. This effect can be triggered 1 time every 20s.",
+      "4": "When Resonance Skill is released, restores Concerto Energy by **14**. This effect can be triggered 1 time every 20s.",
+      "5": "When Resonance Skill is released, restores Concerto Energy by **16**. This effect can be triggered 1 time every 20s."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/cadenza/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Cadenza"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 70
+    },
+    "50": {
+      "atk": 174
+    },
+    "90": {
+      "atk": 337
+    }
+  }
+}

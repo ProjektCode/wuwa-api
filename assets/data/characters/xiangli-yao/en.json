@@ -1,0 +1,139 @@
+{
+  "id": "xiangli-yao",
+  "name": "Xiangli Yao",
+  "rarity": 5,
+  "element": "Electro",
+  "weaponType": "Gauntlets",
+  "skills": [
+    {
+      "id": "basic-attack-probe",
+      "name": "Probe",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack**\n\nPerform up to **5 **consecutive attacks, dealing Electro DMG.\n\n**Heavy Attack**\n\nPerform a charged attack at the cost of STA, dealing Electro DMG.\n\n**Mid-air Attack**\n\nPerform a Plunging Attack from mid-air at the cost of STA, dealing Electro DMG.\n\n**Dodge Counter**\n\nUse Basic Attack after a successful Dodge to attack the target, dealing Electro DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 16.65%*2 |\n| Stage 2 DMG | 50.10% |\n| Stage 3 DMG | 20.00%*3 |\n| Stage 4 DMG | 26.68%*2 + 13.34% |\n| Stage 5 DMG | 100.00% |\n| HA DMG | 41.65%*2 |\n| Mid-air Attack DMG | 62.00% |\n| Dodge Counter DMG | 120.00% |\n| HA STA Cost | 25 |\n| Mid-air Attack STA Cost | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 22.66%*2 |\n| Stage 2 DMG | 68.18% |\n| Stage 3 DMG | 27.22%*3 |\n| Stage 4 DMG | 36.31%*2 + 18.16% |\n| Stage 5 DMG | 136.08% |\n| HA DMG | 56.68%*2 |\n| Mid-air Attack DMG | 84.37% |\n| Dodge Counter DMG | 163.30% |\n| HA STA Cost | 25 |\n| Mid-air Attack STA Cost | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 33.11%*2 |\n| Stage 2 DMG | 99.61% |\n| Stage 3 DMG | 39.76%*3 |\n| Stage 4 DMG | 53.05%*2 + 26.53% |\n| Stage 5 DMG | 198.81% |\n| HA DMG | 82.81%*2 |\n| Mid-air Attack DMG | 123.27% |\n| Dodge Counter DMG | 238.58% |\n| HA STA Cost | 25 |\n| Mid-air Attack STA Cost | 30 |"
+      }
+    },
+    {
+      "id": "resonance-skill-deduction",
+      "name": "Deduction",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "Attack the target, dealing Electro DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 100.00% |\n| Cooldown | 5 |\n| Concerto Regen | 7 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 136.08% |\n| Cooldown | 5 |\n| Concerto Regen | 7 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 198.81% |\n| Cooldown | 5 |\n| Concerto Regen | 7 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-cogitation-model",
+      "name": "Cogitation Model",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Attack the target, dealing Electro DMG. Enter Intuition.\nWhen in Intuition:\n\n- Obtain **3** Hypercube(s). Each time Resonance Skill Law of Reigns is cast, consume **1** Hypercube(s). Intuition ends once all Hypercubes are consumed.\n- Basic Attack and Heavy Attack are replaced with Basic Attack Pivot - Impale, which performs up to **3** consecutive attacks, dealing Electro DMG.\n- Resonance Skill Deduction is replaced with Resonance Skill Divergence, which deals Electro DMG.\n- Dodge Counter is replaced with Dodge Counter Unfathomed, considered as Resonance Liberation DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Cogitation Model DMG | 737.42% |\n| Pivot - Impale Stage 1 DMG | 60.19% |\n| Pivot - Impale Stage 2 DMG | 30.65%*4 |\n| Pivot - Impale Stage 3 DMG | 67.03%*2 |\n| Divergence DMG | 24.94%*3 + 87.29%*2 |\n| Unfathomed DMG | 19.53%*2 + 156.22% |\n| Intuition Duration | 24 |\n| Cogitation Model Cooldown | 25 |\n| Divergence Cooldown | 7 |\n| Resonance Cost | 125 |\n| Cogitation Model Concerto Regen | 20 |\n| Divergence Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Cogitation Model DMG | 1003.48% |\n| Pivot - Impale Stage 1 DMG | 81.91% |\n| Pivot - Impale Stage 2 DMG | 41.70%*4 |\n| Pivot - Impale Stage 3 DMG | 91.21%*2 |\n| Divergence DMG | 33.94%*3 + 118.79%*2 |\n| Unfathomed DMG | 26.58%*2 + 212.58% |\n| Intuition Duration | 24 |\n| Cogitation Model Cooldown | 25 |\n| Divergence Cooldown | 7 |\n| Resonance Cost | 125 |\n| Cogitation Model Concerto Regen | 20 |\n| Divergence Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Cogitation Model DMG | 1466.06% |\n| Pivot - Impale Stage 1 DMG | 119.67% |\n| Pivot - Impale Stage 2 DMG | 60.92%*4 |\n| Pivot - Impale Stage 3 DMG | 133.25%*2 |\n| Divergence DMG | 49.59%*3 + 173.55%*2 |\n| Unfathomed DMG | 38.83%*2 + 310.58% |\n| Intuition Duration | 24 |\n| Cogitation Model Cooldown | 25 |\n| Divergence Cooldown | 7 |\n| Resonance Cost | 125 |\n| Cogitation Model Concerto Regen | 20 |\n| Divergence Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "forte-circuit-forever-seeking",
+      "name": "Forever Seeking",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "**Resonance Skill - Decipher**\n\nWhen Capacity reaches **100**, Resonance Skill Deduction is replaced with Resonance Skill Decipher.\n\nConsume **100 **Capacity to cast Resonance Skill Decipher, dealing Electro DMG, considered as Resonance Liberation DMG.\n\n**Resonance Skill - Law of Reigns**\n\nWhen in Intuition triggered by Resonance Liberation and Performance Capacity reaches **5**, Resonance Skill Divergence is replaced with Resonance Skill Law of Reigns.\n\nConsume **5 **Performance Capacity to cast Resonance Skill Law of Reigns, dealing Electro DMG, considered as Resonance Liberation DMG.\n\n**Mid-air Attack - Revamp**\n\nShortly after casting Resonance Skill Decipher or Resonance Skill Divergence, use Basic Attack to perform Mid-air Attack Revamp at the cost of STA, dealing Electro DMG, considered as Resonance Liberation DMG.\n\n**Capacity**\n\nXiangli Yao can hold up to **100 **Capacity.\n\nEvery Normal Attack Probe on hit grants Capacity.\n\nEvery Resonance Skill Deduction on hit grants Capacity.\n\n**Performance Capacity**\n\nXiangli Yao can hold up to **5** Performance Capacity.\n\nWhen in Intuition triggered by Resonance Liberation:\n\n- Obtain **1** Performance Capacity when Stage 1 of Basic Attack Pivot - Impale hits a target.\n- Obtain **2** Performance Capacity when Stage 2 or 3 of Basic Attack Pivot - Impale hits a target.\n- Obtain **2 **Performance Capacity for every Resonance Skill Divergence on hit.\n- Obtain **3** Performance Capacity for every Mid-air Attack Revamp on hit.\n- Obtain** 2** Performance Capacity for every Dodge Counter Unfathomed on hit.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Decipher DMG | 200.10% |\n| Law of Reigns DMG | 48.15%*4 + 128.40% |\n| Revamp DMG | 11.00%*4 + 33.00%*2 |\n| Revamp STA Cost | 30 |\n| Decipher Concerto Regen | 7 |\n| Law of Reigns Concerto Regen | 10 |\n| Revamp Concerto Regen | 5 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Decipher DMG | 272.30% |\n| Law of Reigns DMG | 65.53%*4 + 174.73% |\n| Revamp DMG | 14.97%*4 + 44.91%*2 |\n| Revamp STA Cost | 30 |\n| Decipher Concerto Regen | 7 |\n| Law of Reigns Concerto Regen | 10 |\n| Revamp Concerto Regen | 5 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Decipher DMG | 397.82% |\n| Law of Reigns DMG | 95.73%*4 + 255.28% |\n| Revamp DMG | 21.87%*4 + 65.61%*2 |\n| Revamp STA Cost | 30 |\n| Decipher Concerto Regen | 7 |\n| Law of Reigns Concerto Regen | 10 |\n| Revamp Concerto Regen | 5 |"
+      }
+    },
+    {
+      "id": "inherent-skill-knowing",
+      "name": "Knowing",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Gain **5%** Electro DMG Bonus after casting Resonance Skill for **8s**, stackable for up to **4 **times.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-focus",
+      "name": "Focus",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "When in Intuition triggered by Resonance Liberation, Xiangli Yao's resistance to interruption is enhanced.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-principle",
+      "name": "Principle",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target, dealing Electro DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 50.00%*2 |\n| Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 68.04%*2 |\n| Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 99.41%*2 |\n| Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-chain-rule",
+      "name": "Chain Rule",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "Xiangli Yao will call down a laser beam upon the first target the incoming Resonator's Basic Attack hits, dealing Electro DMG equal to **237.63%** of Xiangli Yao's ATK to an area. This effect lasts for **8s **and can be triggered once every **2s**, up to **3** times.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/xiangli-yao/icon.webp",
+    "card": "/v1/images/characters/xiangli-yao/card.webp",
+    "splash": "/v1/images/characters/xiangli-yao/splash.webp",
+    "attribute": "/v1/images/characters/xiangli-yao/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/xiangli-yao",
+      "updatedAt": "January 6th, 2026"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Xiangli%20Yao",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Xiangli%20Yao/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 2210,
+      "atk": 88.4,
+      "def": 256
+    },
+    "50": {
+      "hp": 5491,
+      "atk": 224.74,
+      "def": 634
+    },
+    "90": {
+      "hp": 10625,
+      "atk": 425,
+      "def": 1222.2
+    }
+  }
+}

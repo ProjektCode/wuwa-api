@@ -1,0 +1,25 @@
+{
+  "id": "luuk-herssen",
+  "name": "Luuk Herssen",
+  "rarity": 5,
+  "element": "Spectro",
+  "weaponType": "Gauntlets",
+  "skills": [],
+  "images": {
+    "icon": "/v1/images/characters/luuk-herssen/icon.webp",
+    "card": "/v1/images/characters/luuk-herssen/card.webp",
+    "splash": "/v1/images/characters/luuk-herssen/splash.webp",
+    "attribute": "/v1/images/characters/luuk-herssen/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/luuk-herssen",
+      "updatedAt": "January 3rd, 2026"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Luuk%20Herssen",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Luuk%20Herssen/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14"
+}

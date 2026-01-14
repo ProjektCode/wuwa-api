@@ -1,0 +1,139 @@
+{
+  "id": "iuno",
+  "name": "Iuno",
+  "rarity": 5,
+  "element": "Aero",
+  "weaponType": "Gauntlets",
+  "skills": [
+    {
+      "id": "basic-attack-moon-steps",
+      "name": "Moon Steps",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Moonring - Basic Attack**\n\nPerform up to **3** consecutive attacks with the Moonring, dealing Aero DMG.\n\n**Mid-air Attack**\n\nConsume STA to perform a Plunging Attack, dealing Aero DMG.\n\n**Moonring - Dodge Counter**\n\nPress Normal Attack shortly after a successful Dodge to attack the target with Moonring, dealing Aero DMG. Press Normal Attack again shortly after performing this skill to cast Moonring - Basic Attack Stage 3.\n\n**Moonbow - Basic Attack**\n\n- Enter Lunar Cycle - New Moon by casting Heavy Attack - Flux: Moonring. When in this state, Iuno will attack with Moonbow.\n- Perform up to **3** consecutive attacks with the Moonbow, dealing Aero DMG, considered as Resonance Liberation DMG.\n- Can be cast in mid-air.\n\n**Moonbow - Dodge Counter**\n\n- When in Lunar Cycle - New Moon, press Normal Attack shortly after a successful Dodge to attack the target with Moonbow, dealing Aero DMG, considered as Resonance Liberation DMG.\n- When in Lunar Cycle - New Moon, press Normal Attack again shortly after performing this skill to cast Moonbow - Basic Attack Stage 3.\n- Can be cast in mid-air.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Moonring - Basic Attack 1 DMG | 44.10% |\n| Moonring - Basic Attack 2 DMG | 23.17%*2 + 23.87% |\n| Moonring - Basic Attack 3 DMG | 44.26%*2 + 45.60% |\n| Mid-air Attack | 27.00%*2 |\n| Moonring - Dodge Counter | 41.29%*2 + 42.54% |\n| Moonbow - Basic Attack 1 DMG | 63.60% |\n| Moonbow - Basic Attack 2 DMG | 28.00%*3 |\n| Moonbow - Basic Attack 3 DMG | 84.00%*2 |\n| Moonbow - Dodge Counter DMG | 52.00%*3 |\n| Mid-air Attack STA Cost | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Moonring - Basic Attack 1 DMG | 60.02% |\n| Moonring - Basic Attack 2 DMG | 31.53%*2 + 32.48% |\n| Moonring - Basic Attack 3 DMG | 60.22%*2 + 62.05% |\n| Mid-air Attack | 36.75%*2 |\n| Moonring - Dodge Counter | 56.18%*2 + 57.89% |\n| Moonbow - Basic Attack 1 DMG | 86.55% |\n| Moonbow - Basic Attack 2 DMG | 38.11%*3 |\n| Moonbow - Basic Attack 3 DMG | 114.31%*2 |\n| Moonbow - Dodge Counter DMG | 70.77%*3 |\n| Mid-air Attack STA Cost | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Moonring - Basic Attack 1 DMG | 87.68% |\n| Moonring - Basic Attack 2 DMG | 46.06%*2 + 47.46% |\n| Moonring - Basic Attack 3 DMG | 87.98%*2 + 90.65% |\n| Mid-air Attack | 53.68%*2 |\n| Moonring - Dodge Counter | 82.08%*2 + 84.57% |\n| Moonbow - Basic Attack 1 DMG | 126.45% |\n| Moonbow - Basic Attack 2 DMG | 55.67%*3 |\n| Moonbow - Basic Attack 3 DMG | 167.01%*2 |\n| Moonbow - Dodge Counter DMG | 103.39%*3 |\n| Mid-air Attack STA Cost | 30 |"
+      }
+    },
+    {
+      "id": "resonance-skill-foresight-fugue",
+      "name": "Foresight Fugue",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "**Pulse of Origins**\n\nDash forward, dealing Aero DMG.\n\n**Closing Refrain**\n\nWhen not in Lunar Cycle, casting Moonring - Basic Attack Stage 3, Intro Skill, or Pulse of Origins replaces Iuno's Resonance Skill with Closing Refrain for **5s**.\n\nCasting Closing Refrain unleashes a flurry of strikes, dealing Aero DMG, and activates Lunar Cycle.\n\n**Unfinished Refrain**\n\nWhen in Lunar Cycle - Half Moon, Iuno's Resonance Skill is replaced with Unfinished Refrain.\nCasting Unfinished Refrain unleashes a flurry of strikes, dealing Aero DMG.\n\nUnfinished Refrain shares the same Cooldown as Closing Refrain.\n\n**Arc Beyond the Edge**\n\n- When Iuno is in Lunar Cycle - New Moon, her Resonance Skill is replaced with Arc Beyond the Edge, which has **2** initial charges.\n- Casting Arc Beyond the Edge causes Iuno to shift position and deal Aero DMG, considered as Resonance Liberation DMG.\n- Directional input can be used to extend the travel distance. If Iuno is hit or launched into mid-air, casting Arc Beyond the Edge immediately makes her recover from the attack.\n  Can be cast in mid-air.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Pulse of Origins DMG | 9.38%*7 + 65.65% |\n| Pulse of Origins Cooldown | 6 |\n| Pulse of Origins Concerto Regen | 6 |\n| Closing Refrain DMG | 70.79%*2+72.93% |\n| Closing Refrain Concerto Regen | 8 |\n| Unfinished Refrain DMG | 70.79%*2+72.93% |\n| Closing/Unfinished Refrain Cooldown | 8 |\n| Unfinished Refrain Concerto Regen | 8 |\n| Arc Beyond the Edge DMG | 110.55%*2 |\n| Arc Beyond the Edge Cooldown | 10 |\n| Arc Beyond the Edge Concerto Regen | 8 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Pulse of Origins DMG | 12.77%*7 + 89.34% |\n| Pulse of Origins Cooldown | 6 |\n| Pulse of Origins Concerto Regen | 6 |\n| Closing Refrain DMG | 96.33%*2+99.25% |\n| Closing Refrain Concerto Regen | 8 |\n| Unfinished Refrain DMG | 96.33%*2+99.25% |\n| Closing/Unfinished Refrain Cooldown | 8 |\n| Unfinished Refrain Concerto Regen | 8 |\n| Arc Beyond the Edge DMG | 150.44%*2 |\n| Arc Beyond the Edge Cooldown | 10 |\n| Arc Beyond the Edge Concerto Regen | 8 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Pulse of Origins DMG | 18.65%*7 + 130.52% |\n| Pulse of Origins Cooldown | 6 |\n| Pulse of Origins Concerto Regen | 6 |\n| Closing Refrain DMG | 140.73%*2+145.00% |\n| Closing Refrain Concerto Regen | 8 |\n| Unfinished Refrain DMG | 140.73%*2+145.00% |\n| Closing/Unfinished Refrain Cooldown | 8 |\n| Unfinished Refrain Concerto Regen | 8 |\n| Arc Beyond the Edge DMG | 219.79%*2 |\n| Arc Beyond the Edge Cooldown | 10 |\n| Arc Beyond the Edge Concerto Regen | 8 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-beneath-lunar-tides",
+      "name": "Beneath Lunar Tides",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Deal Aero DMG and activate the Lunar Cycle state.\n\nCan be cast in mid-air.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 550.00% |\n| Cooldown | 25 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 748.44% |\n| Cooldown | 25 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 1093.46% |\n| Cooldown | 25 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-ebb-and-flow",
+      "name": "Ebb and Flow",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "**Lunar Cycle**\n\nIuno can activate Lunar Cycle by casting Resonance Skill - Closing Refrain or Resonance Liberation.\nLunar Cycle has two states: Half Moon and New Moon. By default, Iuno enters the Half Moon state when activating Lunar Cycle and can switch between the two states by casting Heavy Attack - Flux.\n\nWhen in Lunar Cycle:\n\n- Iuno's Jump is replaced with Heavy Attack - Flux. STA won't recover when Iuno is in mid-air.\n- Iuno's movement becomes Meandering, which consumes STA continuously in mid-air to move in a unique manner.\n- Performing environmental interactions, using Utilities, or holding Jump will end Lunar Cycle.\n\n**Lunar Cycle - Half Moon**\n\nIuno attacks using the Moonring, restoring Sentience on hit.\n\nShe can use Heavy Attack - Flux: Moonbow to deal Aero DMG (considered as Resonance Liberation DMG) and switch to Lunar Cycle - New Moon.\n\nHeavy Attack - Flux: Moonbow can be cast in mid-air.\n\n**Lunar Cycle - New Moon**\n\nIuno attacks using the Moonbow. While in this state, casting Moonbow - Basic Attack, Resonance Skill - Arc Beyond the Edge, or Moonbow - Dodge Counter consumes Sentience to increase the skill's DMG Multiplier, restore additional Concerto Energy, and heal nearby Resonators in the team.\n\nIuno can use Heavy Attack - Flux: Moonring to deal Aero DMG (considered as Resonance Liberation DMG) and switch to Lunar Cycle - Half Moon.\n\nHeavy Attack - Flux: Moonring can be cast in mid-air.\n\n**Heavy Attack - Absolute Fullness**\n\nWhen Iuno's Concerto Energy is full, her Heavy Attack is replaced with Absolute Fullness.\n\nCasting Absolute Fullness ends Lunar Cycle, provides healing for nearby Resonators in the team, deals Aero DMG to nearby targets (considered as Resonance Liberation DMG), and conjures a Full Moon domain at her location. This effect can be triggered once every **25s**.\n\nCan be cast in mid-air.\n\n**Full Moon Domain**\n\nResonators inside the domain periodically restore HP and STA.\n\nGaining a Shield inside the domain grants **1 **stack of Blessing of the Wan Light. This effect can be triggered once every **0.5s**.\n\n**Blessing of the Wan Light**\n\nThe receiving Resonator gains **4%** all DMG Amplification for **10s**, stacking up to **10 **times. Gaining new stacks resets the duration. This effect ends early if the receiving Resonator is switched off the field.\n\n**Sentience**\n\n- Iuno can hold up to **100 **points of Sentience.\n- Casting Intro Skill restores **40 **points of Sentience.\n- Casting Resonance Liberation restores **60 **points of Sentience.\n- Casting Closing Refrain or Unfinished Refrain restores **25 **points of Sentience.\n- When Iuno is in Lunar Cycle, Moonring - Basic Attack, Moonring - Dodge Counter, and Mid-air Attack restore Sentience on hit.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Lunar Cycle Duration | 15 |\n| Flux - Moonbow DMG | 126.00% |\n| Flux - Moonring DMG | 39.83%*4 |\n| Enhanced Moonbow - Basic Attack 1 DMG | 103.60% |\n| Enhanced Moonbow - Basic Attack 2 DMG | 48.00%*3 |\n| Enhanced Moonbow - Basic Attack 3 DMG | 134.00%*2 |\n| Enhanced Moonbow - Dodge Counter DMG | 78.67%*3 |\n| Enhanced Arc Beyond the Edge DMG | 160.55%*2 |\n| Moonbow - Basic Attack 1 Extra Concerto Regen | 4 |\n| Moonbow - Basic Attack 2 Extra Concerto Regen | 6 |\n| Moonbow - Basic Attack 3 Extra Concerto Regen | 10 |\n| Moonbow - Dodge Counter Extra Concerto Regen | 8 |\n| Arc Beyond the Edge Extra Concerto Regen | 10 |\n| Moonbow - Basic Attack 1 Healing | 13.03% ATK |\n| Moonbow - Basic Attack 2 Healing | 13.03% ATK |\n| Moonbow - Basic Attack 3 Healing | 24.43% ATK |\n| Moonbow - Dodge Counter Healing | 16.29% ATK |\n| Arc Beyond the Edge Healing | 24.43% ATK |\n| Absolute Fullness DMG | 80.00% |\n| Absolute Fullness Healing | 97.71% ATK |\n| Full Moon Domain Duration | 30 |\n| Full Moon Domain Interval | 5 |\n| Full Moon Domain Healing | 16.29% ATK |\n| Full Moon Domain STA Regen | 20 |\n| Meandering STA Cost per Second | 10 |\n| Heavy Attack - Flux STA Cost | 25 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Lunar Cycle Duration | 15 |\n| Flux - Moonbow DMG | 171.47% |\n| Flux - Moonring DMG | 54.20%*4 |\n| Enhanced Moonbow - Basic Attack 1 DMG | 140.98% |\n| Enhanced Moonbow - Basic Attack 2 DMG | 65.32%*3 |\n| Enhanced Moonbow - Basic Attack 3 DMG | 182.35%*2 |\n| Enhanced Moonbow - Dodge Counter DMG | 107.05%*3 |\n| Enhanced Arc Beyond the Edge DMG | 218.48%*2 |\n| Moonbow - Basic Attack 1 Extra Concerto Regen | 4 |\n| Moonbow - Basic Attack 2 Extra Concerto Regen | 6 |\n| Moonbow - Basic Attack 3 Extra Concerto Regen | 10 |\n| Moonbow - Dodge Counter Extra Concerto Regen | 8 |\n| Arc Beyond the Edge Extra Concerto Regen | 10 |\n| Moonbow - Basic Attack 1 Healing | 17.73% ATK |\n| Moonbow - Basic Attack 2 Healing | 17.73% ATK |\n| Moonbow - Basic Attack 3 Healing | 33.25% ATK |\n| Moonbow - Dodge Counter Healing | 22.17% ATK |\n| Arc Beyond the Edge Healing | 33.25% ATK |\n| Absolute Fullness DMG | 108.87% |\n| Absolute Fullness Healing | 132.97% ATK |\n| Full Moon Domain Duration | 30 |\n| Full Moon Domain Interval | 5 |\n| Full Moon Domain Healing | 22.17% ATK |\n| Full Moon Domain STA Regen | 20 |\n| Meandering STA Cost per Second | 10 |\n| Heavy Attack - Flux STA Cost | 25 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Lunar Cycle Duration | 15 |\n| Flux - Moonbow DMG | 250.51% |\n| Flux - Moonring DMG | 79.18%*4 |\n| Enhanced Moonbow - Basic Attack 1 DMG | 205.97% |\n| Enhanced Moonbow - Basic Attack 2 DMG | 88.74%*3 |\n| Enhanced Moonbow - Basic Attack 3 DMG | 266.41%*2 |\n| Enhanced Moonbow - Dodge Counter DMG | 156.40%*3 |\n| Enhanced Arc Beyond the Edge DMG | 319.19%*2 |\n| Moonbow - Basic Attack 1 Extra Concerto Regen | 4 |\n| Moonbow - Basic Attack 2 Extra Concerto Regen | 6 |\n| Moonbow - Basic Attack 3 Extra Concerto Regen | 10 |\n| Moonbow - Dodge Counter Extra Concerto Regen | 8 |\n| Arc Beyond the Edge Extra Concerto Regen | 10 |\n| Moonbow - Basic Attack 1 Healing | 25.91% ATK |\n| Moonbow - Basic Attack 2 Healing | 25.91% ATK |\n| Moonbow - Basic Attack 3 Healing | 48.57% ATK |\n| Moonbow - Dodge Counter Healing | 32.38% ATK |\n| Arc Beyond the Edge Healing | 48.57% ATK |\n| Absolute Fullness DMG | 159.05% |\n| Absolute Fullness Healing | 194.26% ATK |\n| Full Moon Domain Duration | 30 |\n| Full Moon Domain Interval | 5 |\n| Full Moon Domain Healing | 32.38% ATK |\n| Full Moon Domain STA Regen | 20 |\n| Meandering STA Cost per Second | 10 |\n| Heavy Attack - Flux STA Cost | 25 |"
+      }
+    },
+    {
+      "id": "inherent-skill-waxing-ascent",
+      "name": "Waxing Ascent",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Every time Iuno casts Basic Attack, Heavy Attack, Dodge Counter, Resonance Skill, Resonance Liberation, or Intro Skill, she gains **1** Shield equal to **32%** of her ATK for **15s**. This Shield will not be passed on to the incoming Resonator.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-derivation",
+      "name": "Derivation",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "When Iuno casts Intro Skill or Resonance Liberation, she immediately gains **5** stacks of Blessing of the Wan Light.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-illuminated-manifestation",
+      "name": "Illuminated Manifestation",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Deal Aero DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 8.00%*7 + 24.00% |\n| Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 10.89%*7 + 32.66% |\n| Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 15.91%*7 + 47.72% |\n| Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-from-gloom-to-gleam",
+      "name": "From Gloom to Gleam",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target to deal **100% **Aero DMG. The incoming Resonator gains **50% **Heavy Attack DMG Amplification for **14s**. This effect ends early if they are switched off the field.\n\nCasting Outro Skill won't interrupt Heavy Attack - Absolute Fullness, and the Outro Skill effect still applies.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/iuno/icon.webp",
+    "card": "/v1/images/characters/iuno/card.webp",
+    "splash": "/v1/images/characters/iuno/splash.webp",
+    "attribute": "/v1/images/characters/iuno/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/iuno",
+      "updatedAt": "December 31st, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Iuno",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Iuno/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 2189.2,
+      "atk": 93.6,
+      "def": 235.52
+    },
+    "50": {
+      "hp": 5439.32,
+      "atk": 237.96,
+      "def": 583.28
+    },
+    "90": {
+      "hp": 10525,
+      "atk": 450,
+      "def": 1124.42
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "wildfire-mark",
+  "name": "Wildfire Mark",
+  "rarity": 5,
+  "type": "Broadblade",
+  "secondaryStatType": "Crit. DMG",
+  "passive": {
+    "name": "Blazing Starfire",
+    "descriptionMdByRank": {
+      "1": "Increases ATK by **12%**. Performing Intro Skill or Resonance Liberation increases Resonance Liberation DMG by **24%** for 6s. Dealing Heavy Attack DMG extends this effect by 4s, up to 1 time. Each successful extension gives **24%** Fusion DMG Bonus to all Resonators in the team for 30s. Effects of the same name cannot be stacked.",
+      "2": "Increases ATK by **15%**. Performing Intro Skill or Resonance Liberation increases Resonance Liberation DMG by **30%** for 6s. Dealing Heavy Attack DMG extends this effect by 4s, up to 1 time. Each successful extension gives **30%** Fusion DMG Bonus to all Resonators in the team for 30s. Effects of the same name cannot be stacked.",
+      "3": "Increases ATK by **18%**. Performing Intro Skill or Resonance Liberation increases Resonance Liberation DMG by **36%** for 6s. Dealing Heavy Attack DMG extends this effect by 4s, up to 1 time. Each successful extension gives **36%** Fusion DMG Bonus to all Resonators in the team for 30s. Effects of the same name cannot be stacked.",
+      "4": "Increases ATK by **21%**. Performing Intro Skill or Resonance Liberation increases Resonance Liberation DMG by **42%** for 6s. Dealing Heavy Attack DMG extends this effect by 4s, up to 1 time. Each successful extension gives **42%** Fusion DMG Bonus to all Resonators in the team for 30s. Effects of the same name cannot be stacked.",
+      "5": "Increases ATK by **24%**. Performing Intro Skill or Resonance Liberation increases Resonance Liberation DMG by **48%** for 6s. Dealing Heavy Attack DMG extends this effect by 4s, up to 1 time. Each successful extension gives **48%** Fusion DMG Bonus to all Resonators in the team for 30s. Effects of the same name cannot be stacked."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/wildfire-mark/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Wildfire%20Mark"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 122
+    },
+    "50": {
+      "atk": 303
+    },
+    "90": {
+      "atk": 587
+    }
+  }
+}

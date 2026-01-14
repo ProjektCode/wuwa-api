@@ -1,0 +1,37 @@
+{
+  "id": "moongazers-sigil",
+  "name": "Moongazer's Sigil",
+  "rarity": 5,
+  "type": "Gauntlets",
+  "secondaryStatType": "Crit. Rate",
+  "passive": {
+    "name": "Plenilune Radiance",
+    "descriptionMdByRank": {
+      "1": "Increases ATK by **12%**. Casting Intro Skill or Resonance Liberation increases Resonance Liberation DMG by **20%** for 15s. Obtaining Shield allows Resonance Liberation DMG to ignore **7.2%** of the target's DEF for 7s, stacking up to 5 times. This effect is triggered once every 0.5s. Upon casting Intro Skill, this effect reaches max stacks immediately, lasting for 3s.",
+      "2": "Increases ATK by **15%**. Casting Intro Skill or Resonance Liberation increases Resonance Liberation DMG by **25%** for 15s. Obtaining Shield allows Resonance Liberation DMG to ignore **8.4%** of the target's DEF for 7s, stacking up to 5 times. This effect is triggered once every 0.5s. Upon casting Intro Skill, this effect reaches max stacks immediately, lasting for 3s.",
+      "3": "Increases ATK by **18%**. Casting Intro Skill or Resonance Liberation increases Resonance Liberation DMG by **30%** for 15s. Obtaining Shield allows Resonance Liberation DMG to ignore **9.6%** of the target's DEF for 7s, stacking up to 5 times. This effect is triggered once every 0.5s. Upon casting Intro Skill, this effect reaches max stacks immediately, lasting for 3s.",
+      "4": "Increases ATK by **21%**. Casting Intro Skill or Resonance Liberation increases Resonance Liberation DMG by **35%** for 15s. Obtaining Shield allows Resonance Liberation DMG to ignore **10.8%** of the target's DEF for 7s, stacking up to 5 times. This effect is triggered once every 0.5s. Upon casting Intro Skill, this effect reaches max stacks immediately, lasting for 3s.",
+      "5": "Increases ATK by **24%**. Casting Intro Skill or Resonance Liberation increases Resonance Liberation DMG by **40%** for 15s. Obtaining Shield allows Resonance Liberation DMG to ignore **12%** of the target's DEF for 7s, stacking up to 5 times. This effect is triggered once every 0.5s. Upon casting Intro Skill, this effect reaches max stacks immediately, lasting for 3s."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/moongazers-sigil/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Moongazer's%20Sigil"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 104
+    },
+    "50": {
+      "atk": 258
+    },
+    "90": {
+      "atk": 500
+    }
+  }
+}

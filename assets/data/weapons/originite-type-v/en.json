@@ -1,0 +1,37 @@
+{
+  "id": "originite-type-v",
+  "name": "Originite: Type V",
+  "rarity": 3,
+  "type": "Rectifier",
+  "secondaryStatType": "HP",
+  "passive": {
+    "name": "Augment",
+    "descriptionMdByRank": {
+      "1": "When Intro Skill is released, restores HP by **5%**. This effect can be triggered 1 time(s) every 20s.",
+      "2": "When Intro Skill is released, restores HP by **6.25%**. This effect can be triggered 1 time(s) every 20s.",
+      "3": "When Intro Skill is released, restores HP by **7.5%**. This effect can be triggered 1 time(s) every 20s.",
+      "4": "When Intro Skill is released, restores HP by **8.75%**. This effect can be triggered 1 time(s) every 20s.",
+      "5": "When Intro Skill is released, restores HP by **10%**. This effect can be triggered 1 time(s) every 20s."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/originite-type-v/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Originite%3A%20Type%20V"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 62
+    },
+    "50": {
+      "atk": 155
+    },
+    "90": {
+      "atk": 300
+    }
+  }
+}

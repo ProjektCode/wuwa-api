@@ -1,0 +1,37 @@
+{
+  "id": "beguiling-melody",
+  "name": "Beguiling Melody",
+  "rarity": 3,
+  "type": "Broadblade",
+  "secondaryStatType": "ATK",
+  "passive": {
+    "name": "Graceful Touch",
+    "descriptionMdByRank": {
+      "1": "When Intro Skill is cast, restores **4** Concerto Energy. When Outro Skill is cast, restores **4** Resonance Energy.",
+      "2": "When Intro Skill is cast, restores **5** Concerto Energy. When Outro Skill is cast, restores **5** Resonance Energy.",
+      "3": "When Intro Skill is cast, restores **6** Concerto Energy. When Outro Skill is cast, restores **6** Resonance Energy.",
+      "4": "When Intro Skill is cast, restores **7** Concerto Energy. When Outro Skill is cast, restores **7** Resonance Energy.",
+      "5": "When Intro Skill is cast, restores **8** Concerto Energy. When Outro Skill is cast, restores **8** Resonance Energy."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/beguiling-melody/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Beguiling%20Melody"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 62
+    },
+    "50": {
+      "atk": 155
+    },
+    "90": {
+      "atk": 300
+    }
+  }
+}

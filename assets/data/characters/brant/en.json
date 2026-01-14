@@ -1,0 +1,139 @@
+{
+  "id": "brant",
+  "name": "Brant",
+  "rarity": 5,
+  "element": "Fusion",
+  "weaponType": "Sword",
+  "skills": [
+    {
+      "id": "basic-attack-captains-rhapsody",
+      "name": "Captain's Rhapsody",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack**\n\nPerform up to **4** consecutive attacks, dealing Fusion DMG.\n\n**Heavy Attack**\n\nConsume STA to attack the target, dealing Fusion DMG.\n\n**Heavy Attack - Rhapsodic Riff**\n\nConsume STA to attack the target, dealing Fusion DMG.\n\n- After performing Basic Attack Stage 2 or Stage 4, hold Normal Attack to perform Heavy Attack - Rhapsodic Riff.\n- After performing Mid-air Attack Stage 4, Press Normal Attack to perform Heavy Attack - Rhapsodic Riff.\n\n**Mid-air Attack**\n\nPerform up to** 4** consecutive attacks, dealing Fusion DMG.\n\nPress Normal Attack following Mid-air Attack Stage 1 or Stage 2 to swing to the target with Grapple. Brant will attack the target if he reaches them with the swing. Release while in action to flip backward after the attack hits; or hold Normal Attack to attack the target continuously and flip backward after the finishing move. Brant flips backward automatically after Mid-air Attack Stage 3. Press Normal Attack after each flip to perform the next stage of Mid-air Attack. Flip resets Mid-air Dodge attempts.\n\n- If Brant fails to reach the target with the Grapple swing of Mid-air Attack Stage 1, he instead performs a slash forward, dealing Fusion DMG.\n- If Brant reaches the target with the Grapple swing of Mid-air Attack Stage 1 or Stage 2 but the attack fails to hit the target, he will drop down after a temporary suspension in mid-air.\n\n**Dodge Counter**\n\nPress Normal Attack right after a successful Dodge to attack the target, dealing Fusion DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 25.42% |\n| Stage 2 DMG | 25.50% + 25.50% |\n| Stage 3 DMG | 11.10%*3 + 16.64%*2 |\n| Stage 4 DMG | 14.10% + 11.28%*5 |\n| Heavy Attack DMG | 99.37% |\n| Heavy Attack - Rhapsodic Riff DMG | 85.00% |\n| Mid-air Attack Stage 1 DMG | 61.80% |\n| Mid-air Attack Stage 1: Charged Attack DMG | 16.72% + 25.08% + 20.90%*6 |\n| Mid-air Attack Stage 1: Flip DMG | 17.00% + 29.75% |\n| Mid-air Attack Stage 1 Slash DMG | 14.17%*3 |\n| Mid-air Attack Stage 2 DMG | 42.72% + 42.72% |\n| Mid-air Attack Stage 2: Charged Attack DMG | 16.54%*6 |\n| Mid-air Attack Stage 2: Flip DMG | 17.00% + 29.75% |\n| Mid-air Attack Stage 3 DMG | 14.17%*6 |\n| Mid-air Attack Stage 3: Flip DMG | 17.00% + 29.75% |\n| Mid-air Attack Stage 4 DMG | 51.07% + 12.77%*3 + 38.31% |\n| Dodge Counter DMG | 19.13%*3 + 28.69%*2 |\n| Heavy Attack STA Cost | 25 |\n| Heavy Attack - Rhapsodic Riff STA Cost | 25 |\n| Mid-air Attack STA Cost | 5 |\n| Mid-air Charged Attack STA Cost | 15 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 34.59% |\n| Stage 2 DMG | 34.71% + 34.71% |\n| Stage 3 DMG | 15.10%*3 + 22.65%*2 |\n| Stage 4 DMG | 19.18% + 15.35%*5 |\n| Heavy Attack DMG | 135.22% |\n| Heavy Attack - Rhapsodic Riff DMG | 115.67% |\n| Mid-air Attack Stage 1 DMG | 84.10% |\n| Mid-air Attack Stage 1: Charged Attack DMG | 22.76% + 34.13% + 28.44%*6 |\n| Mid-air Attack Stage 1: Flip DMG | 23.14% + 40.49% |\n| Mid-air Attack Stage 1 Slash DMG | 19.28%*3 |\n| Mid-air Attack Stage 2 DMG | 58.13% + 58.13% |\n| Mid-air Attack Stage 2: Charged Attack DMG | 22.50%*6 |\n| Mid-air Attack Stage 2: Flip DMG | 23.14% + 40.49% |\n| Mid-air Attack Stage 3 DMG | 19.28%*6 |\n| Mid-air Attack Stage 3: Flip DMG | 23.14% + 40.49% |\n| Mid-air Attack Stage 4 DMG | 69.50% + 17.38%*3 + 52.13% |\n| Dodge Counter DMG | 26.03%*3 + 39.04%*2 |\n| Heavy Attack STA Cost | 25 |\n| Heavy Attack - Rhapsodic Riff STA Cost | 25 |\n| Mid-air Attack STA Cost | 5 |\n| Mid-air Charged Attack STA Cost | 15 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 50.53% |\n| Stage 2 DMG | 50.70% + 50.70% |\n| Stage 3 DMG | 22.06%*3 + 33.08%*2 |\n| Stage 4 DMG | 28.02% + 22.42%*5 |\n| Heavy Attack DMG | 197.55% |\n| Heavy Attack - Rhapsodic Riff DMG | 168.99% |\n| Mid-air Attack Stage 1 DMG | 122.86% |\n| Mid-air Attack Stage 1: Charged Attack DMG | 33.25% + 49.87% + 41.56%*6 |\n| Mid-air Attack Stage 1: Flip DMG | 33.80% + 59.15% |\n| Mid-air Attack Stage 1 Slash DMG | 28.17%*3 |\n| Mid-air Attack Stage 2 DMG | 84.92% + 84.92% |\n| Mid-air Attack Stage 2: Charged Attack DMG | 32.87%*6 |\n| Mid-air Attack Stage 2: Flip DMG | 33.80% + 59.15% |\n| Mid-air Attack Stage 3 DMG | 28.17%*6 |\n| Mid-air Attack Stage 3: Flip DMG | 33.80% + 59.15% |\n| Mid-air Attack Stage 4 DMG | 101.53% + 25.39%*3 + 76.15% |\n| Dodge Counter DMG | 38.03%*3 + 57.04%*2 |\n| Heavy Attack STA Cost | 25 |\n| Heavy Attack - Rhapsodic Riff STA Cost | 25 |\n| Mid-air Attack STA Cost | 5 |\n| Mid-air Charged Attack STA Cost | 15 |"
+      }
+    },
+    {
+      "id": "resonance-skill-anchors-aweigh",
+      "name": "Anchors Aweigh!",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "Brant launches himself into the air and blasts all targets in an area, dealing Fusion DMG. While in mid-air, if Bravo is not full, Resonance Skill Anchors Aweigh! is replaced with Plunging Attack.\n\nPlunging Attack\n\nPlunge at the target at the cost of STA, dealing Fusion DMG, which is considered Basic Attack DMG.\n\n- If Brant fails to reach the target with the Grapple swing of Mid-air Attack Stage 1, he instead performs a slash forward. Afterward, Press Normal Attack to perform Plunging Attack.\n- If Brant reaches the target with the Grapple swing of Mid-air Attack Stage 1 or Stage 2 but the attack fails to hit the target, Press Normal Attack to perform Plunging Attack during the suspension.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 100.77% + 67.18% |\n| Plunging Attack DMG | 52.70% |\n| Plunging Attack STA Cost | 30 |\n| Cooldown | 4 |\n| Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 137.13% + 91.42% |\n| Plunging Attack DMG | 71.72% |\n| Plunging Attack STA Cost | 30 |\n| Cooldown | 4 |\n| Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 200.35% + 133.57% |\n| Plunging Attack DMG | 104.78% |\n| Plunging Attack STA Cost | 30 |\n| Cooldown | 4 |\n| Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-to-the-horizon",
+      "name": "To the Horizon",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Deal Fusion DMG to targets within the range and heal all nearby Resonators in the team before entering the Aflame state.\n\nCan be cast in mid-air.\n\n**Aflame**\n\nThe efficiency of gaining Bravo is increased by **100%** when Normal Attack or Resonance Skill Anchors Aweigh! hits the target. Meanwhile, Forte Circuit Theatrical Moment is replaced by \"My\" Moment.\n\n**\"My\" Moment**\n\nBrant gains additional ATK based on his Energy Regen: For every** 1% **of his Energy Regen over **150%**, Brant gains additional **20 **points of ATK, up to **2600**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 42.78%*4 + 171.12% |\n| Healing | 500 + 1.75*per 1% Energy Regen |\n| Aflame Duration | 12 |\n| Cooldown | 24 |\n| Resonance Cost | 175 |\n| Concerto Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 58.22%*4 + 232.87% |\n| Healing | 790 + 2.76*per 1% Energy Regen |\n| Aflame Duration | 12 |\n| Cooldown | 24 |\n| Resonance Cost | 175 |\n| Concerto Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 85.06%*4 + 340.21% |\n| Healing | 950 + 3.32*per 1% Energy Regen |\n| Aflame Duration | 12 |\n| Cooldown | 24 |\n| Resonance Cost | 175 |\n| Concerto Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-ocean-odyssey",
+      "name": "Ocean Odyssey",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "**Theatrical Moment**\n\nBrant gains additional ATK based on his Energy Regen: For every **1%** of his Energy Regen over **150%**, Brant gains additional **12 **points of ATK, up to **1560**.\n\n**Waves of Acclaims**\n\nHeal all nearby Resonators in the team when Bravo reaches **25**, **50**, **75**, and **100.**\n\n**Returned from Ashes**\n\nWhen Bravo is full, replace Resonance Skill Anchor Aweigh! with Returned from Ashes.\n\nConsume all Bravo to perform Returned from Ashes, dealing Fusion DMG, considered Basic Attack DMG, and generate a shield. Casting this skill when in Aflame ends this state after Returned from Ashes ends.\n\n**Bravo**\n\nBrant can hold up to **100 **Bravo.\n\n- Obtain Bravo when Normal Attacks hit the target.\n- Obtain Bravo when Intro Skill hits the target.\n- Obtain Bravo when Resonance Skill hits the target.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Returned from Ashes DMG | 23.75%*2 + 47.50% + 95.00%*2 + 665.00% |\n| Waves of Acclaims Healing | 312 + 1.09*per 1% Energy Regen |\n| Shield | 2500 + 9*per 1% Energy Regen |\n| Shield Duration | 30 |\n| Returned from Ashes Concerto Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Returned from Ashes DMG | 32.32%*2 + 64.64% + 129.28%*2 + 904.94% |\n| Waves of Acclaims Healing | 493 + 1.72*per 1% Energy Regen |\n| Shield | 3950 + 14.22*per 1% Energy Regen |\n| Shield Duration | 30 |\n| Returned from Ashes Concerto Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Returned from Ashes DMG | 47.22%*2 + 94.44% + 188.87%*2 + 1322.09% |\n| Waves of Acclaims Healing | 593 + 2.07*per 1% Energy Regen |\n| Shield | 4750 + 17.1*per 1% Energy Regen |\n| Shield Duration | 30 |\n| Returned from Ashes Concerto Regen | 20 |"
+      }
+    },
+    {
+      "id": "inherent-skill-voyagers-blaze",
+      "name": "Voyager's Blaze",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Healing provided by Waves of Acclaims is increased by **20%**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-trial-by-fire-and-tide",
+      "name": "Trial by Fire and Tide",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Brant's resistance to interruption is increased during Mid-air Attacks and gains **15% **Fusion DMG Bonus.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-applaud-for-me",
+      "name": "Applaud for Me!",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target, dealing Fusion DMG, and gain Interlude Applause effect.\n\nInterlude Applause\n\nThe next Mid-air Attack begins at Stage 2. This effect ends when Brant lands early or is switched out.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 102.00% + 25.50% |\n| Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 138.81% + 34.71% |\n| Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 202.79% + 50.70% |\n| Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-the-course-is-set",
+      "name": "The Course is Set!",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "Ampify the incoming Resonator's Fusion DMG by** 20%** and Resonance Skill DMG by** 25%** for **14s **or until the Resonator is switched out.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/brant/icon.webp",
+    "card": "/v1/images/characters/brant/card.webp",
+    "splash": "/v1/images/characters/brant/splash.webp",
+    "attribute": "/v1/images/characters/brant/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/brant",
+      "updatedAt": "December 31st, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Brant",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Brant/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 2428.4,
+      "atk": 78,
+      "def": 273.92
+    },
+    "50": {
+      "hp": 6033.64,
+      "atk": 198.3,
+      "def": 678.38
+    },
+    "90": {
+      "hp": 11675,
+      "atk": 375,
+      "def": 1307.75
+    }
+  }
+}

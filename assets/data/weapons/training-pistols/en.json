@@ -1,0 +1,26 @@
+{
+  "id": "training-pistols",
+  "name": "Training Pistols",
+  "rarity": 1,
+  "type": "Pistols",
+  "secondaryStatType": "ATK",
+  "passive": {
+    "name": "Persevere",
+    "descriptionMdByRank": {
+      "1": "Increases ATK by **4%**.",
+      "2": "Increases ATK by **5%**.",
+      "3": "Increases ATK by **6%**.",
+      "4": "Increases ATK by **7%**.",
+      "5": "Increases ATK by **8%**."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/training-pistols/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Training%20Pistols"
+    }
+  },
+  "lastUpdated": "2026-01-14"
+}

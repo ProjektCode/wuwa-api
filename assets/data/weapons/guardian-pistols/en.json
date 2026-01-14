@@ -1,0 +1,37 @@
+{
+  "id": "guardian-pistols",
+  "name": "Guardian Pistols",
+  "rarity": 3,
+  "type": "Pistols",
+  "secondaryStatType": "ATK",
+  "passive": {
+    "name": "Unity",
+    "descriptionMdByRank": {
+      "1": "Resonance Skill DMG Bonus is increased by **12%**.",
+      "2": "Resonance Skill DMG Bonus is increased by **15%**.",
+      "3": "Resonance Skill DMG Bonus is increased by **18%**.",
+      "4": "Resonance Skill DMG Bonus is increased by **21%**.",
+      "5": "Resonance Skill DMG Bonus is increased by **24%**."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/guardian-pistols/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Guardian%20Pistols"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 62
+    },
+    "50": {
+      "atk": 155
+    },
+    "90": {
+      "atk": 300
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bloodpacts-pledge",
+  "name": "Bloodpact's Pledge",
+  "rarity": 5,
+  "type": "Sword",
+  "secondaryStatType": "Energy Regen",
+  "passive": {
+    "name": "Harmonious Vibrancy",
+    "descriptionMdByRank": {
+      "1": "Providing Healing increases Resonance Skill DMG by **10%** for 6s. When Rover: Aero casts Resonance Skill Unbound Flow, Aero DMG dealt by nearby Resonators on the field is Amplified by **10%** for 30s.",
+      "2": "Providing Healing increases Resonance Skill DMG by **14%** for 6s. When Rover: Aero casts Resonance Skill Unbound Flow, Aero DMG dealt by nearby Resonators on the field is Amplified by **14%** for 30s.",
+      "3": "Providing Healing increases Resonance Skill DMG by **18%** for 6s. When Rover: Aero casts Resonance Skill Unbound Flow, Aero DMG dealt by nearby Resonators on the field is Amplified by **18%** for 30s.",
+      "4": "Providing Healing increases Resonance Skill DMG by **22%** for 6s. When Rover: Aero casts Resonance Skill Unbound Flow, Aero DMG dealt by nearby Resonators on the field is Amplified by **22%** for 30s.",
+      "5": "Providing Healing increases Resonance Skill DMG by **26%** for 6s. When Rover: Aero casts Resonance Skill Unbound Flow, Aero DMG dealt by nearby Resonators on the field is Amplified by **26%** for 30s."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/bloodpacts-pledge/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Bloodpact's%20Pledge"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 122
+    },
+    "50": {
+      "atk": 303
+    },
+    "90": {
+      "atk": 587
+    }
+  }
+}

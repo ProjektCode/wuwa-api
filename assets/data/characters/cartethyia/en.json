@@ -1,0 +1,139 @@
+{
+  "id": "cartethyia",
+  "name": "Cartethyia",
+  "rarity": 5,
+  "element": "Aero",
+  "weaponType": "Sword",
+  "skills": [
+    {
+      "id": "basic-attack-sword-to-carve-my-forms",
+      "name": "Sword to Carve My Forms",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack - Cartethyia**\n\nPerform up to **4** consecutive attacks, dealing Aero DMG.\n\nFollowing Basic Attack - Cartethyia Stage 4, inflict **1** stack of Aero Erosion on targets hit and summon Sword of Divinity's Shadow.\n\nUp to **1** Sword of Divinity's Shadow may exist at the same time, lasting for **20s**.\n\n**Heavy Attack - Cartethyia**\n\nConsume STA to attack the target, dealing Aero DMG and summoning Sword of Discord's Shadow. Can be performed in mid-air.\n\nUp to **1** Sword of Discord's Shadow may exist at the same time, lasting for **20s**.\n\nThis instance of DMG is considered Basic Attack DMG.\n\n**Mid-air Attack - Cartethyia**\n\nRelease Normal Attack button while airborne to perform Plunging Attack at the cost of STA, dealing Aero DMG, also considered Aero Erosion DMG.\n\nPress Normal Attack shortly after the Plunging Attack to perform Basic Attack - Cartethyia Stage 2.\n\nCasting Mid-air Attack - Cartethyia recalls all Sword Shadows. Based on the types and number of Sword Shadows recalled, perform different forms of Plunging Attack and obtain the corresponding Heart of Virtue, Mandate of Divinity, and Power of Discord.\n\n**Dodge Counter - Cartethyia**\n\nPress Normal Attack shortly after a successful Dodge to attack the target, dealing Aero DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 2.41% HP |\n| Stage 2 DMG | 1.98% + 1.98% + 2.64% HP |\n| Stage 3 DMG | 2.15% + 2.15% + 2.15% + 2.15% HP |\n| Stage 4 DMG | 1.27%*3 + 3.80% HP |\n| Dodge Counter DMG | 3.45% + 3.45% + 3.45% + 3.45% HP |\n| Heavy Attack DMG | 1.05%*3 + 3.14% HP |\n| Mid-air Attack | 2.84% HP |\n| Mid-air Attack 1 Sword Shadow Recalled | 2.84% HP |\n| Mid-air Attack 2 Sword Shadows Recalled | 1.66%*3 HP |\n| Mid-air Attack 3 Sword Shadows Recalled | 5.68%*3 HP |\n| Mid-air Attack STA Cost | 30 |\n| Heavy Attack STA Cost | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 3.27% HP |\n| Stage 2 DMG | 2.70% + 2.70% + 3.59% HP |\n| Stage 3 DMG | 2.93% + 2.93% + 2.93% + 2.93% HP |\n| Stage 4 DMG | 1.73%*3 + 5.17% HP |\n| Dodge Counter DMG | 4.69% + 4.69% + 4.69% + 4.69% HP |\n| Heavy Attack DMG | 1.43%*3 + 4.27% HP |\n| Mid-air Attack | 3.87% HP |\n| Mid-air Attack 1 Sword Shadow Recalled | 3.87% HP |\n| Mid-air Attack 2 Sword Shadows Recalled | 2.26%*3 HP |\n| Mid-air Attack 3 Sword Shadows Recalled | 7.73%*3 HP |\n| Mid-air Attack STA Cost | 30 |\n| Heavy Attack STA Cost | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 4.78% HP |\n| Stage 2 DMG | 3.94% + 3.94% + 5.25% HP |\n| Stage 3 DMG | 4.28% + 4.28% + 4.28% + 4.28% HP |\n| Stage 4 DMG | 2.52%*3 + 7.54% HP |\n| Dodge Counter DMG | 6.85% + 6.85% + 6.85% + 6.85% HP |\n| Heavy Attack DMG | 2.08%*3 + 6.24% HP |\n| Mid-air Attack | 5.65% HP |\n| Mid-air Attack 1 Sword Shadow Recalled | 5.65% HP |\n| Mid-air Attack 2 Sword Shadows Recalled | 3.30%*3 HP |\n| Mid-air Attack 3 Sword Shadows Recalled | 11.29%*3 HP |\n| Mid-air Attack STA Cost | 30 |\n| Heavy Attack STA Cost | 20 |"
+      }
+    },
+    {
+      "id": "resonance-skill-sword-to-bear-their-names",
+      "name": "Sword to Bear Their Names",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "Resonance Skill - Cartethyia\n\nAttack the target, launch nearby enemies, and then plunge them to the ground, dealing Aero DMG and inflicting **2** stacks of Aero Erosion on the targets hit. This instance of DMG is considered Basic Attack DMG. Can be performed in mid-air.\n\nFollowing Cartethyia - Resonance Skill, summon Sword of Virtue's Shadow.\n\nUp to **1 **Sword of Virtue's Shadow may exist at the same time, lasting for **20s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 3.47%*3 + 4.46% HP |\n| Resonance Skill Concerto Regen | 10 |\n| Resonance Skill Cooldown | 14 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 4.72%*3 + 6.07% HP |\n| Resonance Skill Concerto Regen | 10 |\n| Resonance Skill Cooldown | 14 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 6.89%*3 + 8.86% HP |\n| Resonance Skill Concerto Regen | 10 |\n| Resonance Skill Cooldown | 14 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-a-knights-heartfelt-prayers",
+      "name": "A Knight's Heartfelt Prayers",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "**Resonance Liberation - A Knight's Heartfelt Prayers**\n\n- By reducing HP to **50%** of the Max HP, Cartethyia transforms into Fleurdelys, unlocking new moves and entering the Manifest state for **12s**.\n- Can be performed in mid-air.\n- Entering Manifest clears all Conviction.\n- As Fleurdelys, Basic Attack - Fleurdelys Stage 5, Mid-air Attack - Fleurdelys Stage 2, and Resonance Skill - May Tempest Break the Tides instantly trigger **1** instance of Aero Erosion DMG and reduce the Aero Erosion stack on the target hit by **1**.\n  - Ending the state will not clear Resonance Energy.\n  - No HP cost when HP is below **50%**.\n- Fleurdelys's attacks restore Conviction on hit. When Conviction reaches **120 **points, press Resonance Liberation to cast Resonance Liberation - Blade of Howling Squall.\n- When Conviction is below **120 **points, press Resonance Liberation to transform back into Cartethyia. When in Manifest, casting Resonance Liberation - A Knight's Heartfelt Prayers as Cartethyia consumes no Resonance Energy.\n- When Fleurdelys has Heart of Virtue in Manifest:\n  - Basic Attack - Fleurdelys Stage 4 will generate a force field to Stagnate the targets within the range.\n  - Fleurdelys's resistance to interruption increases.\n  - Heart of Virtue is removed when Manifest ends.\n- When Fleurdelys has Mandate of Divinity in Manifest:\n  - Aero Erosion DMG is Amplified by **50%** and the damage interval is decreased by **50%** for enemies within a certain distance from Fleurdelys.\n  - Mandate of Divinity is removed when Manifest ends.\n- When Fleurdelys has Power of Discord in Manifest:\n  - When casting Basic Attack - Fleurdelys Stage 5, Mid-air Attack - Fleurdelys Stage 2 and Enhanced Heavy Attack - Fleurdelys or after Resonance Skill - May Tempest Break the Tides deals damage, raise the Aero Erosion stacks on all nearby targets to the highest count among the targets.\n  - Power of Discord is removed when Manifest ends.\n- Fleurdelys will transform back to Cartethyia during quest dialogues, environmental interaction animations, or using Utilities.\n- Fleurdelys can walk on water. Doing so on deep waters continuously consumes STA. When in walking state, Fleurdelys can step out of a high place and walk in mid-air by continuously consuming STA.\n\n**Avatar - Cartethyia**\n\nAs Fleurdelys, when Conviction is below **120 **points, press Resonance Liberation to perform Basic Attack - Cartethyia Stage 2 and temporarily transform back to Cartethyia, which pauses the timer on Manifest.\n\nCan be cast in mid-air. Casting the skill in mid-air performs Mid-air Attack - Cartethyia.\n\n**Avatar - Fleurdelys**\n\nWhen in Manifest, casting Resonance Liberation as Cartethyia performs Basic Attack - Fleurdelys Stage 2 without consuming Resonance Energy and transforms her back to Fleurdelys, which resumes the timer on Manifest.\n\nCan be cast in mid-air. Casting this skill in mid-air performs Mid-air Attack - Fleurdelys Stage 1.\n\n**Resonance Liberation - Blade of Howling Squall**\n\nWhen Fleurdelys has **120 **points of Conviction, Resonance Liberation - A Knight's Heartfelt Prayers is replaced by Resonance Liberation - Blade of Howling Squall.\n\nCasting Resonance Liberation - Blade of Howling Squall removes all Conviction, ends Manifest, restores **50%** of Max HP, and then deals Aero DMG to all targets in an area along a straight line in front. Upon hitting the target, remove all stacks of Aero Erosion on the target. Each stack removed Amplifies the DMG taken by the targets by **20%**, up to **5 **stacks.\n\nCan be cast in mid-air.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Blade of Howling Squall DMG | 6.60%*7 |\n| A Knight's Heartfelt Prayers Resonance Cost | 125 |\n| A Knight's Heartfelt Prayers Cooldown | 25 |\n| Blade of Howling Squall Cooldown | 25 |\n| A Knight's Heartfelt Prayers Concerto Regen | 20 |\n| Blade of Howling Squall Concerto Regen | 20 |\n| Avatar Cooldown | 1.5 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Blade of Howling Squall DMG | 8.98%*7 |\n| A Knight's Heartfelt Prayers Resonance Cost | 125 |\n| A Knight's Heartfelt Prayers Cooldown | 25 |\n| Blade of Howling Squall Cooldown | 25 |\n| A Knight's Heartfelt Prayers Concerto Regen | 20 |\n| Blade of Howling Squall Concerto Regen | 20 |\n| Avatar Cooldown | 1.5 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Blade of Howling Squall DMG | 13.12%*7 |\n| A Knight's Heartfelt Prayers Resonance Cost | 125 |\n| A Knight's Heartfelt Prayers Cooldown | 25 |\n| Blade of Howling Squall Cooldown | 25 |\n| A Knight's Heartfelt Prayers Concerto Regen | 20 |\n| Blade of Howling Squall Concerto Regen | 20 |\n| Avatar Cooldown | 1.5 |"
+      }
+    },
+    {
+      "id": "forte-circuit-tempest",
+      "name": "Tempest",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "Cartethyia unlocks new moves when she transforms into Fleurdelys:\n\n**Basic Attack - Fleurdelys**\n\nBasic Attack - Cartethyia is replaced by Basic Attack - Fleurdelys.\n\nPerform up to **5** consecutive attacks, dealing Aero DMG and restoring Conviction on hit.\n\n**Mid-air Attack - Fleurdelys**\n\nMid-air Attack - Cartethyia is replaced by Mid-air Attack - Fleurdelys.\n\nPerform up to 3 consecutive attacks in the air at the cost of STA, dealing Aero DMG and restoring Conviction on hit.\n\nWhile airborne, hold Normal Attack to cast Mid-air Attack - Fleurdelys Stage 3.\n\nFollow up with Basic Attack shortly afterward to cast Basic Attack - Fleurdelys Stage 3.\n\nWhile airborne, casting Resonance Skill - Sword to Answer Waves' Call and Resonance Skill - May Tempest Break the Tides resets the cycle of Mid-air Attack - Fleurdelys.\n\n**Heavy Attack - Fleurdelys**\n\nHeavy Attack - Cartethyia is replaced by Heavy Attack - Fleurdelys.\n\nThrust forward to deliver a focused strike, dealing Aero DMG and restoring Conviction on hit. This instance of DMG is considered Basic Attack DMG.\n\n**Enhanced Heavy Attack - Fleurdelys**\n\nWhile casting Heavy Attack - Fleurdelys, press Normal Attack again to cast Enhanced Heavy Attack - Fleurdelys: fall back and blast the area in a straight line in front, dealing Aero DMG and restoring Conviction on hit. This instance of DMG is considered Basic Attack DMG.\n\nFollow up with Basic Attack shortly after casting Enhanced Heavy Attack - Fleurdelys to cast Upward Cut - Fleurdelys.\n\n**Upward Cut - Fleurdelys**\n\nWhile Fleurdelys is on the ground, Jump to cast this skill, dealing Aero DMG and restoring Conviction on hit.\n\n**Dodge Counter - Fleurdelys**\n\nDodge Counter - Cartethyia is replaced by Dodge Counter - Fleurdelys.\n\nPress Normal Attack shortly after a successful Dodge to attack the target, dealing Aero DMG and restoring Conviction on hit.\n\nFollow up with Basic Attack shortly afterward to cast Basic Attack - Fleurdelys Stage 4 .\n\n**Resonance Skill - Sword to Answer Waves' Call**\n\nResonance Skill - Cartethyia is replaced by Resonance Skill - Sword to Answer Waves' Call.\n\nSummon a force field near the target's location to continuously pull in nearby targets, dealing Aero DMG and restoring Conviction on hit.\n\nCan be cast in mid-air.\n\n**Resonance Skill - May Tempest Break the Tides**\n\nFollowing Resonance Skill - Sword to Answer Waves' Call, press Resonance Skill again to call down a giant Sword Shadow to crush an area around the target, creating a force field to pull in nearby targets, dealing Aero DMG to ground targets, and restoring Conviction on hit.\n\nFollow up with Basic Attack shortly afterward to cast Basic Attack - Fleurdelys Stage 3.\n\nThe Resonance Skill enters cooldown if Resonance Skill - May Tempest Break the Tides is not cast within a certain period or when switching to another Resonator.\n\nCan be cast in mid-air.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Basic Attack Stage 1 DMG | 3.27% HP |\n| Basic Attack Stage 2 DMG | 1.83% + 0.92% + 0.92% + 0.92% HP |\n| Basic Attack Stage 3 DMG | 1.08% + 1.08% + 1.08% + 2.15% HP |\n| Basic Attack Stage 4 DMG | 1.38%*5 HP |\n| Basic Attack Stage 5 DMG | 3.63% + 14.49% HP |\n| Dodge Counter DMG | 1.61% + 1.61% + 1.61% + 3.22% HP |\n| Upward Cut DMG | 2.29%*2 HP |\n| Heavy Attack DMG | 2.15% + 5.02% HP |\n| Enhanced Heavy Attack DMG | 3.91%*2 + 1.96% HP |\n| Mid-air Attack 1 DMG | 1.50% + 1.50% + 1.55% HP |\n| Mid-air Attack 2 DMG HP | 3.72% + 3.72% + 7.43% HP |\n| Mid-air Attack 3 DMG | 1.11% HP |\n| Sword to Answer Waves' Call DMG | 0.94%*4 + 8.73% |\n| Sword to Answer Waves' Call Concerto Regen | 10 |\n| May Tempest Break the Tides DMG | 0.94%*2 + 3.54%*3 |\n| May Tempest Break the Tides Concerto Regen | 10 |\n| Resonance Skill Cooldown | 14 |\n| Heavy Attack STA Cost | 20 |\n| Enhanced Heavy Attack STA Cost | 20 |\n| Mid-air Attack 1 STA Cost | 5 |\n| Mid-air Attack 2 STA Cost | 5 |\n| Mid-air Attack 3 STA Cost | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Basic Attack Stage 1 DMG | 4.45% HP |\n| Basic Attack Stage 2 DMG | 2.48% + 1.24% + 1.24% + 1.24% HP |\n| Basic Attack Stage 3 DMG | 1.46% + 1.46% + 1.46% + 2.92% HP |\n| Basic Attack Stage 4 DMG | 1.88%*5 HP |\n| Basic Attack Stage 5 DMG | 4.93% + 19.71% HP |\n| Dodge Counter DMG | 2.19% + 2.19% + 2.19% + 4.38% HP |\n| Upward Cut DMG | 3.11%*2 HP |\n| Heavy Attack DMG | 2.93% + 6.83% HP |\n| Enhanced Heavy Attack DMG | 5.32%*2 + 2.66% HP |\n| Mid-air Attack 1 DMG | 2.05% + 2.05% + 2.11% HP |\n| Mid-air Attack 2 DMG HP | 5.06% + 5.06% + 10.11% HP |\n| Mid-air Attack 3 DMG | 1.51% HP |\n| Sword to Answer Waves' Call DMG | 1.28%*4 + 11.88% |\n| Sword to Answer Waves' Call Concerto Regen | 10 |\n| May Tempest Break the Tides DMG | 1.28%*2 + 4.81%*3 |\n| May Tempest Break the Tides Concerto Regen | 10 |\n| Resonance Skill Cooldown | 14 |\n| Heavy Attack STA Cost | 20 |\n| Enhanced Heavy Attack STA Cost | 20 |\n| Mid-air Attack 1 STA Cost | 5 |\n| Mid-air Attack 2 STA Cost | 5 |\n| Mid-air Attack 3 STA Cost | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Basic Attack Stage 1 DMG | 6.49% HP |\n| Basic Attack Stage 2 DMG | 3.63% + 1.82% + 1.82% + 1.82% HP |\n| Basic Attack Stage 3 DMG | 2.13% + 2.13% + 2.13% + 4.26% HP |\n| Basic Attack Stage 4 DMG | 2.74%*5 HP |\n| Basic Attack Stage 5 DMG | 7.20% + 28.80% HP |\n| Dodge Counter DMG | 3.20% + 3.20% + 3.20% + 6.39% HP |\n| Upward Cut DMG | 4.54%*2 HP |\n| Heavy Attack DMG | 4.28% + 9.97% HP |\n| Enhanced Heavy Attack DMG | 7.78%*2 + 3.89% HP |\n| Mid-air Attack 1 DMG | 2.99% + 2.99% + 3.08% HP |\n| Mid-air Attack 2 DMG HP | 7.39% + 7.39% + 14.77% HP |\n| Mid-air Attack 3 DMG | 2.20% HP |\n| Sword to Answer Waves' Call DMG | 1.86%*4 + 17.36% |\n| Sword to Answer Waves' Call Concerto Regen | 10 |\n| May Tempest Break the Tides DMG | 1.86%*2 + 7.03%*3 |\n| May Tempest Break the Tides Concerto Regen | 10 |\n| Resonance Skill Cooldown | 14 |\n| Heavy Attack STA Cost | 20 |\n| Enhanced Heavy Attack STA Cost | 20 |\n| Mid-air Attack 1 STA Cost | 5 |\n| Mid-air Attack 2 STA Cost | 5 |\n| Mid-air Attack 3 STA Cost | 30 |"
+      }
+    },
+    {
+      "id": "inherent-skill-a-hearts-truest-wishes",
+      "name": "A Heart's Truest Wishes",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "The healing received by all Resonators other than Cartethyia/Fleurdelys in the team is increased by **20%** and their resistance to interruption is enhanced. If Rover: Aero is in the team, Rover: Aero additionally restores **25 **Windstrings upon casting Omega Storm.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-winds-indelible-imprint",
+      "name": "Wind's Indelible Imprint",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Targets with **1 **to **3 **stacks of Aero Erosion take **30%** more DMG from Cartethyia and Fleurdelys. Targets with more than **3 **stacks of Aero Erosion additionally take** 10%** more DMG from Cartethyia and Fleurdelys for each stack of Aero Erosion they have, up to **3 **stacks.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-sword-to-mark-tides-trace",
+      "name": "Sword to Mark Tide's Trace",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "**Cartethyia - Sword to Mark Tide's Trace**\n\nDeal Aero DMG and inflict **2 **stacks of Aero Erosion on targets hit. Summon Sword of Discord's Shadow.\n\nUp to **1 **Sword of Discord's Shadow may exist at the same time, lasting **20s**.\n\nPress Normal Attack shortly after Cartethyia - Sword to Mark Tide's Trace to perform Basic Attack - Cartethyia Stage 2.\n\n**Fleurdelys - Sword to Call for Freedom**\n\nThrust forward to impale the target, dealing Aero DMG and restoring Conviction.\n\nPress Normal Attack shortly after Fleurdelys - Sword to Call for Freedom to cast Basic Attack - Fleurdelys Stage 2.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Sword to Mark Tide's Trace DMG | 1.05%*3 + 3.14% HP |\n| Sword to Call for Freedom DMG | 2.15% + 5.02% HP |\n| Sword to Mark Tide's Trace Concerto Regen | 10 |\n| Sword to Call for Freedom Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Sword to Mark Tide's Trace DMG | 1.43%*3 + 4.27% HP |\n| Sword to Call for Freedom DMG | 2.93% + 6.83% HP |\n| Sword to Mark Tide's Trace Concerto Regen | 10 |\n| Sword to Call for Freedom Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Sword to Mark Tide's Trace DMG | 2.08%*3 + 6.24% HP |\n| Sword to Call for Freedom DMG | 4.28% + 9.97% HP |\n| Sword to Mark Tide's Trace Concerto Regen | 10 |\n| Sword to Call for Freedom Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-winds-divine-blessing",
+      "name": "Wind's Divine Blessing",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "Aero DMG dealt by the active Resonator in the team other than Cartethyia/Fleurdelys to targets with Negative Statuses is Amplified by **17.5%** for **20s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/cartethyia/icon.webp",
+    "card": "/v1/images/characters/cartethyia/card.webp",
+    "splash": "/v1/images/characters/cartethyia/splash.webp",
+    "attribute": "/v1/images/characters/cartethyia/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/cartethyia",
+      "updatedAt": "December 31st, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Cartethyia",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Cartethyia/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 3078.4,
+      "atk": 65,
+      "def": 128
+    },
+    "50": {
+      "hp": 7648.64,
+      "atk": 165.25,
+      "def": 317
+    },
+    "90": {
+      "hp": 14800,
+      "atk": 312.5,
+      "def": 611.1
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "guardian-broadblade",
+  "name": "Guardian Broadblade",
+  "rarity": 3,
+  "type": "Broadblade",
+  "secondaryStatType": "ATK",
+  "passive": {
+    "name": "Consensus",
+    "descriptionMdByRank": {
+      "1": "Increases Basic Attack DMG and Heavy Attack DMG by **12%**.",
+      "2": "Increases Basic Attack DMG and Heavy Attack DMG by **15%**.",
+      "3": "Increases Basic Attack DMG and Heavy Attack DMG by **18%**.",
+      "4": "Increases Basic Attack DMG and Heavy Attack DMG by **21%**.",
+      "5": "Increases Basic Attack DMG and Heavy Attack DMG by **24%**."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/guardian-broadblade/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Guardian%20Broadblade"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 67
+    },
+    "50": {
+      "atk": 168
+    },
+    "90": {
+      "atk": 325
+    }
+  }
+}

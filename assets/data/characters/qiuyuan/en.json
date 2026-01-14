@@ -1,0 +1,139 @@
+{
+  "id": "qiuyuan",
+  "name": "Qiuyuan",
+  "rarity": 5,
+  "element": "Aero",
+  "weaponType": "Sword",
+  "skills": [
+    {
+      "id": "basic-attack-inkwash",
+      "name": "Inkwash",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack**\n\nPerform up to **3** consecutive attacks, dealing Aero DMG.\n\n**Heavy Attack**\n\nConsume STA to attack the target, dealing Aero DMG. Press Normal Attack within a certain period of time after casting this skill to perform Basic Attack Thus Spoke the Blade: Inkwash Stage 4.\n\n**Mid-air Attack**\n\nConsume STA to perform Plunging Attack, dealing Aero DMG.\n\n**Dodge Counter**\n\nPress Normal Attack right after a successful Dodge to attack the target, dealing Aero DMG, considered as Heavy Attack.\n\nMoments after a Basic Attack or Heavy Attack, Qiuyuan becomes immune to the next instance of DMG he takes and casts Dodge Counter upon being attacked, dealing Aero DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 21.00% |\n| Stage 2 DMG | 17.50%+17.50% |\n| Stage 3 DMG | 12.39%+12.39%+12.39%+12.39%+33.04% |\n| Mid-air Attack DMG | 58.80% |\n| Heavy Attack DMG | 83.30% |\n| Dodge Counter DMG | 98.00%+14.00%*3 |\n| Mid-air Attack STA Cost | 30 |\n| Heavy Attack STA Cost | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 28.58% |\n| Stage 2 DMG | 23.82%+23.82% |\n| Stage 3 DMG | 16.87%+16.87%+16.87%+16.87%+44.97% |\n| Mid-air Attack DMG | 80.02% |\n| Heavy Attack DMG | 113.36% |\n| Dodge Counter DMG | 133.36%+19.06%*3 |\n| Mid-air Attack STA Cost | 30 |\n| Heavy Attack STA Cost | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 41.76% |\n| Stage 2 DMG | 34.80%+34.80% |\n| Stage 3 DMG | 24.64%+24.64%+24.64%+24.64%+65.69% |\n| Mid-air Attack DMG | 116.91% |\n| Heavy Attack DMG | 165.61% |\n| Dodge Counter DMG | 194.84%+27.84%*3 |\n| Mid-air Attack STA Cost | 30 |\n| Heavy Attack STA Cost | 20 |"
+      }
+    },
+    {
+      "id": "resonance-skill-through-the-groves",
+      "name": "Through the Groves",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "Press Resonance Skill to dash forward for a distance, dealing Aero DMG, considered as Echo Skill DMG. If Resonance Skill is cast upon being attacked by an enemy target, Qiuyuan becomes immune to this instance of DMG and stagnates nearby enemies, while gaining immunity to interruption during this Resonance Skill.\n\nSwitching to other Resonators removes the Stagnation effect from enemies.\n\n**Undaunted Wayfarer**\n\nHold Resonance Skill to dash forward for a distance at the cost of STA, dealing Aero DMG to the target, considered as Echo Skill DMG.\n\nIf there are no targets nearby, Qiuyuan will leap up and dash through the air by continuously consuming STA until it runs out. Release Resonance Skill to immediately end the dash and land. If there are targets nearby when Qiuyuan lands, deal Aero DMG to nearby targets, considered as Echo Skill DMG. This skill can be cast in mid-air.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 36.14%*3 |\n| Undaunted Wayfarer DMG | 16.26%+16.26%*3+43.36% |\n| Cooldown | 14s |\n| Concerto Regen | 10 |\n| Undaunted Wayfarer Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 49.18%*3 |\n| Undaunted Wayfarer DMG | 22.13%+22.13%*3+59.01% |\n| Cooldown | 14s |\n| Concerto Regen | 10 |\n| Undaunted Wayfarer Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 71.84%*3 |\n| Undaunted Wayfarer DMG | 32.33%+32.33%*3+86.21% |\n| Cooldown | 14s |\n| Concerto Regen | 10 |\n| Undaunted Wayfarer Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-sundering-strike",
+      "name": "Sundering Strike",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Deal Aero DMG to targets within range, considered as Echo Skill DMG.\n\nFor every **1%** of Qiuyuan's Crit. Rate over **50%**, this skill increases the Crit. DMG of all nearby active Resonators in the team by **2%** for **30s**, up to **30%**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 400.00% |\n| Cooldown | 25s |\n| Resonance Energy Cost | 125 |\n| Concerto Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 544.32% |\n| Cooldown | 25s |\n| Resonance Energy Cost | 125 |\n| Concerto Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 795.24% |\n| Cooldown | 25s |\n| Resonance Energy Cost | 125 |\n| Concerto Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-verdant-edge",
+      "name": "Verdant Edge",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "**Basic Attack - Thus Spoke the Blade: Inkwash**\n\nWhen Qiuyuan reaches **200 **points of Swordster's Soliloquy, his Basic Attack is replaced with Basic Attack Thus Spoke the Blade: Inkwash, which chains together up to **4 **consecutive strikes, dealing Aero DMG, considered as Heavy Attack DMG.\n\n**Bamboo's Shade**\n\nWhen Qiuyuan reaches **400 **points of Swordster's Soliloquy, he gains the Bamboo's Shade effect, granting all nearby active Resonators in the team **30% **Echo Skill DMG Bonus for **30s**.\n\n**Inksplash of Mind**\n\nWhen Swordster's Soliloquy is full, Qiuyuan enters the Inksplash of Mind state for **8s**, during which Heavy Attack is replaced with Heavy Attack Thus Spoke the Blade: To Save.\n\nIn this state, hold Normal Attack to consume Swordster's Soliloquy to perform Heavy Attack Thus Spoke the Blade: To Teach, Thus Spoke the Blade: To Save, and Thus Spoke the Blade: To Sacrifice in order, dealing Aero DMG, considered as Heavy Attack DMG.\n\n- Performing Thus Spoke the Blade: To Teach, Thus Spoke the Blade: To Save, or Thus Spoke the Blade: To Sacrifice is considered as performing Echo Skill.\n- Inksplash of Mind ends when Swordster's Soliloquy is used up.\n\n**Swordster's Soliloquy**\n\nQiuyuan can hold up to **600 **points of Swordster's Soliloquy.\n\n- **100 **points of Swordster's Soliloquy is obtained when performing Basic Attack Stage 3.\n- **100 **points of Swordster's Soliloquy is obtained when performing each stage of Basic Attack Thus Spoke the Blade: Inkwash.\n- **100 **points of Swordster's Soliloquy is obtained when performing Dodge Counter.\n- **400 **points of Swordster's Soliloquy is obtained when performing Intro Skill.\n- Swordster's Soliloquy cannot be obtained in the Inksplash of Mind state.\n- Swordster's Soliloquy is cleared when the Inksplash of Mind state ends.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Thus Spoke the Blade: Inkwash Stage 1 DMG | 30.00%+30.00% |\n| Thus Spoke the Blade: Inkwash Stage 2 DMG | 27.99%+27.99%+37.32% |\n| Thus Spoke the Blade: Inkwash Stage 3 DMG | 7.33%+7.33%*4+36.65% |\n| Thus Spoke the Blade: Inkwash Stage 4 DMG | 86.70% |\n| Thus Spoke the Blade: To Teach DMG | 45.99%+45.99%+45.99%+45.99%+45.99% |\n| Thus Spoke the Blade: To Save DMG | 19.34%*3+15.82%+15.82%+15.82% |\n| Thus Spoke the Blade: To Sacrifice DMG | 109.50% |",
+        "5": "| Name | Value |\n| --- | --- |\n| Thus Spoke the Blade: Inkwash Stage 1 DMG | 40.83%+40.83% |\n| Thus Spoke the Blade: Inkwash Stage 2 DMG | 38.09%+38.09%+50.79% |\n| Thus Spoke the Blade: Inkwash Stage 3 DMG | 9.98%+9.98%*4+49.88% |\n| Thus Spoke the Blade: Inkwash Stage 4 DMG | 117.99% |\n| Thus Spoke the Blade: To Teach DMG | 62.59%+62.59%+62.59%+62.59%+62.59% |\n| Thus Spoke the Blade: To Save DMG | 26.31%*3+21.53%+21.53%+21.53% |\n| Thus Spoke the Blade: To Sacrifice DMG | 149.01% |",
+        "10": "| Name | Value |\n| --- | --- |\n| Thus Spoke the Blade: Inkwash Stage 1 DMG | 59.65%+59.65% |\n| Thus Spoke the Blade: Inkwash Stage 2 DMG | 55.65%+55.65%+74.20% |\n| Thus Spoke the Blade: Inkwash Stage 3 DMG | 14.58%+14.58%*4+72.87% |\n| Thus Spoke the Blade: Inkwash Stage 4 DMG | 172.37% |\n| Thus Spoke the Blade: To Teach DMG | 91.44%+91.44%+91.44%+91.44%+91.44% |\n| Thus Spoke the Blade: To Save DMG | 38.44%*3+31.45%+31.45%+31.45% |\n| Thus Spoke the Blade: To Sacrifice DMG | 217.70% |"
+      }
+    },
+    {
+      "id": "inherent-skill-quietude-within",
+      "name": "Quietude Within",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Qiuyuan obtains Quietude Within for **10s **upon entering the Inksplash of Mind state. This effect can be triggered once every **22s**.\n\nHeavy Attack Thus Spoke the Blade: To Teach, Thus Spoke the Blade: To Save, and Thus Spoke the Blade: To Sacrifice deal **50% **more DMG. Thus Spoke the Blade: To Sacrifice additionally restores **30 **points of Concerto Energy on hit.\n\nThis effect ends early when Qiuyuan is switched off the field.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-drink-away-woes-age-old",
+      "name": "Drink Away Woes Age-Old",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "When casting Echo Skill, Qiuyuan's bamboo flask absorbs the overflowing energy and brews it into Flowing Panacea.\n\nThe next time Swordster's Soliloquy is obtained, the Flowing Panacea is consumed to gain **10% **ATK increase for **20s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-attack-the-must-defend",
+      "name": "Attack the Must-Defend",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target, dealing Aero DMG, considered as Heavy Attack DMG.\n\nWithin a certain period of time after casting this skill, press Normal Attack to perform Basic Attack Thus Spoke the Blade: Inkwash Stage 3.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill Damage | 4.80%*5+24.00%+72.00% |\n| Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill Damage | 6.54%*5+32.66%+97.98% |\n| Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill Damage | 9.55%*5+47.72%+143.15% |\n| Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-strike-before-ready",
+      "name": "Strike Before Ready",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target, dealing Aero DMG equal to **100% **of Qiuyuan's ATK, considered as Echo Skill DMG.\n\nGrant **50% **Echo Skill DMG Amplification to the incoming Resonator, lasting for **14s **or until the Resonator is switched out.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/qiuyuan/icon.webp",
+    "card": "/v1/images/characters/qiuyuan/card.webp",
+    "splash": "/v1/images/characters/qiuyuan/splash.webp",
+    "attribute": "/v1/images/characters/qiuyuan/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/qiuyuan",
+      "updatedAt": "December 31st, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Qiuyuan",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Qiuyuan/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 2545.4,
+      "atk": 78,
+      "def": 250.88
+    },
+    "50": {
+      "hp": 6324.34,
+      "atk": 198.3,
+      "def": 621.32
+    },
+    "90": {
+      "hp": 12237.5,
+      "atk": 375,
+      "def": 1197.76
+    }
+  }
+}

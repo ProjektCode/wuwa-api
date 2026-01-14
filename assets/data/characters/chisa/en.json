@@ -1,0 +1,139 @@
+{
+  "id": "chisa",
+  "name": "Chisa",
+  "rarity": 5,
+  "element": "Havoc",
+  "weaponType": "Broadblade",
+  "skills": [
+    {
+      "id": "basic-attack-reign-of-silence",
+      "name": "Reign of Silence",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack**\n\n- Perform up to **2 **consecutive attacks, dealing Havoc DMG.\n- Press Normal Attack shortly after casting Basic Attack Stage 2 to cast Rending Lunge.\n\n**Rending Lunge**\n\n- Deal Havoc DMG.\n- Press Normal Attack shortly after casting this skill on the ground to cast Death Snip.\n- Use Normal Attack shortly after casting this skill in mid-air to cast Hanging Finality.\n\n**Death Snip**\n\n- Open the scissors, dealing Havoc DMG. After a while, the scissors snip, dealing Havoc DMG and restoring HP for all nearby Resonators in the team.\n- Use Normal Attack during this skill to deal additional Havoc DMG. Use Normal Attack again to immediately snip the target.\n- The skill DMG is considered Resonance Liberation DMG.\n- Press Normal Attack shortly after casting Death Snip to cast Thread Withdrawn.\n\n**Thread Withdrawn**\n\n- Deal Havoc DMG.\n- Can trigger successful Dodges within a certain time after being cast.\n\n**Heavy Attack**\n\n- Leap into the air and consume STA to attack the target, dealing Havoc DMG.\n- This skill cannot be cast while in Chainsaw Mode.\n- Perform the following actions within a certain time after casting this skill to cast Hanging Finality:\n  - Press Normal Attack;\n  - Cast Lifethread - Glide and press Normal Attack before landing.\n- Hold Normal Attack before landing after casting Heavy Attack to cast Heavy Attack - Severed Facet.\n\n**Mid-air Attack**\n\n- Consume STA to perform Plunging Attack, dealing Havoc DMG.\n- While not in Chainsaw Mode, press Normal Attack within a certain time after casting Mid-air Attack to cast Basic Attack Stage 2.\n\n**Heavy Attack - Severed Facet**\n\n- Deal Havoc DMG.\n- Use Normal Attack within a certain time after casting Heavy Attack - Severed Facet to cast Hanging Finality.\n- If interrupted, Heavy Attack - Severed Facet can be cast again by holding Normal Attack before landing. This effect can be triggered once only before landing.\n\n**Hanging Finality**\n\n- Consume STA to perform Plunging Attack, dealing Havoc DMG.\n- Press Normal Attack shortly after casting this skill on the ground to cast Death Snip.\n\n**Dodge Counter**\n\n- Press Normal Attack right after a successful Dodge to attack the target, dealing Havoc DMG.\n- Press Normal Attack shortly after casting this skill to cast Rending Lunge.\n\n**Dodge Counter - Eye of Unraveling: Retraction**\n\n- Hold Dodge after a successful Dodge on the ground to cast Dodge Counter - Eye of Unraveling: Retraction to attack and Stagnate the target, dealing Havoc DMG.\n  - While not in Chainsaw Mode, after casting this skill, Press Normal Attack on the ground or use Normal Attack in mid-air to cast Rending Lunge. This effect is removed when Chisa enters Chainsaw Mode.\n  - While in Chainsaw Mode, press Normal Attack shortly after casting this skill to cast Sawring - Blitz Stage 3.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 8.40%*2 |\n| Stage 2 DMG | 4.80%+9.60%+33.60% |\n| Death Snip DMG | 15.00%+7.50%+52.48% |\n| Death Snip Additional DMG | 24.03% |\n| Death Snip Healing | 600+24.00% ATK |\n| Thread Withdrawn DMG | 5.11%*2+23.82% |\n| Rending Lunge DMG | 7.61%*4+45.61% |\n| Heavy Attack DMG | 18.00%*2 |\n| Mid-air Attack DMG | 37.20% |\n| Severed Facet DMG | 22.50%*2 |\n| Hanging Finality DMG | 6.00%+12.00%*2+30.00% |\n| Dodge Counter DMG | 12.00%+24.00%+84.00% |\n| Eye of Unraveling - Retraction DMG | 90.00% |\n| Heavy Attack STA Cost | 20 |\n| Mid-air Attack STA Cost | 30 |\n| Severed Facet STA Cost | 10 |\n| Hanging Finality STA Cost | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 11.44%*2 |\n| Stage 2 DMG | 6.54%+13.07%+45.73% |\n| Death Snip DMG | 20.41%+10.21%+71.42% |\n| Death Snip Additional DMG | 32.71% |\n| Death Snip Healing | 948+29.28% ATK |\n| Thread Withdrawn DMG | 6.95%*2+32.41% |\n| Rending Lunge DMG | 10.35%*4+62.06% |\n| Heavy Attack DMG | 24.50%*2 |\n| Mid-air Attack DMG | 50.63% |\n| Severed Facet DMG | 30.62%*2 |\n| Hanging Finality DMG | 8.17%+16.33%*2+40.83% |\n| Dodge Counter DMG | 16.33%+32.66%+114.31% |\n| Eye of Unraveling - Retraction DMG | 122.48% |\n| Heavy Attack STA Cost | 20 |\n| Mid-air Attack STA Cost | 30 |\n| Severed Facet STA Cost | 10 |\n| Hanging Finality STA Cost | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 16.71%*2 |\n| Stage 2 DMG | 9.55%+19.09%+66.81% |\n| Death Snip DMG | 29.81%+14.91%+104.34% |\n| Death Snip Additional DMG | 47.78% |\n| Death Snip Healing | 1140+50.40% ATK |\n| Thread Withdrawn DMG | 10.15%*2+47.35% |\n| Rending Lunge DMG | 15.11%*4+90.66% |\n| Heavy Attack DMG | 35.79%*2 |\n| Mid-air Attack DMG | 73.96% |\n| Severed Facet DMG | 44.74%*2 |\n| Hanging Finality DMG | 11.93%+23.86%*2+59.65% |\n| Dodge Counter DMG | 23.86%+47.72%+167.01% |\n| Eye of Unraveling - Retraction DMG | 178.93% |\n| Heavy Attack STA Cost | 20 |\n| Mid-air Attack STA Cost | 30 |\n| Severed Facet STA Cost | 10 |\n| Hanging Finality STA Cost | 10 |"
+      }
+    },
+    {
+      "id": "resonance-skill-fractured-composition",
+      "name": "Fractured Composition",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "**Eye of Unraveling**\n\n- Stagnate and deal Havoc DMG.\n  - While not in Chainsaw Mode, after casting this skill, press Normal Attack on the ground or use Normal Attack in mid-air to cast Rending Lunge. This effect is removed when Chisa enters Chainsaw Mode.\n  - While in Chainsaw Mode and on the ground, press Normal Attack shortly after casting this skill to cast Sawring - Blitz Stage 2.\n  - Can be cast in mid-air.\n\n**Serrated Loop**\n\n- While on the ground and Ring of Chainsaw is full, Resonance Skill is replaced with Serrated Loop.\n  Stagnate targets, and deal Havoc DMG and pull in nearby targets.\n- Casting this skill sends Chisa into Chainsaw Mode and replaces Resonance Skill with Eye of Unraveling.\n- Press Normal Attack shortly after casting this skill to cast Sawring - Blitz Stage 2.\n- Hold Resonance Skill while casting this skill to continuously attack and pull in nearby targets. Release the Resonance Skill button in the duration or keep holding it for a certain period of time to cast Sawring - Blitz Stage 1.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Eye of Unraveling DMG | 18.00% |\n| Serrated Loop DMG | 8.78%*8 |\n| Serrated Loop Hold DMG | 3.76%*16 |\n| Eye of Unraveling Cooldown | 12s |",
+        "5": "| Name | Value |\n| --- | --- |\n| Eye of Unraveling DMG | 24.50% |\n| Serrated Loop DMG | 11.94%*8 |\n| Serrated Loop Hold DMG | 5.11%*16 |\n| Eye of Unraveling Cooldown | 12s |",
+        "10": "| Name | Value |\n| --- | --- |\n| Eye of Unraveling DMG | 35.79% |\n| Serrated Loop DMG | 17.45%*8 |\n| Serrated Loop Hold DMG | 7.46%*16 |\n| Eye of Unraveling Cooldown | 12s |"
+      }
+    },
+    {
+      "id": "resonance-liberation-moment-of-nihility",
+      "name": "Moment of Nihility",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Deal Havoc DMG and recover HP for all nearby Resonators in the team.\n\nCasting this skill sends Chisa into Woven Myriad - Convergence for **15s**.\n\nWhile not in Chainsaw Mode, press Normal Attack shortly after casting this skill to cast Basic Attack Stage 2.\n\nCan be cast in mid-air close to the ground.\n\n**Woven Myriad - Convergence**\n\n- The DMG Multipliers of Sawring - Blitz, Chainsaw Mode - Dodge Counter, and Sawring - Eradication are increased by **120%**.\n- The bonus DMG Multiplier for Sawring - Eradication granted by Sawring- Blitz and Chainsaw Mode - Dodge Counter when Ring of Chainsaw is consumed additionally increases by **120%**.\n- Casting Sawring - Eradication ends Woven Myriad - Convergence.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 480.00% |\n| Healing | 1400+56.00% ATK |\n| Cooldown | 25s |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 653.19% |\n| Healing | 2212+68.32% ATK |\n| Cooldown | 25s |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 954.29% |\n| Healing | 2660+117.60% ATK |\n| Cooldown | 25s |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-sight-of-unraveling-oblivion",
+      "name": "Sight of Unraveling - Oblivion",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "**Unseen Snare**\n\n- Chisa inflicts Unseen Snare on the target for **30s **in the following 4 ways:\n  - Hitting a target with Resonance Skill.\n  - Hitting a target within a certain period of time after casting Serrated Loop.\n  - Hitting a target with Dodge Counter - Eye of Unraveling: Retraction.\n  - Locking on to a target.\n- When targets marked by Unseen Snare take direct damage from Resonators, Chisa inflicts **1 **stack of Havoc Bane on them. This effect can be triggered up to once every **2s**.\n\n**Thread of Bane**\n\n- When dealing damage to targets affected by Unseen Snare, ignore **18% **of their DEF.\n\n**Chainsaw Mode**\n\n- While in Chainsaw Mode, Chisa unlocks Sawring - Blitz, Sawring - Eradication, Chainsaw Mode - Dodge Counter.\n- Sawring - Blitz and Chainsaw Mode - Dodge Counter consume Ring of Chainsaw on hit.\n\n**Sawring - Blitz**\n\n- Sawring - Blitz chains up to **3 **consecutive attacks, dealing Havoc DMG.\n- Press Normal Attack to start the combo from Sawring - Blitz Stage 1. Hold Normal Attack to start from Sawring - Blitz Stage 2.\n- Hold Normal Attack while casting Sawring - Blitz Stage 2 to continuously attack the target. Sawring - Blitz Stage 2 is automatically followed by Sawring - Blitz Stage 3.\n- While casting Sawring - Blitz Stage 2, release the Normal Attack button or Dodge without directional input to automatically cast Sawring - Blitz Stage 2: Discordance, dealing Havoc DMG. Shortly after casting Sawring - Blitz Stage 2: Discordance, successful Dodges can be triggered.\n- Press Normal Attack shortly after casting Sawring - Blitz Stage 2: Discordance to cast Sawring - Blitz Stage 3.\n- While casting Sawring - Blitz Stage 3, hold Normal Attack to continuously attack the target. Sawring - Blitz Stage 3 is automatically followed by Sawring - Eradication.\n- Release Normal Attack during Sawring - Blitz Stage 3 to automatically cast Sawring - Blitz Stage 3: Falltone, dealing Havoc DMG.\n- Sawring - Blitz DMG is considered Resonance Liberation DMG.\n\n**Chainsaw Mode - Dodge Counter**\n\n- While in Chainsaw Mode, press Normal Attack following a successful Dodge to cast Chainsaw Mode - Dodge Counter, dealing Havoc DMG.\n- Press Normal Attack following Chainsaw Mode - Dodge Counter to cast Sawring - Blitz Stage 3.\n  Hold Normal Attack while casting Chainsaw Mode - Dodge Counter to sustain the attack. When Chainsaw Mode - Dodge Counter ends, cast Sawring - Blitz Stage 3 automatically.\n- Release the Normal Attack button or Dodge without directional input while casting Chainsaw Mode - Dodge Counter to cast Sawring - Blitz Stage 2: Discordance automatically.\n- Chainsaw Mode - Dodge Counter deals Resonance Liberation DMG.\n\n**Sawring - Eradication**\n\n- While in Chainsaw Mode, Chisa casts Sawring - Eradication in the following 2 ways:\n  - Press Normal Attack after casting Sawring - Blitz Stage 3: Falltone.\n  - Press Normal Attack after consuming all Ring of Chainsaw with Sawring - Blitz or Chainsaw Mode - Dodge Counter.\n- Attacking targets with Sawring - Eradication deals Havoc DMG and grants Shields to all nearby Resonators in the team for **30s**.\n- The skill DMG is considered Resonance Liberation DMG.\n- Every 1 point of Ring of Chainsaw consumed by Sawring - Blitz and Chainsaw Mode - Dodge Counter increases the DMG Multiplier of the next Sawring - Eradication. Up to **100 **points will be counted toward this effect.\n- Casting this skill consumes all Ring of Chainsaw and ends Chainsaw Mode.\n\n**Chainsaw Fever**\n\n- While in Chainsaw Mode, Lifethread - Jetstream is replaced with Chainsaw Fever.\n  Chainsaw Fever is at **100% **by default.\n- When Chisa goes on for a period without dealing any damage, Chainsaw Fever will rapidly deplete. Once it reaches 0, Chisa enters the Burnout State and exits Chainsaw Mode.\n- While in Chainsaw Mode, Chisa resets Chainsaw Fever when dealing damage or when casting Resonance Liberation Moment of Nihility, Intro Skill Reverberance - Return and Sawring - Blitz Stage 3: Falltone.\n- While in the Burnout State, Ring of Chainsaw will rapidly deplete. Once it reaches 0, Chisa exits the Burnout State.\n- When in Burnout State, Chisa exits the state upon dealing damage, or casting Resonance Liberation Moment of Nihility and Intro Skill Reverberance - Return.\n\n**Lifethread - Glide**\n\n- When Chisa is not in Chainsaw Mode and has more than **10 **points of Lifethread - Jetstream, she can consume **50 **points of Lifethread - Jetstream to cast Lifethread - Glide in the following 5 ways:\n  - Press Dodge in mid-air before landing after casting Heavy Attack.\n  - While in mid-air, press Dodge before landing after casting Resonance Skill Eye of Unraveling or Rending Lunge.\n  - Dodge forward shortly after casting Thread Withdrawn.\n  - Press Dodge before landing when launched into mid-air.\n  - Press Dodge before landing after casting Lifethread - Glide.\n- Casting this skill can pull in nearby enemies marked by Unseen Snare.\n- During the skill, hold Dodge to glide a short distance on the weapon.\n- Can trigger successful Dodges within a certain time after casting this skill.\n\n**Ring of Chainsaw**\n\n- Chisa can hold up to **100 **points of Ring of Chainsaw.\n- Hitting a target with Normal Attack and Resonance Skill Eye of Unraveling grants Ring of Chainsaw.\n- Casting Resonance Liberation Moment of Nihility grants **40 **points of Ring of Chainsaw.\n- Casting Intro Skill Reverberance - Return grants **20 **points of Ring of Chainsaw.\n\n**Lifethread - Jetstream**\n\n- Chisa can hold up to **100** points of Lifethread - Jetstream.\n- Chisa continuously obtains Lifethread - Jetstream over time.\n- Chisa obtains **100 **points of Lifethread - Jetstream upon defeating a target.\n- Exiting Chainsaw Mode resets Lifethread - Jetstream to the max limit.\n- Chisa cannot obtain Lifethread - Jetstream passively for a short period of time after casting Lifethread - Glide.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Sawring - Blitz Stage 1 DMG | 5.78%*6 |\n| Sawring - Blitz Stage 2 DMG | 5.35%*8 |\n| Sawring - Blitz Stage 2 Hold DMG | 5.35%*10 |\n| Sawring - Blitz Stage 2: Discordance DMG | 1.80%*3 |\n| Sawring - Blitz Stage 3 DMG | 8.04%*8 |\n| Sawring - Blitz Stage 3 Hold DMG | 8.04%*6 |\n| Sawring - Blitz Stage 3: Falltone DMG | 1.80%*3 |\n| Chainsaw Mode - Dodge Counter DMG | 5.35%*8 |\n| Chainsaw Mode - Dodge Counter Hold DMG | 5.35%*10 |\n| Sawring - Eradication DMG | 25.92%+103.68% |\n| Bonus DMG Multiplier per Ring of Chainsaw | 1.30% |\n| Sawring - Eradication Shield | 2000+80.00% ATK |\n| Sawring - Eradication Concerto Regen | 45 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Sawring - Blitz Stage 1 DMG | 7.86%*6 |\n| Sawring - Blitz Stage 2 DMG | 7.29%*8 |\n| Sawring - Blitz Stage 2 Hold DMG | 7.29%*10 |\n| Sawring - Blitz Stage 2: Discordance DMG | 2.45%*3 |\n| Sawring - Blitz Stage 3 DMG | 10.94%*8 |\n| Sawring - Blitz Stage 3 Hold DMG | 10.94%*6 |\n| Sawring - Blitz Stage 3: Falltone DMG | 2.45%*3 |\n| Chainsaw Mode - Dodge Counter DMG | 7.29%*8 |\n| Chainsaw Mode - Dodge Counter Hold DMG | 7.29%*10 |\n| Sawring - Eradication DMG | 35.28%+141.09% |\n| Bonus DMG Multiplier per Ring of Chainsaw | 1.78% |\n| Sawring - Eradication Shield | 3160+97.60% ATK |\n| Sawring - Eradication Concerto Regen | 45 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Sawring - Blitz Stage 1 DMG | 11.49%*6 |\n| Sawring - Blitz Stage 2 DMG | 10.64%*8 |\n| Sawring - Blitz Stage 2 Hold DMG | 10.64%*10 |\n| Sawring - Blitz Stage 2: Discordance DMG | 3.58%*3 |\n| Sawring - Blitz Stage 3 DMG | 15.98%*8 |\n| Sawring - Blitz Stage 3 Hold DMG | 15.98%*6 |\n| Sawring - Blitz Stage 3: Falltone DMG | 3.58%*3 |\n| Chainsaw Mode - Dodge Counter DMG | 10.64%*8 |\n| Chainsaw Mode - Dodge Counter Hold DMG | 10.64%*10 |\n| Sawring - Eradication DMG | 51.54%+206.13% |\n| Bonus DMG Multiplier per Ring of Chainsaw | 2.59% |\n| Sawring - Eradication Shield | 3800+168.00% ATK |\n| Sawring - Eradication Concerto Regen | 45 |"
+      }
+    },
+    {
+      "id": "inherent-skill-inescapable-fate",
+      "name": "Inescapable Fate",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "When a Resonator in the team defeats a target marked by Unseen Snare, the Cooldown of Chisa's Resonance Skill Eye of Unraveling is reset, triggered up to once every **3s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-all-ends-here",
+      "name": "All Ends Here",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Casting Intro Skill Reverberance - Return or Resonance Liberation Moment of Nihility grants **20% **Havoc DMG Bonus and **20%** Healing Bonus for **12s**.\n\nWhen Resonators in the team with Thread of Bane defeat a target marked by Unseen Snare, Chisa gains Sight of Unraveling, lasting **3s**.\n\nWhile in Sight of Unraveling, Chisa inflicts Unseen Snare that lasts for **30s **on the targets damaged by Resonators in the team with Thread of Bane.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-reverberance-return",
+      "name": "Reverberance - Return",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target, dealing Havoc DMG.\n\nWhile not in Chainsaw Mode, press Normal Attack shortly after casting this skill to cast Basic Attack Stage 2.\n\nWhile in Chainsaw Mode, use Normal Attack shortly after casting this skill to cast Sawring - Blitz Stage 2.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 48.00% |\n| Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 65.32% |\n| Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 95.43% |\n| Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-unraveling-law-zero",
+      "name": "Unraveling - Law Zero",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "Grant Resonant Thread of Closure to all nearby Resonators in the team for **20s**.\n\nWhile in Resonant Thread of Closure:\n\n- When an attack hits, increase the max stacks of Negative Status and Electro Rage the target can receive by **3 **for **15s**. Unstackable.\n- Inflicting Negative Status or dealing Negative Status DMG grants Thread of Bane for **15s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/chisa/icon.webp",
+    "card": "/v1/images/characters/chisa/card.webp",
+    "splash": "/v1/images/characters/chisa/splash.webp",
+    "attribute": "/v1/images/characters/chisa/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/chisa",
+      "updatedAt": "December 31st, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Chisa",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Chisa/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 2241.2,
+      "atk": 91,
+      "def": 238.08
+    },
+    "50": {
+      "hp": 5568.52,
+      "atk": 231.35,
+      "def": 589.62
+    },
+    "90": {
+      "hp": 10775,
+      "atk": 437.5,
+      "def": 1136.65
+    }
+  }
+}

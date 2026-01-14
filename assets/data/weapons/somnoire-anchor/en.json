@@ -1,0 +1,37 @@
+{
+  "id": "somnoire-anchor",
+  "name": "Somnoire Anchor",
+  "rarity": 4,
+  "type": "Sword",
+  "secondaryStatType": "ATK",
+  "passive": {
+    "name": "Meow!",
+    "descriptionMdByRank": {
+      "1": "Gain 1 stack of Hiss when dealing damage to the target, with 1 stack generated every 1s.\nHiss: each stack increases the wielder's ATK by **2%** for 3s, stacking up to 10 times.\nSwitching off the wielder clears all stacks. Gaining 10 stacks increases the wielder's Crit. Rate by **6%**.",
+      "2": "Gain 1 stack of Hiss when dealing damage to the target, with 1 stack generated every 1s.\nHiss: each stack increases the wielder's ATK by **2.5%** for 3s, stacking up to 10 times.\nSwitching off the wielder clears all stacks. Gaining 10 stacks increases the wielder's Crit. Rate by **7.5%**.",
+      "3": "Gain 1 stack of Hiss when dealing damage to the target, with 1 stack generated every 1s.\nHiss: each stack increases the wielder's ATK by **3%** for 3s, stacking up to 10 times.\nSwitching off the wielder clears all stacks. Gaining 10 stacks increases the wielder's Crit. Rate by **9%**.",
+      "4": "Gain 1 stack of Hiss when dealing damage to the target, with 1 stack generated every 1s.\nHiss: each stack increases the wielder's ATK by **3.5%** for 3s, stacking up to 10 times.\nSwitching off the wielder clears all stacks. Gaining 10 stacks increases the wielder's Crit. Rate by **10.5%**.",
+      "5": "Gain 1 stack of Hiss when dealing damage to the target, with 1 stack generated every 1s.\nHiss: each stack increases the wielder's ATK by **4%** for 3s, stacking up to 10 times.\nSwitching off the wielder clears all stacks. Gaining 10 stacks increases the wielder's Crit. Rate by **12%**."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/somnoire-anchor/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Somnoire%20Anchor"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 96
+    },
+    "50": {
+      "atk": 239
+    },
+    "90": {
+      "atk": 462
+    }
+  }
+}

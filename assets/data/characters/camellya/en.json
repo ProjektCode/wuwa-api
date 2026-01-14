@@ -1,0 +1,139 @@
+{
+  "id": "camellya",
+  "name": "Camellya",
+  "rarity": 5,
+  "element": "Havoc",
+  "weaponType": "Sword",
+  "skills": [
+    {
+      "id": "basic-attack-burgeoning",
+      "name": "Burgeoning",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack**\n\nPerform up to **5 **consecutive attacks, dealing Havoc DMG.\n\nAfter performing Basic Attack Stage 3 or Heavy Attack Pruning, hold Normal Attack Button to continuously strike the target, dealing Havoc DMG. \n\nBasic Attack Stage 4 is automatically followed by Basic Attack Stage 5.\n\n**Heavy Attack**\n\nConsume STA to attack the target, dealing Havoc DMG.\n\n**Plunging Attack**\n\nConsume STA to perform Plunging Attack, dealing Havoc DMG.\n\n**Dodge Counter**\n\nUse Basic Attack right after a successful Dodge to attack the target, dealing Havoc DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Basic Attack 1 DMG | 31.45% |\n| Basic Attack 2 DMG | 23.38%*2 |\n| Basic Attack 3 DMG | 25.50%*3 |\n| Basic Attack 4 DMG | 12.42%*20 |\n| Basic Attack 5 DMG | 24.23%*4 |\n| Heavy Attack DMG | 44.33%*3 |\n| Mid-air Attack DMG | 33.00%*2 |\n| Dodge Counter DMG | 50.00%*3 |\n| Heavy Attack STA Cost | 25 |\n| Plunging Attack STA Cost | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Basic Attack 1 DMG | 42.80% |\n| Basic Attack 2 DMG | 31.81%*2 |\n| Basic Attack 3 DMG | 34.70%*3 |\n| Basic Attack 4 DMG | 16.91%*20 |\n| Basic Attack 5 DMG | 32.97%*4 |\n| Heavy Attack DMG | 60.33%*3 |\n| Mid-air Attack DMG | 44.91%*2 |\n| Dodge Counter DMG | 68.04%*3 |\n| Heavy Attack STA Cost | 25 |\n| Plunging Attack STA Cost | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Basic Attack 1 DMG | 62.53% |\n| Basic Attack 2 DMG | 46.48%*2 |\n| Basic Attack 3 DMG | 50.70%*3 |\n| Basic Attack 4 DMG | 24.70%*20 |\n| Basic Attack 5 DMG | 48.17%*4 |\n| Heavy Attack DMG | 88.14%*3 |\n| Mid-air Attack DMG | 65.61%*2 |\n| Dodge Counter DMG | 99.40%*3 |\n| Heavy Attack STA Cost | 25 |\n| Plunging Attack STA Cost | 30 |"
+      }
+    },
+    {
+      "id": "resonance-skill-valse-of-bloom-and-blight",
+      "name": "Valse of Bloom and Blight",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "**Crimson Blossom**\n\nAttack the target, dealing Havoc DMG (considered Basic Attack DMG), then enter Blossom Mode. \n\nThis attack can be performed in mid-air.\n\n**Blossom Mode**\n\n- Unable to move in Blossom Mode;\n- Basic Attack and Heavy Attack Pruning are replaced by Basic Attack Vining Waltz: chain together **4 **consecutive attacks, dealing Havoc DMG, considered Basic Attack DMG.\n- When performing Vining Waltz Stage 3, hold Normal Attack Button to cast Blazing Waltz that deals Havoc DMG before automatically performing Vining Waltz Stage 4.\n- Dodge Counter is replaced by Dodge Counter Atonement. Normal Attack Button right after a successful Dodge to attack the target, dealing Havoc DMG, considered Basic Attack DMG.\n- Resonance Skill is replaced by Resonance Skill Floral Ravage. Casting Floral Ravage deals Havoc DMG, considered Basic Attack DMG.\n- Resonance Skill Floral Ravage can be cast in mid-air.\n- Blossom Mode ends after casting Resonance Skill Floral Ravage.\n- Blossom Mode ends after using the Levitator.\n- Jump is replaced with Basic Attack Vining Ronde. Jump to attack the target at the cost of STA, dealing Havoc DMG (considered Basic Attack DMG). This ends the Blossom Mode.\n- Using Basic Attack Vining Waltz and Basic Attack Blazing Waltz in mid-air consumes STA.\n- Casting Resonance Skill Floral Ravage doesn't restore STA.\n- Consume STA continuously to stay suspended on the vines.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Crimson Blossom DMG | 57.15%*2 |\n| Vining Waltz 1 DMG | 48.45% |\n| Vining Waltz 2 DMG | 22.95%*2 |\n| Vining Waltz 3 DMG | 11.04%*6 |\n| Vining Waltz 4 DMG | 34.00%*3 |\n| Blazing Waltz DMG | 11.04%*19 |\n| Floral Ravage DMG | 26.46%*5 |\n| Vining Ronde DMG | 26.64%*3 |\n| Atonement DMG | 57.00%*2 |\n| Cooldown | 4 |\n| Crimson Blossom Concerto Regen | 7 |\n| Floral Ravage Concerto Regen | 7 |\n| Vining Waltz 1 STA Cost | 5 |\n| Vining Waltz 2 STA Cost | 5 |\n| Vining Waltz 3 STA Cost | 5 |\n| Vining Waltz 4 STA Cost | 5 |\n| Blazing Waltz STA Cost | 5 |\n| Vining Ronde STA Cost | 5 |\n| STA Cost Per Second When Suspended | 5 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Crimson Blossom DMG | 77.77%*2 |\n| Vining Waltz 1 DMG | 65.94% |\n| Vining Waltz 2 DMG | 31.24%*2 |\n| Vining Waltz 3 DMG | 15.03%*6 |\n| Vining Waltz 4 DMG | 46.27%*3 |\n| Blazing Waltz DMG | 15.03%*19 |\n| Floral Ravage DMG | 36.01%*5 |\n| Vining Ronde DMG | 36.24%*3 |\n| Atonement DMG | 77.57%*2 |\n| Cooldown | 4 |\n| Crimson Blossom Concerto Regen | 7 |\n| Floral Ravage Concerto Regen | 7 |\n| Vining Waltz 1 STA Cost | 5 |\n| Vining Waltz 2 STA Cost | 5 |\n| Vining Waltz 3 STA Cost | 5 |\n| Vining Waltz 4 STA Cost | 5 |\n| Blazing Waltz STA Cost | 5 |\n| Vining Ronde STA Cost | 5 |\n| STA Cost Per Second When Suspended | 5 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Crimson Blossom DMG | 113.62%*2 |\n| Vining Waltz 1 DMG | 96.33% |\n| Vining Waltz 2 DMG | 45.63%*2 |\n| Vining Waltz 3 DMG | 21.95%*6 |\n| Vining Waltz 4 DMG | 67.59%*3 |\n| Blazing Waltz DMG | 21.95%*19 |\n| Floral Ravage DMG | 52.61%*5 |\n| Vining Ronde DMG | 52.95%*3 |\n| Atonement DMG | 113.33%*2 |\n| Cooldown | 4 |\n| Crimson Blossom Concerto Regen | 7 |\n| Floral Ravage Concerto Regen | 7 |\n| Vining Waltz 1 STA Cost | 5 |\n| Vining Waltz 2 STA Cost | 5 |\n| Vining Waltz 3 STA Cost | 5 |\n| Vining Waltz 4 STA Cost | 5 |\n| Blazing Waltz STA Cost | 5 |\n| Vining Ronde STA Cost | 5 |\n| STA Cost Per Second When Suspended | 5 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-fervor-efflorescent",
+      "name": "Fervor Efflorescent",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Attack the target, dealing Havoc DMG.\n\nThis attack can be performed in mid-air.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 605.00% |\n| Cooldown | 25 |\n| Resonance Energy Cost | 125 |\n| Concerto Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 823.29% |\n| Cooldown | 25 |\n| Resonance Energy Cost | 125 |\n| Concerto Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 1202.81% |\n| Cooldown | 25 |\n| Resonance Energy Cost | 125 |\n| Concerto Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-vegetative-universe",
+      "name": "Vegetative Universe",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "Hitting a target with Normal Attack, Basic Attack Vining Waltz, Basic Attack Blazing Waltz, Basic Attack Vining Ronde, Dodge Counter Atonement , Resonance Skill Crimson Blossom, and Resonance Skill Floral Ravage consumes Crimson Pistils. The Energy Regen Multiplier of this attack is increased by **150%**.\n\nConsuming **10 **Crimson Pistils recovers **4 **Concerto Energy and obtains **1 **Crimson Bud(s). Each bud lasts for **15s**, stacking up to **10 **times.\n\n**Forte Circuit: Ephemeral**\n\n- When Concerto Energy is fully recovered, and Ephemeral is not on Cooldown, Resonance Skill is replaced with Ephemeral.\n- Casting Ephemeral consumes **70 **Concerto Energy and deals Havoc DMG to the targets. This damage is considered Basic Attack DMG.\n- Camellya enters Budding Mode after casting Ephemeral.\n- This can be cast in mid-air.\n\n**Budding Mode**\n\n- **Sweet Dream: **Increase the DMG Multiplier of Normal Attack, Basic Attack Vining Waltz, Basic Attack Blazing Waltz, Basic Attack Vining Ronde, Dodge Counter Atonement, Resonance Skill Crimson Blossom, and Resonance Skill Floral Ravage by **50%**.\n- Casting Ephemeral consumes all Crimson Buds. Each Crimson Bud consumed additionally increases the DMG Multiplier of Sweet Dream by **5%**, up to **50%.**\n- When in Budding Mode, Camellya cannot gain Crimson Buds.\n- When in Budding Mode, the Energy Regen Multiplier of Normal Attack, Basic Attack Vining Waltz, Basic Attack Blazing Waltz, Basic Attack Vining Ronde, Dodge Counter Atonement, Resonance Skill Crimson Blossom, and Resonance Skill Floral Ravage is reduced to** 0%**.\n- Budding Mode ends when Camellya is switched off the field.\n- Budding Mode ends when all Crimson Pistils are consumed.\n\n**Crimson Pistil**\n\n- Camellya can hold up to **100 **Crimson Pistils.\n- Casting Intro Skill Everblooming recovers **100 **Crimson Pistils.\n- Activating Forte Circuit's Ephemeral recovers **100 **Crimson Pistils.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Ephemeral DMG | 635.00% |\n| Budding Mode Duration | 15 |\n| Ephemeral Cooldown | 25 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Ephemeral DMG | 864.11% |\n| Budding Mode Duration | 15 |\n| Ephemeral Cooldown | 25 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Ephemeral DMG | 1262.45% |\n| Budding Mode Duration | 15 |\n| Ephemeral Cooldown | 25 |"
+      }
+    },
+    {
+      "id": "inherent-skill-seedbed",
+      "name": "Seedbed",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Gain **15% **Havoc DMG Bonus. DMG dealt by Heavy Attack Pruning is now considered Basic Attack DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-epiphyte",
+      "name": "Epiphyte",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Gain **15%** Basic DMG Bonus. Gain increased resistance to interruption when casting Basic Attack, Basic Attack Vining Waltz, and Basic Attack Blazing Waltz.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-everblooming",
+      "name": "Everblooming",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target, dealing Havoc DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 100.00% |\n| Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 136.08% |\n| Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 198.81% |\n| Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-twining",
+      "name": "Twining",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target, dealing Havoc DMG equal to **329.24%** of Camellya's ATK.\n\nAfter activating Forte Circuit's Ephemeral, the next Outro Skill Twining deals additional Havoc DMG equal to **459.02%** of Camellya's ATK.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/camellya/icon.webp",
+    "card": "/v1/images/characters/camellya/card.webp",
+    "splash": "/v1/images/characters/camellya/splash.webp",
+    "attribute": "/v1/images/characters/camellya/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/camellya",
+      "updatedAt": "December 31st, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Camellya",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Camellya/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 2147.6,
+      "atk": 93.6,
+      "def": 243.2
+    },
+    "50": {
+      "hp": 5335.96,
+      "atk": 237.96,
+      "def": 602.3
+    },
+    "90": {
+      "hp": 10325,
+      "atk": 450,
+      "def": 1161.09
+    }
+  }
+}

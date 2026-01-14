@@ -1,0 +1,17 @@
+{
+  "id": "weapon",
+  "name": "Weapon",
+  "rarity": null,
+  "type": null,
+  "secondaryStatType": null,
+  "passive": null,
+  "images": {
+    "icon": "/v1/images/weapons/weapon/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Weapon"
+    }
+  },
+  "lastUpdated": "2026-01-14"
+}

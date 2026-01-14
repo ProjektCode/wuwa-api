@@ -1,0 +1,25 @@
+{
+  "id": "aemeath",
+  "name": "Aemeath",
+  "rarity": 5,
+  "element": "Fusion",
+  "weaponType": "Sword",
+  "skills": [],
+  "images": {
+    "icon": "/v1/images/characters/aemeath/icon.webp",
+    "card": "/v1/images/characters/aemeath/card.webp",
+    "splash": "/v1/images/characters/aemeath/splash.webp",
+    "attribute": "/v1/images/characters/aemeath/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/aemeath",
+      "updatedAt": "January 3rd, 2026"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Aemeath",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Aemeath/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14"
+}

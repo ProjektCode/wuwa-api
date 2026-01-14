@@ -1,0 +1,37 @@
+{
+  "id": "tragicomedy",
+  "name": "Tragicomedy",
+  "rarity": 5,
+  "type": "Gauntlets",
+  "secondaryStatType": "Crit. Rate",
+  "passive": {
+    "name": "Fool's Warble",
+    "descriptionMdByRank": {
+      "1": "Increases ATK by **12%**. Every time Basic Attack or Intro Skill is cast, Heavy Attack DMG Bonus increases by**48%** for 3s.",
+      "2": "Increases ATK by **15%**. Every time Basic Attack or Intro Skill is cast, Heavy Attack DMG Bonus increases by**60%** for 3s.",
+      "3": "Increases ATK by **18%**. Every time Basic Attack or Intro Skill is cast, Heavy Attack DMG Bonus increases by**72%** for 3s.",
+      "4": "Increases ATK by **21%**. Every time Basic Attack or Intro Skill is cast, Heavy Attack DMG Bonus increases by**84%** for 3s.",
+      "5": "Increases ATK by **24%**. Every time Basic Attack or Intro Skill is cast, Heavy Attack DMG Bonus increases by**96%** for 3s."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/tragicomedy/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Tragicomedy"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 122
+    },
+    "50": {
+      "atk": 303
+    },
+    "90": {
+      "atk": 587
+    }
+  }
+}

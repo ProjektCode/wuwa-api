@@ -1,0 +1,122 @@
+{
+  "id": "buling",
+  "name": "Buling",
+  "rarity": 4,
+  "element": "Electro",
+  "weaponType": "Rectifier",
+  "skills": [
+    {
+      "id": "basic-attack-hexagram-calls-lightning-falls",
+      "name": "Hexagram Calls, Lightning Falls",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack**\n\n- Perform up to **4** consecutive attacks, dealing Electro DMG.\n\n**Heavy Attack - Mountain Over Thunder**\n\n- Hold Normal Attack to consume the highlighted Trigram - Mountain and Trigram - Thunder from left to right and cast Heavy Attack - Mountain Over Thunder, dealing Electro DMG.\n\n**Heavy Attack - Thunder Over Mountain**\n\n- Hold Normal Attack to consume the highlighted Trigram - Thunder and Trigram - Mountain from left to right and cast Heavy Attack - Thunder Over Mountain, dealing a small amount of Electro DMG and additionally reducing the target's Vibration Strength.\n\n**Heavy Attack - Twin Mountains**\n\n- Hold Normal Attack to consume the highlighted **2 **Trigrams - Mountain from left to right and cast Heavy Attack - Twin Mountains, healing all nearby Resonators in the team.\n\n**Heavy Attack - Twin Thunders**\n\n- Hold Normal Attack to consume the highlighted **2 **Trigrams - Thunder from left to right and cast Heavy Attack - Twin Thunders, healing all nearby Resonators in the team once per second for **8s**.\n\n**Heavy Attack - Ghost Gate Omen**\n\n- When holding Normal Attack with fewer than **2 **Trigrams, Buling fails the divination, becoming temporarily immobilized and losing all Trigrams and **20%** of her current HP. This effect will not consume HP if Buling's current HP is below **1%**.\n\n**Mid-air Attack**\n\n- Consume STA to perform Mid-air Attack, dealing Electro DMG.\n\n**Dodge Counter**\n\n- Press Normal Attack right after a successful Dodge to perform Basic Attack Stage 3, dealing Electro DMG.\n  - After performing Dodge Counter, press Normal Attack to perform Basic Attack Stage 4.\n- **Trigram**\n- Buling can hold up to **4 **Trigrams. When Trigrams reach the max number, gaining new Trigrams moves all Trigrams 1 slot to the left, and the original leftmost Trigram will be removed.\n  - Trigram - Mountain is obtained when Basic Attack Stage 2 deals damage.\n  - Trigram - Thunder is obtained when Basic Attack Stage 4 or Mid-air Attack deals damage.\n  - Trigram - Thunder is obtained when casting Resonance Skill - In Shadow Thunder Stirs.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 10.43%*2 |\n| Stage 2 DMG | 16.83%*2 |\n| Stage 3 DMG | 11.83%*2 |\n| Stage 4 DMG | 47.10% |\n| Mid-air Attack DMG | 37.20% |\n| Dodge Counter DMG | 11.83%*2 |\n| Heavy Attack - Mountain Over Thunder DMG | 90.00% |\n| Heavy Attack - Thunder Over Mountain DMG | 45.00% |\n| Heavy Attack - Twin Mountains Healing | 360+68.00% ATK |\n| Heavy Attack - Twin Thunders Healing | 85+9.20% ATK |\n| Mid-air Attack STA Cost | 30 |\n| Heavy Attack - Mountain Over Thunder STA Cost | 20 |\n| Heavy Attack - Thunder Over Mountain STA Cost | 20 |\n| Heavy Attack - Twin Mountains STA Cost | 20 |\n| Heavy Attack - Twin Thunders STA Cost | 20 |\n| Heavy Attack - Ghost Gate Omen STA Cost | 20 |\n| Heavy Attack - Mountain Over Thunder Concerto Regen | 15 |\n| Heavy Attack - Thunder Over Mountain Concerto Regen | 15 |\n| Heavy Attack - Twin Mountains Concerto Regen | 15 |\n| Heavy Attack - Twin Thunders Concerto Regen | 15 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 14.19%*2 |\n| Stage 2 DMG | 22.90%*2 |\n| Stage 3 DMG | 16.10%*2 |\n| Stage 4 DMG | 64.10% |\n| Mid-air Attack DMG | 50.63% |\n| Dodge Counter DMG | 16.10%*2 |\n| Heavy Attack - Mountain Over Thunder DMG | 122.48% |\n| Heavy Attack - Thunder Over Mountain DMG | 61.24% |\n| Heavy Attack - Twin Mountains Healing | 490+92.54% ATK |\n| Heavy Attack - Twin Thunders Healing | 116+12.52% ATK |\n| Mid-air Attack STA Cost | 30 |\n| Heavy Attack - Mountain Over Thunder STA Cost | 20 |\n| Heavy Attack - Thunder Over Mountain STA Cost | 20 |\n| Heavy Attack - Twin Mountains STA Cost | 20 |\n| Heavy Attack - Twin Thunders STA Cost | 20 |\n| Heavy Attack - Ghost Gate Omen STA Cost | 20 |\n| Heavy Attack - Mountain Over Thunder Concerto Regen | 15 |\n| Heavy Attack - Thunder Over Mountain Concerto Regen | 15 |\n| Heavy Attack - Twin Mountains Concerto Regen | 15 |\n| Heavy Attack - Twin Thunders Concerto Regen | 15 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 20.73%*2 |\n| Stage 2 DMG | 33.45%*2 |\n| Stage 3 DMG | 23.51%*2 |\n| Stage 4 DMG | 93.64% |\n| Mid-air Attack DMG | 73.96% |\n| Dodge Counter DMG | 23.51%*2 |\n| Heavy Attack - Mountain Over Thunder DMG | 178.93% |\n| Heavy Attack - Thunder Over Mountain DMG | 89.47% |\n| Heavy Attack - Twin Mountains Healing | 716+135.20% ATK |\n| Heavy Attack - Twin Thunders Healing | 169+18.30% ATK |\n| Mid-air Attack STA Cost | 30 |\n| Heavy Attack - Mountain Over Thunder STA Cost | 20 |\n| Heavy Attack - Thunder Over Mountain STA Cost | 20 |\n| Heavy Attack - Twin Mountains STA Cost | 20 |\n| Heavy Attack - Twin Thunders STA Cost | 20 |\n| Heavy Attack - Ghost Gate Omen STA Cost | 20 |\n| Heavy Attack - Mountain Over Thunder Concerto Regen | 15 |\n| Heavy Attack - Thunder Over Mountain Concerto Regen | 15 |\n| Heavy Attack - Twin Mountains Concerto Regen | 15 |\n| Heavy Attack - Twin Thunders Concerto Regen | 15 |"
+      }
+    },
+    {
+      "id": "resonance-skill-in-shadow-thunder-stirs",
+      "name": "In Shadow Thunder Stirs",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "Attack the target, dealing Electro DMG and continuously pulling in nearby targets.\n\n- Right after casting Resonance Skill, press Normal Attack to perform Basic Attack Stage 4.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Thunder Talisman DMG | 29.37% |\n| Pull-in Effect Continuous DMG | 2.94%*10 |\n| Cooldown | 15s |\n| Concerto Regen | 23 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Thunder Talisman DMG | 39.97% |\n| Pull-in Effect Continuous DMG | 4.00%*10 |\n| Cooldown | 15s |\n| Concerto Regen | 23 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Thunder Talisman DMG | 58.40% |\n| Pull-in Effect Continuous DMG | 5.84%*10 |\n| Cooldown | 15s |\n| Concerto Regen | 23 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-flashing-thunder-spell",
+      "name": "Flashing Thunder Spell",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Attack the target, dealing Electro DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Flashing Thunder Spell DMG | 180.00% |\n| Cooldown | 24s |\n| Resonance Cost | 150 |\n| Concerto Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Flashing Thunder Spell DMG | 244.95% |\n| Cooldown | 24s |\n| Resonance Cost | 150 |\n| Concerto Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Flashing Thunder Spell DMG | 357.86% |\n| Cooldown | 24s |\n| Resonance Cost | 150 |\n| Concerto Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-thunder-begets-life",
+      "name": "Thunder Begets Life",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "**Yin-Yang Balance**\n\n- When Buling obtains Minor Yin and Minor Yang, she enters the Yin-Yang Balance state, replacing her Resonance Liberation - Flashing Thunder Spell with Resonance Liberation - Flashing Thunder Spell: Harmony.\n\n**Flashing Thunder Spell - Harmony**\n\n- Attack the target, dealing Electro DMG and generating a Five Thunders Spell Array at the target area. The array deals Electro DMG and inflicts **2 **stacks of Electro Flare on all targets within it every **2s**, lasting for **24s**. When Five Thunders Spell Array is active, all Resonators in the team enter the Thunder Spell - Primordial Qi state.\n  - While in the Thunder Spell - Primordial Qi state, when any Resonator in the team casts Intro Skill, Thunder Spell - Primordial Qi becomes Thunder Spell - Yin and Yang.\n  - Thunder Spell - Yin and Yang grants **10% **Resonance Skill DMG Bonus to all active Resonators in the team. When any Resonator in the team casts Intro Skill during this state, Thunder Spell - Yin and Yang becomes Thunder Spell - Heaven, Earth, Mind.\n  - Thunder Spell - Heaven, Earth, Mind grants **25% **Resonance Skill DMG Bonus to all active Resonators in the team.\n\n**Minor Yang and Minor Yin**\n\n- Minor Yang is obtained after casting Heavy Attack - Mountain Over Thunder or Heavy Attack - Thunder Over Mountain.\n- Minor Yin is obtained after casting Heavy Attack - Twin Mountains or Heavy Attack - Twin Thunders.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Flashing Thunder Spell - Harmony DMG | 270.00% |\n| Five Thunders Spell Array Continuous DMG | 10.00% |",
+        "5": "| Name | Value |\n| --- | --- |\n| Flashing Thunder Spell - Harmony DMG | 367.42% |\n| Five Thunders Spell Array Continuous DMG | 13.61% |",
+        "10": "| Name | Value |\n| --- | --- |\n| Flashing Thunder Spell - Harmony DMG | 536.79% |\n| Five Thunders Spell Array Continuous DMG | 19.89% |"
+      }
+    },
+    {
+      "id": "inherent-skill-time-arrives-evil-declines",
+      "name": "Time Arrives, Evil Declines",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Buling gains **25%** Healing Bonus when restoring HP for Resonators with less than **50%** HP.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-earthly-immortal-is-here",
+      "name": "Earthly Immortal is Here!",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Targets damaged by Intro Skill - Summon and Smite obtain **4** stacks of Electro Flare. This effect is triggered once every **10s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-summon-and-smite",
+      "name": "Summon and Smite",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target, dealing Electro DMG and healing all nearby Resonators in the team.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 65.94% |\n| Skill Healing | 350+40.00% ATK |\n| Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 89.74% |\n| Skill Healing | 477+54.44% ATK |\n| Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 131.10% |\n| Skill Healing | 696+79.53% ATK |\n| Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-exorcism-spell",
+      "name": "Exorcism Spell",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "Heal the active Resonator in the team by **18%** of Buling's ATK per second for **16s**. All nearby Resonators in the team have their DMG Amplified by **15% **for **30s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/buling/icon.webp",
+    "card": "/v1/images/characters/buling/card.webp",
+    "splash": "/v1/images/characters/buling/splash.webp",
+    "attribute": "/v1/images/characters/buling/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/buling",
+      "updatedAt": "January 6th, 2026"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Buling",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Buling/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14"
+}

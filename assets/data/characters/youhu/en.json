@@ -1,0 +1,139 @@
+{
+  "id": "youhu",
+  "name": "Youhu",
+  "rarity": 4,
+  "element": "Glacio",
+  "weaponType": "Gauntlets",
+  "skills": [
+    {
+      "id": "basic-attack-frosty-punches",
+      "name": "Frosty Punches",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack**\n\nPerform up to **4 **consecutive attacks, dealing Glacio DMG.\n\n**Heavy Attack**\n\nWhen Frost is full, hold the Normal Attack Button to cast Frostfall.\n\nWhen Frost is full during the Fortune Rolling state, release the Normal Attack Button to cast Frostfall. If Youhu cannot cast Frostfall at the moment, perform Lucky Draw once instead.\n\nYouhu can obtain Frost in the following ways:\n\n- When Frost is not full, hold Normal Attack Button to enter the Fortune Rolling state and restore Frost over time.\n- When Basic Attacks hit a target.\n\n**Heavy Attack: Frostfall**\n\nYouhu dashes forward, dealing Glacio DMG, and performs Lucky Draw once.\n\n**Mid-air Attack**\n\nPerform a Plunging Attack at the cost of STA, dealing Glacio DMG.\n\n**Dodge Counter**\n\nWhen Youhu possesses no Antique, quickly press Normal Attack Button right after a successful Dodge to thrust forward, dealing Glacio DMG, and perform Lucky Draw once.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 23.83% |\n| Stage 2 DMG | 16.05% + 29.81% |\n| Stage 3 DMG | 19.15% + 23.40% |\n| Stage 4 DMG | 58.53% |\n| Heavy Attack: Frostfall DMG | 7.27%*6 |\n| Mid-air Attack DMG | 62.00% |\n| Dodge Counter DMG | 14.53%*6 |\n| Mid-air Attack STA Cost | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 32.43% |\n| Stage 2 DMG | 21.84% + 40.56% |\n| Stage 3 DMG | 26.06% + 31.84% |\n| Stage 4 DMG | 79.64% |\n| Heavy Attack: Frostfall DMG | 9.89%*6 |\n| Mid-air Attack DMG | 84.37% |\n| Dodge Counter DMG | 19.78%*6 |\n| Mid-air Attack STA Cost | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 47.38% |\n| Stage 2 DMG | 31.91% + 59.26% |\n| Stage 3 DMG | 38.06% + 46.52% |\n| Stage 4 DMG | 116.35% |\n| Heavy Attack: Frostfall DMG | 14.45%*6 |\n| Mid-air Attack DMG | 123.27% |\n| Dodge Counter DMG | 28.89%*6 |\n| Mid-air Attack STA Cost | 30 |"
+      }
+    },
+    {
+      "id": "resonance-skill-scroll-divination",
+      "name": "Scroll Divination",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "Youhu smashes her scroll down at the enemy, dealing Glacio DMG, restoring HP for all party members nearby, and performs Lucky Draw once.\n\n**Lucky Draw**\n\nYouhu obtains a random Antique after the Lucky Draw. With an Antique, her next Basic Attack will activate the corresponding Antique Appraisal.\n\nOnly one Antique can exist at a time, and the newly drawn Antique will replace the existing one.\n\n**Antique Appraisal**\n\n- **Chime**: Attack the enemy with a Chime, dealing Glacio DMG. Chime can effectively reduce the enemy's Vibration Strength.\n- **Ruyi**: Batter the enemy with a Ruyi, dealing Glacio DMG. Ruyi has a higher DMG Multiplier.\n- **Ding**: Ram into the enemy on a Ding, dealing Glacio DMG. Ding can effectively break the enemy's stance.\n- **Mask**: Throw a Mask at enemies in front, dealing Glacio DMG. Mask can pull in enemies along its path.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 78.70% |\n| Scroll Divination Healing | 1041 + 39.00% ATK |\n| Chime DMG | 20.65% + 25.07%*3 + 51.62% |\n| Ruyi DMG | 68.91% + 84.23% |\n| Ding DMG | 14.38%*6 + 57.49% |\n| Mask DMG | 5.77%*9 + 22.23% |\n| Cooldown | 15 |\n| Concerto Regen | 10 |\n| Chime Concerto Regen | 10 |\n| Ding Concerto Regen | 10 |\n| Ruyi Concerto Regen | 10 |\n| Mask Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 107.10% |\n| Scroll Divination Healing | 1469 + 47.58% ATK |\n| Chime DMG | 28.10% + 34.12%*3 + 70.24% |\n| Ruyi DMG | 93.78% + 114.61% |\n| Ding DMG | 19.56%*6 + 78.23% |\n| Mask DMG | 7.85%*9 + 30.25% |\n| Cooldown | 15 |\n| Concerto Regen | 10 |\n| Chime Concerto Regen | 10 |\n| Ding Concerto Regen | 10 |\n| Ruyi Concerto Regen | 10 |\n| Mask Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 156.46% |\n| Scroll Divination Healing | 1767 + 81.90% ATK |\n| Chime DMG | 41.05% + 49.85%*3 + 102.62% |\n| Ruyi DMG | 137.00% + 167.45% |\n| Ding DMG | 28.57%*6 + 114.28% |\n| Mask DMG | 11.46%*9 + 44.20% |\n| Cooldown | 15 |\n| Concerto Regen | 10 |\n| Chime Concerto Regen | 10 |\n| Ding Concerto Regen | 10 |\n| Ruyi Concerto Regen | 10 |\n| Mask Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-fortunes-favor",
+      "name": "Fortune's Favor",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Youhu hurls her scroll at the enemy, causing a Glacio DMG blast in the area.\n\nOn the blast, four buttons will appear. Choose a button within the specified time to obtain the corresponding Antique. Otherwise, obtain one random Antique.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 164.58% |\n| Cooldown | 25 |\n| Resonance Cost | 100 |\n| Concerto Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 223.95% |\n| Cooldown | 25 |\n| Resonance Cost | 100 |\n| Concerto Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 327.19% |\n| Cooldown | 25 |\n| Resonance Cost | 100 |\n| Concerto Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-poetic-essence",
+      "name": "Poetic Essence",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "At four Auspices, hold the Normal Attack button to release Poetic Essence, dealing Glacio DMG, considered as Resonance Skill DMG, while restoring HP for all nearby party members.\n\nYouhu can hold up to four Auspices.\n\n**Poetic Essence**\n\nDeal Glacio DMG to enemies within the range and additionally obtain one of the following effects based on the Auspice combination:\n\n- **Free Verse**: Four different types Auspices. Additionally reduce the Vibration Strength of hit enemies.\n- **Antithesis**: A pair of Auspices. Increase Poetic Essence's DMG by **70%**.\n- **Double Pun**: Two pairs of Auspices. Additionally restore HP for all nearby party members.\n- **Triplet**: Three identical Auspices. Increase Poetic Essence's DMG by **175%**.\n- **Perfect Rhyme**: Four identical Auspices. Simultaneously activate the effects of Free Verse, Double Pun, and Triplet.\n\nCasting Poetic Essence removes all Auspices.\n\n**Auspice**\n\n- Youhu gains an Auspice through Antique Appraisal.\n- Use Basic Attack while holding an Antique to receive the corresponding Auspice.\n- Youhu unlocks Antiques by casting Resonance Skill Scroll Divination, Intro Skill Scroll of Wonders, Heavy Attack Frostfall, Resonance Liberation Fortune's Favor, and Dodge Counter.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Poetic Essence Skill DMG | 18.72%*10 |\n| Poetic Essence Healing | 1180 + 44.20% ATK |\n| Double Pun Bonus Healing | 694 + 26.00% ATK |\n| Concerto Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Poetic Essence Skill DMG | 25.47%*10 |\n| Poetic Essence Healing | 1665 + 53.92% ATK |\n| Double Pun Bonus Healing | 979 + 31.72% ATK |\n| Concerto Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Poetic Essence Skill DMG | 37.21%*10 |\n| Poetic Essence Healing | 2002 + 92.82% ATK |\n| Double Pun Bonus Healing | 1178 + 54.60% ATK |\n| Concerto Regen | 20 |"
+      }
+    },
+    {
+      "id": "inherent-skill-treasured-piece",
+      "name": "Treasured Piece",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Restore HP for all nearby party members based on **30%** of the healing provided by Resonance Skill Scroll Divination when Resonance Skill Antique Appraisal is cast.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-rare-find",
+      "name": "Rare Find",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Gain **15%** Glacio DMG Bonus for **14s **upon casting Intro Skill Scroll of Wonders.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-scroll-of-wonders",
+      "name": "Scroll of Wonders",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Toss out the scroll and perform Lucky Draw once.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| PSkill DMG | 45.00% + 55.00% |\n| Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| PSkill DMG | 61.24% + 74.85% |\n| Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| PSkill DMG | 89.47% + 109.35% |\n| Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-timeless-classics",
+      "name": "Timeless Classics",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "The incoming Resonator has their Coordinated Attack DMG Amplified by **100%** for **28s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/youhu/icon.webp",
+    "card": "/v1/images/characters/youhu/card.webp",
+    "splash": "/v1/images/characters/youhu/splash.webp",
+    "attribute": "/v1/images/characters/youhu/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/youhu",
+      "updatedAt": "January 6th, 2026"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Youhu",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Youhu/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 2074.8,
+      "atk": 54.6,
+      "def": 220.16
+    },
+    "50": {
+      "hp": 5155.08,
+      "atk": 138.81,
+      "def": 545.24
+    },
+    "90": {
+      "hp": 9975,
+      "atk": 262.5,
+      "def": 1051.09
+    }
+  }
+}

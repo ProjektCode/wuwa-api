@@ -1,0 +1,26 @@
+{
+  "id": "phasic-homogenizer",
+  "name": "Phasic Homogenizer",
+  "rarity": 5,
+  "type": "Pistols",
+  "secondaryStatType": "Crit. DMG",
+  "passive": {
+    "name": "Insight Bearer",
+    "descriptionMdByRank": {
+      "1": "Increases ATK by **12%**.\n When a Resonator in the team casts a Tune Break skill, it grants **20%** All-Attribute DMG Bonus to the wielder for 14s.",
+      "2": "Increases ATK by **15%**.\n When a Resonator in the team casts a Tune Break skill, it grants **22.5%** All-Attribute DMG Bonus to the wielder for 14s.",
+      "3": "Increases ATK by **18%**.\n When a Resonator in the team casts a Tune Break skill, it grants **25%** All-Attribute DMG Bonus to the wielder for 14s.",
+      "4": "Increases ATK by **21%**.\n When a Resonator in the team casts a Tune Break skill, it grants **27.5%** All-Attribute DMG Bonus to the wielder for 14s.",
+      "5": "Increases ATK by **24%**.\n When a Resonator in the team casts a Tune Break skill, it grants **30%** All-Attribute DMG Bonus to the wielder for 14s."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/phasic-homogenizer/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Phasic%20Homogenizer"
+    }
+  },
+  "lastUpdated": "2026-01-14"
+}

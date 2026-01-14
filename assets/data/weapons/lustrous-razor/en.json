@@ -1,0 +1,37 @@
+{
+  "id": "lustrous-razor",
+  "name": "Lustrous Razor",
+  "rarity": 5,
+  "type": "Broadblade",
+  "secondaryStatType": "ATK",
+  "passive": {
+    "name": "Stormy Resolution",
+    "descriptionMdByRank": {
+      "1": "Increases Energy Regen by **12.8%**. When Resonance Skill is released, Resonance Liberation DMG is increased by **7%**, stacking up to 3 times. This effect lasts for 12s.",
+      "2": "Increases Energy Regen by **16%**. When Resonance Skill is released, Resonance Liberation DMG is increased by **8.75%**, stacking up to 3 times. This effect lasts for 12s.",
+      "3": "Increases Energy Regen by **19.2%**. When Resonance Skill is released, Resonance Liberation DMG is increased by **10.5%**, stacking up to 3 times. This effect lasts for 12s.",
+      "4": "Increases Energy Regen by **22.4%**. When Resonance Skill is released, Resonance Liberation DMG is increased by **12.25%**, stacking up to 3 times. This effect lasts for 12s.",
+      "5": "Increases Energy Regen by **25.6%**. When Resonance Skill is released, Resonance Liberation DMG is increased by **14%**, stacking up to 3 times. This effect lasts for 12s."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/lustrous-razor/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Lustrous%20Razor"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 122
+    },
+    "50": {
+      "atk": 303
+    },
+    "90": {
+      "atk": 587
+    }
+  }
+}

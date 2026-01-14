@@ -1,0 +1,122 @@
+{
+  "id": "rover-havoc",
+  "name": "Rover (Havoc)",
+  "rarity": 5,
+  "element": "Havoc",
+  "weaponType": "Sword",
+  "skills": [
+    {
+      "id": "basic-attack-tuneslayer",
+      "name": "Tuneslayer",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "Basic Attack\n\nRover-Havoc performs up to **5** consecutive attacks, dealing Havoc DMG.\n\nHeavy Attack\n\nRover-Havoc consumes Stamina to attack, dealing Havoc DMG. Use Basic Attack after casting Heavy Attack to cast Basic Attack IV.\n\nMid-air Attack\n\nRover-Havoc consumes Stamina to cast a Mid-Air Plunging Attack, dealing Havoc DMG.\n\nDodge Counter\n\nUse Basic Attack after a successful Dodge to attack the target, dealing Havoc DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Part 1 Damage | 28.50% |\n| Part 2 Damage | 28.50%*2 |\n| Part 3 Damage | 42.75% |\n| Part 4 Damage | 20.27%*3 |\n| Part 5 Damage | 47.50%*2 |\n| Heavy Attack Damage | 48.00% |\n| Mid-Air Attack Damage | 58.90% |\n| Dodge Counter Damage | 90.25% |\n| Heavy Attack Stamina Cost | 25 |\n| Mid-Air Attack Stamina Cost | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Part 1 Damage | 38.79% |\n| Part 2 Damage | 38.79%*2 |\n| Part 3 Damage | 58.18% |\n| Part 4 Damage | 27.58%*3 |\n| Part 5 Damage | 64.64%*2 |\n| Heavy Attack Damage | 65.32% |\n| Mid-Air Attack Damage | 80.16% |\n| Dodge Counter Damage | 122.82% |\n| Heavy Attack Stamina Cost | 25 |\n| Mid-Air Attack Stamina Cost | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Part 1 Damage | 56.67% |\n| Part 2 Damage | 56.67%*2 |\n| Part 3 Damage | 85.00% |\n| Part 4 Damage | 40.30%*3 |\n| Part 5 Damage | 94.44%*2 |\n| Heavy Attack Damage | 95.43% |\n| Mid-Air Attack Damage | 117.10% |\n| Dodge Counter Damage | 179.43% |\n| Heavy Attack Stamina Cost | 25 |\n| Mid-Air Attack Stamina Cost | 30 |"
+      }
+    },
+    {
+      "id": "resonance-skill-wingblade",
+      "name": "Wingblade",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "Transforms sound into feathers, dealing Havoc DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill Damage | 144.00%*2 |\n| Cooldown | 12 |\n| Con. Energy Regen | 15 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill Damage | 195.96%*2 |\n| Cooldown | 12 |\n| Con. Energy Regen | 15 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill Damage | 286.29%*2 |\n| Cooldown | 12 |\n| Con. Energy Regen | 15 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-deadening-abyss",
+      "name": "Deadening Abyss",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Gather the echoes between Rover's palms to attack a target, dealing Havoc DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill Damage | 765.00% |\n| Cooldown | 16 |\n| Res. Energy Cost | 125 |\n| Con. Energy Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill Damage | 1041.02% |\n| Cooldown | 16 |\n| Res. Energy Cost | 125 |\n| Con. Energy Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill Damage | 1520.90% |\n| Cooldown | 16 |\n| Res. Energy Cost | 125 |\n| Con. Energy Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-umbra-eclipse",
+      "name": "Umbra Eclipse",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "Devastation\n\nWhen \"Umbra\" is full, hold Basic Attack to cast Devastation to attack the target, dealing Havoc DMG, considered as Heavy Attack damage.\n\nDark Surge\n\nAfter casting Devastation, Rover enters the Dark Surge state. In this state:\nBasic Attack is replaced with Enhanced Basic Attack, which performs up to **5** consecutive attacks, dealing Havoc DMG.\n\n- Heavy Attack is replaced with Enhanced Heavy Attack.\n- Use Basic Attack after casting Enhanced Heavy Attack to cast Heavy Attack Thwackblade to attack the target, dealing Havoc DMG, considered as Heavy Attack damage.\n- Use Basic Attack after casting Heavy Attack Thwackblade to cast Enhanced Basic Attack **3** to attack the target, dealing Havoc DMG.\n- Resonance Skill Wingblade is replaced with Resonance Skill Lifetaker, transforming sounds into blades to attack the target, dealing Havoc DMG.\n\nUmbra\n\nRover can hold up to **100 **points of Umbra.\n\nNormal Attack Tuneslayer recovers Umbra on hit. Resonance Skill Wingblade recovers Umbra when cast. Resonance Skill Lifetaker recovers Umbra when cast. Intro Skill Instant of Annihilation recovers Umbra when cast.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Devastation Damage | 114.75% |\n| Umbra: Basic Attack Part 1 Damage | 28.35% |\n| Umbra: Basic Attack Part 2 Damage | 47.25% |\n| Umbra: Basic Attack Part 3 Damage | 78.30% |\n| Umbra: Basic Attack Part 4 Damage | 18.68%*3+56.03% |\n| Umbra: Basic Attack Part 5 Damage | 14.35%*4+57.38% |\n| Umbra: Heavy Attack Damage | 64.80% |\n| Umbra: Thwackblade Damage | 63.70%+5.00%*4 |\n| Umbra: Plunging Attack Damage | 62.00% |\n| Umbra: Dodge Counter Damage | 159.30% |\n| Umbra: Heavy Attack Stamina Cost | 25 |\n| Umbra: Plunging Stamina Cost | 30 |\n| Umbra: Lifetaker Damage | 139.00%*2+5.00%*4 |\n| Umbra: Lifetaker Cooldown | 12 |\n| Lifetaker Con. Energy Regen | 15 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Devastation Damage | 156.16% |\n| Umbra: Basic Attack Part 1 Damage | 38.58% |\n| Umbra: Basic Attack Part 2 Damage | 64.30% |\n| Umbra: Basic Attack Part 3 Damage | 106.56% |\n| Umbra: Basic Attack Part 4 Damage | 25.42%*3+76.24% |\n| Umbra: Basic Attack Part 5 Damage | 19.52%*4+78.08% |\n| Umbra: Heavy Attack Damage | 88.18% |\n| Umbra: Thwackblade Damage | 86.69%+6.81%*4 |\n| Umbra: Plunging Attack Damage | 84.37% |\n| Umbra: Dodge Counter Damage | 216.78% |\n| Umbra: Heavy Attack Stamina Cost | 25 |\n| Umbra: Plunging Stamina Cost | 30 |\n| Umbra: Lifetaker Damage | 189.16%*2+6.81%*4 |\n| Umbra: Lifetaker Cooldown | 12 |\n| Lifetaker Con. Energy Regen | 15 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Devastation Damage | 228.14% |\n| Umbra: Basic Attack Part 1 Damage | 56.37% |\n| Umbra: Basic Attack Part 2 Damage | 93.94% |\n| Umbra: Basic Attack Part 3 Damage | 155.67% |\n| Umbra: Basic Attack Part 4 Damage | 37.13%*3+111.39% |\n| Umbra: Basic Attack Part 5 Damage | 28.52%*4+114.07% |\n| Umbra: Heavy Attack Damage | 128.83% |\n| Umbra: Thwackblade Damage | 126.65%+9.95%*4 |\n| Umbra: Plunging Attack Damage | 123.27% |\n| Umbra: Dodge Counter Damage | 316.71% |\n| Umbra: Heavy Attack Stamina Cost | 25 |\n| Umbra: Plunging Stamina Cost | 30 |\n| Umbra: Lifetaker Damage | 276.35%*2+9.95%*4 |\n| Umbra: Lifetaker Cooldown | 12 |\n| Lifetaker Con. Energy Regen | 15 |"
+      }
+    },
+    {
+      "id": "inherent-skill-metamorph",
+      "name": "Metamorph",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "In the Dark Surge state, Havoc DMG Bonus is increased by **20%**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-bleak-crescendo",
+      "name": "Bleak Crescendo",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "While in the Dark Surge state, Basic Attack recovers **1** Resonance Energy when it hits a target, and this effect can be triggered once per second.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-instant-of-annihilation",
+      "name": "Instant of Annihilation",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target, dealing Havoc DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill Damage | 100.00% |\n| Con. Energy Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill Damage | 136.08% |\n| Con. Energy Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill Damage | 198.81% |\n| Con. Energy Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-soundweaver",
+      "name": "Soundweaver",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "Summons a Havoc Field to attack a target, dealing **143.3%** Havoc DMG to targets within range every **2s **for **6s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/rover-havoc/icon.webp",
+    "card": "/v1/images/characters/rover-havoc/card.webp",
+    "splash": "/v1/images/characters/rover-havoc/splash.webp",
+    "attribute": "/v1/images/characters/rover-havoc/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/rover-havoc",
+      "updatedAt": "December 31st, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Rover%20(Havoc)",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Rover%20(Havoc)/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14"
+}

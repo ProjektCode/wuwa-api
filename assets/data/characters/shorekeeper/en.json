@@ -1,0 +1,139 @@
+{
+  "id": "shorekeeper",
+  "name": "The Shorekeeper",
+  "rarity": 5,
+  "element": "Spectro",
+  "weaponType": "Rectifier",
+  "skills": [
+    {
+      "id": "basic-attack-origin-calculus",
+      "name": "Origin Calculus",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack**\n\nPerform up to** 4 **consecutive attacks, dealing Spectro DMG. Each hit generates **1** Collapsed Core.\n\n**Heavy Attack**\n\nHold the Normal Attack Button to enter Unbound Form, which consumes STA continuously. While in this form, Shorekeeper will:\n\n- Generate a segment of Deductive Data every second.\n- Automatically collect nearby plant collectibles.\n\nUsing up all STA or actions such as casting Basic Attack will end the Unbound Form and deal Spectro DMG to the target. Each accumulated segment of Deductive Data will convert into a segment of Empirical Data and generate a Collapsed Core.\n\n**Mid-air Attack**\n\nConsume STA to perform a Plunging Attack. Each hit generates **1** Collapsed Core. Quickly Press the Normal Attack Button after the Plunging Attack to perform Basic Attack Stage **2**.\n\n**Dodge Counter**\n\nPress the Normal Attack Button after a successful Dodge to attack a target, dealing Spectro DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 15.99% |\n| Stage 2 DMG | 12.00%*2 |\n| Stage 3 DMG | 11.73%*3 |\n| Stage 4 DMG | 36.58% |\n| Heavy Attack DMG | 23.04% |\n| Plunging Attack DMG | 37.20% |\n| Dodge Counter DMG | 44.00%*2 |\n| Heavy Attack STA Cost | 25 |\n| Plunging Attack STA Cost | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 21.76% |\n| Stage 2 DMG | 16.33%*2 |\n| Stage 3 DMG | 15.96%*3 |\n| Stage 4 DMG | 49.78% |\n| Heavy Attack DMG | 31.36% |\n| Plunging Attack DMG | 50.63% |\n| Dodge Counter DMG | 59.88%*2 |\n| Heavy Attack STA Cost | 25 |\n| Plunging Attack STA Cost | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 31.78% |\n| Stage 2 DMG | 23.86%*2 |\n| Stage 3 DMG | 23.32%*3 |\n| Stage 4 DMG | 72.72% |\n| Heavy Attack DMG | 45.81% |\n| Plunging Attack DMG | 73.96% |\n| Dodge Counter DMG | 87.48%*2 |\n| Heavy Attack STA Cost | 25 |\n| Plunging Attack STA Cost | 30 |"
+      }
+    },
+    {
+      "id": "resonance-skill-chaos-theory",
+      "name": "Chaos Theory",
+      "type": "Resonance Skill",
+      "category": "Forte Circuit",
+      "descriptionMd": "Restore HP for all nearby party members and summon **5 **Dim Star Butterflies, which automatically track and attack a target, dealing Spectro DMG. Follow up with Basic Attack in time to start the Basic Attack cycle from Stage **2**.\n\nCan be performed in mid-air.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Dim Star Butterfly DMG | 15.75% |\n| Healing | 660 + 3.00% HP |\n| Cooldown | 16 |\n| Concerto Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Dim Star Butterfly DMG | 21.43% |\n| Healing | 899 + 4.09% HP |\n| Cooldown | 16 |\n| Concerto Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Dim Star Butterfly DMG | 31.31% |\n| Healing | 1313 + 5.97% HP |\n| Cooldown | 16 |\n| Concerto Regen | 20 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-end-loop",
+      "name": "End Loop",
+      "type": "Resonance Liberation",
+      "category": "Forte Circuit",
+      "descriptionMd": "**Outer Stellarealm**\n\nGenerate the Outer Stellarealm to restore HP for all party members within its effective range continuously. This effect can be triggered once every **3s**.\n\n**Inner Stellarealm**\n\nWhen a party member uses Intro Skill within the Outer Stellarealm, it evolves into the Inner Stellarealm. Within the effective range of the Inner Stellarealm, for every **0.2% **of Shorekeeper's Energy Regen, all party members gain **0.01%** bonus Crit. Rate, up to** 12.5%.** \nInner Stellarealm has all the effects of the Outer Stellarealm.\n\n**Supernal Stellarealm**\n\nWhen a party member uses Intro Skill within the Inner Stellarealm, it evolves into the Supernal Stellarealm. Within the effective range of the Supernal Stellarealm, for every **0.1% **of Shorekeeper's Energy Regen, all party members gain a** 0.01%** increase of Crit. DMG, up to **25%.** \n\nSupernal Stellarealm has all the effects of the Inner Stellarealm.\n\nWhen Supernal Stellarealm is generated, Shorekeeper's first Intro Skill triggered in its duration will be replaced with Intro Skill Discernment. This effect takes place once each time a Supernal Stellarealm is generated.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Healing | 220 + 1.20% HP |\n| Stellarealm Duration | 30 |\n| Cooldown | 25 |\n| Resonance Cost | 175 |\n| Concerto Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Healing | 300 + 1.64% HP |\n| Stellarealm Duration | 30 |\n| Cooldown | 25 |\n| Resonance Cost | 175 |\n| Concerto Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Healing | 438 + 2.39% HP |\n| Stellarealm Duration | 30 |\n| Cooldown | 25 |\n| Resonance Cost | 175 |\n| Concerto Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-astral-chord",
+      "name": "Astral Chord",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "**Flare Star Butterfly**\n\nHitting a target with a Normal Attack generates a Collapsed Core, which transforms into a Flare Star Butterfly after **6s**. Flare Star Butterflies automatically track and attack a target, dealing Spectro DMG. If there are already **5 **Collapsed Cores, Shorekeeper's next Normal Attack hit will instantly convert a Collapsed Core into a Flare Star Butterfly.\n\n**Illation**\n\nWhen Shorekeeper has **5** segments of Empirical Data, casting Heavy Attack will consume all segments to pull in nearby targets, dealing Spectro DMG. Meanwhile, all generated Collapsed Cores will instantly transform into Flare Star Butterflies.\n\n**Transmutation**\n\nWhen Shorekeeper has **5** segments of Empirical Data, casting Mid-air Attack will consume all segments to deal Spectro DMG. Meanwhile, all generated Collapsed Cores will instantly transform into Flare Star Butterflies. Quickly press the Normal Attack Button afterward to perform Basic Attack Stage **2**.\n\n**Empirical Data**\n\nShorekeeper can hold up to **5 **segments of Empirical Data.\n\n- Obtain **1 **segment of Empirical Data when Basic Attack Stage **1, 2, or 4 **hits a target.\n- Obtain **2 **segments of Empirical Data when Basic Attack Stage **3 **hits a target.\n- Obtain **1 **segment of Empirical Data when Mid-air Attack hits a target.\n- Obtain **1** segment of Empirical Data when Dodge Counter hits a target.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Flare Star Butterfly DMG | 18.76% |\n| Illation DMG | 9.54%*5 |\n| Transmutation DMG | 37.20% |\n| Illation STA Cost | 25 |\n| Transmutation STA Cost | 30 |\n| Illation Concerto Regen | 6 |\n| Transmutation Concerto Regen | 6 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Flare Star Butterfly DMG | 25.52% |\n| Illation DMG | 12.99%*5 |\n| Transmutation DMG | 50.63% |\n| Illation STA Cost | 25 |\n| Transmutation STA Cost | 30 |\n| Illation Concerto Regen | 6 |\n| Transmutation Concerto Regen | 6 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Flare Star Butterfly DMG | 37.29% |\n| Illation DMG | 18.97%*5 |\n| Transmutation DMG | 73.96% |\n| Illation STA Cost | 25 |\n| Transmutation STA Cost | 30 |\n| Illation Concerto Regen | 6 |\n| Transmutation Concerto Regen | 6 |"
+      }
+    },
+    {
+      "id": "inherent-skill-life-entwined",
+      "name": "Life Entwined",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "When a Resonator other than Shorekeeper takes a fatal blow, they will not be knocked out and will instead be healed for **50% **of Shorekeeper's HP while Shorekeeper loses the same amount of HP. Shorekeeper's HP will not go below **1** from this effect. This effect can be triggered once every **10 **minutes.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-self-gravitation",
+      "name": "Self Gravitation",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "When the Resonator on the field is within the effective range of a Stellarealm, Shorekeeper's Energy Regen increases by **10%**. If Rover is on the same team, Rover's Energy Regen also increases by **10%**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-proof-of-existence",
+      "name": "Proof of Existence",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "**Enlightenment**\n\nShorekeeper appears to restore HP for all nearby party members and summon **5 **Dim Star Butterflies, which automatically track and attack a target, dealing Spectro DMG. This is considered Resonance Skill DMG.\n\n**Discernment**\n\nWhen a Supernal Stellarealm is generated, Shorekeeper's first Intro Skill triggered in its duration will be replaced with Intro Skill Discernment. Casting Discernment ends the current Stellarealm, restores HP for all nearby party members, and deals Spectro DMG to the targets. This attack is guaranteed to be a Critical Hit dealing Resonance Liberation DMG. The Intro Skill Discernment can only be cast one time for each Supernal Stellarealm generated.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Enlightenment DMG | 22.79%*5 |\n| Discernment DMG | 9.88%*3 HP |\n| Enlightenment Healing | 130 + 0.60% HP |\n| Discernment Healing | 145 + 0.66% HP |\n| Enlightenment Concerto Regen | 10 |\n| Discernment Concerto Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Enlightenment DMG | 31.01%*5 |\n| Discernment DMG | 13.45%*3 HP |\n| Enlightenment Healing | 177 + 0.82% HP |\n| Discernment Healing | 198 + 0.90% HP |\n| Enlightenment Concerto Regen | 10 |\n| Discernment Concerto Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Enlightenment DMG | 45.30%*5 |\n| Discernment DMG | 19.64%*3 HP |\n| Enlightenment Healing | 259 + 1.20% HP |\n| Discernment Healing | 289 + 1.32% HP |\n| Enlightenment Concerto Regen | 10 |\n| Discernment Concerto Regen | 20 |"
+      }
+    },
+    {
+      "id": "outro-skill-binary-butterfly",
+      "name": "Binary Butterfly",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "Shorekeeper summons **1 **Flare Star Butterfly and **1** Dim Star Butterfly to circle the Resonator on the field for up to **30s**, granting the following effects: \n\n- If the Resonator on the field is hit or launched, tapping the Dodge Button allows the Resonator to immediately recover from the interruption, triggering a successful Dodge. The Resonator launched in the air can land on the ground standing if they are close to the ground. This effect can be triggered up to **5** time(s).\n- All nearby party members' DMG is Amplified by **15%**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/shorekeeper/icon.webp",
+    "card": "/v1/images/characters/shorekeeper/card.webp",
+    "splash": "/v1/images/characters/shorekeeper/splash.webp",
+    "attribute": "/v1/images/characters/shorekeeper/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/the-shorekeeper",
+      "updatedAt": "December 31st, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Shorekeeper",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Shorekeeper/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 3476.2,
+      "atk": 59.8,
+      "def": 230.4
+    },
+    "50": {
+      "hp": 8637.02,
+      "atk": 152.03,
+      "def": 570.6
+    },
+    "90": {
+      "hp": 16712.5,
+      "atk": 287.5,
+      "def": 1099.98
+    }
+  }
+}

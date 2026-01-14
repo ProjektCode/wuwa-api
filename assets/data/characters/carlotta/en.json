@@ -1,0 +1,139 @@
+{
+  "id": "carlotta",
+  "name": "Carlotta",
+  "rarity": 5,
+  "element": "Glacio",
+  "weaponType": "Pistols",
+  "skills": [
+    {
+      "id": "basic-attack-silent-execution",
+      "name": "Silent Execution",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack**\n\nPerform up to **2** consecutive strikes, dealing Glacio DMG.\n\n**Basic Attack - Necessary Measures**\n\nWith Moldable Crystals, Carlotta's Basic Attack is replaced with Necessary Measures.\n\nChain up to **3 **strikes, dealing Glacio DMG. Each strike of Necessary Measures consumes **1 **Moldable Crystal.\n\n**Heavy Attack**\n\nDeliver a charged attack at the target at the cost of STA, dealing Glacio DMG.\n\n**Heavy Attack - Containment Tactics**\n\nWhen Carlotta's Substance is full, her Heavy Attack will be replaced with Containment Tactics: consume all Substance to deal Glacio DMG and reduce the cooldown of Resonance Skill Art of Violence by **6s**.\n\n**Mid-air Attack**\n\nPerform a Plunging Attack at the cost of STA, dealing Glacio DMG. Using Basic Attack shortly after the landing will cast Customary Greetings.\n\n**Mid-air Attack - Customary Greetings**\n\nFlip over the target and deliver a surprise shot, dealing Glacio DMG.\n\n**Dodge Counter**\n\nPress Normal Attack shortly after a successful Dodge to deliver a riposte shot, dealing Glacio DMG. This consumes **1 **Moldable Crystal.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Basic Attack Stage 1 | 27.20% |\n| Basic Attack Stage 2 | 19.89% + 19.89% + 26.52% |\n| Necessary Measures Stage 1 DMG | 33.15% |\n| Necessary Measures Stage 2 DMG | 30.22% + 36.94% |\n| Necessary Measures Stage 3 DMG | 70.38% + 11.73%*4 |\n| Heavy Attack DMG | 11.48%*2 + 11.48%*2 + 30.60% |\n| Containment Tactics DMG | 17.22%*2 + 17.22%*2 + 45.90% |\n| Mid-air Attack DMG | 52.70% |\n| Customary Greetings DMG | 54.32% + 66.39% |\n| Dodge Counter DMG | 52.20% + 69.19% |\n| Heavy Attack STA Cost | 25 |\n| Mid-air Attack STA Cost | 30 |\n| Containment Tactics Concerto Regen | 15 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Basic Attack Stage 1 | 37.02% |\n| Basic Attack Stage 2 | 27.07% + 27.07% + 36.09% |\n| Necessary Measures Stage 1 DMG | 45.12% |\n| Necessary Measures Stage 2 DMG | 41.12% + 50.26% |\n| Necessary Measures Stage 3 DMG | 95.78% + 15.97%*4 |\n| Heavy Attack DMG | 15.62%*2 + 15.62%*2 + 41.65% |\n| Containment Tactics DMG | 23.43%*2 + 23.43%*2 + 62.47% |\n| Mid-air Attack DMG | 71.72% |\n| Customary Greetings DMG | 73.92% + 90.34% |\n| Dodge Counter DMG | 71.03% + 94.15% |\n| Heavy Attack STA Cost | 25 |\n| Mid-air Attack STA Cost | 30 |\n| Containment Tactics Concerto Regen | 15 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Basic Attack Stage 1 | 54.08% |\n| Basic Attack Stage 2 | 39.55% + 39.55% + 52.73% |\n| Necessary Measures Stage 1 DMG | 65.91% |\n| Necessary Measures Stage 2 DMG | 60.08% + 73.43% |\n| Necessary Measures Stage 3 DMG | 139.93% + 23.33%*4 |\n| Heavy Attack DMG | 22.82%*2 + 22.82%*2 + 60.84% |\n| Containment Tactics DMG | 34.23%*2 + 34.23%*2 + 91.26% |\n| Mid-air Attack DMG | 104.78% |\n| Customary Greetings DMG | 107.99% + 131.99% |\n| Dodge Counter DMG | 103.77% + 137.55% |\n| Heavy Attack STA Cost | 25 |\n| Mid-air Attack STA Cost | 30 |\n| Containment Tactics Concerto Regen | 15 |"
+      }
+    },
+    {
+      "id": "resonance-skill-art-of-violence",
+      "name": "Art of Violence",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "Deal Glacio DMG and inflict Dispersion on the target. Press Resonance Skill again shortly after to cast Chromatic Splendor. \n\n**Dispersion**\n\nTargets with Dispersion are immobilized for **1.5s.** \n\n**Chromatic Splendor**\n\nConsume all Moldable Crystals and deal Glacio DMG.\n\nThe Resonance Skill enters cooldown after a while if Chromatic Splendor is not cast or Carlotta is switched off the field.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 72.49% + 72.49% |\n| Chromatic Splendor DMG | 56.70% + 56.70% + 170.10% |\n| Cooldown | 14 |\n| Concerto Regen | 5 |\n| Chromatic Splendor Concerto Regen | 5 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 98.64% + 98.64% |\n| Chromatic Splendor DMG | 77.16% + 77.16% + 231.48% |\n| Cooldown | 14 |\n| Concerto Regen | 5 |\n| Chromatic Splendor Concerto Regen | 5 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 144.11% + 144.11% |\n| Chromatic Splendor DMG | 112.73% + 112.73% + 338.18% |\n| Cooldown | 14 |\n| Concerto Regen | 5 |\n| Chromatic Splendor Concerto Regen | 5 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-era-of-new-wave",
+      "name": "Era of New Wave",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Deal Glacio DMG to all targets in an area (considered Resonance Skill DMG) and inflict Deconstruction on targets hit, then activate Twilight Tango.\n\nCan be cast in mid-air close to the ground.\n\n**Deconstruction**\n\nDealing DMG to targets inflicted with Deconstruction ignores **18% **of their DEF.\n\n**Twilight Tango**\n\nWhile in Twilight Tango, press Normal Attack or Resonance Liberation to cast Death Knell.\n\nEach Death Knell grants **1** Meta Vector.\n\nWith **4 **Meta Vectors, press Normal Attack or Resonance Liberation to cast Fatal Finale. \n\n- All Substance is removed when activating and ending Twilight Tango. Cannot perform Basic Attack Necessary Measures, Heavy Attack Containment Tactics, and Heavy Attack Imminent Oblivion while in Twilight Tango.\n\n**Death Knell**\n\nCarlotta fires powerful shots with her musket and summons **4** crystal shards to attack the target, dealing Glacio DMG, considered Resonance Skill DMG.\n\n- Carlotta moves in the direction of the movement input with each shot of Death Knell.\n\n**Fatal Finale**\n\nDeal Glacio DMG to an area, considered Resonance Skill DMG.\n\n- Twilight Tango ends after casting Fatal Finale.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 202.56% |\n| Death Knell DMG | 92.37% + 7.30%*4 |\n| Fatal Finale DMG | 324.09% |\n| Skill Cooldown | 25 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |\n| Death Knell Concerto Regen | 7 |\n| Fatal Finale Concerto Regen | 10 |\n| Deconstruction Duration | 4 |\n| Twilight Tango Duration | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 275.64% |\n| Death Knell DMG | 125.70% + 9.93%*4 |\n| Fatal Finale DMG | 441.03% |\n| Skill Cooldown | 25 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |\n| Death Knell Concerto Regen | 7 |\n| Fatal Finale Concerto Regen | 10 |\n| Deconstruction Duration | 4 |\n| Twilight Tango Duration | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 402.71% |\n| Death Knell DMG | 183.64% + 14.50%*4 |\n| Fatal Finale DMG | 644.33% |\n| Skill Cooldown | 25 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |\n| Death Knell Concerto Regen | 7 |\n| Fatal Finale Concerto Regen | 10 |\n| Deconstruction Duration | 4 |\n| Twilight Tango Duration | 10 |"
+      }
+    },
+    {
+      "id": "forte-circuit-lethal-repertoire",
+      "name": "Lethal Repertoire",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "**Heavy Attack - Imminent Oblivion**\n\n- Carlotta activates Tinted Crystal every **22s**.\n- When Substance is full and Tinted Crystal is activated, hold Normal Attack to consume all Substance and cast Heavy Attack Imminent Oblivion, after which Tinted Crystal enters cooldown.\n- Deal Glacio DMG (considered Resonance Skill DMG), and reduce the cooldown of Resonance Skill Art of Violence by **6s**.\n\n**Final Bow**\n\n- When Substance is full, enter the Final Bow state.\n- Increase the DMG Multiplier of Resonance Liberation Era of New Wave, Resonance Liberation Death Knell, and Resonance Liberation Fatal Finale by **80%**. This effect ends when Carlotta is switched off the field during Twilight Tango or when Twilight Tango ends.\n\n**Substance**\n\n- Carlotta can hold up to **120 **points of Substance.\n- Cannot gain Substance while in Twilight Tango triggered by Resonance Liberation.\n- Restore **30 **point of Substance upon casting Intro Skill Wintertime Aria.\n- Restore **10 **point of Substance for every **1 **Moldable Crystal consumed upon casting Resonance Skill Chromatic Splendor.\n- Restore **10 **point of Substance for every **1 **Moldable Crystal consumed upon casting Basic Attack Necessary Measures.\n- Consume **1 **Moldable Crystal and restore **10 **point of Substance upon casting Dodge Counter.\n\n**Moldable Crystal**\n\n- Carlotta can hold up to **6 **Moldable Crystals.\n- Cannot gain Moldable Crystal while in Twilight Tango triggered by Resonance Liberation.\n- Restore **3 **Moldable Crystal upon casting Basic Attack Stage 2.\n- Restore **3 **Moldable Crystal upon casting Heavy Attack.\n- Restore **3 **Moldable Crystal upon casting Mid-air Attack Customary Greetings.\n- Restore **3 **Moldable Crystal upon casting Intro Skill Wintertime Aria.\n- Restore **3 **Moldable Crystal upon casting Resonance Skill Art of Violence.\n- Restore **3 **Moldable Crystal upon a successful Dodge.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Imminent Oblivion DMG | 33.62%*5 + 252.11% |\n| Tinted Crystal Cooldown | 22 |\n| Imminent Oblivion Concerto Regen | 15 |\n| Moldable Crystal Duration | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Imminent Oblivion DMG | 45.75%*5 + 343.07% |\n| Tinted Crystal Cooldown | 22 |\n| Imminent Oblivion Concerto Regen | 15 |\n| Moldable Crystal Duration | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Imminent Oblivion DMG | 66.83%*5 + 501.21% |\n| Tinted Crystal Cooldown | 22 |\n| Imminent Oblivion Concerto Regen | 15 |\n| Moldable Crystal Duration | 10 |"
+      }
+    },
+    {
+      "id": "inherent-skill-flawless-purity",
+      "name": "Flawless Purity",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "After casting Resonance Skill Chromatic Splendor, Carlotta can perform Mid-air Attacks while being immune to any DMG or interruptions before the Mid-air Attack deals DMG.\n\nWhen Carlotta is on the team, the active Resonator's Flight STA cost is reduced by **20%**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-ars-gratia-artis",
+      "name": "Ars Gratia Artis",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Intro Skill Wintertime Aria, Resonance Skill Chromatic Splendor, Resonance Liberation Death Knell, and Heavy Attack Imminent Oblivion can inflict Deconstruction.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-wintertime-aria",
+      "name": "Wintertime Aria",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target, dealing Glacio DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 90.00% + 30.00%*2 |\n| Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 122.48% + 40.83%*2 |\n| Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 178.93% + 59.65%*2 |\n| Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-closing-remark",
+      "name": "Closing Remark",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target, dealing Glacio DMG equal to **794.2%** of Carlotta's ATK",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/carlotta/icon.webp",
+    "card": "/v1/images/characters/carlotta/card.webp",
+    "splash": "/v1/images/characters/carlotta/splash.webp",
+    "attribute": "/v1/images/characters/carlotta/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/carlotta",
+      "updatedAt": "December 31st, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Carlotta",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Carlotta/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 2589.6,
+      "atk": 96.2,
+      "def": 250.88
+    },
+    "50": {
+      "hp": 6434.16,
+      "atk": 244.57,
+      "def": 621.32
+    },
+    "90": {
+      "hp": 12450,
+      "atk": 462.5,
+      "def": 1197.76
+    }
+  }
+}

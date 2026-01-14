@@ -1,0 +1,25 @@
+{
+  "id": "lucilla",
+  "name": "Lucilla",
+  "rarity": 5,
+  "element": "Unknown",
+  "weaponType": "Unknown",
+  "skills": [],
+  "images": {
+    "icon": "/v1/images/characters/lucilla/icon.webp",
+    "card": "/v1/images/characters/lucilla/card.webp",
+    "splash": "/v1/images/characters/lucilla/splash.webp",
+    "attribute": "/v1/images/characters/lucilla/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/lucilla",
+      "updatedAt": "November 30th, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Lucilla",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Lucilla/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14"
+}

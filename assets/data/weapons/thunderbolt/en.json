@@ -1,0 +1,37 @@
+{
+  "id": "thunderbolt",
+  "name": "Thunderbolt",
+  "rarity": 4,
+  "type": "Pistols",
+  "secondaryStatType": "ATK",
+  "passive": {
+    "name": "Unstoppable",
+    "descriptionMdByRank": {
+      "1": "When hitting a target with Basic Attacks or Heavy Attacks, increases Resonance Skill DMG Bonus by **7%**, stacking up to 3 time(s). This effect lasts for 10s and can be triggered 1 time(s) every 1s.",
+      "2": "When hitting a target with Basic Attacks or Heavy Attacks, increases Resonance Skill DMG Bonus by **11%**, stacking up to 3 time(s). This effect lasts for 10s and can be triggered 1 time(s) every 1s.",
+      "3": "When hitting a target with Basic Attacks or Heavy Attacks, increases Resonance Skill DMG Bonus by **15%**, stacking up to 3 time(s). This effect lasts for 10s and can be triggered 1 time(s) every 1s.",
+      "4": "When hitting a target with Basic Attacks or Heavy Attacks, increases Resonance Skill DMG Bonus by **19%**, stacking up to 3 time(s). This effect lasts for 10s and can be triggered 1 time(s) every 1s.",
+      "5": "When hitting a target with Basic Attacks or Heavy Attacks, increases Resonance Skill DMG Bonus by **23%**, stacking up to 3 time(s). This effect lasts for 10s and can be triggered 1 time(s) every 1s."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/thunderbolt/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Thunderbolt"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 80
+    },
+    "50": {
+      "atk": 200
+    },
+    "90": {
+      "atk": 387
+    }
+  }
+}

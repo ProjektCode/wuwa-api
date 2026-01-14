@@ -1,0 +1,37 @@
+{
+  "id": "gauntlets21d",
+  "name": "Gauntlets21D",
+  "rarity": 4,
+  "type": "Gauntlets",
+  "secondaryStatType": "Energy Regen",
+  "passive": {
+    "name": "Mastermind",
+    "descriptionMdByRank": {
+      "1": "When the Resonator dashes or dodges, increases ATK by **8%**. Increases Counter Attack DMG by **50%**, lasting for 8s. When Counter Attack is performed, restores the Resonator's HP by **5%**. This effect can be triggered 1 time(s) every 6s.",
+      "2": "When the Resonator dashes or dodges, increases ATK by **10%**. Increases Counter Attack DMG by **62.5%**, lasting for 8s. When Counter Attack is performed, restores the Resonator's HP by **6.25%**. This effect can be triggered 1 time(s) every 6s.",
+      "3": "When the Resonator dashes or dodges, increases ATK by **12%**. Increases Counter Attack DMG by **75%**, lasting for 8s. When Counter Attack is performed, restores the Resonator's HP by **7.5%**. This effect can be triggered 1 time(s) every 6s.",
+      "4": "When the Resonator dashes or dodges, increases ATK by **14%**. Increases Counter Attack DMG by **87.5%**, lasting for 8s. When Counter Attack is performed, restores the Resonator's HP by **8.75%**. This effect can be triggered 1 time(s) every 6s.",
+      "5": "When the Resonator dashes or dodges, increases ATK by **16%**. Increases Counter Attack DMG by **100%**, lasting for 8s. When Counter Attack is performed, restores the Resonator's HP by **10%**. This effect can be triggered 1 time(s) every 6s."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/gauntlets21d/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Gauntlets21D"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 80
+    },
+    "50": {
+      "atk": 200
+    },
+    "90": {
+      "atk": 387
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "id": "calcharo",
+  "name": "Calcharo",
+  "rarity": 5,
+  "element": "Electro",
+  "weaponType": "Broadblade",
+  "skills": [
+    {
+      "id": "basic-attack-gnawing-fangs",
+      "name": "Gnawing Fangs",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "Basic Attack\n\nPerform up to **4** attacks, dealing Electro DMG.\n\nHeavy Attack\n\nConsume Stamina to attack the target, dealing Electro DMG.\n\nMid-air Attack\n\nConsume Stamina to perform a Mid-Air Plunging Attack, dealing Electro DMG.\n\nDodge Counter\n\nUsing Basic Attack after a successful Dodge to attack the target, dealing Electro DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Part 1 Damage | 23.00%*2 |\n| Part 2 Damage | 50.00% |\n| Part 3 Damage | 42.84%+21.42%*3 |\n| Part 4 Damage | 39.99%*2+53.32% |\n| Heavy Attack Damage | 20.80%*5 |\n| Mid-Air Attack Damage | 62.00% |\n| Dodge Counter Damage | 33.44%*3+42.99% |\n| Heavy Attack Stamina Consumption | 30 |\n| Mid-Air Attack Stamina Consumption | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Part 1 Damage | 31.30%*2 |\n| Part 2 Damage | 68.04% |\n| Part 3 Damage | 58.30%+29.15%*3 |\n| Part 4 Damage | 54.42%*2+72.56% |\n| Heavy Attack Damage | 28.31%*5 |\n| Mid-Air Attack Damage | 84.37% |\n| Dodge Counter Damage | 45.51%*3+58.51% |\n| Heavy Attack Stamina Consumption | 30 |\n| Mid-Air Attack Stamina Consumption | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Part 1 Damage | 45.73%*2 |\n| Part 2 Damage | 99.41% |\n| Part 3 Damage | 85.18%+42.59%*3 |\n| Part 4 Damage | 79.51%*2+106.01% |\n| Heavy Attack Damage | 41.36%*5 |\n| Mid-Air Attack Damage | 123.27% |\n| Dodge Counter Damage | 66.48%*3+85.47% |\n| Heavy Attack Stamina Consumption | 30 |\n| Mid-Air Attack Stamina Consumption | 30 |"
+      }
+    },
+    {
+      "id": "resonance-skill-extermination-order",
+      "name": "Extermination Order",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "Cast up to** 3** attacks. Deal Electro DMG.\n\nIf this Character is switched or Resonance Skill Extermination Order is not repeated in a while, it will be put on a Cooldown. Resonance Skill Extermination Order does not reset your Basic Attack stage.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Extermination Order Part 1 Damage | 25.94%*2+34.59% |\n| Extermination Order Part 2 Damage | 38.91%*2+51.88% |\n| Extermination Order Part 3 Damage | 108.08%*2 |\n| Cooldown | 10 |\n| Extermination Order Con. Energy Regen | 4 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Extermination Order Part 1 Damage | 35.30%*2+47.07% |\n| Extermination Order Part 2 Damage | 52.95%*2+70.60% |\n| Extermination Order Part 3 Damage | 147.07%*2 |\n| Cooldown | 10 |\n| Extermination Order Con. Energy Regen | 4 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Extermination Order Part 1 Damage | 51.57%*2+68.76% |\n| Extermination Order Part 2 Damage | 77.36%*2+103.14% |\n| Extermination Order Part 3 Damage | 214.87%*2 |\n| Cooldown | 10 |\n| Extermination Order Con. Energy Regen | 4 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-phantom-etching",
+      "name": "Phantom Etching",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Calcharo attacks the target, dealing Electro DMG and enters Deathblade Gear state. After Resonance Liberation Deathblade Gear state ends, Calcharo's next Intro Skill is replaced with Intro Skill \"Necessary Means\", which deals Electro DMG, considered as Intro Skill damage.\n\nDeathblade Gear\n\nBasic Attack is replaced with Basic Attack Hounds Roar. Dodge Counter deals increased damage, considered as Resonance Liberation damage.\n\nHounds Roar\n\nPerform up to **5** consecutive attacks, dealing Electro DMG, considered as Basic Attack Damage.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill Damage | 300.00% |\n| Necessary Means Damage | 100.00%*2 |\n| Hounds Roar Part 1 | 44.30% |\n| Hounds Roar Part 2 | 17.72%*2+26.58%*2 |\n| Hounds Roar Part 3 | 82.41% |\n| Hounds Roar Part 4 | 17.52%*6 |\n| Hounds Roar Part 5 | 75.54%*2 |\n| Heavy Attack Damage | 31.20%*5 |\n| Dodge Counter Damage | 28.67%*6 |\n| Heavy Attack Stamina Consumption | 30 |\n| Deathblade Gear Duration | 11 |\n| Cooldown Time | 20 |\n| Res. Energy Cost | 125 |\n| Con. Energy Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill Damage | 408.24% |\n| Necessary Means Damage | 136.08%*2 |\n| Hounds Roar Part 1 | 60.28% |\n| Hounds Roar Part 2 | 24.11%*2+36.17%*2 |\n| Hounds Roar Part 3 | 112.14% |\n| Hounds Roar Part 4 | 23.83%*6 |\n| Hounds Roar Part 5 | 102.80%*2 |\n| Heavy Attack Damage | 42.46%*5 |\n| Dodge Counter Damage | 39.01%*6 |\n| Heavy Attack Stamina Consumption | 30 |\n| Deathblade Gear Duration | 11 |\n| Cooldown Time | 20 |\n| Res. Energy Cost | 125 |\n| Con. Energy Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill Damage | 596.43% |\n| Necessary Means Damage | 198.81%*2 |\n| Hounds Roar Part 1 | 88.07% |\n| Hounds Roar Part 2 | 35.23%*2+52.84%*2 |\n| Hounds Roar Part 3 | 163.84% |\n| Hounds Roar Part 4 | 34.82%*6 |\n| Hounds Roar Part 5 | 150.19%*2 |\n| Heavy Attack Damage | 62.03%*5 |\n| Dodge Counter Damage | 56.99%*6 |\n| Heavy Attack Stamina Consumption | 30 |\n| Deathblade Gear Duration | 11 |\n| Cooldown Time | 20 |\n| Res. Energy Cost | 125 |\n| Con. Energy Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-hunting-mission",
+      "name": "Hunting Mission",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "Heavy Attack: \"Mercy\"\n\nWhen Calcharo has **3 **\"Cruelty\", his Heavy Attack is replaced with Heavy Attack \"Mercy\". When casting Heavy Attack \"Mercy\", Calcharo consumes **3 **\"Cruelty\" to deal Electro DMG, considered as Heavy Attack damage, and recovers Resonance Energy and Concerto Energy.\n\n\"Cruelty\"\n\nCalcharo can hold up to **3 **\"Cruelty\". Under Resonance Liberation Deathblade Gear state, \"Cruelty\" cannot be acquired. When Resonance Skill Extermination Order hits the target, gain **1 **\"Cruelty\".\n\nHeavy Attack: \"Death Messenger\"\n\nWhen Calcharo has 5 \"Killing Intent\", his Basic Attack is replaced with Heavy Attack \"Death Messenger\". When casting Heavy Attack \"Death Messenger\", Calcharo consumes 5 \"Killing Intent\" to deal Electro DMG, considered as Resonance Liberation damage, and recovers Resonance Energy and Concerto Energy.\n\n\"Killing Intent\"\n\nUnder Resonance Liberation Deathblade Gear state, Calcharo's Forte Gauge is replaced with \"Killing Intent\", stacking up to **5**. When Basic Attack Hounds Roar hits the target, Calcharo gains **1 **\"Killing Intent\".",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Mercy Damage | 19.67%*8+39.34% |\n| Death Messenger Damage | 49.18%*8+98.35% |\n| Mercy Con. Energy Regen | 6 |\n| Death Messenger Con. Energy Regen | 10 |\n| Mercy Con. Energy Regen | 6 |\n| Death Messenger Resonance Energy Regen | 5 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Mercy Damage | 26.77%*8+53.54% |\n| Death Messenger Damage | 66.92%*8+133.84% |\n| Mercy Con. Energy Regen | 6 |\n| Death Messenger Con. Energy Regen | 10 |\n| Mercy Con. Energy Regen | 6 |\n| Death Messenger Resonance Energy Regen | 5 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Mercy Damage | 39.11%*8+78.22% |\n| Death Messenger Damage | 97.77%*8+195.53% |\n| Mercy Con. Energy Regen | 6 |\n| Death Messenger Con. Energy Regen | 10 |\n| Mercy Con. Energy Regen | 6 |\n| Death Messenger Resonance Energy Regen | 5 |"
+      }
+    },
+    {
+      "id": "inherent-skill-bloodshed-awaken",
+      "name": "Bloodshed Awaken",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "When casting Heavy Attack \"Mercy\", Calcharo's Resonance Liberation DMG Bonus is increased by **10%** for **15s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-revenant-rush",
+      "name": "Revenant Rush",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "When Heavy Attack \"Death Messenger\" hits the target, the damage taken by Calcharo is reduced by **15%** for **5s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-wanted-outlaw",
+      "name": "Wanted Outlaw",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target, dealing Electro DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill Damage | 20.00%*2+30.00%*2 |\n| Con. Energy Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill Damage | 27.22%*2+40.83%*2 |\n| Con. Energy Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill Damage | 39.77%*2+59.65%*2 |\n| Con. Energy Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-shadowy-raid",
+      "name": "Shadowy Raid",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "Calcharo summons Phantom to support the Resonator, clearing the targets in front with a slash. The Phantom's attack deals Electro DMG equal to **195.98%+391.96%** of Calcharo's ATK.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/calcharo/icon.webp",
+    "card": "/v1/images/characters/calcharo/card.webp",
+    "splash": "/v1/images/characters/calcharo/splash.webp",
+    "attribute": "/v1/images/characters/calcharo/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/calcharo",
+      "updatedAt": "January 6th, 2026"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Calcharo",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Calcharo/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 2184,
+      "atk": 91,
+      "def": 248.32
+    },
+    "50": {
+      "hp": 5426.4,
+      "atk": 231.35,
+      "def": 614.98
+    },
+    "90": {
+      "hp": 10500,
+      "atk": 437.5,
+      "def": 1185.53
+    }
+  }
+}

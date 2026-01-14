@@ -1,0 +1,37 @@
+{
+  "id": "red-spring",
+  "name": "Red Spring",
+  "rarity": 5,
+  "type": "Sword",
+  "secondaryStatType": "Crit. Rate",
+  "passive": {
+    "name": "Beyond the Cycle",
+    "descriptionMdByRank": {
+      "1": "Increase ATK by **12%**. When dealing Basic Attack DMG, the wielder gains **10%** Basic Attack DMG Bonus for 14s. This effect can be triggered once per second, stacking up to 3 times.\nWhen the wielder's Concerto Energy is consumed, gain **40%** Basic DMG Bonus for 10s. This effect can be triggered once per second and ends when the wielder is switched off the field.",
+      "2": "Increase ATK by **15%**. When dealing Basic Attack DMG, the wielder gains **12.5%** Basic Attack DMG Bonus for 14s. This effect can be triggered once per second, stacking up to 3 times.\nWhen the wielder's Concerto Energy is consumed, gain **50%** Basic DMG Bonus for 10s. This effect can be triggered once per second and ends when the wielder is switched off the field.",
+      "3": "Increase ATK by **18%**. When dealing Basic Attack DMG, the wielder gains **15%** Basic Attack DMG Bonus for 14s. This effect can be triggered once per second, stacking up to 3 times.\nWhen the wielder's Concerto Energy is consumed, gain **60%** Basic DMG Bonus for 10s. This effect can be triggered once per second and ends when the wielder is switched off the field.",
+      "4": "Increase ATK by **21%**. When dealing Basic Attack DMG, the wielder gains **17.5%** Basic Attack DMG Bonus for 14s. This effect can be triggered once per second, stacking up to 3 times.\nWhen the wielder's Concerto Energy is consumed, gain **70%** Basic DMG Bonus for 10s. This effect can be triggered once per second and ends when the wielder is switched off the field.",
+      "5": "Increase ATK by **24%**. When dealing Basic Attack DMG, the wielder gains **20%** Basic Attack DMG Bonus for 14s. This effect can be triggered once per second, stacking up to 3 times.\nWhen the wielder's Concerto Energy is consumed, gain **80%** Basic DMG Bonus for 10s. This effect can be triggered once per second and ends when the wielder is switched off the field."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/red-spring/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Red%20Spring"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 122
+    },
+    "50": {
+      "atk": 303
+    },
+    "90": {
+      "atk": 587
+    }
+  }
+}

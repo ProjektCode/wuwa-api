@@ -1,0 +1,37 @@
+{
+  "id": "pulsation-bracer",
+  "name": "Pulsation Bracer",
+  "rarity": 5,
+  "type": "Gauntlets",
+  "secondaryStatType": "Crit. Rate",
+  "passive": {
+    "name": "Barrier Breacher",
+    "descriptionMdByRank": {
+      "1": "Increases ATK by **12%**.\nDealing damage to targets under Tune Strain - Interfered grants **6%** Basic Attack DMG Bonus for 3s, stacking up to 4 times. This effect can be triggered once every 0.5s. Retriggering the effect resets its duration.",
+      "2": "Increases ATK by **15%**.\nDealing damage to targets under Tune Strain - Interfered grants **6.7%** Basic Attack DMG Bonus for 3s, stacking up to 4 times. This effect can be triggered once every 0.5s. Retriggering the effect resets its duration.",
+      "3": "Increases ATK by **18%**.\nDealing damage to targets under Tune Strain - Interfered grants **7.5%** Basic Attack DMG Bonus for 3s, stacking up to 4 times. This effect can be triggered once every 0.5s. Retriggering the effect resets its duration.",
+      "4": "Increases ATK by **21%**.\nDealing damage to targets under Tune Strain - Interfered grants **8.2%** Basic Attack DMG Bonus for 3s, stacking up to 4 times. This effect can be triggered once every 0.5s. Retriggering the effect resets its duration.",
+      "5": "Increases ATK by **24%**.\nDealing damage to targets under Tune Strain - Interfered grants **9%** Basic Attack DMG Bonus for 3s, stacking up to 4 times. This effect can be triggered once every 0.5s. Retriggering the effect resets its duration."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/pulsation-bracer/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Pulsation%20Bracer"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 122
+    },
+    "50": {
+      "atk": 303
+    },
+    "90": {
+      "atk": 587
+    }
+  }
+}

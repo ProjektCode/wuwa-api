@@ -1,0 +1,134 @@
+{
+  "id": "lynae",
+  "name": "Lynae",
+  "rarity": 5,
+  "element": "Spectro",
+  "weaponType": "Pistols",
+  "skills": [
+    {
+      "id": "basic-attack-chroma-drift",
+      "name": "Chroma Drift",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack**\n\n- Press or hold Normal Attack to perform up to **3** consecutive attacks, dealing Spectro DMG.\n\n**Mid-air Attack**\n\n- Consume STA to perform Plunging Attack, dealing Spectro DMG.\n\n**Dodge Counter**\n\n- Press Normal Attack right after a successful Dodge to attack the target, dealing Spectro DMG.\n\n**Spark Collision**\n\n- With full Overflow in the Optical Sampling Stage, hold Normal Attack to enter a charging state.\n- During this state, **15 **points of Overflow will be converted to **12.5% **of Lumiflow every **0.2s**. Lynae is immune to interruption and takes **50% **less DMG.\n- Upon releasing Normal Attack or when Lumiflow is full, Lynae casts Spark Collision of varying strengths based on the ratio of Lumiflow, dealing Spectro DMG:\n  - Spark Collision Lv. 1: Lumiflow** <50%**\n  - Spark Collision Lv. 2:** 50% ≤** Lumiflow** < 100%**\n  - Spark Collision Lv. 3: Lumiflow**=100%**\n\n**Kaleidoscopic Parade - Basic Attack**\n\n- While in Kaleidoscopic Parade, Basic Attack is replaced with Kaleidoscopic Parade - Basic Attack.\n- Perform up to **5** consecutive attacks, dealing Spectro DMG.\n- With **120 **points of Lumiflow, Kaleidoscopic Parade - Basic Attack Stage 1 & 4 track enemies in a greater distance.\n\n**Kaleidoscopic Parade - Ground Heavy Attack**\n\n- While in Kaleidoscopic Parade, hold Normal Attack on the ground to cast this skill. Consume STA to continuously attack the target, dealing Spectro DMG, considered Basic Attack DMG. Release to cast Kaleidoscopic Parade - Graffiti Blast, dealing Spectro DMG, considered Basic Attack DMG.\n\n**Kaleidoscopic Parade - Mid-air Heavy Attack**\n\n- While in Kaleidoscopic Parade, hold Normal Attack in mid-air to cast this skill. Consume STA to attack the target, dealing Spectro DMG, considered Basic Attack DMG.\n- Cannot gain new charges while in the air. The available charges reset when Lynae is the active Resonator and is on the ground.\n\n**Kaleidoscopic Parade - Mid-air Attack**\n\n- While in Kaleidoscopic Parade, Mid-air Attack is replaced with Kaleidoscopic Parade - Mid-air Attack.\n- Consume STA to perform Plunging Attack, dealing Spectro DMG.\n\n**Kaleidoscopic Parade - Dodge Counter**\n\n- While in Kaleidoscopic Parade, Dodge Counter is replaced with Kaleidoscopic Parade - Dodge Counter.\n- Press Normal Attack right after a successful Dodge to attack the target, dealing Spectro DMG.\n- While in Kaleidoscopic Parade, press Normal Attack shortly after casting this skill to cast Kaleidoscopic Parade - Basic Attack Stage 2.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Basic Attack Stage 1 DMG | 43.35% |\n| Basic Attack Stage 2 DMG | 26.35%+26.35%+26.35% |\n| Basic Attack Stage 3 DMG | 62.05% |\n| Dodge Counter DMG | 120.70% |\n| Mid-air Attack DMG | 7.23%+65.03% |\n| Basic Attack - Spark Collision Lv. 1 DMG | 27.95%*2 |\n| Basic Attack - Spark Collision Lv. 2 DMG | 83.84%*2 |\n| Basic Attack - Spark Collision Lv. 3 DMG | 139.72%*2 |\n| Kaleidoscopic Parade - Basic Attack Stage 1 DMG | 41.65% |\n| Kaleidoscopic Parade - Basic Attack Stage 2 DMG | 19.55%*2 |\n| Kaleidoscopic Parade - Basic Attack Stage 3 DMG | 18.99%*3 |\n| Kaleidoscopic Parade - Basic Attack Stage 4 DMG | 14.96%*2+22.44%+22.44% |\n| Kaleidoscopic Parade - Basic Attack Stage 5 DMG | 38.00%+7.60%*5+50.66% |\n| Kaleidoscopic Parade - Dodge Counter | 92.65% |\n| Kaleidoscopic Parade - Ground Heavy Attack DMG | 8.87%*7 |\n| Kaleidoscopic Parade - Graffiti Blast DMG | 52.70% |\n| Kaleidoscopic Parade - Mid-Air Attack DMG | 7.23%+65.03% |\n| Kaleidoscopic Parade - Mid-air Heavy Attack DMG | 17.49%*7 |\n| Mid-air Attack STA Cost | 30 |\n| Kaleidoscopic Parade - Ground Heavy Attack STA Cost Per Strike | 25 |\n| Kaleidoscopic Parade - Mid-air Heavy Attack STA Cost | 25 |\n| Kaleidoscopic Parade - Mid-air Attack STA Cost | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Basic Attack Stage 1 DMG | 59.00% |\n| Basic Attack Stage 2 DMG | 35.86%+35.86%+35.86% |\n| Basic Attack Stage 3 DMG | 84.44% |\n| Dodge Counter DMG | 164.25% |\n| Mid-air Attack DMG | 9.84%+88.49% |\n| Basic Attack - Spark Collision Lv. 1 DMG | 38.03%*2 |\n| Basic Attack - Spark Collision Lv. 2 DMG | 114.08%*2 |\n| Basic Attack - Spark Collision Lv. 3 DMG | 190.13%*2 |\n| Kaleidoscopic Parade - Basic Attack Stage 1 DMG | 56.68% |\n| Kaleidoscopic Parade - Basic Attack Stage 2 DMG | 26.61%*2 |\n| Kaleidoscopic Parade - Basic Attack Stage 3 DMG | 25.84%*3 |\n| Kaleidoscopic Parade - Basic Attack Stage 4 DMG | 20.36%*2+30.54%+30.54% |\n| Kaleidoscopic Parade - Basic Attack Stage 5 DMG | 51.71%+10.35%*5+68.94% |\n| Kaleidoscopic Parade - Dodge Counter | 126.08% |\n| Kaleidoscopic Parade - Ground Heavy Attack DMG | 12.07%*7 |\n| Kaleidoscopic Parade - Graffiti Blast DMG | 71.72% |\n| Kaleidoscopic Parade - Mid-Air Attack DMG | 9.84%+88.49% |\n| Kaleidoscopic Parade - Mid-air Heavy Attack DMG | 23.80%*7 |\n| Mid-air Attack STA Cost | 30 |\n| Kaleidoscopic Parade - Ground Heavy Attack STA Cost Per Strike | 25 |\n| Kaleidoscopic Parade - Mid-air Heavy Attack STA Cost | 25 |\n| Kaleidoscopic Parade - Mid-air Attack STA Cost | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Basic Attack Stage 1 DMG | 86.19% |\n| Basic Attack Stage 2 DMG | 52.39%+52.39%+52.39% |\n| Basic Attack Stage 3 DMG | 123.37% |\n| Dodge Counter DMG | 239.97% |\n| Mid-air Attack DMG | 14.37%+129.28% |\n| Basic Attack - Spark Collision Lv. 1 DMG | 55.56%*2 |\n| Basic Attack - Spark Collision Lv. 2 DMG | 166.67%*2 |\n| Basic Attack - Spark Collision Lv. 3 DMG | 277.78%*2 |\n| Kaleidoscopic Parade - Basic Attack Stage 1 DMG | 82.81% |\n| Kaleidoscopic Parade - Basic Attack Stage 2 DMG | 38.87%*2 |\n| Kaleidoscopic Parade - Basic Attack Stage 3 DMG | 37.75%*3 |\n| Kaleidoscopic Parade - Basic Attack Stage 4 DMG | 29.75%*2+44.62%+44.62% |\n| Kaleidoscopic Parade - Basic Attack Stage 5 DMG | 75.54%+15.11%*5+100.72% |\n| Kaleidoscopic Parade - Dodge Counter | 184.20% |\n| Kaleidoscopic Parade - Ground Heavy Attack DMG | 17.63%*7 |\n| Kaleidoscopic Parade - Graffiti Blast DMG | 104.78% |\n| Kaleidoscopic Parade - Mid-Air Attack DMG | 14.37%+129.28% |\n| Kaleidoscopic Parade - Mid-air Heavy Attack DMG | 34.77%*7 |\n| Mid-air Attack STA Cost | 30 |\n| Kaleidoscopic Parade - Ground Heavy Attack STA Cost Per Strike | 25 |\n| Kaleidoscopic Parade - Mid-air Heavy Attack STA Cost | 25 |\n| Kaleidoscopic Parade - Mid-air Attack STA Cost | 30 |"
+      }
+    },
+    {
+      "id": "resonance-skill-lynae-style-palettes",
+      "name": "Lynae-Style Palettes",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "**Lynae-Style Palettes**\n\n- Press Resonance Skill to deal Spectro DMG.\n- While in Kaleidoscopic Parade, hold Resonance Skill to attack the target, dealing Spectro DMG and exiting the Kaleidoscopic Parade.\n- Press Normal Attack within a certain time after this skill to cast Basic Attack Stage 2.\n- Lynae-Style Palettes and Additive Color share a cooldown.\n\n**Additive Color**\n\n- During Kaleidoscopic Parade, press Resonance Skill on the ground to attack the target, dealing Spectro DMG.\n- Within a certain time after this skill is cast, press Normal Attack to cast Kaleidoscopic Parade - Basic Attack Stage 2.\n- Lynae-Style Palettes and Additive Color share a cooldown.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Lynae-Style Palettes DMG | 70.08%+23.36%*3 |\n| Additive Color DMG | 58.50%*2 |\n| Lynae-Style Palettes Cooldown | 6 |\n| Additive Color Cooldown | 6 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Lynae-Style Palettes DMG | 95.36%+31.79%*3 |\n| Additive Color DMG | 79.61%*2 |\n| Lynae-Style Palettes Cooldown | 6 |\n| Additive Color Cooldown | 6 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Lynae-Style Palettes DMG | 139.31%+46.44%*3 |\n| Additive Color DMG | 116.31%*2 |\n| Lynae-Style Palettes Cooldown | 6 |\n| Additive Color Cooldown | 6 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-prismatic-overblast",
+      "name": "Prismatic Overblast",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Deal Spectro DMG. Casting this skill grants all nearby Resonators in the team **24%** All DMG Bonus that lasts for **30s**.\n\n**Basic Attack - To a Vivid Tomorrow!**\n\nPress Normal Attack within a certain time after casting Resonance Liberation - Prismatic Overblast to cast Basic Attack - To a Vivid Tomorrow!, dealing Spectro DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Prismatic Overblast DMG | 44.00%*10 |\n| Basic Attack - To a Vivid Tomorrow! DMG | 4.22%*12+5.06%*10 |\n| Prismatic Overblast Concerto Regen | 20 |\n| Cooldown | 25 |\n| Resonance Energy Cost | 125 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Prismatic Overblast DMG | 59.88%*10 |\n| Basic Attack - To a Vivid Tomorrow! DMG | 5.73%*12+6.88%*10 |\n| Prismatic Overblast Concerto Regen | 20 |\n| Cooldown | 25 |\n| Resonance Energy Cost | 125 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Prismatic Overblast DMG | 87.48%*10 |\n| Basic Attack - To a Vivid Tomorrow! DMG | 8.38%*12+10.05%*10 |\n| Prismatic Overblast Concerto Regen | 20 |\n| Cooldown | 25 |\n| Resonance Energy Cost | 125 |"
+      }
+    },
+    {
+      "id": "forte-circuit-chromaticity-modeling",
+      "name": "Chromaticity Modeling",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "**Optical Sampling Stage**\n\n- Lynae is in Optical Sampling Stage by default. While in this state, Overflow recovers during certain skills.\n\n**Kaleidoscopic Parade**\n\n- Casting Basic Attack - Spark Collision sends Lynae into Kaleidoscopic Parade. In this state, Lynae continuously recovers Lumiflow while moving on the ground or casting certain skills. Lynae will not Walk during this state, and her Running and Sprinting will be replaced by the faster Free Skating and Speed Skating.\n\n**Basic Attack - Polychrome Leap**\n\n- While in Kaleidoscopic Parade, with at least **1/3** of the max Lumiflow, Jump is replaced by Basic Attack - Polychrome Leap.\n- Consume **1/3** of the max Lumiflow to deal Spectro DMG. Inflict Photochromic Flux on targets hit. Successful Dodges can be triggered within a certain time after casting this skill. While airborne, Basic Attack - Polychrome Leap chains up to 3 stages. Switching to another Resonator resets the combo.\n- While in combat, each stage of Basic Attack - Polychrome Leap cast recovers **1 **point of True Color.\n- Within a certain time after Basic Attack - Polychrome Leap Stage 1 press Normal Attack on the ground to cast Kaleidoscopic Parade - Basic Attack Stage 2.\n- Casting Basic Attack - Polychrome Leap Stage 2 also pulls in nearby targets.\n\n**Basic Attack - Iridescent Splash**\n\n- During Kaleidoscopic Parade, when Lynae is in mid-air, holding **3 **points of True Color, if Basic Attack - Visual Impact is on cooldown, press Normal Attack or Resonance Skill to deal Spectro DMG, and inflict Photochromic Flux on targets hit.\n- This skill consumes **3 **points of True Color.\n- Press Normal Attack within a certain time after this skill to cast Kaleidoscopic Parade - Basic Attack Stage 2\n\n**Basic Attack - Visual Impact**\n\n- During Kaleidoscopic Parade, when Lynae is in mid-air, holding **3 **points of True Color, if this skill is not on cooldown, press Normal Attack or Resonance Skill to deal Spectro DMG, inflicting Photochromic Flux on targets hit.\n- This skill consumes **3 **points of True Color and grants all nearby Resonators in the team **40 **points of Tune Break Boost for **30s**.\n  Press Normal Attack within a certain time after this skill to cast Kaleidoscopic Parade - Basic Attack Stage 2\n\n**Resonance Mode**\n\n- Inflict Photochromic Flux when hitting a target with Basic Attack - Polychrome Leap, Basic Attack - Iridescent Splash, Basic Attack - Visual Impact and Intro Skill - Time to Show Some Colors!.\n- Lynae can switch between Resonance Mode - Tune Rupture and Resonance Mode - Tune Strain:\n  - When in Resonance Mode - Tune Rupture, Photochromic Flux inflicts Tune Rupture - Shifting on targets for **25s**.\n  - When in Resonance Mode - Tune Strain, Photochromic Flux inflicts Tune Strain - Shifting on targets for **25s**.\n\n**Tune Rupture Response - Spectral Analysis**\n\n- Deal an instance of Spectro DMG, considered Tune Rupture DMG, to targets within range affected by Tune Rupture - Interfered.\n\n**Overflow**\n\n- Lynae can hold up to **120 **points of Overflow.\n- While in Optical Sampling Stage, Overflow recovers during Basic Attack, Lynae-Style Palettes, Mid-air Attack, and Dodge Counter.\n- When Overflow is full, Basic Attack - Spark Collision becomes available.\n  Exiting Optical Sampling Stage removes all Overflow.\n\n**Lumiflow**\n\n- Lynae can hold up to **120 **points of Lumiflow.\n- During Kaleidoscopic Parade:\n  - Restore **20% **of Lumiflow per second when Lynae is moving on the ground/climbing, or performs a successful Dodge on the ground, or casts Kaleidoscopic Parade - Basic Attack, Kaleidoscopic Parade - Ground Heavy Attack, Kaleidoscopic Parade - Mid-air Heavy Attack, Kaleidoscopic Parade - Dodge Counter, Additive Color, ground Dodge, Intro Skill, or Basic Attack - To a Vivid Tomorrow!.\n  - Lumiflow starts to deplete by **20% **per second while Lynae is staying still on the ground/climbing/swimming or off the field, or after a certain time after the skills listed above are cast.\n  - Lumiflow does not change while Lynae is not in any of the states described above.\n- Exiting Kaleidoscopic Parade removes all Lumiflow.\n- With **120 **points of Lumiflow, Lynae's roller skating speed further increases at the cost of STA over time.\n\n**True Color**\n\n- Lynae can hold up to **3 **points of True Color.\n- During combat, each time Basic Attack - Polychrome Leap is cast, gain **1 **point of True Color. With **3 **points of True Color, Basic Attack - Iridescent Splash and Basic Attack - Visual Impact become available.\n- Exiting Kaleidoscopic Parade removes all True Color.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Basic Attack - Iridescent Splash DMG | 153.00% |\n| Basic Attack - Visual Impact DMG | 612.00% |\n| Basic Attack - Polychrome Leap 1 | 17.00%*3 |\n| Basic Attack - Polychrome Leap 2 | 8.50%*6 |\n| Basic Attack - Polychrome Leap 3 | 6.59%*8 |\n| Tune Rupture Response - Spectral Analysis DMG | 946.00% Tune AMP |\n| Basic Attack - Visual Impact Cooldown | 25 |\n| Roller Skating STA Cost Per Sec at Max Overflow | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Basic Attack - Iridescent Splash DMG | 208.21% |\n| Basic Attack - Visual Impact DMG | 832.81% |\n| Basic Attack - Polychrome Leap 1 | 23.14%*3 |\n| Basic Attack - Polychrome Leap 2 | 11.57%*6 |\n| Basic Attack - Polychrome Leap 3 | 8.97%*8 |\n| Tune Rupture Response - Spectral Analysis DMG | 1287.32% Tune AMP |\n| Basic Attack - Visual Impact Cooldown | 25 |\n| Roller Skating STA Cost Per Sec at Max Overflow | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Basic Attack - Iridescent Splash DMG | 304.18% |\n| Basic Attack - Visual Impact DMG | 1216.72% |\n| Basic Attack - Polychrome Leap 1 | 33.80%*3 |\n| Basic Attack - Polychrome Leap 2 | 16.90%*6 |\n| Basic Attack - Polychrome Leap 3 | 13.10%*8 |\n| Tune Rupture Response - Spectral Analysis DMG | 1880.75% Tune AMP |\n| Basic Attack - Visual Impact Cooldown | 25 |\n| Roller Skating STA Cost Per Sec at Max Overflow | 10 |"
+      }
+    },
+    {
+      "id": "inherent-skill-colors-never-fade",
+      "name": "Colors Never Fade!",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "After casting Basic Attack - Visual Impact, Lynae leaves Spray Paint on the ground and continuously inflicts Photochromic Flux on targets within the Spray Paint for **5s**, triggered once every **2s**. When Spray Paint is on the ground, switching to another Resonance Mode doesn't affect the Photochromic Flux effects inflicted by the Spray Paint.\n\nWith Lynae in the team, the expedition motorbike's Energy Tank expands by **600 **points. Lynae enters Kaleidoscopic Parade automatically while on the expedition motorbike and restores **20% **of Lumiflow.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-adaptive-optics-everyday-applications",
+      "name": "Adaptive Optics: Everyday Applications",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Casting Intro Skill - Time to Show Some Colors! increases Lynae's Spectro DMG by **25% **for **9s**.\n\nDuring Kaleidoscopic Parade, if Lynae isn't in combat, dodging without directional input grants her Optic Camo for **15s**, which will be removed when Lynae casts any skill other than dodging or is switched off the field. Performing environmental, gameplay or functional interactions, or entering combat, removes the Optic Camo. With Optic Camo, Lynae may enter an enemy's aggro range without triggering combat.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-time-to-show-some-colors",
+      "name": "Time to Show Some Colors!",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Deal Spectro DMG, inflicting Photochromic Flux on targets hit.\n\nWhile in Optical Sampling Stage, casting this skill recovers **100 **points of Overflow.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Time to Show Some Colors! DMG | 11.31%*10 |\n| Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Time to Show Some Colors! DMG | 15.39%*10 |\n| Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Time to Show Some Colors! DMG | 22.48%*10 |\n| Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-lets-hit-the-road",
+      "name": "Let's Hit the Road!",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target and deal **100% **Spectro DMG. The next incoming Resonator gain **15% **All DMG Amplification and **25% **Resonance Liberation DMG Amplification for **14s **or until they are switched out.\n\nLynae leaves the Kaleidoscopic Parade state upon casting Outro Skill.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "forte-circuit-spectral-analysis",
+      "name": "Spectral Analysis",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "- Lynae can inflict Tune Rupture - Shifting or Tune Strain - Shifting on targets.\n- Lynae can respond to Tune Rupture - Interfered and Tune Strain - Interfered.\n- Responding to Tune Rupture - Interfered: When any Resonator in the team deals Tune Break DMG and inflicts the Tune Rupture - Interfered state, Lynae casts Tune Rupture Response - Spectral Analysis. Each target can be damaged by this skill up to once every **8s**.\n- Responding to Tune Strain - Interfered: For each stack of Tune Strain - Interfered on the target, each point of Lynae's Tune Break Boost increases her total DMG against that target by **0.12%**. When Lynae is in the team, the target's max stack limit of Tune Strain - Interfered is increased by **1**.\n- When the target's Off-Tuning Level is full, Lynae can cast Tune Break on the target.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Spectral Analysis - Discorded Tune DMG | 946.00% |",
+        "5": "| Name | Value |\n| --- | --- |\n| Spectral Analysis - Discorded Tune DMG | 1287.32% |",
+        "10": "| Name | Value |\n| --- | --- |\n| Spectral Analysis - Discorded Tune DMG | 1880.75% |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/lynae/icon.webp",
+    "card": "/v1/images/characters/lynae/card.webp",
+    "splash": "/v1/images/characters/lynae/splash.webp",
+    "attribute": "/v1/images/characters/lynae/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/lynae",
+      "updatedAt": "January 1st, 2026"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Lynae",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Lynae/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14"
+}

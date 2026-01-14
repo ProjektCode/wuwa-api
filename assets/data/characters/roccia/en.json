@@ -1,0 +1,139 @@
+{
+  "id": "roccia",
+  "name": "Roccia",
+  "rarity": 5,
+  "element": "Havoc",
+  "weaponType": "Gauntlets",
+  "skills": [
+    {
+      "id": "basic-attack-pero-easy",
+      "name": "Pero, Easy",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack**\n\nPerform up to **4** consecutive attacks, dealing Havoc DMG.\n\n**Heavy Attack**\n\nConsume STA to attack, dealing Havoc DMG. Hitting a target with at least **100 **Imagination sends Roccia into mid-air and activates the Beyond Imagination state. The longer you hold the Basic Attack button, the more Imagination Roccia gains. In this state, Roccia can continue to charge the attack even when her STA depletes. Heavy Attack will be automatically cast when you release the Basic Attack button while charging or when Imagination reaches the max limit.\n\n**Mid-air Attack**\n\nConsume STA to perform a Plunging Attack, dealing Havoc DMG.\n\n**Dodge Counter**\n\nUse Basic Attack right after a successful Dodge to attack the target, dealing Havoc DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 36.81% |\n| Stage 2 DMG | 19.19%*3 |\n| Stage 3 DMG | 17.00%*2 + 51.00% |\n| Stage 4 DMG | 52.41%*2 |\n| Heavy Attack DMG | 85.00% |\n| Mid-air Attack DMG | 52.70% |\n| Dodge Counter DMG | 34.66%*3 |\n| Heavy Attack STA Cost | 10 |\n| STA Cost per Second while Charging | 15 |\n| Mid-air Attack STA Cost | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 50.09% |\n| Stage 2 DMG | 26.11%*3 |\n| Stage 3 DMG | 23.14%*2 + 69.41% |\n| Stage 4 DMG | 71.31%*2 |\n| Heavy Attack DMG | 115.67% |\n| Mid-air Attack DMG | 71.72% |\n| Dodge Counter DMG | 47.16%*3 |\n| Heavy Attack STA Cost | 10 |\n| STA Cost per Second while Charging | 15 |\n| Mid-air Attack STA Cost | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 73.18% |\n| Stage 2 DMG | 38.14%*3 |\n| Stage 3 DMG | 33.80%*2 + 101.40% |\n| Stage 4 DMG | 104.19%*2 |\n| Heavy Attack DMG | 168.99% |\n| Mid-air Attack DMG | 104.78% |\n| Dodge Counter DMG | 68.90%*3 |\n| Heavy Attack STA Cost | 10 |\n| STA Cost per Second while Charging | 15 |\n| Mid-air Attack STA Cost | 30 |"
+      }
+    },
+    {
+      "id": "resonance-skill-acrobatic-trick",
+      "name": "Acrobatic Trick",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "Roccia projects her creativity into reality, pulling in nearby targets and dealing Havoc DMG. She then launches into mid-air and activates the Beyond Imagination state.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 30.92%*8 |\n| Cooldown | 10 |\n| Concerto Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 42.07%*8 |\n| Cooldown | 10 |\n| Concerto Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 61.47%*8 |\n| Cooldown | 10 |\n| Concerto Regen | 20 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-commedia-improvviso",
+      "name": "Commedia Improvviso!",
+      "type": "Resonance Liberation",
+      "category": null,
+      "descriptionMd": "Roccia's improvised comedy begins! Deal Havoc DMG to the target, considered Heavy Attack DMG. For every **0.1% **of Roccia's Crit. Rate over **50%**, this skill increases the ATK of all Resnonators in the team by** 1 **point for **30s**, up to **200 **points.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 140.00%*3 |\n| Cooldown | 20 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 190.52%*3 |\n| Cooldown | 20 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 278.34%*3 |\n| Cooldown | 20 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-a-prop-master-prepares",
+      "name": "A Prop Master Prepares",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "**Beyond Imagination**\n\n- When Roccia is in Beyond Imagination with at least **100 **Imagination, press the Basic Attack button to consume **100 **Imagination to cast Basic Attack Real Fantasy.\n- Roccia exits this state when she is not airborne or when switched off the field.\n\n**Basic Attack - Real Fantasy**\n\n- Perform up to **3** consecutive attacks, dealing Havoc DMG, considered Heavy Attack DMG. When Roccia lands after Stage **1 **and Stage **2 **attacks with over **100 **Imagination, she will launch into mid-air and activate Beyond Imagination.\n\n**Imagination**\n\nRoccia can hold up to **300 **Imagination.\n\n- Dealing DMG with Normal Attacks restores Imagination.\n- Hold Normal Attack to charge the next attack while restoring Imagination.\n- Casting Resonance Skill Acrobatic Trick restores **100 **Imagination.\n- Casting Intro Skill Pero, Help restores **100 **Imagination.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 162.00% |\n| Stage 2 DMG | 171.00% |\n| Stage 3 DMG | 180.00% |\n| Stage 1 Concerto Regen | 10 |\n| Stage 2 Concerto Regen | 16 |\n| Stage 3 Concerto Regen | 25 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 220.45% |\n| Stage 2 DMG | 232.70% |\n| Stage 3 DMG | 244.95% |\n| Stage 1 Concerto Regen | 10 |\n| Stage 2 Concerto Regen | 16 |\n| Stage 3 Concerto Regen | 25 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 322.08% |\n| Stage 2 DMG | 339.97% |\n| Stage 3 DMG | 357.86% |\n| Stage 1 Concerto Regen | 10 |\n| Stage 2 Concerto Regen | 16 |\n| Stage 3 Concerto Regen | 25 |"
+      }
+    },
+    {
+      "id": "inherent-skill-immersive-performance",
+      "name": "Immersive Performance",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Casting Resonance Skill or Heavy Attack increases Roccia's ATK by** 20%** for **12s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-super-attractive-magic-box",
+      "name": "Super Attractive Magic Box",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "After casting Outro Skill, the Utility of the incoming Resonator is replaced with Magic Box.\n\n**Magic Box**\n\n- Upon use, pull nearby targets toward the Magic Box, dealing **100 **points of Havoc DMG. This skill is considered Echo Skill that deals Utility DMG.\n- The Magic Box lasts for **14s **or until the Resonator is switched out.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-pero-help",
+      "name": "Pero, Help",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target, dealing Havoc DMG. Use Basic Attack right after casting this skill to cast Basic Attack Stage 4.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 85.00% |\n| Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 115.67% |\n| Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 168.99% |\n| Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-applause-please",
+      "name": "Applause, Please!",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "The incoming Resonator has their Havoc DMG Amplified by **20% **and Basic Attack DMG Amplified by **25% **for **14s **or until the Resonator is switched out.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/roccia/icon.webp",
+    "card": "/v1/images/characters/roccia/card.webp",
+    "splash": "/v1/images/characters/roccia/splash.webp",
+    "attribute": "/v1/images/characters/roccia/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/roccia",
+      "updatedAt": "December 31st, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Roccia",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Roccia/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 2548,
+      "atk": 78,
+      "def": 250.88
+    },
+    "50": {
+      "hp": 6330.8,
+      "atk": 198.3,
+      "def": 621.32
+    },
+    "90": {
+      "hp": 12250,
+      "atk": 375,
+      "def": 1197.76
+    }
+  }
+}

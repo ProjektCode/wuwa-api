@@ -1,0 +1,139 @@
+{
+  "id": "zhezhi",
+  "name": "Zhezhi",
+  "rarity": 5,
+  "element": "Glacio",
+  "weaponType": "Rectifier",
+  "skills": [
+    {
+      "id": "basic-attack-dimming-brush",
+      "name": "Dimming Brush",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack**\n\nPerform up to** 3** consecutive attacks, dealing  Glacio DMG.\n\n**Heavy Attack**\n\nConsume STA to perform an attack, dealing Glacio DMG. \n\nHeavy Attack does not reset the Basic Attack cycle. \n\n**Mid-air Attack**\n\nConsume STA to perform up to **2** consecutive attacks while in mid-air, dealing Glacio DMG.\n\n**Dodge Counter**\n\nUse Basic Attack after a successful Dodge to attack the target, dealing Glacio DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 21.00%*2 |\n| Stage 2 DMG | 10.34%*5 |\n| Stage 3 DMG | 67.20% |\n| HA DMG | 56.70% |\n| Mid-air Attack DMG | 12.55%*5 + 52.70% |\n| Dodge Counter DMG | 14.62%*5 |\n| HA STA Cost | 20 |\n| Mid-air Attack STA Cost | 5 + 25 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 28.58%*2 |\n| Stage 2 DMG | 14.06%*5 |\n| Stage 3 DMG | 91.45% |\n| HA DMG | 77.16% |\n| Mid-air Attack DMG | 17.08%*5 + 71.72% |\n| Dodge Counter DMG | 19.90%*5 |\n| HA STA Cost | 20 |\n| Mid-air Attack STA Cost | 5 + 25 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 41.76%*2 |\n| Stage 2 DMG | 20.55%*5 |\n| Stage 3 DMG | 133.61% |\n| HA DMG | 112.72% |\n| Mid-air Attack DMG | 24.95%*5 + 104.78% |\n| Dodge Counter DMG | 29.07%*5 |\n| HA STA Cost | 20 |\n| Mid-air Attack STA Cost | 5 + 25 |"
+      }
+    },
+    {
+      "id": "resonance-skill-manifestation",
+      "name": "Manifestation",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "Deal Glacio DMG. If Afflatus is no less than **60**, consume **60 **Afflatus to summon Phantasmic Imprint - Left and Phantasmic Imprint - Right. \n\n- Press the button on the ground to summon the Phantasmic Imprints on the ground.\n- Hold the button on the ground or press the button in mid-air to summon the Phantasmic Imprints in mid-air.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Press DMG | 49.50%*3 |\n| Hold DMG | 49.50%*3 |\n| Mid-air Press DMG | 49.50%*3 |\n| Cooldown | 6 |\n| Press Concerto Regen | 8 |\n| Hold Concerto Regen | 8 |\n| Mid-air Press Concerto Regen | 8 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Press DMG | 67.36%*3 |\n| Hold DMG | 67.36%*3 |\n| Mid-air Press DMG | 67.36%*3 |\n| Cooldown | 6 |\n| Press Concerto Regen | 8 |\n| Hold Concerto Regen | 8 |\n| Mid-air Press Concerto Regen | 8 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Press DMG | 98.42%*3 |\n| Hold DMG | 98.42%*3 |\n| Mid-air Press DMG | 98.42%*3 |\n| Cooldown | 6 |\n| Press Concerto Regen | 8 |\n| Hold Concerto Regen | 8 |\n| Mid-air Press Concerto Regen | 8 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-living-canvas",
+      "name": "Living Canvas",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Summon Inklit Spirits for assistance.\n\nCan be cast in mid-air. \n\n**Inklit Spirit**\n\nWhen the active Resonator deals DMG, an Inklit Spirit will be summoned to perform a Coordinated Attack, dealing Glacio DMG, considered as Basic Attack DMG.\n\n- For **3s **after dealing DMG, **1 **Inklit Spirit is summoned per second. This effect can trigger once per second. Damage dealt by an Inklit Spirit does not trigger this effect.\n- Up to **1 **Inklit Spirit can be summoned every second, and up to **21 **in total.\n- This effect lasts for **30s**, or until max Inklit Spirits are summoned.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Inklit Spirit DMG | 32.80% |\n| Cooldown | 25 |\n| Resonance Energy Cost | 125 |\n| Concerto Energy Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Inklit Spirit DMG | 44.64% |\n| Cooldown | 25 |\n| Resonance Energy Cost | 125 |\n| Concerto Energy Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Inklit Spirit DMG | 65.21% |\n| Cooldown | 25 |\n| Resonance Energy Cost | 125 |\n| Concerto Energy Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-ink-and-wash",
+      "name": "Ink and Wash",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "**Phantasmic Imprint**\n\nZhezhi may summon Phantasmic Imprints at the cost of Afflatus when casting Resonance Skill Manifestation or Heavy Attack Conjuration.\n\nUp to **1 **of each of Phantasmic Imprint - Left, Phantasmic Imprint - Middle, and Phantasmic Imprint - Right can exist at the same time, each lasting for **15s**.\n\n**Heavy Attack: Conjuration**\n\nThe 5 moves below consume STA to perform Conjuration to attack the target, dealing Glacio DMG.\n\n- Hold the Normal Attack button shortly after Basic Attack Stage 3.\n- Press the Normal Attack button shortly after casting Resonance Skill Manifestation.\n- Hold the Normal Attack button shortly after casting Resonance Skill Stroke of Genius or Resonance Skill Creation's Zenith.\n- Hold the Normal Attack button while in mid-air.\n- Hold the Normal Attack button after a successful Dodge.\n\nIf Zhezhi has at least **30 **Afflatus when performing any of these, consume **30 **Afflatus to summon a Phantasmic Imprint - Middle.\n\n**Resonance Skill: Stroke of Genius**\n\nWhen a Phatasmic Imprint is nearby, the Resonance Skill is replaced with Stroke of Genius, which can be cast while in mid-air. When it is cast, Zhezhi will:\n\n- Move to the location of the Phatasmic Imprint, remove it, and then summon an Ivory Herald to attack the target, dealing Glacio DMG, considered as Basic Attack DMG. Refresh the mid-air Dodge attempts if the target Phatasmic Imprint is in mid-air.\n- Gain **1 **stack of Painter's Delight, lasting for **8s **and stacking up to **2 **times.\n\n**Resonance Skill: Creation's Zenith**\n\nWhen a Phantasmic Imprint is nearby and there are **2 **stacks of Painter's Delight, Stroke of Genius is replaced with Creation's Zenith, which can be cast while in mid-air. When it is cast, Zhezhi will:\n\n- Lose all stacks of Painter's Delight\n- Move to the location of the Phantasmic Imprint, remove it, and then summon an Ivory Herald to attack the target, dealing greater Glacio DMG, considered as Basic Attack DMG, additionally increasing the Basic Attack DMG Bonus by **18% **for **27s**. Refresh the mid-air Dodge attempts if the target Phatasmic Imprint is in mid-air.\n\n**Afflatus**\n\n- Zhezhi can hold up to **90 **Afflatus.\n- Normal Attacks grant Afflatus on hit.\n- Casting Intro Skill grants Afflatus.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| HA - Conjuration DMG | 41.75%*3 |\n| HA - Conjuration STA Cost | 15 |\n| Stroke of Genius DMG | 150.00% |\n| Creation's Zenith DMG | 60.00%*3 |\n| Stroke of Genius Concerto Regen | 13 |\n| Creation's Zenith Concerto Regen | 13 |",
+        "5": "| Name | Value |\n| --- | --- |\n| HA - Conjuration DMG | 56.82%*3 |\n| HA - Conjuration STA Cost | 15 |\n| Stroke of Genius DMG | 204.12% |\n| Creation's Zenith DMG | 81.65%*3 |\n| Stroke of Genius Concerto Regen | 13 |\n| Creation's Zenith Concerto Regen | 13 |",
+        "10": "| Name | Value |\n| --- | --- |\n| HA - Conjuration DMG | 83.01%*3 |\n| HA - Conjuration STA Cost | 15 |\n| Stroke of Genius DMG | 298.22% |\n| Creation's Zenith DMG | 119.29%*3 |\n| Stroke of Genius Concerto Regen | 13 |\n| Creation's Zenith Concerto Regen | 13 |"
+      }
+    },
+    {
+      "id": "inherent-skill-calligraphers-touch",
+      "name": "Calligrapher's Touch",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "When casting Resonance Skill Stroke of Genius or Resonance Skill Creation's Zenith, ATK is increased by **6%** for **27s**. This can be stacked up to **3 **time(s).",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-flourish",
+      "name": "Flourish",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "After Outro Skill is cast, restore **15 **Resonance Energy for the incoming Resonator.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-radiant-ruin",
+      "name": "Radiant Ruin",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target, dealing Glacio DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| DMG | 43.34%*3 |\n| Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| DMG | 58.97%*3 |\n| Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| DMG | 86.16%*3 |\n| Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-carve-and-draw",
+      "name": "Carve and Draw",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "The incoming Resonator has their Glacio DMG Amplified by **20%** and Resonance Skill DMG Amplified by **25% **for **14s **or until they are switched out.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/zhezhi/icon.webp",
+    "card": "/v1/images/characters/zhezhi/card.webp",
+    "splash": "/v1/images/characters/zhezhi/splash.webp",
+    "attribute": "/v1/images/characters/zhezhi/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/zhezhi",
+      "updatedAt": "December 31st, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Zhezhi",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Zhezhi/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 2548,
+      "atk": 78,
+      "def": 250.88
+    },
+    "50": {
+      "hp": 6330.8,
+      "atk": 198.3,
+      "def": 621.32
+    },
+    "90": {
+      "hp": 12250,
+      "atk": 375,
+      "def": 1197.76
+    }
+  }
+}

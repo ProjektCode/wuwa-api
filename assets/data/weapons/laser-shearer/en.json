@@ -1,0 +1,26 @@
+{
+  "id": "laser-shearer",
+  "name": "Laser Shearer",
+  "rarity": 5,
+  "type": "Sword",
+  "secondaryStatType": "Energy Regen",
+  "passive": {
+    "name": "Signal Catcher",
+    "descriptionMdByRank": {
+      "1": "Increases ATK by **12%**.\nDealing damage to targets under Tune Strain - Interfered grants **24%** Resonance Skill Bonus for 3s. Retriggering the effect resets its duration.",
+      "2": "Increases ATK by **15%**.\nDealing damage to targets under Tune Strain - Interfered grants **27%** Resonance Skill Bonus for 3s. Retriggering the effect resets its duration.",
+      "3": "Increases ATK by **18%**.\nDealing damage to targets under Tune Strain - Interfered grants **30%** Resonance Skill Bonus for 3s. Retriggering the effect resets its duration.",
+      "4": "Increases ATK by **21%**.\nDealing damage to targets under Tune Strain - Interfered grants **33%** Resonance Skill Bonus for 3s. Retriggering the effect resets its duration.",
+      "5": "Increases ATK by **24%**.\nDealing damage to targets under Tune Strain - Interfered grants **36%** Resonance Skill Bonus for 3s. Retriggering the effect resets its duration."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/laser-shearer/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Laser%20Shearer"
+    }
+  },
+  "lastUpdated": "2026-01-14"
+}

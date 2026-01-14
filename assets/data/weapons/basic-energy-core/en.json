@@ -1,0 +1,17 @@
+{
+  "id": "basic-energy-core",
+  "name": "Basic Energy Core",
+  "rarity": null,
+  "type": null,
+  "secondaryStatType": null,
+  "passive": null,
+  "images": {
+    "icon": "/v1/images/weapons/basic-energy-core/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Basic%20Energy%20Core"
+    }
+  },
+  "lastUpdated": "2026-01-14"
+}

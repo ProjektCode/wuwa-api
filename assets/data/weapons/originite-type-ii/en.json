@@ -1,0 +1,37 @@
+{
+  "id": "originite-type-ii",
+  "name": "Originite: Type II",
+  "rarity": 3,
+  "type": "Sword",
+  "secondaryStatType": "ATK",
+  "passive": {
+    "name": "Vanquish",
+    "descriptionMdByRank": {
+      "1": "When Resonance Liberation is released, restores HP by **5%**. This effect can be triggered 1 time(s) every 20s.",
+      "2": "When Resonance Liberation is released, restores HP by **6.25%**. This effect can be triggered 1 time(s) every 20s.",
+      "3": "When Resonance Liberation is released, restores HP by **7.5%**. This effect can be triggered 1 time(s) every 20s.",
+      "4": "When Resonance Liberation is released, restores HP by **8.75%**. This effect can be triggered 1 time(s) every 20s.",
+      "5": "When Resonance Liberation is released, restores HP by **10%**. This effect can be triggered 1 time(s) every 20s."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/originite-type-ii/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Originite%3A%20Type%20II"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 67
+    },
+    "50": {
+      "atk": 168
+    },
+    "90": {
+      "atk": 325
+    }
+  }
+}

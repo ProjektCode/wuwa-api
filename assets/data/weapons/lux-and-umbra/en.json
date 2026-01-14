@@ -1,0 +1,37 @@
+{
+  "id": "lux-and-umbra",
+  "name": "Lux & Umbra",
+  "rarity": 5,
+  "type": "Pistols",
+  "secondaryStatType": "Crit. DMG",
+  "passive": {
+    "name": "To Fire She Returns",
+    "descriptionMdByRank": {
+      "1": "Increases ATK by **12%**. Upon dealing Echo Skill DMG, gain **24%** Heavy Attack DMG Amplification for 6s. Upon dealing Heavy Attack DMG, gain **24%** Echo Skill DMG Amplification for 6s. DMG Amplification on each attack is capped at **24%**. While both effects are active, dealing damage ignores **8%** of the target's DEF.",
+      "2": "Increases ATK by **15%**. Upon dealing Echo Skill DMG, gain **30%** Heavy Attack DMG Amplification for 6s. Upon dealing Heavy Attack DMG, gain **30%** Echo Skill DMG Amplification for 6s. DMG Amplification on each attack is capped at **30%**. While both effects are active, dealing damage ignores **10%** of the target's DEF.",
+      "3": "Increases ATK by **18%**. Upon dealing Echo Skill DMG, gain **36%** Heavy Attack DMG Amplification for 6s. Upon dealing Heavy Attack DMG, gain **36%** Echo Skill DMG Amplification for 6s. DMG Amplification on each attack is capped at **36%**. While both effects are active, dealing damage ignores **12%** of the target's DEF.",
+      "4": "Increases ATK by **21%**. Upon dealing Echo Skill DMG, gain **42%** Heavy Attack DMG Amplification for 6s. Upon dealing Heavy Attack DMG, gain **42%** Echo Skill DMG Amplification for 6s. DMG Amplification on each attack is capped at **42%**. While both effects are active, dealing damage ignores **14%** of the target's DEF.",
+      "5": "Increases ATK by **24%**. Upon dealing Echo Skill DMG, gain **48%** Heavy Attack DMG Amplification for 6s. Upon dealing Heavy Attack DMG, gain **48%** Echo Skill DMG Amplification for 6s. DMG Amplification on each attack is capped at **48%**. While both effects are active, dealing damage ignores **16%** of the target's DEF."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/lux-and-umbra/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Lux%20%26%20Umbra"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 122
+    },
+    "50": {
+      "atk": 303
+    },
+    "90": {
+      "atk": 587
+    }
+  }
+}

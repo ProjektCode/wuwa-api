@@ -1,0 +1,139 @@
+{
+  "id": "chixia",
+  "name": "Chixia",
+  "rarity": 4,
+  "element": "Fusion",
+  "weaponType": "Pistols",
+  "skills": [
+    {
+      "id": "basic-attack-pow-pow",
+      "name": "POW POW",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "Basic Attack\n\nChixia fires up to **4 **consecutive shots at a single target, dealing Fusion DMG.\n\nHeavy Attack\n\nChixia enters the aiming state for a more powerful shot. The shot fired deals Fusion DMG.\n\nMid-air Attack\n\nChixia consumes Stamina to continuously shoot the target in the air, dealing Fusion DMG.\n\nDodge Counter\n\nUse a Basic Attack after a successful Dodge to attack the target, dealing Fusion DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Part 1 Damage | 33.30% |\n| Part 2 Damage | 24.30%*2 |\n| Part 3 Damage | 16.88%*4 |\n| Part 4 Damage | 117.00% |\n| Heavy Attack Damage | 18.00% |\n| Full Charge Heavy Attack Damage | 40.50% |\n| Mid-Air Attack Damage | 16.20% |\n| Dodge Counter Damage | 171.00% |\n| Mid-Air Attack Stamina Consumption | 5 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Part 1 Damage | 45.32% |\n| Part 2 Damage | 33.07%*2 |\n| Part 3 Damage | 22.97%*4 |\n| Part 4 Damage | 159.22% |\n| Heavy Attack Damage | 24.50% |\n| Full Charge Heavy Attack Damage | 55.12% |\n| Mid-Air Attack Damage | 22.05% |\n| Dodge Counter Damage | 232.70% |\n| Mid-Air Attack Stamina Consumption | 5 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Part 1 Damage | 66.21% |\n| Part 2 Damage | 48.32%*2 |\n| Part 3 Damage | 33.55%*4 |\n| Part 4 Damage | 232.61% |\n| Heavy Attack Damage | 35.79% |\n| Full Charge Heavy Attack Damage | 80.52% |\n| Mid-Air Attack Damage | 32.21% |\n| Dodge Counter Damage | 339.97% |\n| Mid-Air Attack Stamina Consumption | 5 |"
+      }
+    },
+    {
+      "id": "resonance-skill-whizzing-fight-spirit",
+      "name": "Whizzing Fight Spirit",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "Chixia unleashes a flurry of shots, dealing Fusion DMG. Whizzing Fight Spirit has 2 initial charges.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill Damage | 16.00%*8 |\n| Cooldown | 9 |\n| Con. Energy Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill Damage | 21.78%*8 |\n| Cooldown | 9 |\n| Con. Energy Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill Damage | 31.81%*8 |\n| Cooldown | 9 |\n| Con. Energy Regen | 10 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-blazing-flames",
+      "name": "Blazing Flames",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Chixia fires up fast shots at nearby enemies, dealing Fusion DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill Damage | 480.00%+29.10%*11 |\n| Cooldown | 20 |\n| Res. Energy Cost | 150 |\n| Con. Energy Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill Damage | 653.19%+39.59%*11 |\n| Cooldown | 20 |\n| Res. Energy Cost | 150 |\n| Con. Energy Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill Damage | 954.29%+57.84%*11 |\n| Cooldown | 20 |\n| Res. Energy Cost | 150 |\n| Con. Energy Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-heroic-bullets",
+      "name": "Heroic Bullets ",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "Resonance Skill: DAKA DAKA!\n\nHold Resonance Skill Whizzing Fight Spirit to enter DAKA DAKA!. In this state: \n\n- Chixia continuously consumes \"Thermobaric Bullets\" to attack the target, dealing Fusion DMG, considered as Resonance Skill damage.\n- Tap Basic Attack to cast Basic Attack IV, dealing Fusion DMG, considered as Basic Attack damage. Then she terminates \"DAKA DAKA!\".\n- If **30 **\"Thermobaric Bullets\" have been fired when Basic Attackis activated, Chixia will cast Resonance Skill Boom Boom and terminate \"DAKA DAKA!\" Chixia terminates \"DAKA DAKA!\" when all \"Thermobaric Bullets\" are consumed.\n\nResonance Skill: Boom Boom\n\nChixia deals Fusion DMG, considered as Resonance Skill damage.\n\nThermobaric Bullets\n\nChixia can hold up to **60 **\"Thermobaric Bullets\". Innate Skill Scorching Magazine increases Max \"Thermobaric Bullets\" by **10**.\nChixia obtains \"Thermobaric Bullets\" for every Normal Attack POW POW on hit. Chixia obtains \"Thermobaric Bullets\" upon casting Intro Skill Grand Entrance and Resonance Skill Whizzing Fight Spirit.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Thermobaric Bullets Damage | 10.00% |\n| POW POW Damage | 220.00% |\n| DAKA DAKA! Con. Energy Regen | 10 |\n| Thermobaric Bullet Con. Energy Regen | 0.5 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Thermobaric Bullets Damage | 13.61% |\n| POW POW Damage | 299.38% |\n| DAKA DAKA! Con. Energy Regen | 10 |\n| Thermobaric Bullet Con. Energy Regen | 0.5 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Thermobaric Bullets Damage | 19.89% |\n| POW POW Damage | 437.39% |\n| DAKA DAKA! Con. Energy Regen | 10 |\n| Thermobaric Bullet Con. Energy Regen | 0.5 |"
+      }
+    },
+    {
+      "id": "inherent-skill-scorching-magazine",
+      "name": "Scorching Magazine",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Max \"Thermobaric Bullets\" is increased by **10 **rounds. The damage for Resonance Skill Boom Boom is increased by **50%.**",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-numbingly-spicy",
+      "name": "Numbingly Spicy! ",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Each \"Thermobaric Bullets\" that hits a target during Resonance Skill DAKA DAKA! increases ATK by **1%** for **10s**, stacking up to **30 **times.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-grand-entrance",
+      "name": "Grand Entrance",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Chixia makes a heroic entrance and fires rapidly with her dual pistols at the target, dealing Fusion DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill Damage | 24.75%*2+12.38%*4 |\n| Con. Energy Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill Damage | 33.68%*2+16.84%*4 |\n| Con. Energy Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill Damage | 49.21%*2+24.61%*4 |\n| Con. Energy Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-leaping-flames",
+      "name": "Leaping Flames",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "Chixia releases a shock wave surrounding the target, dealing Fusion DMG equal to **530.00%** of Chixia's ATK to enemies within the range.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/chixia/icon.webp",
+    "card": "/v1/images/characters/chixia/card.webp",
+    "splash": "/v1/images/characters/chixia/splash.webp",
+    "attribute": "/v1/images/characters/chixia/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/chixia",
+      "updatedAt": "December 31st, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Chixia",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Chixia/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 1890.2,
+      "atk": 62.4,
+      "def": 199.68
+    },
+    "50": {
+      "hp": 4696.42,
+      "atk": 158.64,
+      "def": 494.52
+    },
+    "90": {
+      "hp": 9087.5,
+      "atk": 300,
+      "def": 953.32
+    }
+  }
+}

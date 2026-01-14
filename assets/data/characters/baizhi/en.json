@@ -1,0 +1,139 @@
+{
+  "id": "baizhi",
+  "name": "Baizhi",
+  "rarity": 4,
+  "element": "Glacio",
+  "weaponType": "Rectifier",
+  "skills": [
+    {
+      "id": "basic-attack-destined-promise",
+      "name": "Destined Promise",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "Basic Attack\n\nBaizhi instructs You'tan to perform up to** 4** consecutive attacks, dealing Glacio damage.\n\nHeavy Attack\n\nBaizhi continuously consumes Stamina to command You'tan to attack enemies, dealing Glacio damage. During Heavy Attack, Baizhi can command You'tan to move.\n\nMid-air Attack\n\nBaizhi consumes Stamina and summons You’tan in mid-air to perform a Plunging Attack, dealing Glacio damage.\n\nDodge Counter\n\nUse Basic Attack after a successful Dodge to attack the target, dealing Glacio damage.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Part 1 Damage | 32.94% |\n| Part 2 Damage | 39.52% |\n| Part 3 Damage | 6.59%*7 |\n| Part 4 Damage | 39.52% |\n| Heavy Attack Damage | 24.58% |\n| Mid-Air Attack Damage | 40% |\n| Dodge Counter Damage | 89.86% |\n| Heavy Attack Stamina Consumption (per second) | 12.5 |\n| Mid-Air Attack Stamina Cost | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Part 1 Damage | 44.82% |\n| Part 2 Damage | 53.78% |\n| Part 3 Damage | 8.97%*7 |\n| Part 4 Damage | 53.78% |\n| Heavy Attack Damage | 33.45% |\n| Mid-Air Attack Damage | 54.00% |\n| Dodge Counter Damage | 122.28% |\n| Heavy Attack Stamina Consumption (per second) | 12.5 |\n| Mid-Air Attack Stamina Cost | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Part 1 Damage | 65.48% |\n| Part 2 Damage | 78.57% |\n| Part 3 Damage | 13.10%*7 |\n| Part 4 Damage | 78.57% |\n| Heavy Attack Damage | 48.86% |\n| Mid-Air Attack Damage | 78.89% |\n| Dodge Counter Damage | 178.65% |\n| Heavy Attack Stamina Consumption (per second) | 12.5 |\n| Mid-Air Attack Stamina Cost | 30 |"
+      }
+    },
+    {
+      "id": "resonance-skill-emergency-plan",
+      "name": "Emergency Plan",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "Baizhi calls You'tan to attack the target, dealing Glacio damage while restoring HP for the entire team.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill Damage | 8.02% |\n| Healing | 575+2.90% |\n| Cooldown Time | 16 |\n| Con. Energy Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill Damage | 10.91% |\n| Healing | 783+3.94% |\n| Cooldown Time | 16 |\n| Con. Energy Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill Damage | 15.94% |\n| Healing | 1144+5.76% |\n| Cooldown Time | 16 |\n| Con. Energy Regen | 10 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-momentary-union",
+      "name": "Momentary Union",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Baizhi summons You'tan to restore HP for the entire team, generating **4** stacks of Remnant Entities.\n\nRemnant Entities\n\nRemnant Entities follow the active team members and automatically consume **1** stacks of Remnant Entities to attack the targets every **2.5s**, dealing Glacio damage on hit while restoring HP to all team members nearby.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Remnant Entities Damage | 2.05% |\n| Remnant Entities Healing | 349+1.42% |\n| Momentary Union Healing | 310+1.26% |\n| Cooldown | 25 |\n| Res. Energy Cost | 175 |\n| Con. Energy Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Remnant Entities Damage | 2.79% |\n| Remnant Entities Healing | 475+1.93% |\n| Momentary Union Healing | 422+1.71% |\n| Cooldown | 25 |\n| Res. Energy Cost | 175 |\n| Con. Energy Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Remnant Entities Damage | 4.07% |\n| Remnant Entities Healing | 694+2.82% |\n| Momentary Union Healing | 617+2.51% |\n| Cooldown | 25 |\n| Res. Energy Cost | 175 |\n| Con. Energy Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-cycle-of-life",
+      "name": "Cycle of Life",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "You'tan\n\nA Remnant Creature that answers to Baizhi’s mind and desires while sharing all her attributes. You’tan goes back to Baizhi when Baizhi dodges.\n\nConcentration\n\nBaizhi consumes all \"Concentrations\" when casting Heavy Attack or Resonance Skill Emergency Plan to continuously restore HP for Characters nearby. Each** 1** \"Concentration\" consumed restores HP for **1** time every **2s**.\n\nWhen Baizhi consumes \"Concentration\" to cast Heavy Attack, Baizhi additionally restores Concerto Energy and Resonance Energy; When Baizhi consumes \"Concentration\" to cast Resonance Skill Emergency Plan, Baizhi additionally restores Concerto Energy.\n\nConcentration\n\nBaizhi can hold up to **4 **\"Concentrations\". Baizhi obtains **1 **\"Concentration\" for every Basic Attack on hit.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Concentration Healing | 32+0.16% |\n| Heavy Attack \"Concentration\" Con. Energy Regen | 4 |\n| Resonance Skill \"Concentration\" Con. Energy Regen | 8 |\n| Heavy Attack \"Concentration\" Con. Energy Regen | 2.5 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Concentration Healing | 43+0.21% |\n| Heavy Attack \"Concentration\" Con. Energy Regen | 4 |\n| Resonance Skill \"Concentration\" Con. Energy Regen | 8 |\n| Heavy Attack \"Concentration\" Con. Energy Regen | 2.5 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Concentration Healing | 63+0.31% |\n| Heavy Attack \"Concentration\" Con. Energy Regen | 4 |\n| Resonance Skill \"Concentration\" Con. Energy Regen | 8 |\n| Heavy Attack \"Concentration\" Con. Energy Regen | 2.5 |"
+      }
+    },
+    {
+      "id": "inherent-skill-harmonic-range",
+      "name": "Harmonic Range",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "When Baizhi casts Resonance Skill Emergency Plan, You'tan generates a field of Euphonia that lasts for **15s**.\n\nEuphonia\n\nATK of the Resonators who picks up Euphonia is increased by **15%** for **20s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-stimulus-feedback",
+      "name": "Stimulus Feedback",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "For every Heavy Attack on hit, Baizhi restores HP to the nearby team member with the least HP equal to** 0.25%** of Baizhi's max HP.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-overflowing-frost",
+      "name": "Overflowing Frost",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Baizhi calls You'tan to perform **1** plunging attack, dealing Glacio damage while restoring HP to all team members nearby.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill Damage | 40.00% |\n| Overflowing Frost Healing | 75+0.38% |\n| Con. Energy Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill Damage | 54.44% |\n| Overflowing Frost Healing | 103+0.51% |\n| Con. Energy Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill Damage | 79.53% |\n| Overflowing Frost Healing | 150+0.75% |\n| Con. Energy Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-rejuvinating-flow",
+      "name": "Rejuvinating Flow",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "Baizhi restores HP equal to **1.54%** of her max HP to The next character (or other characters on a nearby team that activates an Outro Skill) every **3s **for **30s**. Resonators gaining this healing also gain **15%** all-Type DMG Deepen for 6s.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/baizhi/icon.webp",
+    "card": "/v1/images/characters/baizhi/card.webp",
+    "splash": "/v1/images/characters/baizhi/splash.webp",
+    "attribute": "/v1/images/characters/baizhi/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/baizhi",
+      "updatedAt": "December 31st, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Baizhi",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Baizhi/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 2665,
+      "atk": 44.2,
+      "def": 209.92
+    },
+    "50": {
+      "hp": 6621.5,
+      "atk": 112.37,
+      "def": 519.88
+    },
+    "90": {
+      "hp": 12812.5,
+      "atk": 212.5,
+      "def": 1002.2
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "id": "lupa",
+  "name": "Lupa",
+  "rarity": 5,
+  "element": "Fusion",
+  "weaponType": "Broadblade",
+  "skills": [
+    {
+      "id": "basic-attack-flaming-star",
+      "name": "Flaming Star",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack**\n\nPerform up to **4** consecutive attacks, dealing Fusion DMG.\n\n- After Basic Attack Stage 3, press Normal Attack in the right time to cast Mid-air Attack Stage 1.\n- After Dodge Counter, Basic Attack Starfall, Resonance Skill Shewolf's Hunt, or Resonance Skill Feral Fang, press Normal Attack in time to cast Basic Attack Stage 2.\n\n**Heavy Attack**\n\nConsume STA to attack the target, dealing Fusion DMG.\n\n**Heavy Attack - Wolf's Gnawing**\n\nWhen Wolflame reaches **50 **points, Heavy Attack will be replaced by Wolf's Gnawing, consuming STA to attack the target and dealing Fusion DMG.\n\n- This attack does not restore Wolflame. Consume **50 **points of Wolflame to perform this attack and gain 1 point of Wolfaith.\n\n**Heavy Attack - Wolf's Claw**\n\nWhen Wolflame reaches **50 **points and Wolfaith reaches **1 **point, Heavy Attack will be replaced by Wolf's Claw, consuming STA to attack the target and dealing Fusion DMG.\n\n- If Wolflame reaches **50 **points and Wolfaith reaches **1 **point after performing Mid-air Attack - Firestrike or Heavy Attack - Wolf's Gnawing, press Normal Attack in time to perform Heavy Attack - Wolf's Claw.\n- This attack does not restore Wolflame. Consume **50 **points of Wolflame to perform this attack and gain **1 **point of Wolfaith.\n\n**Mid-air Attack**\n\nConsume STA to perform up to **3** attacks in mid-air, dealing Fusion DMG. The Mid-air Attack cycle will not be reset.\n\n**Mid-air Attack - Firestrike**\n\nWhen Wolflame reaches **50 **points, Mid-air Attack Stage 3 will be replaced by Mid-air Attack - Firestrike, consuming STA to attack the target and dealing Fusion DMG (considered Heavy Attack DMG).\n\n- This attack does not restore Wolflame. Consume **50 **points of Wolflame to perform this attack and gain **1 **point of Wolfaith.\n\n**Plunging Attack**\n\nHold Normal Attack while airborne to perform a Plunging Attack at the cost of STA, dealing Fusion DMG. After performing this attack, press Normal Attack in time to perform Basic Attack Starfall.\n\n- If a Dodge is performed while casting Mid-air Attack Stage 3 or Mid-air Attack - Firestrike, press Normal Attack to perform Plunging Attack in time at the cost of STA.\n\n**Basic Attack - Starfall**\n\nAttack the target, dealing Fusion DMG.\n\n**Dodge Counter**\n\nPress Normal Attack after a successful Dodge to attack the target, dealing Fusion DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 11.33% + 11.33% + 22.66% |\n| Stage 2 DMG | 45.31% |\n| Stage 3 DMG | 39.66% + 6.61%*6 |\n| Stage 4 DMG | 37.16% + 37.16% + 24.77%*2 |\n| Heavy Attack | 28.35% + 28.35% |\n| Heavy Attack - Wolf's Gnawing DMG | 28.22% + 28.22% |\n| Heavy Attack - Wolf's Claw DMG | 36.29% + 9.08%*4 + 48.39% |\n| Mid-air Attack Stage 1 DMG | 38.59% |\n| Mid-air Attack Stage 2 DMG | 38.85% + 9.72%*4 |\n| Mid-air Attack Stage 3 DMG | 14.33% + 14.33% |\n| Mid-air Attack - Firestrike DMG | 14.33% + 14.33% |\n| Plunging Attack DMG | 13.18% + 26.35% + 13.18% |\n| Basic Attack - Starfall DMG | 6.37%*4 + 59.39% |\n| Dodge Counter DMG | 17.20%*4 + 68.77% |\n| Heavy Attack STA Cost | 25 |\n| Heavy Attack - Wolf's Gnawing STA Cost | 25 |\n| Heavy Attack - Wolf's Claw STA Cost | 25 |\n| Mid-air Attack STA Cost | 5 |\n| Plunging Attack STA Cost | 30 |\n| Mid-air Attack - Firestrike STA Cost | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 15.42% + 15.42% + 30.83% |\n| Stage 2 DMG | 61.66% |\n| Stage 3 DMG | 53.96% + 9.00%*6 |\n| Stage 4 DMG | 50.56% + 50.56% + 33.71%*2 |\n| Heavy Attack | 38.58% + 38.58% |\n| Heavy Attack - Wolf's Gnawing DMG | 38.41% + 38.41% |\n| Heavy Attack - Wolf's Claw DMG | 49.38% + 12.35%*4 + 65.84% |\n| Mid-air Attack Stage 1 DMG | 52.52% |\n| Mid-air Attack Stage 2 DMG | 52.87% + 13.22%*4 |\n| Mid-air Attack Stage 3 DMG | 19.50% + 19.50% |\n| Mid-air Attack - Firestrike DMG | 19.50% + 19.50% |\n| Plunging Attack DMG | 17.93% + 35.86% + 17.93% |\n| Basic Attack - Starfall DMG | 8.66%*4 + 80.81% |\n| Dodge Counter DMG | 23.40%*4 + 93.58% |\n| Heavy Attack STA Cost | 25 |\n| Heavy Attack - Wolf's Gnawing STA Cost | 25 |\n| Heavy Attack - Wolf's Claw STA Cost | 25 |\n| Mid-air Attack STA Cost | 5 |\n| Plunging Attack STA Cost | 30 |\n| Mid-air Attack - Firestrike STA Cost | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 22.52% + 22.52% + 45.04% |\n| Stage 2 DMG | 90.08% |\n| Stage 3 DMG | 78.84% + 13.14%*6 |\n| Stage 4 DMG | 73.87% + 73.87% + 49.25%*2 |\n| Heavy Attack | 56.36% + 56.36% |\n| Heavy Attack - Wolf's Gnawing DMG | 56.11% + 56.11% |\n| Heavy Attack - Wolf's Claw DMG | 72.15% + 18.04%*4 + 96.19% |\n| Mid-air Attack Stage 1 DMG | 76.73% |\n| Mid-air Attack Stage 2 DMG | 77.23% + 19.31%*4 |\n| Mid-air Attack Stage 3 DMG | 28.48% + 28.48% |\n| Mid-air Attack - Firestrike DMG | 28.48% + 28.48% |\n| Plunging Attack DMG | 26.20% + 52.39% + 26.20% |\n| Basic Attack - Starfall DMG | 12.65%*4 + 118.06% |\n| Dodge Counter DMG | 34.18%*4 + 136.72% |\n| Heavy Attack STA Cost | 25 |\n| Heavy Attack - Wolf's Gnawing STA Cost | 25 |\n| Heavy Attack - Wolf's Claw STA Cost | 25 |\n| Mid-air Attack STA Cost | 5 |\n| Plunging Attack STA Cost | 30 |\n| Mid-air Attack - Firestrike STA Cost | 30 |"
+      }
+    },
+    {
+      "id": "resonance-skill-shewolfs-hunt",
+      "name": "Shewolf's Hunt",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "Lupa hurls her Wildfire Banner at the target, dealing Fusion DMG and restoring **15 **points of Wolflame. Mark the target for **8s**. After performing Resonance Skill Shewolf's Hunt, Lupa can perform Feral Fang within a certain period of time.\n\nCan be performed in mid-air close to the ground.\n\nHold Resonance Skill to leap into the air, then press Normal Attack in time to cast Mid-air Attack Stage 1.\n\n**Resonance Skill - Feral Fang**\n\nLupa locks onto a target, dealing Fusion DMG and restoring **15 **points of Wolflame. The DMG Multiplier to marked targets is increased by **50%.** Resonance Skill - Feral Fang enters cooldown if not cast in time or when Lupa is switched out.\n\nCan be performed in mid-air close to the ground.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill Damage | 70.81% |\n| Feral Fang DMG | 157.74% |\n| Cooldown | 12 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill Damage | 96.36% |\n| Feral Fang DMG | 214.66% |\n| Cooldown | 12 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill Damage | 140.77% |\n| Feral Fang DMG | 313.61% |\n| Cooldown | 12 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-fire-kissed-glory",
+      "name": "Fire-Kissed Glory",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Attack the target and deal Fusion DMG. Performing this attack consumes all Wolfaith and restores **100 **points of Wolflame. Use Basic Attack or Resonance Skill in time to cast Resonance Skill Foebreaker.\n\nCan be performed in mid-air close to the ground.\n\nPerforming this skill strengthens all Resonators in the team. Within **35s**:\n\n- All Resonators in the team gain Pack Hunt effect.\n- If the active Resonator is hit or launched into the air, they immediately recover and are considered to have successfully dodged the attack when they are on the ground. Can be triggered up to **3** times.\n\n**Pack Hunt**\n\nResonators with Pack Hunt gain a** 6%** ATK increase, and **10%** Fusion DMG Bonus when they attack Overlord Class or Calamity Class targets (Both are non-stackable). If there are **3** Fusion Resonators in the team, the Fusion DMG Bonus against Overlord Class or Calamity Class targets additionally increases by **10%**. When the active Resonator casts Intro Skill, Pack Hunt is enhanced, granting an additional **6%** ATK increase to all Resonators in the team, up to a maximum of **18%**.\n\nIf Lupa's Pack Hunt reaches its cap within its duration, she enters Wild Hunt and Intro Skill Nowhere to Run! becomes available. Wild Hunt can be triggered once per Pack Hunt.\n\n**Resonance Skill - Foebreaker**\n\nConsume all Wolflame to perform Foebreaker, dealing Fusion DMG and entering Burning Matchpoint state. \n\n**Burning Matchpoint**\n\nNormal Attacks restore **500%** more Wolflame on hit. Cannot perform Resonance Skill Shewolf's Hunt and Resonance Skill Feral Fang in this state.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill Damage | 412.68% |\n| Foebreaker DMG | 153.14% |\n| Burning Matchpoint Duration | 12 |\n| Cooldown | 20 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill Damage | 561.57% |\n| Foebreaker DMG | 208.40% |\n| Burning Matchpoint Duration | 12 |\n| Cooldown | 20 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill Damage | 820.44% |\n| Foebreaker DMG | 304.46% |\n| Burning Matchpoint Duration | 12 |\n| Cooldown | 20 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-ignis-lupa",
+      "name": "Ignis Lupa",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "**Wildfire Banner**\n\nLupa's ATK is increased by **12%** for **8s **when performing the following actions:\n\n- Casting Resonance Skill Feral Fang.\n- Casting Heavy Attack - Wolf's Gnawing, Heavy Attack - Wolf's Claw, or Mid-air Attack - Firestrike.\n- Casting Resonance Liberation Fire-Kissed Glory.\n- Casting Dance With the Wolf and Dance With the Wolf: Climax.\n\n**Resonance Skill - Dance With the Wolf**\n\nWhen Wolfaith reaches **2** points, Resonance Skill is replaced with Dance With the Wolf. Performing Dance With the Wolf consumes all Wolfaith, dealing Fusion DMG (considered Resonance Liberation DMG).\n\nCan be performed in mid-air close to the ground.\n\n**Resonance Skill - Dance With the Wolf: Climax**\n\nWhen Wolfaith reaches **2** points in the Burning Matchpoint state, Resonance Skill is replaced with Dance With the Wolf: Climax. Performing Dance With the Wolf: Climax consumes all Wolfaith, dealing Fusion DMG (considered Resonance Liberation DMG). Burning Matchpoint is removed when the skill ends.\n\nCan be performed in mid-air close to the ground.\n\n**Resonance Skill - Set the Arena Ablaze**\n\nWithin **8s **after performing Dance With the Wolf or Dance With the Wolf: Climax, Lupa will remain on the field after switching to another Resonator and back up the active Resonator when they perform Resonance Liberation, dealing Fusion DMG (considered Resonance Skill DMG). This effect can only be triggered once in its duration.\n\n**Wolflame**\n\nLupa can hold up to **100 **points of Wolflame.\n\n- Restore Wolflame when Normal Attacks hit the target.\n- Restore Wolflame while casting Resonance Skill.\n- Restore Wolflame while casting Resonance Liberation.\n\n**Wolfaith**\n\n- Lupa can hold up to **2** points of Wolfaith.\n- Wolfaith lasts for **10s**. The duration is reset when Wolfaith is restored. At the end of its duration, each remaining point of Wolfaith becomes **50 **points of Wolflame.\n- Restore** 1** point of Wolfaith when casting Heavy Attack - Wolf's Gnawing, Heavy Attack - Wolf's Claw, or Mid-air Attack - Firestrike.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Dance With the Wolf DMG | 28.18% + 21.14%*4 + 169.06% |\n| Dance With the Wolf - Climax DMG | 38.04% + 28.53%*4 + 228.23% |\n| Set the Arena Ablaze DMG | 21.31% + 85.21% |",
+        "5": "| Name | Value |\n| --- | --- |\n| Dance With the Wolf DMG | 38.35% + 28.76%*4 + 230.06% |\n| Dance With the Wolf - Climax DMG | 51.77% + 38.83%*4 + 310.58% |\n| Set the Arena Ablaze DMG | 28.99% + 115.95% |",
+        "10": "| Name | Value |\n| --- | --- |\n| Dance With the Wolf DMG | 56.02% + 42.02%*4 + 336.11% |\n| Dance With the Wolf - Climax DMG | 75.63% + 56.72%*4 + 453.75% |\n| Set the Arena Ablaze DMG | 42.35% + 169.40% |"
+      }
+    },
+    {
+      "id": "inherent-skill-remember-my-name",
+      "name": "Remember My Name",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "After dashing for **2.5s**, Lupa enters Sprint state. The next Basic Attack is replaced with Basic Attack - Starfall.\n\nGain increased resistance to interruptions while casting Heavy Attack - Wolf's Gnawing, Heavy Attack - Wolf's Claw, and Mid-air Attack - Firestrike.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-applause-of-victory",
+      "name": "Applause of Victory",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Defeating a marked target resets the cooldown of Resonance Skill Shewolf's Hunt.\n\n**Resonance Liberation - Glory**\n\nCasting Resonance Liberation Fire-Kissed Glory grants Glory. Within **35s**:\n\nAttacks of all Resonators in the team ignore **3%** of the target's Fusion RES. For each Fusion Resonator in the team other than Lupa, this effect increases by **3%**, up to the maximum of **9%**. When there are** 3** Fusion Resonators in the team, Resonators' attacks further ignore **6%** Fusion RES.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-try-focusing-eh",
+      "name": "Try Focusing, Eh?",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target, dealing Fusion DMG. Press Normal Attack following Intro Skill Try Focusing, Eh? to cast Mid-air Attack Stage 3.\n\n**Nowhere to Run!**\n\nWhen Lupa enters the Wild Hunt state, her next Intro Skill is replaced with Nowhere to Run!. Casting Nowhere to Run! removes the Pack Hunt and Glory effects on all Resonators in the team, dealing Fusion DMG (considered Resonance Liberation DMG).",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill Damage | 14.97% + 21.21%*4 |\n| Nowhere to Run! DMG | 399.16% + 24.95%*4 |\n| Concerto Regen | 10 |\n| Nowhere to Run! Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill Damage | 20.37% + 28.86%*4 |\n| Nowhere to Run! DMG | 543.18% + 33.95%*4 |\n| Concerto Regen | 10 |\n| Nowhere to Run! Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill Damage | 29.76% + 42.16%*4 |\n| Nowhere to Run! DMG | 793.57% + 49.60%*4 |\n| Concerto Regen | 10 |\n| Nowhere to Run! Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-stand-by-me-warrior",
+      "name": "Stand by Me, Warrior",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "The incoming Resonator will have their Fusion DMG Amplified by **20%** and Basic Attack DMG Amplified by **25%** for **14s **or until the Resonator is switched out.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/lupa/icon.webp",
+    "card": "/v1/images/characters/lupa/card.webp",
+    "splash": "/v1/images/characters/lupa/splash.webp",
+    "attribute": "/v1/images/characters/lupa/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/lupa",
+      "updatedAt": "December 31st, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Lupa",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Lupa/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 2477.8,
+      "atk": 80.6,
+      "def": 248.32
+    },
+    "50": {
+      "hp": 6156.38,
+      "atk": 204.91,
+      "def": 614.98
+    },
+    "90": {
+      "hp": 11912.5,
+      "atk": 387.5,
+      "def": 1185.53
+    }
+  }
+}

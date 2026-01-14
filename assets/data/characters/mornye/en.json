@@ -1,0 +1,25 @@
+{
+  "id": "mornye",
+  "name": "Mornye",
+  "rarity": 5,
+  "element": "Fusion",
+  "weaponType": "Broadblade",
+  "skills": [],
+  "images": {
+    "icon": "/v1/images/characters/mornye/icon.webp",
+    "card": "/v1/images/characters/mornye/card.webp",
+    "splash": "/v1/images/characters/mornye/splash.webp",
+    "attribute": "/v1/images/characters/mornye/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/mornye",
+      "updatedAt": "November 30th, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Mornye",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Mornye/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14"
+}

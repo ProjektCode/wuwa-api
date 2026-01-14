@@ -1,0 +1,139 @@
+{
+  "id": "changli",
+  "name": "Changli",
+  "rarity": 5,
+  "element": "Fusion",
+  "weaponType": "Sword",
+  "skills": [
+    {
+      "id": "basic-attack-blazing-enlightment",
+      "name": "Blazing Enlightment",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack**\n\nPerform up to **4 **consecutive attacks, dealing Fusion DMG. After releasing Basic Attack 4, enter True Sight, lasting for **12s**.\n\n**Mid-air Attack**\n\nConsume Stamina to perform up to 4 consecutive attacks in mid-air, dealing Fusion DMG. After releasing Mid-air Attack 4, enter True Sight, lasting for **12s**.\n\n**Heavy Attack**\n\nHold Basic Attack on the ground to perform an upward strike at the cost of Stamina, dealing Fusion DMG. Use Basic Attack within a certain time to release Mid-Air Attack **3**.\n\n**Mid-air Heavy Attack**\n\nShortly after holding Basic Attack in mid-air or using Basic Attack True Sight: Charge, use Basic Attack to perform a plunging attack at the cost of Stamina, dealing Fusion DMG. Use Basic Attack within a certain time to release Basic Attack **3**.\n\n**Dodge Counter**\n\nUse Basic Attack after a successful Dodge to attack the target, dealing Fusion DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Basic Attack 1 DMG | 14.84%*2 |\n| Basic Attack 2 DMG | 17.85%*2 |\n| Basic Attack 3 DMG | 18.34%*3 |\n| Basic Attack 4 DMG | 25.50% + 14.88%*4 |\n| Mid-air Attack 1 DMG | 30.86% |\n| Mid-air Attack 2 DMG | 25.59%*2 |\n| Mid-air Attack 3 DMG | 22.13%*3 |\n| Mid-air Attack 4 DMG | 19.13% + 11.16%*4 |\n| Heavy Attack | 14.58%*3 + 18.75% |\n| Mid-air Heavy Attack | 62.00% |\n| Dodge Counter | 41.57%*3 |\n| Mid-air Attack STA Cost | 5 |\n| Heavy Attack STA Cost | 25 |\n| Mid-air Heavy Attack STA Cost | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Basic Attack 1 DMG | 20.19%*2 |\n| Basic Attack 2 DMG | 24.30%*2 |\n| Basic Attack 3 DMG | 24.95%*3 |\n| Basic Attack 4 DMG | 34.71% + 20.25%*4 |\n| Mid-air Attack 1 DMG | 41.99% |\n| Mid-air Attack 2 DMG | 34.82%*2 |\n| Mid-air Attack 3 DMG | 30.12%*3 |\n| Mid-air Attack 4 DMG | 26.03% + 15.19%*4 |\n| Heavy Attack | 19.84%*3 + 25.51% |\n| Mid-air Heavy Attack | 84.37% |\n| Dodge Counter | 56.57%*3 |\n| Mid-air Attack STA Cost | 5 |\n| Heavy Attack STA Cost | 25 |\n| Mid-air Heavy Attack STA Cost | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Basic Attack 1 DMG | 29.49%*2 |\n| Basic Attack 2 DMG | 35.49%*2 |\n| Basic Attack 3 DMG | 36.45%*3 |\n| Basic Attack 4 DMG | 50.70% + 29.58%*4 |\n| Mid-air Attack 1 DMG | 61.35% |\n| Mid-air Attack 2 DMG | 50.87%*2 |\n| Mid-air Attack 3 DMG | 44.00%*3 |\n| Mid-air Attack 4 DMG | 38.03% + 22.18%*4 |\n| Heavy Attack | 28.99%*3 + 37.27% |\n| Mid-air Heavy Attack | 123.27% |\n| Dodge Counter | 82.64%*3 |\n| Mid-air Attack STA Cost | 5 |\n| Heavy Attack STA Cost | 25 |\n| Mid-air Heavy Attack STA Cost | 30 |"
+      }
+    },
+    {
+      "id": "resonance-skill-tripartite-flames",
+      "name": "Tripartite Flames",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "**True Sight: Capture**\n\nAfter releasing Resonance Skill, Changli dashes towards the enemy and enters True Sight, lasting for **12s**. In the end, she releases a plunging attack, dealing Fusion DMG. True Sight: Capture has **2 **initial attempts and can be used up to **2 **times. The number of attempts is increased by **1** every **12s**.\nCan be cast in mid-air.\n\n**Basic Attack: True Sight - Conquest**\n\nWhen in True Sight, if Changli uses Ground Basic Attack, she releases True Sight: Conquest, dashing towards the enemy and dealing Fusion DMG, considered as Resonance Skill DMG. After releasing True Sight: Conquest, True Sight ends.\n\n**Basic Attack: True Sight - Charge**\n\nWhen in True Sight, if Changli jumps or uses Basic Attack in mid-air, she releases True Sight: Charge, dashing towards the enemy and dealing Fusion DMG, considered as Resonance Skill DMG. After releasing True Sight: Charge, True Sight ends.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| True Sight: Capture DMG | 41.19%*3 + 82.37% |\n| True Sight: Conquest DMG | 29.65%*2 + 41.51% + 47.44% |\n| True Sight: Charge DMG | 36.56% + 54.84% |\n| True Sight: Capture - Concerto Regen | 14 |\n| True Sight: Conquest - Concerto Regen | 7 |\n| True Sight: Charge - Concerto Regen | 6 |",
+        "5": "| Name | Value |\n| --- | --- |\n| True Sight: Capture DMG | 56.05%*3 + 112.09% |\n| True Sight: Conquest DMG | 40.35%*2 + 56.49% + 64.56% |\n| True Sight: Charge DMG | 49.75% + 74.62% |\n| True Sight: Capture - Concerto Regen | 14 |\n| True Sight: Conquest - Concerto Regen | 7 |\n| True Sight: Charge - Concerto Regen | 6 |",
+        "10": "| Name | Value |\n| --- | --- |\n| True Sight: Capture DMG | 81.88%*3 + 163.76% |\n| True Sight: Conquest DMG | 58.95%*2 + 82.52% + 94.31% |\n| True Sight: Charge DMG | 72.68% + 109.02% |\n| True Sight: Capture - Concerto Regen | 14 |\n| True Sight: Conquest - Concerto Regen | 7 |\n| True Sight: Charge - Concerto Regen | 6 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-radiance-of-fealty",
+      "name": "Radiance of Fealty",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Deal Fusion DMG to nearby targets, obtaining **4** stacks of Enflamement, and entering Fiery Feather. Can be cast in mid-air.\n\n**Fiery Feather**\n\nWhen Changli releases Heavy Attack Flaming Sacrifice within **10s**, her ATK is increased by **25%**, after which Fiery Feather ends.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 610.00% |\n| Cooldown | 20 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 830.09% |\n| Cooldown | 20 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 1212.75% |\n| Cooldown | 20 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-flaming-sacrifice",
+      "name": "Flaming Sacrifice",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "**Heavy Attack: Flaming Sacrifice**\n\nWhen releasing Heavy Attack, if Changli carries **4** stacks of Enflamement, she consumes all stacks of Enflamement to cast Flaming Sacrifice, dealing Fusion DMG, considered as Resonance Skill DMG. While casting Flaming Sacrifice, Changli takes **40%** less DMG.\n\n**Enflamement**\n\n- Changli can hold up to **4 **stacks of Enflamement.\n- Changli obtains **1 **stack of Enflamement for every Basic Attack: True Sight - Conquest on hit.\n- Changli obtains **1 **stack of Enflamement for every Basic Attack: True Sight - Charge on hit.\n- Changli obtains **4 **stacks of Enflamement for every Resonance Liberation Radiance of Fealty.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Flaming Sacrifice DMG | 19.74%*5 + 230.30% |\n| Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Flaming Sacrifice DMG | 26.87%*5 + 313.39% |\n| Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Flaming Sacrifice DMG | 39.25%*5 + 457.85% |\n| Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "inherent-skill-secret-strategist",
+      "name": "Secret Strategist",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "When Changli releases Basic Attack: True Sight - Conquest or Basic Attack: True Sight - Charge, for each stack of Enflamement, Changli's Fusion DMG Bonus is increased by **5%.**",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-sweeping-force",
+      "name": "Sweeping Force",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "When Changli releases Heavy Attack Flaming Sacrifice or Resonance Liberation Radiance of Fealty, Changli's Fusion DMG Bonus is increased by **20%**, and Changli ignores **15% **of the target's DEF when dealing damage.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-obedience-of-rules",
+      "name": "Obedience of Rules",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Changli appears in mid-air, attacks the target, and enters True Sight, lasting for **12s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 22.38% + 13.06%*4 |\n| Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 30.46% + 17.77%*4 |\n| Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 44.50% + 25.96%*4 |\n| Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-strategy-of-duality",
+      "name": "Strategy of Duality",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "The incoming Resonator has their Fusion DMG Amplified by **20%** and Resonance Liberation DMG Amplified by **25%** for **10s **or until the Resonator is switched out.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/changli/icon.webp",
+    "card": "/v1/images/characters/changli/card.webp",
+    "splash": "/v1/images/characters/changli/splash.webp",
+    "attribute": "/v1/images/characters/changli/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/changli",
+      "updatedAt": "December 31st, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Changli",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Changli/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 2160.6,
+      "atk": 96.2,
+      "def": 230.4
+    },
+    "50": {
+      "hp": 5368.26,
+      "atk": 244.57,
+      "def": 570.6
+    },
+    "90": {
+      "hp": 10387.5,
+      "atk": 462.5,
+      "def": 1099.98
+    }
+  }
+}

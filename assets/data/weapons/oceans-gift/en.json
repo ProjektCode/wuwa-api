@@ -1,0 +1,37 @@
+{
+  "id": "oceans-gift",
+  "name": "Ocean's Gift",
+  "rarity": 4,
+  "type": "Rectifier",
+  "secondaryStatType": "ATK",
+  "passive": {
+    "name": "Fish Catch",
+    "descriptionMdByRank": {
+      "1": "Dealing DMG to enemies with Spectro Frazzle increases the wielder's Spectro DMG by **6%**, gaining 1 stack per second for 6s, stacking up to 4 stacks.",
+      "2": "Dealing DMG to enemies with Spectro Frazzle increases the wielder's Spectro DMG by **7%**, gaining 1 stack per second for 6s, stacking up to 4 stacks.",
+      "3": "Dealing DMG to enemies with Spectro Frazzle increases the wielder's Spectro DMG by **8%**, gaining 1 stack per second for 6s, stacking up to 4 stacks.",
+      "4": "Dealing DMG to enemies with Spectro Frazzle increases the wielder's Spectro DMG by **9%**, gaining 1 stack per second for 6s, stacking up to 4 stacks.",
+      "5": "Dealing DMG to enemies with Spectro Frazzle increases the wielder's Spectro DMG by **10%**, gaining 1 stack per second for 6s, stacking up to 4 stacks."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/oceans-gift/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Ocean's%20Gift"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 96
+    },
+    "50": {
+      "atk": 239
+    },
+    "90": {
+      "atk": 462
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "id": "galbrena",
+  "name": "Galbrena",
+  "rarity": 5,
+  "element": "Fusion",
+  "weaponType": "Pistols",
+  "skills": [
+    {
+      "id": "basic-attack-slayers-trigger",
+      "name": "Slayer's Trigger",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack**\n\nPerform up to **4** consecutive attacks, dealing Fusion DMG. Basic Attack Stage 1 to 3 DMG are considered as Heavy Attack DMG, and Basic Attack Stage 4 DMG as Echo Skill DMG.\n\nPress Normal Attack right after performing Basic Attack Stage 4 to perform Basic Attack Stage 2.\n\n**Heavy Attack - Volley of Death**\n\nConsume STA to attack the target and perform up to **3** consecutive attacks, dealing Fusion DMG. Stage 3 DMG is considered as Echo Skill DMG.\n\nPress Normal Attack right after performing Heavy Attack - Volley of Death Stage 1 to perform Basic Attack Stage 2. Press Normal Attack right after performing Heavy Attack - Volley of Death Stage 2 or 3 to perform Basic Attack Stage 3.\n\n**Mid-air Attack - Ashfall Barrage**\n\nWhile in mid-air, press Normal Attack to consume STA to perform a Plunging Attack, dealing Fusion DMG, considered as Heavy Attack DMG.\n\nWhile in mid-air, hold Normal Attack to continuously consume STA to launch a barrage of shots at targets below, dealing Fusion DMG, considered as Heavy Attack DMG. If Galbrena does not land when interrupted during the barrage, she cannot immediately cast this skill again. Release Normal Attack during the barrage to cast Plunging Attack.\n\nPress Normal Attack right after casting Plunging Attack to cast Basic Attack Stage 3.\n\n**Dodge Counter - Blood for Blood**\n\nPress Normal Attack right after a successful Dodge to attack the target, dealing Fusion DMG, considered as Heavy Attack DMG.\nPress Normal Attack right after casting this skill to cast Basic Attack Stage 4.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Basic Attack Stage 1 DMG | 29.77% |\n| Basic Attack Stage 2 DMG | 13.23%+13.23%+39.69% |\n| Basic Attack Stage 3 DMG | 14.39%+14.39%+21.58%+21.58% |\n| Basic Attack Stage 4 DMG | 89.46% |\n| Dodge Counter - Blood for Blood DMG | 20.65%+20.65%+30.97%+30.97% |\n| Mid-air Attack - Ashfall Barrage Plunging Attack DMG | 72.00% |\n| Mid-air Attack - Ashfall Barrage Sustained Fire DMG | 13.50% |\n| Heavy Attack - Volley of Death Stage 1 DMG | 26.81%+26.81% |\n| Heavy Attack - Volley of Death Stage 2 DMG | 17.40%*2 |\n| Heavy Attack - Volley of Death Stage 3 DMG | 8.44%*3+59.05% |\n| Mid-air Attack - Ashfall Barrage Sustained Fire STA Cost (Per Sec) | 20 |\n| Mid-air Attack - Ashfall Barrage STA Cost | 30 |\n| Heavy Attack - Volley of Death Stage 1 STA Cost | 10 |\n| Heavy Attack - Volley of Death Stage 2 STA Cost | 10 |\n| Heavy Attack - Volley of Death Stage 3 STA Cost | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Basic Attack Stage 1 DMG | 38.07% |\n| Basic Attack Stage 2 DMG | 16.92%+16.92%+50.76% |\n| Basic Attack Stage 3 DMG | 18.40%+18.40%+27.59%+27.59% |\n| Basic Attack Stage 4 DMG | 114.41% |\n| Dodge Counter - Blood for Blood DMG | 26.41%+26.41%+39.61%+39.61% |\n| Mid-air Attack - Ashfall Barrage Plunging Attack DMG | 92.08% |\n| Mid-air Attack - Ashfall Barrage Sustained Fire DMG | 17.27% |\n| Heavy Attack - Volley of Death Stage 1 DMG | 34.29%+34.29% |\n| Heavy Attack - Volley of Death Stage 2 DMG | 22.25%*2 |\n| Heavy Attack - Volley of Death Stage 3 DMG | 10.79%*3+75.51% |\n| Mid-air Attack - Ashfall Barrage Sustained Fire STA Cost (Per Sec) | 20 |\n| Mid-air Attack - Ashfall Barrage STA Cost | 30 |\n| Heavy Attack - Volley of Death Stage 1 STA Cost | 10 |\n| Heavy Attack - Volley of Death Stage 2 STA Cost | 10 |\n| Heavy Attack - Volley of Death Stage 3 STA Cost | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Basic Attack Stage 1 DMG | 59.18% |\n| Basic Attack Stage 2 DMG | 26.31%+26.31%+78.91% |\n| Basic Attack Stage 3 DMG | 28.60%+28.60%+42.89%+42.89% |\n| Basic Attack Stage 4 DMG | 177.86% |\n| Dodge Counter - Blood for Blood DMG | 41.05%+41.05%+61.57%+61.57% |\n| Mid-air Attack - Ashfall Barrage Plunging Attack DMG | 143.15% |\n| Mid-air Attack - Ashfall Barrage Sustained Fire DMG | 26.84% |\n| Heavy Attack - Volley of Death Stage 1 DMG | 53.30%+53.30% |\n| Heavy Attack - Volley of Death Stage 2 DMG | 34.59%*2 |\n| Heavy Attack - Volley of Death Stage 3 DMG | 16.77%*3+117.39% |\n| Mid-air Attack - Ashfall Barrage Sustained Fire STA Cost (Per Sec) | 20 |\n| Mid-air Attack - Ashfall Barrage STA Cost | 30 |\n| Heavy Attack - Volley of Death Stage 1 STA Cost | 10 |\n| Heavy Attack - Volley of Death Stage 2 STA Cost | 10 |\n| Heavy Attack - Volley of Death Stage 3 STA Cost | 10 |"
+      }
+    },
+    {
+      "id": "resonance-skill-edge-transcended",
+      "name": "Edge Transcended",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "**Resonance Skill - Encroach**\n\nDash forward and leap into the air. Flip backward upon hitting the target, dealing Fusion DMG, considered Heavy Attack DMG.\n\n**Resonance Skill - Ascent of Malice**\n\nUpon reaching **100 **points of Sinflame, Resonance Skill is replaced with Resonance Skill - Ascent of Malice.\n\nSlash at enemies with her wings, dealing Fusion DMG, considered Heavy Attack DMG. Upon casting this skill:\n\n- Galbrena enters Demon Hypostasis.\n- Sinflame is converted into an equivalent amount of Purging Flame.\n- Can be followed by Basic Attack - Seraphic Execution Stage 2.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Resonance Skill - Encroach DMG | 5.40%+12.60% |\n| Resonance Skill - Ascent of Malice DMG | 25.94%+25.94% |\n| Resonance Skill - Ascent of Malice Concerto Regen | 10 |\n| Resonance Skill - Encroach Cooldown | 5s |\n| Resonance Skill - Ascent of Malice Cooldown | 13s |",
+        "5": "| Name | Value |\n| --- | --- |\n| Resonance Skill - Encroach DMG | 7.35%+17.14% |\n| Resonance Skill - Ascent of Malice DMG | 35.30%+35.30% |\n| Resonance Skill - Ascent of Malice Concerto Regen | 10 |\n| Resonance Skill - Encroach Cooldown | 5s |\n| Resonance Skill - Ascent of Malice Cooldown | 13s |",
+        "10": "| Name | Value |\n| --- | --- |\n| Resonance Skill - Encroach DMG | 10.74%+25.04% |\n| Resonance Skill - Ascent of Malice DMG | 51.57%+51.57% |\n| Resonance Skill - Ascent of Malice Concerto Regen | 10 |\n| Resonance Skill - Encroach Cooldown | 5s |\n| Resonance Skill - Ascent of Malice Cooldown | 13s |"
+      }
+    },
+    {
+      "id": "resonance-liberation-hellfire-absolution",
+      "name": "Hellfire Absolution",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Attack the target and deal Fusion DMG, considered Echo Skill DMG. \n\nGain **85%** DMG Multiplier increase for Basic Attack - Seraphic Execution, Heavy Attack - Flamewing Verdict, Mid-air Attack - Hellsent Barrage, and Dodge Counter - Purgatory Scourge for **14s **while in Demon Hypostasis.\n\nPress Normal Attack after casting Resonance Liberation to cast Basic Atttack Stage 2. While in Demon Hypostasis, cast Basic Attack - Seraphic Execution Stage 2 instead.\n\nCan be cast in mid-air close to the ground.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Resonance Liberation - Hellfire Absolution DMG | 55.79%+45.64%*11 |\n| Resonance Liberation - Hellfire Absolution Resonance Energy Cost | 125 |\n| Resonance Liberation - Hellfire Absolution Concerto Regen | 20 |\n| Resonance Liberation - Hellfire Absolution Cooldown | 25s |",
+        "5": "| Name | Value |\n| --- | --- |\n| Resonance Liberation - Hellfire Absolution DMG | 75.91%+62.11%*11 |\n| Resonance Liberation - Hellfire Absolution Resonance Energy Cost | 125 |\n| Resonance Liberation - Hellfire Absolution Concerto Regen | 20 |\n| Resonance Liberation - Hellfire Absolution Cooldown | 25s |",
+        "10": "| Name | Value |\n| --- | --- |\n| Resonance Liberation - Hellfire Absolution DMG | 110.90%+90.74%*11 |\n| Resonance Liberation - Hellfire Absolution Resonance Energy Cost | 125 |\n| Resonance Liberation - Hellfire Absolution Concerto Regen | 20 |\n| Resonance Liberation - Hellfire Absolution Cooldown | 25s |"
+      }
+    },
+    {
+      "id": "forte-circuit-beyond-threshold",
+      "name": "Beyond Threshold",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "**Threshold State**\n\nBy default, Galbrena is in Threshold State, and in this state, she accumulates Afterflame and Sinflame.\n\n**Demon Hypostasis**\n\nWhile in Demon Hypostasis, Basic Attack, Heavy Attack - Volley of Death, Mid-air Attack - Ashfall Barrage, Dodge Counter - Blood for Blood, and Resonance Skill - Encroach are replaced with Basic Attack - Seraphic Execution, Heavy Attack - Flamewing Verdict, Mid-air Attack - Hellsent Barrage, Dodge Counter - Purgatory Scourge, and Resonance Skill - Ravage, which consume Purging Flame on hit.\n\nWhile in Demon Hypostasis, every point of Afterflame increases the DMG of Basic Attack - Seraphic Execution, Heavy Attack - Flamewing Verdict, Mid-air Attack - Hellsent Barrage, Resonance Skill - Ravage, and Dodge Counter - Purgatory Scourge by **1.5%**, up to **60%**, which is removed upon exiting Demon Hypostasis.\n\nWhen Purging Flame depletes or after staying in Demon Hypostasis for over **50s**, Demon Hypostasis ends automatically.\n\n**Basic Attack - Seraphic Execution**\n\nPerform up to **5 **consecutive attacks, dealing Fusion DMG. Consume Purging Flame on hit. Stage 1 to 3 DMG are considered Heavy Attack DMG, and Stage 4 & 5 DMG Echo Skill DMG.\n\nPress Normal Attack after casting Basic Attack - Seraphic Execution Stage 5 to cast Basic Attack - Seraphic Execution Stage 3.\n\n**Heavy Attack - Flamewing Verdict**\n\nConsume STA to attack the target and perform up to **3 **consecutive attacks, dealing Fusion DMG. Consume Purging Flame on hit. Stage 3 DMG is considered Echo Skill DMG.\n\nPress Normal Attack after casting Heavy Attack - Flamewing Verdict Stage 1 to cast Basic Attack - Seraphic Execution Stage 2.\n\nPress Normal Attack after casting Heavy Attack - Flamewing Verdict Stage 2 & 3 to cast Basic Attack - Seraphic Execution Stage 3.\n\n**Mid-air Attack - Hellsent Barrage**\n\nWhile in mid-air, press Normal Attack to consume STA to perform aerial attacks, dealing Fusion DMG, considered Heavy Attack DMG. Consume Purging Flame on hit.\n\nWhile in mid-air, hold Normal Attack to continuously consume STA to launch a barrage of shots at targets, dealing Fusion DMG, considered Heavy Attack DMG. Consume Purging Flame on hit. If Galbrena does not land when interrupted during the barrage, she cannot immediately cast this skill again. Release Normal Attack during the barrage to cast Plunging Attack.\n\nPress Normal Attack after the Plunging Attack to cast Basic Attack - Seraphic Execution Stage 3.\n\n**Dodge Counter - Purgatory Scourge**\n\nPress Normal Attack right after a successful Dodge to attack the target, dealing Fusion DMG, considered Heavy Attack DMG.\n\nPress Normal Attack right after casting this skill to cast Basic Attack - Seraphic Execution Stage 4.\n\n**Resonance Skill - Ravage**\n\nDash forward and leap into the air. Flip backward upon hitting the target, dealing Fusion DMG, considered Heavy Attack DMG.\n\nConsume Purging Flame on hit. Resonance Skill - Ravage and Resonance Skill - Encroach share a cooldown.\n\n**Hellstride**\n\nPress Dodge on the ground while casting Galbrena's own skills to cast Hellstride to deal a fixed amount of Fusion DMG, considered Basic Attack DMG that does not bear any effect from DMG buffs. Hellstride can trigger successful Dodges. Hellstride cannot be cast consecutively.\n\nCasting this skill does not reset the attack cycles within a short period of time.\n\n**Burning Drive**\n\nCasting Intro Skill, Hellstride, Normal Attack - Seraphic Execution Basic Attack Stage 4, Resonance Skill - Encroach, Resonance Skill - Ascent of Malice, and Resonance Skill - Ravage increases Galbrena's resistance to interruptions and ATK by **20%** for **4s**.\n\n**Afterflame**\n\nGalbrena can hold up to **40 **points of Afterflame.\n\nWhile in Threshold State, Galbrena recovers **8 **points of Afterflame when Resonators in the nearby team cast Echo Skill. Echoes with the same name can only trigger this effect once. This effect resets when Galbrena exits Demon Hypostasis.\n\nAll Afterflame is removed upon exiting Demon Hypostasis.\n\n**Sinflame**\n\nGalbrena can hold up to **100 **points of Sinflame.\n\nWhile in Threshold State, hitting an enemy with Basic Attack, Heavy Attack - Volley of Death, Mid-air Attack - Ashfall Barrage, Resonance Skill - Encroach, and Intro Skill - Hellflare Overload recovers Sinflame.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Hellstride DMG | 666 |\n| Basic Attack - Seraphic Execution Stage 1 DMG | 29.67% |\n| Basic Attack - Seraphic Execution Stage 2 DMG | 14.00%+14.00%+42.00% |\n| Basic Attack - Seraphic Execution Stage 3 DMG | 12.23%*3+85.61% |\n| Basic Attack - Seraphic Execution Stage 4 DMG | 9.13%*3+63.89% |\n| Basic Attack - Seraphic Execution Stage 5 DMG | 33.84%+78.96% |\n| Heavy Attack - Flamewing Verdict Stage 1 DMG | 29.79%+29.79% |\n| Heavy Attack - Flamewing Verdict Stage 2 DMG | 19.29%*2 |\n| Heavy Attack - Flamewing Verdict Stage 3 DMG | 8.90%*3+62.26% |\n| Dodge Counter - Purgatory Scourge | 16.15%*3+113.03% |\n| Heavy Attack - Flamewing Verdict Stage 1 STA Cost | 10 |\n| Heavy Attack - Flamewing Verdict Stage 2 STA Cost | 10 |\n| Heavy Attack - Flamewing Verdict Stage 3 STA Cost | 10 |\n| Hellstride STA Cost | 20 |\n| Mid-air Attack - Hellsent Barrage Plunging Attack DMG | 80.00% |\n| Mid-air Attack - Hellsent Barrage Sustained Fire DMG | 15.00% |\n| Mid-air Attack - Hellsent Barrage Sustained Fire STA Cost (Per Sec) | 20 |\n| Mid-air Attack - Hellsent Barrage STA Cost | 30 |\n| Resonance Skill - Ravage DMG | 5.40%+12.60% |\n| Resonance Skill - Ravage Cooldown | 5s |",
+        "5": "| Name | Value |\n| --- | --- |\n| Hellstride DMG | 666 |\n| Basic Attack - Seraphic Execution Stage 1 DMG | 40.38% |\n| Basic Attack - Seraphic Execution Stage 2 DMG | 19.06%+19.06%+57.16% |\n| Basic Attack - Seraphic Execution Stage 3 DMG | 16.65%*3+116.50% |\n| Basic Attack - Seraphic Execution Stage 4 DMG | 12.43%*3+86.95% |\n| Basic Attack - Seraphic Execution Stage 5 DMG | 46.05%+107.45% |\n| Heavy Attack - Flamewing Verdict Stage 1 DMG | 40.54%+40.54% |\n| Heavy Attack - Flamewing Verdict Stage 2 DMG | 26.25%*2 |\n| Heavy Attack - Flamewing Verdict Stage 3 DMG | 12.11%*3+84.72% |\n| Dodge Counter - Purgatory Scourge | 21.98%*3+153.81% |\n| Heavy Attack - Flamewing Verdict Stage 1 STA Cost | 10 |\n| Heavy Attack - Flamewing Verdict Stage 2 STA Cost | 10 |\n| Heavy Attack - Flamewing Verdict Stage 3 STA Cost | 10 |\n| Hellstride STA Cost | 20 |\n| Mid-air Attack - Hellsent Barrage Plunging Attack DMG | 108.87% |\n| Mid-air Attack - Hellsent Barrage Sustained Fire DMG | 20.42% |\n| Mid-air Attack - Hellsent Barrage Sustained Fire STA Cost (Per Sec) | 20 |\n| Mid-air Attack - Hellsent Barrage STA Cost | 30 |\n| Resonance Skill - Ravage DMG | 7.35%+17.14% |\n| Resonance Skill - Ravage Cooldown | 5s |",
+        "10": "| Name | Value |\n| --- | --- |\n| Hellstride DMG | 666 |\n| Basic Attack - Seraphic Execution Stage 1 DMG | 58.99% |\n| Basic Attack - Seraphic Execution Stage 2 DMG | 27.84%+27.84%+83.51% |\n| Basic Attack - Seraphic Execution Stage 3 DMG | 24.32%*3+170.21% |\n| Basic Attack - Seraphic Execution Stage 4 DMG | 18.15%*3+127.02% |\n| Basic Attack - Seraphic Execution Stage 5 DMG | 67.28%+156.99% |\n| Heavy Attack - Flamewing Verdict Stage 1 DMG | 59.22%+59.22% |\n| Heavy Attack - Flamewing Verdict Stage 2 DMG | 38.35%*2 |\n| Heavy Attack - Flamewing Verdict Stage 3 DMG | 17.69%*3+123.77% |\n| Dodge Counter - Purgatory Scourge | 32.10%*3+224.70% |\n| Heavy Attack - Flamewing Verdict Stage 1 STA Cost | 10 |\n| Heavy Attack - Flamewing Verdict Stage 2 STA Cost | 10 |\n| Heavy Attack - Flamewing Verdict Stage 3 STA Cost | 10 |\n| Hellstride STA Cost | 20 |\n| Mid-air Attack - Hellsent Barrage Plunging Attack DMG | 159.05% |\n| Mid-air Attack - Hellsent Barrage Sustained Fire DMG | 29.83% |\n| Mid-air Attack - Hellsent Barrage Sustained Fire STA Cost (Per Sec) | 20 |\n| Mid-air Attack - Hellsent Barrage STA Cost | 30 |\n| Resonance Skill - Ravage DMG | 10.74%+25.04% |\n| Resonance Skill - Ravage Cooldown | 5s |"
+      }
+    },
+    {
+      "id": "inherent-skill-oathbound-hunt",
+      "name": "Oathbound Hunt",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "**1** stack of Fated End is inflicted on the target when the following skills hit: Intro Skill, Basic Attack, Basic Attack - Seraphic Execution, Dodge Counter, Heavy Attack - Volley of Death, Heavy Attack - Flamewing Verdict, Mid-air Attack, Hellstride, Resonance Skill - Encroach, Resonance Skill - Ascent of Malice, Resonance Skill - Ravage and Resonance Liberation, up to **4** stacks. \n\nEach stack Amplifies the DMG directly dealt by Galbrena's Normal Attack, Resonance Skill, Forte Circuit, Resonance Liberation, Intro Skill, and Outro Skill by **5%** for **5.5s**. The same type of skill can trigger this effect on the same target once every **5s**. \n\nResonance Skill - Encroach and Resonance Skill - Ravage are considered the same type of skill.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-sin-feaster",
+      "name": "Sin Feaster",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Casting Basic Attack Stage 4, Basic Attack - Seraphic Execution Stage 5, Heavy Attack - Volley of Death Stage 3, and Heavy Attack - Flamewing Verdict Stage 3 recovers **10 **points of STA.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-hellflare-overload",
+      "name": "Hellflare Overload",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target and deal Fusion DMG.\n\nHold Normal Attack after casting this skill to cast Heavy Attack - Volley of Death Stage 2. While in Demon Hypostasis, cast Heavy Attack - Flamewing Verdict Stage 2 instead.\n\nPress Normal Attack right after casting this skill to perform Basic Attack Stage 2, which is replaced with Basic Attack - Seraphic Execution Stage 2 if Galbrena is in Demon Hypostasis.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Intro Skill - Hellflare Overload DMG | 47.34% |\n| Intro Skill - Hellflare Overload Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Intro Skill - Hellflare Overload DMG | 64.43% |\n| Intro Skill - Hellflare Overload Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Intro Skill - Hellflare Overload DMG | 94.12% |\n| Intro Skill - Hellflare Overload Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-ashen-pursuit",
+      "name": "Ashen Pursuit",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target, dealing Fusion DMG equal to **79.5%*3+556.5%** of Galbrena's ATK.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/galbrena/icon.webp",
+    "card": "/v1/images/characters/galbrena/card.webp",
+    "splash": "/v1/images/characters/galbrena/splash.webp",
+    "attribute": "/v1/images/characters/galbrena/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/galbrena",
+      "updatedAt": "December 31st, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Galbrena",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Galbrena/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 2142.4,
+      "atk": 96.2,
+      "def": 232.96
+    },
+    "50": {
+      "hp": 5323.04,
+      "atk": 244.57,
+      "def": 576.94
+    },
+    "90": {
+      "hp": 10300,
+      "atk": 462.5,
+      "def": 1112.2
+    }
+  }
+}

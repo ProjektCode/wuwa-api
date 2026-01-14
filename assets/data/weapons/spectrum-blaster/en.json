@@ -1,0 +1,37 @@
+{
+  "id": "spectrum-blaster",
+  "name": "Spectrum Blaster",
+  "rarity": 5,
+  "type": "Pistols",
+  "secondaryStatType": "Crit. Rate",
+  "passive": {
+    "name": "Attendance Exemption Protocol",
+    "descriptionMdByRank": {
+      "1": "Increases ATK by **12%**.\nCasting Intro Skill or hitting the target with Basic Attack increases the wielder's Basic Attack DMG by **36%** for 4s. Each time the wielder inflicts Tune Rupture - Shifting or Tune Strain - Shifting during Basic Attacks, all DMG dealt by Resonators in the team is increased by **8%** for 30s, up to 3 stacks. Effects of the same name cannot be stacked.",
+      "2": "Increases ATK by **15%**.\nCasting Intro Skill or hitting the target with Basic Attack increases the wielder's Basic Attack DMG by **45%** for 4s. Each time the wielder inflicts Tune Rupture - Shifting or Tune Strain - Shifting during Basic Attacks, all DMG dealt by Resonators in the team is increased by **10%** for 30s, up to 3 stacks. Effects of the same name cannot be stacked.",
+      "3": "Increases ATK by **18%**.\nCasting Intro Skill or hitting the target with Basic Attack increases the wielder's Basic Attack DMG by **54%** for 4s. Each time the wielder inflicts Tune Rupture - Shifting or Tune Strain - Shifting during Basic Attacks, all DMG dealt by Resonators in the team is increased by **12%** for 30s, up to 3 stacks. Effects of the same name cannot be stacked.",
+      "4": "Increases ATK by **21%**.\nCasting Intro Skill or hitting the target with Basic Attack increases the wielder's Basic Attack DMG by **63%** for 4s. Each time the wielder inflicts Tune Rupture - Shifting or Tune Strain - Shifting during Basic Attacks, all DMG dealt by Resonators in the team is increased by **14%** for 30s, up to 3 stacks. Effects of the same name cannot be stacked.",
+      "5": "Increases ATK by **24%**.\nCasting Intro Skill or hitting the target with Basic Attack increases the wielder's Basic Attack DMG by **72%** for 4s. Each time the wielder inflicts Tune Rupture - Shifting or Tune Strain - Shifting during Basic Attacks, all DMG dealt by Resonators in the team is increased by **16%** for 30s, up to 3 stacks. Effects of the same name cannot be stacked."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/spectrum-blaster/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Spectrum%20Blaster"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 122
+    },
+    "50": {
+      "atk": 303
+    },
+    "90": {
+      "atk": 587
+    }
+  }
+}

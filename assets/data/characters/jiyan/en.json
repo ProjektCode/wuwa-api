@@ -1,0 +1,139 @@
+{
+  "id": "jiyan",
+  "name": "Jiyan",
+  "rarity": 5,
+  "element": "Aero",
+  "weaponType": "Broadblade",
+  "skills": [
+    {
+      "id": "basic-attack-lone-lance",
+      "name": "Lone Lance",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "Basic Attack\n\nPerform up to **5** consecutive attacks, dealing Aero DMG.\n\nHeavy Attack\n\nConsume Stamina to perform a thrust attack, dealing Aero DMG.\n\nHeavy Attack: Windborne Strike\n\nHold the Basic Attack during Heavy Attack to cast Windborne Strike after the Heavy Attack ends, dealing Aero DMG.\n\nHeavy Attack: Abyssal Slash\n\nRelease the Basic Attack during the Heavy Attack to cast Abyssal Slash after the Heavy Attack ends, dealing Aero DMG.\n\nMid-air Attack\n\nConsume Stamina to perform a Mid-Air Plunging Attack, dealing Aero DMG. After the Plunging Attack, use Basic Attack to perform a following attack, dealing Aero DMG.\n\nMid-air Attack: Banner of Triumph\n\nAfter casting the Heavy Attack Windborne Strike or the Resonance Skill Windqueller in the air, Jiyan can perform an aerial attack, dealing Aero DMG.\n\nDodge Counter\n\nUse a Basic Attack after a successful Dodge to attack the target with, dealing Aero DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Part 1 Damage | 36.80% |\n| Part 2 Damage | 22.00% |\n| Part 3 Damage | 18.30%*5 |\n| Part 4 Damage | 33.30%*2 |\n| Part 5 Damage | 11.87%*7+77.18%*2 |\n| Heavy Attack Damage | 11.16%*6 |\n| Windborne Strike Damage | 53.30% |\n| Abyssal Slash Damage | 41.10% |\n| Mid-Air Attack Damage | 62.00% |\n| Banner Of Triumph Damage | 40.00% |\n| Mid-Air Attack Follow-Up Damage | 78.30% |\n| Dodge Counter Damage | 63.30%*2 |\n| Heavy Attack Stamina Consumption | 25 |\n| Mid-Air Attack Stamina Consumption | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Part 1 Damage | 50.07% |\n| Part 2 Damage | 29.93% |\n| Part 3 Damage | 24.90%*5 |\n| Part 4 Damage | 45.31%*2 |\n| Part 5 Damage | 16.15%*7+105.03%*2 |\n| Heavy Attack Damage | 15.19%*6 |\n| Windborne Strike Damage | 72.53% |\n| Abyssal Slash Damage | 55.92% |\n| Mid-Air Attack Damage | 84.36% |\n| Banner Of Triumph Damage | 54.43% |\n| Mid-Air Attack Follow-Up Damage | 106.55% |\n| Dodge Counter Damage | 86.14%*2 |\n| Heavy Attack Stamina Consumption | 25 |\n| Mid-Air Attack Stamina Consumption | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Part 1 Damage | 73.16% |\n| Part 2 Damage | 43.73% |\n| Part 3 Damage | 36.38%*5 |\n| Part 4 Damage | 66.20%*2 |\n| Part 5 Damage | 23.60%*7+153.45%*2 |\n| Heavy Attack Damage | 22.20%*6 |\n| Windborne Strike Damage | 105.96% |\n| Abyssal Slash Damage | 81.71% |\n| Mid-Air Attack Damage | 123.26% |\n| Banner Of Triumph Damage | 79.52% |\n| Mid-Air Attack Follow-Up Damage | 155.66% |\n| Dodge Counter Damage | 125.85%*2 |\n| Heavy Attack Stamina Consumption | 25 |\n| Mid-Air Attack Stamina Consumption | 30 |"
+      }
+    },
+    {
+      "id": "resonance-skill-windqueller",
+      "name": "Windqueller",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "Dash forward a certain distance, dealing Aero DMG. Can be cast in the air.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill Damage | 53.50%*4 |\n| Cooldown | 7 |\n| Con. Energy Regen | 16 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill Damage | 72.80%*4 |\n| Cooldown | 7 |\n| Con. Energy Regen | 16 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill Damage | 106.36%*4 |\n| Cooldown | 7 |\n| Con. Energy Regen | 16 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-emerald-storm-prelude",
+      "name": "Emerald Storm: Prelude",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "After releasing Emerald Storm: Prelude, Jiyan enters Qingloong Mode.\n\nQingloong Mode\n\nJiyan has increased Anti-interruption; Basic Attack, Heavy Attack and Dodge Counter are replaced with Heavy Attack Lance of Qingloong.\n\nHeavy Attack: Lance of Qingloong\n\nPerform up to** 3** continuous attacks, dealing Aero DMG, considered as Heavy Attack damage.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Lance Of Qingloong Part 1 Damage | 32.95%*8 |\n| Lance Of Qingloong Part 2 Damage | 30.96%*8 |\n| Lance Of Qingloong Part 3 Damage | 33.58%*8 |\n| Qingloong Mode Duration | 10 |\n| Cooldown | 16 |\n| Res. Energy Cost | 125 |\n| Con. Energy Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Lance Of Qingloong Part 1 Damage | 44.84%*8 |\n| Lance Of Qingloong Part 2 Damage | 42.13%*8 |\n| Lance Of Qingloong Part 3 Damage | 45.69%*8 |\n| Qingloong Mode Duration | 10 |\n| Cooldown | 16 |\n| Res. Energy Cost | 125 |\n| Con. Energy Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Lance Of Qingloong Part 1 Damage | 65.52%*8 |\n| Lance Of Qingloong Part 2 Damage | 61.55%*8 |\n| Lance Of Qingloong Part 3 Damage | 66.76%*8 |\n| Qingloong Mode Duration | 10 |\n| Cooldown | 16 |\n| Res. Energy Cost | 125 |\n| Con. Energy Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-qingloong-at-war",
+      "name": "Qingloong at War",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "When casting Resonance Skill Windqueller, if Jiyan has **30** or more \"Resolve\", he consumes **30 **\"Resolve\" to increase the damage of this Resonance Skill Windqueller by **20%.** When Jiyan is in Qingloong Mode, DMG of Resonance Skill Windqueller is increased by **20%** and no longer consumes \"Resolve\".\n\nResonance Liberation: Emerald Storm: Finale\n\nWhen casting Resonance Liberation Emerald Storm: Prelude, if Jiyan has **30 **\"Resolve\" or more, he will consume **30 **\"Resolve\" to cast Emerald Storm: Finale, dealing Aero DMG, considered as Heavy Attack damage.\nEmerald Storm: Finale can be cast in mid-air at low altitude.\n\nResolve\n\nJiyan can hold up to **60 **Resolve. Jiyan gains \"Resolve\" when his Normal Attack Lone Lance hits the target. Jiyan gains \"Resolve\" when the Intro Skill Tactical Strike hits the target. If Jiyan does not hit a target within **15 **seconds, his \"Resolve\" will gradually decrease.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Emerald Storm: Finale Damage | 71.88%*2+215.65% |",
+        "5": "| Name | Value |\n| --- | --- |\n| Emerald Storm: Finale Damage | 97.82%*2+293.45% |",
+        "10": "| Name | Value |\n| --- | --- |\n| Emerald Storm: Finale Damage | 142.91%*2+428.73% |"
+      }
+    },
+    {
+      "id": "inherent-skill-heavenly-balance",
+      "name": "Heavenly Balance",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "After casting the Intro Skill Tactical Strike, Jiyan's ATK is increased by **10%** for **15s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-tempest-taming",
+      "name": "Tempest Taming",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "When attacks hit a target, Jiyan's Crit. DMG is increased by **12% **for **8s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-tactical-strike",
+      "name": "Tactical Strike",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Jiyan stabs the target from the air, dealing Aero DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill Damage | 100.00% |\n| Con. Energy Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill Damage | 136.08% |\n| Con. Energy Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill Damage | 198.81% |\n| Con. Energy Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-discipline",
+      "name": "Discipline",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "When the next Character's (or other Characters on a nearby team that activates an Outro Skill) Heavy Attack hits the target, Jiyan will summon Qingloong to launch a Coordinated Attack, dealing Aero DMG equal to **313.40%** of Jiyan's ATK. This attack lasts for **8s**, and can be triggered once every **1s**, up to **2 **times.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/jiyan/icon.webp",
+    "card": "/v1/images/characters/jiyan/card.webp",
+    "splash": "/v1/images/characters/jiyan/splash.webp",
+    "attribute": "/v1/images/characters/jiyan/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/jiyan",
+      "updatedAt": "December 31st, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Jiyan",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Jiyan/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 2181.4,
+      "atk": 91,
+      "def": 248.32
+    },
+    "50": {
+      "hp": 5419.94,
+      "atk": 231.35,
+      "def": 614.98
+    },
+    "90": {
+      "hp": 10487.5,
+      "atk": 437.5,
+      "def": 1185.53
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "luminous-hymn",
+  "name": "Luminous Hymn",
+  "rarity": 5,
+  "type": "Rectifier",
+  "secondaryStatType": "Crit. Rate",
+  "passive": {
+    "name": "Homebuilder's Anthem",
+    "descriptionMdByRank": {
+      "1": "Increase ATK by **12%**. Dealing DMG to enemies with Spectro Frazzle gives **14%** Basic Attack and **14%** Heavy Attack DMG Bonus respectively, stacking up to 3 times for 6s. Casting Outro Skill Amplifies the DMG from Spectro Frazzle on enemies around the active Resonator by **30%** for 30s. Effects of the same name cannot be stacked.",
+      "2": "Increase ATK by **15%**. Dealing DMG to enemies with Spectro Frazzle gives **17.5%** Basic Attack and **17.5%** Heavy Attack DMG Bonus respectively, stacking up to 3 times for 6s. Casting Outro Skill Amplifies the DMG from Spectro Frazzle on enemies around the active Resonator by **37.5%** for 30s. Effects of the same name cannot be stacked.",
+      "3": "Increase ATK by **18%**. Dealing DMG to enemies with Spectro Frazzle gives **21%** Basic Attack and **21%** Heavy Attack DMG Bonus respectively, stacking up to 3 times for 6s. Casting Outro Skill Amplifies the DMG from Spectro Frazzle on enemies around the active Resonator by **45%** for 30s. Effects of the same name cannot be stacked.",
+      "4": "Increase ATK by **21%**. Dealing DMG to enemies with Spectro Frazzle gives **24.5%** Basic Attack and **24.5%** Heavy Attack DMG Bonus respectively, stacking up to 3 times for 6s. Casting Outro Skill Amplifies the DMG from Spectro Frazzle on enemies around the active Resonator by **52.5%** for 30s. Effects of the same name cannot be stacked.",
+      "5": "Increase ATK by **24%**. Dealing DMG to enemies with Spectro Frazzle gives **28%** Basic Attack and **28%** Heavy Attack DMG Bonus respectively, stacking up to 3 times for 6s. Casting Outro Skill Amplifies the DMG from Spectro Frazzle on enemies around the active Resonator by **60%** for 30s. Effects of the same name cannot be stacked."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/luminous-hymn/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Luminous%20Hymn"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 104
+    },
+    "50": {
+      "atk": 258
+    },
+    "90": {
+      "atk": 500
+    }
+  }
+}

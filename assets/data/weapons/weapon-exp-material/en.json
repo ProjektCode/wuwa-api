@@ -1,0 +1,17 @@
+{
+  "id": "weapon-exp-material",
+  "name": "Weapon EXP Material",
+  "rarity": null,
+  "type": null,
+  "secondaryStatType": null,
+  "passive": null,
+  "images": {
+    "icon": "/v1/images/weapons/weapon-exp-material/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Weapon%20EXP%20Material"
+    }
+  },
+  "lastUpdated": "2026-01-14"
+}

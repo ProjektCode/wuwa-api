@@ -1,0 +1,26 @@
+{
+  "id": "tyro-gauntlets",
+  "name": "Tyro Gauntlets",
+  "rarity": 2,
+  "type": "Gauntlets",
+  "secondaryStatType": "ATK",
+  "passive": {
+    "name": "Prologue",
+    "descriptionMdByRank": {
+      "1": "Increases ATK by **5%**.",
+      "2": "Increases ATK by **6.25%**.",
+      "3": "Increases ATK by **7.5%**.",
+      "4": "Increases ATK by **8.75%**.",
+      "5": "Increases ATK by **10%**."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/tyro-gauntlets/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Tyro%20Gauntlets"
+    }
+  },
+  "lastUpdated": "2026-01-14"
+}

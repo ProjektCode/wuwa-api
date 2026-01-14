@@ -1,0 +1,25 @@
+{
+  "id": "sigrika",
+  "name": "Sigrika",
+  "rarity": 5,
+  "element": "Unknown",
+  "weaponType": "Unknown",
+  "skills": [],
+  "images": {
+    "icon": "/v1/images/characters/sigrika/icon.webp",
+    "card": "/v1/images/characters/sigrika/card.webp",
+    "splash": "/v1/images/characters/sigrika/splash.webp",
+    "attribute": "/v1/images/characters/sigrika/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/sigrika",
+      "updatedAt": "November 30th, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Sigrika",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Sigrika/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14"
+}

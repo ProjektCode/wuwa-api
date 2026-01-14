@@ -1,0 +1,33 @@
+services:
+  wuwa-api:
+    build: .
+    container_name: wuwa-api
+    restart: unless-stopped
+    environment:
+      NODE_ENV: production
+      HOST: 0.0.0.0
+      PORT: 3000
+      # Rate limits (public defaults)
+      RATE_LIMIT_WINDOW: "1 minute"
+      RATE_LIMIT_LIST_MAX: 15
+      RATE_LIMIT_DETAIL_MAX: 60
+      RATE_LIMIT_IMAGE_MAX: 60
+      # Demo should stay off in production
+      ENABLE_DEMO: "false"
+    volumes:
+      # If you want to update dataset/images without rebuilding:
+      - ./assets:/app/assets:ro
+    expose:
+      - "3000"
+    networks:
+      - nginx_proxy
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:3000/healthz').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+
+networks:
+  nginx_proxy:
+    external: true
+    name: nginx_proxy

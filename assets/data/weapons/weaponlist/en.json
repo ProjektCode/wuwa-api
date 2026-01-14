@@ -1,0 +1,17 @@
+{
+  "id": "weaponlist",
+  "name": "Weapon/List",
+  "rarity": null,
+  "type": null,
+  "secondaryStatType": null,
+  "passive": null,
+  "images": {
+    "icon": "/v1/images/weapons/weaponlist/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Weapon%2FList"
+    }
+  },
+  "lastUpdated": "2026-01-14"
+}

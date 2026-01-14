@@ -1,0 +1,139 @@
+{
+  "id": "phoebe",
+  "name": "Phoebe",
+  "rarity": 5,
+  "element": "Spectro",
+  "weaponType": "Rectifier",
+  "skills": [
+    {
+      "id": "basic-attack-o-come-divine-light",
+      "name": "O Come Divine Light",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack**\n\nPerform up to **3 **consecutive attacks of Holy Light, dealing Spectro DMG.\n\n**Heavy Attack **\n\nConsume STA to attack the target, dealing Spectro DMG.\n\n**Mid-air Attack**\n\nConsume STA to ride the staff and dive down from mid-air to attack the target, dealing Spectro DMG.\n\n**Mid-air Heavy Attack**\n\nConsume STA to ride on the staff for a distance.\n\n- Can be re-cast after a Mid-Air Dodge or using Grapple.\n\n**Dodge Counter**\n\nAfter a successful Dodge, quickly use Basic Attack to attack the target, dealing Spectro DMG.\n\n- When Phoebe is inside the Ring of Mirrors, Dodge Counter becomes Chamuel's Star: Dodge Counter.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 14.85% |\n| Stage 2 DMG | 11.25% + 13.75% |\n| Stage 3 DMG | 7.17%*8 |\n| Heavy Attack DMG | 20.80%*4 |\n| Plunging Attack DMG | 23.25%*2 |\n| Dodge Counter DMG | 10.86%*8 |\n| Chamuel's Star: Dodge Counter DMG | 22.05%*6 |\n| Heavy Attack STA Cost | 25 |\n| Mid-air Attack STA Cost | 30 |\n| Mid-Air Heavy Attack STA Cost | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 20.21% |\n| Stage 2 DMG | 15.31% + 18.72% |\n| Stage 3 DMG | 9.75%*8 |\n| Heavy Attack DMG | 28.30%*4 |\n| Plunging Attack DMG | 31.64%*2 |\n| Dodge Counter DMG | 14.78%*8 |\n| Chamuel's Star: Dodge Counter DMG | 30.01%*6 |\n| Heavy Attack STA Cost | 25 |\n| Mid-air Attack STA Cost | 30 |\n| Mid-Air Heavy Attack STA Cost | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 29.53% |\n| Stage 2 DMG | 22.37% + 27.34% |\n| Stage 3 DMG | 14.24%*8 |\n| Heavy Attack DMG | 41.35%*4 |\n| Plunging Attack DMG | 46.23%*2 |\n| Dodge Counter DMG | 21.58%*8 |\n| Chamuel's Star: Dodge Counter DMG | 43.84%*6 |\n| Heavy Attack STA Cost | 25 |\n| Mid-air Attack STA Cost | 30 |\n| Mid-Air Heavy Attack STA Cost | 20 |"
+      }
+    },
+    {
+      "id": "resonance-skill-to-where-light-shines",
+      "name": "To Where Light Shines",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "Summon a Ring of Mirrors at the target location, making the target hit stagnate for **2s **and dealing Spectro DMG. The stagnation effect can be applied to **12 **targets max for each Ring of Mirrors. Using Resonance Skill again shortly after the summoning teleports Phoebe to the Ring of Mirrors' location, dealing Spectro DMG.\n\nUnable to teleport if Phoebe is too far from the Ring of Mirrors.\n\n**Ring of Mirrors**\n\n- Ring of Mirrors lasts for **30s**. When Phoebe summons a new Ring of Mirrors, the existing Ring of Mirrors disappears.\n- When Phoebe is outside of the Ring of Mirrors, a Basic Attack or Dodge Counter that hits the Ring of Mirrors will refract Holy Light, which deals Spectro DMG to targets inside the Ring of Mirrors and pulls the targets hit to the center of the ring. The DMG dealt is considered Basic Attack DMG. Can be triggered once every **0.5s**.\n- When Phoebe is inside the Ring of Mirrors, Basic Attack becomes Basic Attack Chamuel's Star, which performs up to **3** consecutive attacks, dealing Spectro DMG, considered Basic Attack DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 31.50%*2 |\n| Ring of Mirrors: Refracted Holy Light DMG | 7.50%*2 |\n| Chamuel's Star: Stage 1 DMG | 29.85% |\n| Chamuel's Star: Stage 2 DMG | 20.00%*2 |\n| Chamuel's Star: Stage 3 DMG | 14.55%*6 |\n| Cooldown | 12 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 42.87%*2 |\n| Ring of Mirrors: Refracted Holy Light DMG | 10.21%*2 |\n| Chamuel's Star: Stage 1 DMG | 40.62% |\n| Chamuel's Star: Stage 2 DMG | 27.22%*2 |\n| Chamuel's Star: Stage 3 DMG | 19.80%*6 |\n| Cooldown | 12 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 62.63%*2 |\n| Ring of Mirrors: Refracted Holy Light DMG | 14.92%*2 |\n| Chamuel's Star: Stage 1 DMG | 59.35% |\n| Chamuel's Star: Stage 2 DMG | 39.77%*2 |\n| Chamuel's Star: Stage 3 DMG | 28.93%*6 |\n| Cooldown | 12 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-dawn-of-enlightenment",
+      "name": "Dawn of Enlightenment",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Phoebe concentrates the light in her hands into the Mirror of Enlightenment and smashes it, dealing Spectro DMG.\n\n- Absolution Enhancement: Increase DMG Multiplier by **255%**.\n- Confession Enhancement: Apply **8** stacks of Spectro Frazzle to targets hit.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 202.00% |\n| Cooldown | 25 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 274.89% |\n| Cooldown | 25 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 401.60% |\n| Cooldown | 25 |\n| Resonance Cost | 125 |\n| Concerto Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-radiant-invocation",
+      "name": "Radiant Invocation",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "When Phoebe's Prayer is full, consume all Prayer to cast one of the following skills:\n\n- Hold Basic Attack to cast Heavy Attack Absolution Litany, dealing Spectro DMG and applying **1 **stack of Spectro Frazzle to the targets hit. Phoebe enters Absolution status, which allows her to deal more DMG.\n- Hold Resonance Skill to cast Resonance Skill Utter Confession, dealing Spectro DMG and applying **1 **stack of Spectro Frazzle to the targets hit. Phoebe enters Confession status, which allows her to better exploit Spectro Frazzle.\n- Absolution and Confession cannot coexist. Entering into one will end the other.\n- When Divine Voice is not exhausted, Phoebe is unable to cast Heavy Attack Absolution Litany and Resonance Skill Utter Confession.\n- When Divine Voice is exhausted, Phoebe will not exit the Absolution or Confession status.\n\n**Heavy Attack: Starflash**\n\nWhen Phoebe has Divine Voice, casting Basic Attack Stage 3 or Dodge Counter replaces the next Heavy Attack with Heavy Attack: Starflash, which deals Spectro DMG at the cost of **30 **Divine Voice.\n\n- Absolution Enhancement: Reduce the cost of Divine Voice by **15**. When the targets hit have Spectro Frazzle, the skill gains **256%** DMG Amplification.\n- Confession Enhancement: Apply **5** stacks of Spectro Frazzle to the targets hit.\n\n**Prayer **\n\n- Phoebe can hold up to **120 **Prayer.\n- Phoebe automatically gains **5 **Prayer every second.\n\n**Divine Voice**\n\n- Phoebe can hold up to **60 **Divine Voice.\n- Casting Heavy Attack Absolution Litany or Resonance Skill Utter Confession restores **60 **Divine Voice.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Absolution Litany DMG | 321.00% |\n| Utter Confession DMG | 94.50% |\n| Heavy Attack: Starflash DMG | 41.59%*3 |\n| Heavy Attack: Starflash STA Cost | 25 |\n| Absolution Litany Concerto Regen | 10 |\n| Utter Confession Concerto Regen | 40 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Absolution Litany DMG | 436.82% |\n| Utter Confession DMG | 128.60% |\n| Heavy Attack: Starflash DMG | 56.60%*3 |\n| Heavy Attack: Starflash STA Cost | 25 |\n| Absolution Litany Concerto Regen | 10 |\n| Utter Confession Concerto Regen | 40 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Absolution Litany DMG | 638.19% |\n| Utter Confession DMG | 187.88% |\n| Heavy Attack: Starflash DMG | 82.69%*3 |\n| Heavy Attack: Starflash STA Cost | 25 |\n| Absolution Litany Concerto Regen | 10 |\n| Utter Confession Concerto Regen | 40 |"
+      }
+    },
+    {
+      "id": "inherent-skill-presence",
+      "name": "Presence",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Mid-air Heavy Attack can be cast **1** more time.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-revelation",
+      "name": "Revelation",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "When in the Absolution status and Confession status, Spectro DMG Bonus is increased by **12%**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-golden-grace",
+      "name": "Golden Grace",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Knock back nearby targets and deal Spectro DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 100.00% |\n| Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 136.08% |\n| Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 198.81% |\n| Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-attentive-heart",
+      "name": "Attentive Heart",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "Deal Spectro DMG equal to **528.41% **of Phoebe's ATK to nearby targets.\n\n- Absolution Enhancement: Increase DMG Multiplier by **255%**.\n- Confession Enhancement: Grant Silent Prayer to the Resonator on the field, reducing the Spectro RES of nearby targets by **10%** and granting **100%** Spectro Frazzle DMG Amplification. When Spectro Frazzle inflicts DMG, extend Spectro Frazzle's damage interval by **50%**. This effect lasts **30s **or until Phoebe switches to Absolution status.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/phoebe/icon.webp",
+    "card": "/v1/images/characters/phoebe/card.webp",
+    "splash": "/v1/images/characters/phoebe/splash.webp",
+    "attribute": "/v1/images/characters/phoebe/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/phoebe",
+      "updatedAt": "December 31st, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Phoebe",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Phoebe/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 2251.6,
+      "atk": 85.8,
+      "def": 263.68
+    },
+    "50": {
+      "hp": 5594.36,
+      "atk": 218.13,
+      "def": 653.02
+    },
+    "90": {
+      "hp": 10825,
+      "atk": 412.5,
+      "def": 1258.87
+    }
+  }
+}

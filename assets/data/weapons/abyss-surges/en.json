@@ -1,0 +1,37 @@
+{
+  "id": "abyss-surges",
+  "name": "Abyss Surges",
+  "rarity": 5,
+  "type": "Gauntlets",
+  "secondaryStatType": "ATK",
+  "passive": {
+    "name": "Stormy Resolution",
+    "descriptionMdByRank": {
+      "1": "Increases Energy Regen by **12.8%**. When hitting a target with Resonance Skill, increases Basic Attack DMG Bonus by **10%**, lasting for 8s. When hitting a target with Basic Attacks, increases Resonance Skill DMG Bonus by **10%**, lasting for 8s.",
+      "2": "Increases Energy Regen by **16%**. When hitting a target with Resonance Skill, increases Basic Attack DMG Bonus by **12.5%**, lasting for 8s. When hitting a target with Basic Attacks, increases Resonance Skill DMG Bonus by **12.5%**, lasting for 8s.",
+      "3": "Increases Energy Regen by **19.2%**. When hitting a target with Resonance Skill, increases Basic Attack DMG Bonus by **15%**, lasting for 8s. When hitting a target with Basic Attacks, increases Resonance Skill DMG Bonus by **15%**, lasting for 8s.",
+      "4": "Increases Energy Regen by **22.4%**. When hitting a target with Resonance Skill, increases Basic Attack DMG Bonus by **17.5%**, lasting for 8s. When hitting a target with Basic Attacks, increases Resonance Skill DMG Bonus by **17.5%**, lasting for 8s.",
+      "5": "Increases Energy Regen by **25.6%**. When hitting a target with Resonance Skill, increases Basic Attack DMG Bonus by **20%**, lasting for 8s. When hitting a target with Basic Attacks, increases Resonance Skill DMG Bonus by **20%**, lasting for 8s."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/abyss-surges/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Abyss%20Surges"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 122
+    },
+    "50": {
+      "atk": 303
+    },
+    "90": {
+      "atk": 587
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "celestial-spiral",
+  "name": "Celestial Spiral",
+  "rarity": 4,
+  "type": "Gauntlets",
+  "secondaryStatType": "ATK",
+  "passive": {
+    "name": "Intergalactic Gaze",
+    "descriptionMdByRank": {
+      "1": "Casting the [Resonance Skill](https://wutheringwaves.fandom.com/wiki/Resonance_Skill) grants **6** [Resonance Energy](https://wutheringwaves.fandom.com/wiki/Resonance_Energy) and increases [ATK](https://wutheringwaves.fandom.com/wiki/ATK) by **10%**, lasting for 16s. This effect can be triggered once every 20s.",
+      "2": "Casting the [Resonance Skill](https://wutheringwaves.fandom.com/wiki/Resonance_Skill) grants **7** [Resonance Energy](https://wutheringwaves.fandom.com/wiki/Resonance_Energy) and increases [ATK](https://wutheringwaves.fandom.com/wiki/ATK) by **12.5%**, lasting for 16s. This effect can be triggered once every 20s.",
+      "3": "Casting the [Resonance Skill](https://wutheringwaves.fandom.com/wiki/Resonance_Skill) grants **8** [Resonance Energy](https://wutheringwaves.fandom.com/wiki/Resonance_Energy) and increases [ATK](https://wutheringwaves.fandom.com/wiki/ATK) by **15%**, lasting for 16s. This effect can be triggered once every 20s.",
+      "4": "Casting the [Resonance Skill](https://wutheringwaves.fandom.com/wiki/Resonance_Skill) grants **9** [Resonance Energy](https://wutheringwaves.fandom.com/wiki/Resonance_Energy) and increases [ATK](https://wutheringwaves.fandom.com/wiki/ATK) by **17.5%**, lasting for 16s. This effect can be triggered once every 20s.",
+      "5": "Casting the [Resonance Skill](https://wutheringwaves.fandom.com/wiki/Resonance_Skill) grants **10** [Resonance Energy](https://wutheringwaves.fandom.com/wiki/Resonance_Energy) and increases [ATK](https://wutheringwaves.fandom.com/wiki/ATK) by **20%**, lasting for 16s. This effect can be triggered once every 20s."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/celestial-spiral/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Celestial%20Spiral"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 96
+    },
+    "50": {
+      "atk": 239
+    },
+    "90": {
+      "atk": 462
+    }
+  }
+}

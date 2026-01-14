@@ -1,0 +1,37 @@
+{
+  "id": "comet-flare",
+  "name": "Comet Flare",
+  "rarity": 4,
+  "type": "Rectifier",
+  "secondaryStatType": "HP",
+  "passive": {
+    "name": "Luminous Protection",
+    "descriptionMdByRank": {
+      "1": "When hitting a target with Basic Attacks or Heavy Attacks, increases Healing Bonus by **3%**, stacking up to 3 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.6s.",
+      "2": "When hitting a target with Basic Attacks or Heavy Attacks, increases Healing Bonus by **3.5%**, stacking up to 3 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.6s.",
+      "3": "When hitting a target with Basic Attacks or Heavy Attacks, increases Healing Bonus by **4%**, stacking up to 3 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.6s.",
+      "4": "When hitting a target with Basic Attacks or Heavy Attacks, increases Healing Bonus by **4.5%**, stacking up to 3 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.6s.",
+      "5": "When hitting a target with Basic Attacks or Heavy Attacks, increases Healing Bonus by **5%**, stacking up to 3 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.6s."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/comet-flare/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Comet%20Flare"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 85
+    },
+    "50": {
+      "atk": 213
+    },
+    "90": {
+      "atk": 412
+    }
+  }
+}

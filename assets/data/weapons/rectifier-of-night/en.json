@@ -1,0 +1,37 @@
+{
+  "id": "rectifier-of-night",
+  "name": "Rectifier of Night",
+  "rarity": 3,
+  "type": "Rectifier",
+  "secondaryStatType": "ATK",
+  "passive": {
+    "name": "Valiance",
+    "descriptionMdByRank": {
+      "1": "When Intro Skill is released, increases ATK by **8%**, lasting for 10s.",
+      "2": "When Intro Skill is released, increases ATK by **10%**, lasting for 10s.",
+      "3": "When Intro Skill is released, increases ATK by **12%**, lasting for 10s.",
+      "4": "When Intro Skill is released, increases ATK by **14%**, lasting for 10s.",
+      "5": "When Intro Skill is released, increases ATK by **16%**, lasting for 10s."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/rectifier-of-night/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Rectifier%20of%20Night"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 67
+    },
+    "50": {
+      "atk": 168
+    },
+    "90": {
+      "atk": 325
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "veritys-handle",
+  "name": "Verity's Handle",
+  "rarity": 5,
+  "type": "Gauntlets",
+  "secondaryStatType": "Crit. Rate",
+  "passive": {
+    "name": "Ad Veritatem",
+    "descriptionMdByRank": {
+      "1": "Gain **12%** Attribute DMG Bonus. When using Resonance Liberation, the wielder gains **48%** Resonance Liberation DMG Bonus for 8s. This effect can be extended by 5s each time Resonance Skills are cast, up to 3 times.",
+      "2": "Gain **15%** Attribute DMG Bonus. When using Resonance Liberation, the wielder gains **60%** Resonance Liberation DMG Bonus for 8s. This effect can be extended by 5s each time Resonance Skills are cast, up to 3 times.",
+      "3": "Gain **18%** Attribute DMG Bonus. When using Resonance Liberation, the wielder gains **72%** Resonance Liberation DMG Bonus for 8s. This effect can be extended by 5s each time Resonance Skills are cast, up to 3 times.",
+      "4": "Gain **21%** Attribute DMG Bonus. When using Resonance Liberation, the wielder gains **84%** Resonance Liberation DMG Bonus for 8s. This effect can be extended by 5s each time Resonance Skills are cast, up to 3 times.",
+      "5": "Gain **24%** Attribute DMG Bonus. When using Resonance Liberation, the wielder gains **96%** Resonance Liberation DMG Bonus for 8s. This effect can be extended by 5s each time Resonance Skills are cast, up to 3 times."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/veritys-handle/icon.webp"
+  },
+  "source": {
+    "fandom": {
+      "url": "https://wutheringwaves.fandom.com/wiki/Verity's%20Handle"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "atk": 122
+    },
+    "50": {
+      "atk": 303
+    },
+    "90": {
+      "atk": 587
+    }
+  }
+}

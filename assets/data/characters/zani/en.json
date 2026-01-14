@@ -1,0 +1,139 @@
+{
+  "id": "zani",
+  "name": "Zani",
+  "rarity": 5,
+  "element": "Spectro",
+  "weaponType": "Gauntlets",
+  "skills": [
+    {
+      "id": "basic-attack-routine-negotiation",
+      "name": "Routine Negotiation",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack**\n\nPerform up to **4 **consecutive attacks to deal Spectro DMG.\n\nAfter performing Basic Attack Stage 3, Press Normal Attack at the right time to perform Basic Attack Breakthrough, which can be followed by Basic Attack Stage 4 by pressing Normal Attack again.\n\nFollowing Basic Attack Stage 3, Basic Attack Stage 4 can also be triggered by dodging and pressing Normal Attack within a certain time after Basic Attack Stage 3.\n\n**Heavy Attack**\n\nConsume STA to attack the target, dealing Spectro DMG. Press Normal Attack within a certain time to perform Basic Attack Stage 3.\n\n**Mid-air Attack**\n\nConsume STA to perform a plunging attack, dealing Spectro DMG. Press Normal Attack within a certain time to perform Basic Attack Stage 3.\n\n**Dodge Counter**\n\nPress successful Dodge to attack the target, dealing Spectro DMG. Then press Normal Attack at the right time to cast Basic Attack Breakthrough.\n\nIf Dodge Counter is not followed by Basic Attack Stage 4, press Normal Attack on the ground within a certain time to cast Basic Attack Stage 4.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 29.60% |\n| Stage 2 DMG | 40.00% |\n| Stage 3 DMG | 21.34%*3 |\n| Stage 4 DMG | 34.00%*4 |\n| Breakthrough DMG | 30.94% + 8.84%*7 |\n| Heavy Attack DMG | 20.66%*4 |\n| Plunging Attack DMG | 52.80% |\n| Dodge Counter DMG | 37.34%*3 |\n| Heavy Attack STA Cost | 20 |\n| Mid-air Attack STA Cost | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 40.28% |\n| Stage 2 DMG | 54.44% |\n| Stage 3 DMG | 29.04%*3 |\n| Stage 4 DMG | 46.27%*4 |\n| Breakthrough DMG | 42.10% + 12.03%*7 |\n| Heavy Attack DMG | 28.12%*4 |\n| Plunging Attack DMG | 71.86% |\n| Dodge Counter DMG | 50.81%*3 |\n| Heavy Attack STA Cost | 20 |\n| Mid-air Attack STA Cost | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Stage 1 DMG | 58.85% |\n| Stage 2 DMG | 79.53% |\n| Stage 3 DMG | 42.42%*3 |\n| Stage 4 DMG | 67.60%*4 |\n| Breakthrough DMG | 61.50% + 17.58%*7 |\n| Heavy Attack DMG | 41.08%*4 |\n| Plunging Attack DMG | 104.98% |\n| Dodge Counter DMG | 74.23%*3 |\n| Heavy Attack STA Cost | 20 |\n| Mid-air Attack STA Cost | 30 |"
+      }
+    },
+    {
+      "id": "resonance-skill-restless-watch",
+      "name": "Restless Watch",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "**Standard Defense Protocol**\n\nAttack the target to deal Spectro DMG and enter a block stance. This state ends early if Zani is switched off the field. Press Normal Attack within a certain time to perform Basic Attack Stage 3, recovering **10 **points of Redundant Energy and Stagnating the target on hit.\n\nWhen attacked by the enemy in the block stance, reduce this instance of damage by **100% **and Stagnate nearby targets, then cast Resonance Skill Pinpoint Strike, dealing Spectro DMG and additionally reducing their Vibration Strength by** 5%**. The DMG taken by Zani is reduced by **30%** within the next **2s**.\n\n**Crisis Response Protocol**\n\nWhen Zani is not in Inferno Mode and has full Redundant Energy, her Resonance Skill is replaced with Resonance Skill Crisis Response Protocol.\n\nHold Resonance Skill to enter Ready Stance. While in Ready Stance, Zani is immune to interruption. This state ends early if Zani is switched off the field. After releasing Resonance Skill button or when the stance duration ends, consume all Redundant Energy to cast Targeted Action, dealing Spectro DMG.\n\nWhen attacked by the enemy in Ready Stance, reduce this instance of damage by **100%** and consume all Redundant Energy to cast Forcible Riposte, dealing Spectro DMG, Stagnating the target, and further reducing their Vibration Strength by **5%**. The DMG taken by Zani is reduced by **30%** within the next **2s**.\n\nCasting Targeted Action or Forcible Riposte inflicts a stack of Heliacal Ember upon the target on hit and recovers Blaze before entering Sunburst mode.\n\n**Sunburst**\n\nThe Spectro Frazzle DMG dealt by Zani to the target is Amplified by **20%**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Standard Defense Protocol DMG | 32.16% |\n| Pinpoint Strike DMG | 30.68% + 61.36% |\n| Targeted Action DMG | 43.35% + 14.45% + 86.70% |\n| Forcible Riposte DMG | 43.35% + 14.45% + 86.70% |\n| Standard Defense Protocol Cooldown | 5 |\n| Standard Defense Protocol Concerto Regen | 5 |\n| Pinpoint Strike Concerto Regen | 5 |\n| Targeted Action Concerto Regen | 10 |\n| Forcible Riposte Concerto Regen | 10 |\n| Sunburst Duration | 14 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Standard Defense Protocol DMG | 43.77% |\n| Pinpoint Strike DMG | 41.75% + 83.50% |\n| Targeted Action DMG | 59.00% + 19.67% + 117.99% |\n| Forcible Riposte DMG | 59.00% + 19.67% + 117.99% |\n| Standard Defense Protocol Cooldown | 5 |\n| Standard Defense Protocol Concerto Regen | 5 |\n| Pinpoint Strike Concerto Regen | 5 |\n| Targeted Action Concerto Regen | 10 |\n| Forcible Riposte Concerto Regen | 10 |\n| Sunburst Duration | 14 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Standard Defense Protocol DMG | 63.94% |\n| Pinpoint Strike DMG | 61.00% + 121.99% |\n| Targeted Action DMG | 86.19% + 28.73% + 172.37% |\n| Forcible Riposte DMG | 86.19% + 28.73% + 172.37% |\n| Standard Defense Protocol Cooldown | 5 |\n| Standard Defense Protocol Concerto Regen | 5 |\n| Pinpoint Strike Concerto Regen | 5 |\n| Targeted Action Concerto Regen | 10 |\n| Forcible Riposte Concerto Regen | 10 |\n| Sunburst Duration | 14 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-between-dawn-and-dusk",
+      "name": "Between Dawn and Dusk",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "**Rekindle**\n\nDeal Spectro DMG and enter Inferno Mode, increasing Max Blaze from **100 **to **150 **and granting **50 **Blazes. When in Inferno Mode, the DMG Multiplier of Basic Attack is increased.\n\n**The Last Stand**\n\nWhen in Inferno Mode, Resonance Liberation The Last Stand becomes available when Blaze is lower than **30 **or after **8s **in Inferno Mode.\n\nCasting Resonance Liberation The Last Stand deals Spectro DMG and ends the Inferno Mode.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Rekindle DMG | 160.22% |\n| Judgement Day DMG | 96.13% + 544.73% |\n| Basic Attack Multiplier Increase | 25% |\n| Cooldown | 25 |\n| Resonance Cost | 125 |\n| Rekindle Concerto Regen | 20 |\n| Judgement Day Concerto Regen | 10 |\n| Inferno Mode Duration | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Rekindle DMG | 218.02% |\n| Judgement Day DMG | 130.81% + 741.26% |\n| Basic Attack Multiplier Increase | 25% |\n| Cooldown | 25 |\n| Resonance Cost | 125 |\n| Rekindle Concerto Regen | 20 |\n| Judgement Day Concerto Regen | 10 |\n| Inferno Mode Duration | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Rekindle DMG | 318.52% |\n| Judgement Day DMG | 191.12% + 1082.96% |\n| Basic Attack Multiplier Increase | 25% |\n| Cooldown | 25 |\n| Resonance Cost | 125 |\n| Rekindle Concerto Regen | 20 |\n| Judgement Day Concerto Regen | 10 |\n| Inferno Mode Duration | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-there-will-be-a-light",
+      "name": "There Will Be A Light",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "**Heliacal Ember**\n\nWhen Zani is in the team and a nearby Resonator inflicts Spectro Frazzle upon a target, immediately consume all Spectro Frazzle stacks and trigger the corresponding DMG, then convert Spectro Frazzle into an equal number of Heliacal Embers. Every time the conversion happens, Zani obtains Blaze based on the stacks of Heliacal Ember inflicted. Heliacal Ember is capped at **60 **stacks, with each stack lasting for **6s**. Heliacal Ember stacks are counted toward the Spectro Frazzle stacks for the Eternal Radiance Sonata Effect.\n\n**Scorching Light**\n\nWhen Zani is in Inferno Mode, Heavy Slash - Daybreak, Heavy Slash - Dawning, Heavy Slash - Nightfall, and Heavy Slash - Lightsmash become available, which deal Spectro DMG that is considered both Heavy Attack DMG and Spectro Frazzle DMG.\n\n- When Blaze is higher than **30**, Resonance Skill Standard Defense Protocol is replaced with Resonance Skill Scorching Light.\n- Hold Resonance Skill to enter Ready Stance, during which Zani is immune to interruption. This state ends early when Zani is switched off the field. Release Resonance Skill button to consume Blaze and perform Heavy Slash - Daybreak.\n- When attacked in a certain time after entering Ready Stance, reduce this instance of damage by **100%** and Stagnate nearby targets, then perform Heavy Slash - Lightsmash, consuming Blazes and further reducing their Vibration Strength by **10%**. The DMG taken within the next **2s **is reduced by **30%**.\n- After casting Heavy Slash - Lightsmash, Basic Attack is replaced with Heavy Slash - Nightfall, consuming up to **40 **Blazes on hit, with each Blaze increasing the DMG Multiplier of Heavy Slash - Nightfall.\n- When Ready Stance ends, immediately perform Heavy Slash - Nightfall.\n- When Blaze is higher than **30**, Basic Attack is replaced with Heavy Slash - Daybreak. After entering Inferno Mode, casting Basic Attack immediately replaces the current Basic Attack with Resonance Skill Scorching Light. Hold Basic Attack to enter Ready Stance.\n- After performing Heavy Slash - Daybreak, Basic Attack is replaced with Heavy Slash - Dawning when Zani has more than **30 **Blazes. Heavy Slash - Dawning consumes Blazes.\n  After performing Heavy Slash - Dawning, Basic Attack is replaced with Heavy Slash - Nightfall.\n- If Basic Attack is not replaced with Heavy Slash - Nightfall after a successful Dodge, press  Normal Attack within a certain time to perform Heavy Slash - Lightsmash at the cost of Blazes.\n\n**Redundant Energy**\n\nZani can hold up to **100 **Redundant Energy.\n\n- Obtain Redundant Energy when Normal Attacks hit a target.\n- Obtain Redundant Energy when Intro Skill Immediate Execution hits a target.\n- Obtain Redundant Energy when casting Resonance Skill Standard Defense Protocol.\n- Obtain Redundant Energy when casting Pinpoint Strike.\n- Cannot obtain Redundant Energy while in Inferno Mode.\n\n**Blaze**\n\nBlaze is capped at **100 **when not in Inferno Mode.\n\n- Blaze is capped at **150 **in Inferno Mode.\n- Casting Targeted Action or Forcible Riposte grants **10 **Blazes.\n- Every stack of Heliacal Ember converted from Spectro Frazzle grants **5 **Blazes.\n- Casting Resonance Liberation Rekindle grants **50 **Blazes.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Heavy Slash - Daybreak DMG | 100.00% |\n| Heavy Slash - Dawning DMG | 213.30% |\n| Heavy Slash - Nightfall DMG | 68.00% + 132.00% |\n| Additional Multiplier Per Blaze | 5.00% |\n| Heavy Slash - Lightsmash DMG | 213.30% |\n| Max Heliacal Ember Stacks | 60 |\n| Heliacal Ember Duration Per Stack | 6 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Heavy Slash - Daybreak DMG | 136.08% |\n| Heavy Slash - Dawning DMG | 290.26% |\n| Heavy Slash - Nightfall DMG | 92.54% + 179.63% |\n| Additional Multiplier Per Blaze | 6.81% |\n| Heavy Slash - Lightsmash DMG | 290.26% |\n| Max Heliacal Ember Stacks | 60 |\n| Heliacal Ember Duration Per Stack | 6 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Heavy Slash - Daybreak DMG | 198.81% |\n| Heavy Slash - Dawning DMG | 424.07% |\n| Heavy Slash - Nightfall DMG | 135.20% + 262.43% |\n| Additional Multiplier Per Blaze | 9.95% |\n| Heavy Slash - Lightsmash DMG | 424.07% |\n| Max Heliacal Ember Stacks | 60 |\n| Heliacal Ember Duration Per Stack | 6 |"
+      }
+    },
+    {
+      "id": "inherent-skill-quick-response",
+      "name": "Quick Response",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Casting Intro Skill Immediate Execution gives **12%** Spectro DMG Bonus for **14s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-fear-no-pain",
+      "name": "Fear No Pain",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "When in Ready Stance, all DMG taken is reduced by** 40%**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-immediate-execution",
+      "name": "Immediate Execution",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target, dealing Spectro DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 12.20%*5 + 40.64% |\n| Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 16.60%*5 + 55.31% |\n| Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 24.24%*5 + 80.80% |\n| Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-beacon-for-the-future",
+      "name": "Beacon For the Future",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target, dealing Spectro DMG equal to **150%** of Zani's ATK and removing all stacks of Heliacal Ember inflicted upon the target. Each stack increases the DMG dealt by** 10%**. This DMG is considered Spectro Frazzle DMG. The Spectro DMG dealt by other Resonators in the team to the target marked by Heliacal Ember is Amplified by** 20%** for **20s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/zani/icon.webp",
+    "card": "/v1/images/characters/zani/card.webp",
+    "splash": "/v1/images/characters/zani/splash.webp",
+    "attribute": "/v1/images/characters/zani/attribute.webp"
+  },
+  "source": {
+    "prydwen": {
+      "url": "https://www.prydwen.gg/wuthering-waves/characters/zani",
+      "updatedAt": "December 31st, 2025"
+    },
+    "fandom": {
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Zani",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Zani/Combat"
+    }
+  },
+  "lastUpdated": "2026-01-14",
+  "statsByLevel": {
+    "20": {
+      "hp": 2241.2,
+      "atk": 91,
+      "def": 238.08
+    },
+    "50": {
+      "hp": 5568.52,
+      "atk": 231.35,
+      "def": 589.62
+    },
+    "90": {
+      "hp": 10775,
+      "atk": 437.5,
+      "def": 1136.65
+    }
+  }
+}
