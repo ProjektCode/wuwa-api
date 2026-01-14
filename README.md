@@ -209,7 +209,7 @@ The API is then available at:
 
 ### Deploy with Nginx Proxy Manager (recommended for home server)
 
-Use `docker-compose.yml` and connect the container to the same external Docker network as Nginx Proxy Manager.
+Use `docker-compose.yml` and connect the container to the same external Docker network as Nginx Proxy Manager. (GHCR image names must be lowercase; this repo uses `ghcr.io/projektcode/wuwa-api`.)
 
 Key points:
 - Do **not** publish the API container port to the internet (no `ports:` section).

@@ -1,6 +1,6 @@
 services:
   wuwa-api:
-    image: ghcr.io/ProjektCode/wuwa-api:main
+    image: ghcr.io/projektcode/wuwa-api:main
     container_name: wuwa-api
     restart: unless-stopped
     environment:
