@@ -1,246 +1,113 @@
 # wuwa-api
 
-A Node.js (Fastify) REST API for **Wuthering Waves** data. It serves structured JSON (characters, weapons, metadata) and local images.
+A Node.js (Fastify) REST API for **Wuthering Waves** data — serves structured JSON (characters, weapons) and optimized WebP images.
 
-Not affiliated with or endorsed by Kuro Games.
+> Not affiliated with or endorsed by Kuro Games.
 
-## Features
-
-- REST API under `/v1/*`
-- Swagger UI at `/docs`
-- File-backed dataset:
-  - `assets/data/**/en.json`
-  - `assets/images/**` (normalized `.webp`)
-- Published dataset under `assets/` (generated privately from community sources and normalized):
-  - character skills + scaling tables
-  - character base stats at levels `20/50/90`
-  - character images: `icon/card/splash/attribute`
-  - weapon base ATK at `20/50/90` + passive effects + weapon icon
-- Data validation command (`npm run validate-data`)
-
-## Requirements
-
-- Node.js (recommend current LTS)
-
-## Install
+## Quick Start
 
 ```bash
 npm install
+cp .env.example .env   # optional
+npm run dev            # http://127.0.0.1:3000/docs
 ```
 
-## Run
+**Production:** `npm run build && npm start`
 
-### Development
+## Features
 
-```bash
-# optional: copy and tweak env
-cp .env.example .env
+- REST API at `/v1/*` with Swagger UI at `/docs`
+- File-backed dataset (`assets/data`, `assets/images`)
+- Characters: skills, scaling tables, stats at 20/50/90, images (icon/card/splash/attribute)
+- Weapons: base ATK at 20/50/90, passive effects, icons
+- Rate limiting by route tier
+- Data validation: `npm run validate-data`
 
-npm run dev
-```
+---
 
-Open:
-- Swagger UI: `http://127.0.0.1:3000/docs`
+<details>
+<summary><strong>API Endpoints</strong></summary>
 
-### Build + start
+| Endpoint | Description |
+|----------|-------------|
+| `GET /healthz` | Health check |
+| `GET /docs` | Swagger UI |
+| `GET /v1/meta` | API & dataset metadata |
+| `GET /v1/characters` | List characters (`search`, `element`, `weaponType`, `rarity`, `limit`, `offset`) |
+| `GET /v1/characters/:id` | Character details |
+| `GET /v1/characters/:id/images` | List available images |
+| `GET /v1/characters/:id/images/:file` | Get image file |
+| `GET /v1/weapons` | List weapons (`search`, `type`, `rarity`, `limit`, `offset`) |
+| `GET /v1/weapons/:id` | Weapon details |
+| `GET /v1/images/...` | Static image files (legacy) |
 
-```bash
-npm run build
-npm run start
-```
-
-## Environment variables
-
-- `PORT` (default `3000`)
-- `HOST` (default `0.0.0.0`)
-- `DATA_ROOT` (default `assets/data`)
-- `IMAGES_ROOT` (default `assets/images`)
-
-Rate limit tiers (self-hosters can change these in `.env` or in `docker-compose.yml`):
-- `RATE_LIMIT_WINDOW` (default `1 minute`)
-- `RATE_LIMIT_LIST_MAX` (default `15`) — list endpoints (`/v1/characters`, `/v1/weapons`)
-- `RATE_LIMIT_DETAIL_MAX` (default `60`) — detail endpoints (`/v1/characters/:id`, `/v1/weapons/:id`)
-- `RATE_LIMIT_IMAGE_MAX` (default `60`) — character image routes
-- `RATE_LIMIT_DOCS_MAX` (default `120`) — docs routes (`/docs`, `/documentation/*`)
-
-CORS:
-- `CORS_ALLOWED_ORIGINS` (comma-separated) — browser allowlist for cross-origin requests (curl/server-to-server clients are unaffected)
-
-Demo:
-- `ENABLE_DEMO` (default `false`) — enables `/demo/*` (served from `.local/demo` and not intended for public deploys)
-
-Example:
-
-```bash
-# easiest way: use a .env file
-cp .env.example .env
-
-# then edit .env and run
-npm run dev
-```
-
-## API endpoints
-
-### Health
-
-- `GET /healthz`
-
-```bash
-curl -s http://127.0.0.1:3000/healthz
-```
-
-### Swagger docs
-
-- `GET /docs`
-
-### Meta
-
-- `GET /v1/meta`
-
-```bash
-curl -s http://127.0.0.1:3000/v1/meta
-```
-
-### Characters
-
-- `GET /v1/characters` (supports `search`, `element`, `weaponType`, `rarity`, `limit`, `offset`)
-- `GET /v1/characters/:id`
-
+**Examples:**
 ```bash
 curl -s "http://127.0.0.1:3000/v1/characters?search=augusta" | jq
 curl -s http://127.0.0.1:3000/v1/characters/augusta | jq
-```
-
-### Character images
-
-- `GET /v1/characters/:id/images` (lists available `.webp` files)
-- `GET /v1/characters/:id/images/:file`
-
-```bash
-curl -s http://127.0.0.1:3000/v1/characters/augusta/images | jq
-curl -L http://127.0.0.1:3000/v1/characters/augusta/images/splash.webp --output splash.webp
-```
-
-### Weapons
-
-- `GET /v1/weapons` (supports `search`, `type`, `rarity`, `limit`, `offset`)
-- `GET /v1/weapons/:id`
-
-```bash
-curl -s "http://127.0.0.1:3000/v1/weapons?search=harvest" | jq
 curl -s http://127.0.0.1:3000/v1/weapons/ages-of-harvest | jq
 ```
 
-### Static image root (legacy/compat)
+</details>
 
-- `GET /v1/images/...` serves static files rooted at `IMAGES_ROOT`.
+<details>
+<summary><strong>Environment Variables</strong></summary>
 
-Example:
+| Variable | Default | Description |
+|----------|---------|-------------|
+| `PORT` | `3000` | Server port |
+| `HOST` | `0.0.0.0` | Server host |
+| `DATA_ROOT` | `assets/data` | JSON data directory |
+| `IMAGES_ROOT` | `assets/images` | Image directory |
+| `RATE_LIMIT_WINDOW` | `1 minute` | Rate limit window |
+| `RATE_LIMIT_LIST_MAX` | `15` | List endpoints limit |
+| `RATE_LIMIT_DETAIL_MAX` | `60` | Detail endpoints limit |
+| `RATE_LIMIT_IMAGE_MAX` | `60` | Image endpoints limit |
+| `RATE_LIMIT_DOCS_MAX` | `120` | Docs endpoints limit |
+| `CORS_ALLOWED_ORIGINS` | — | Comma-separated browser allowlist |
+| `ENABLE_DEMO` | `false` | Enable `/demo/*` (local testing only) |
 
-```bash
-curl -I http://127.0.0.1:3000/v1/images/characters/augusta/splash.webp
-```
+See `.env.example` for a complete template.
 
-## Rate limiting
+</details>
 
-Rate limiting is enforced by `@fastify/rate-limit` using **route-level tiers**.
+<details>
+<summary><strong>Docker & Deployment</strong></summary>
 
-- List endpoints (`/v1/characters`, `/v1/weapons`): `RATE_LIMIT_LIST_MAX` per `RATE_LIMIT_WINDOW`
-- Detail endpoints (`/v1/characters/:id`, `/v1/weapons/:id`): `RATE_LIMIT_DETAIL_MAX` per `RATE_LIMIT_WINDOW`
-- Character image endpoints (`/v1/characters/:id/images*`): `RATE_LIMIT_IMAGE_MAX` per `RATE_LIMIT_WINDOW`
-- Docs endpoints (`/docs`, `/documentation/*`): `RATE_LIMIT_DOCS_MAX` per `RATE_LIMIT_WINDOW`
-
-This API is designed to be public but discourage heavy usage (encourage self-hosting).
-
-## Validate data
-
-After updating `assets/` (or after manual edits):
-
-```bash
-npm run validate-data
-```
-
-## Temporary demo page
-
-A temporary demo page exists at:
-- `/demo/augusta.html`
-
-It is **disabled by default**. Enable it only for local testing:
-
-```bash
-ENABLE_DEMO=true npm run dev
-```
-
-The demo HTML is loaded from `.local/demo` (gitignored) so it won’t be published with the repo.
-
-## Data sources
-
-The dataset in `assets/` is sourced from community resources (e.g. Prydwen and Fandom).
-
-
-## Docker + deployment notes
-
-This repo can be deployed anywhere that runs Docker.
-
-### Build + run locally
+### Local Docker
 
 ```bash
 docker build -t wuwa-api .
 docker run --rm -p 3000:3000 wuwa-api
 ```
 
-The API is then available at:
-- `http://127.0.0.1:3000/docs`
+### With Nginx Proxy Manager
 
-### Deploy with Nginx Proxy Manager (recommended for home server)
-
-Use `docker-compose.yml` and connect the container to the same external Docker network as Nginx Proxy Manager. (GHCR image names must be lowercase; this repo uses `ghcr.io/projektcode/wuwa-api`.)
-
-Key points:
-- Do **not** publish the API container port to the internet (no `ports:` section).
-- Use `expose: 3000` and attach to the NPM network (this repo’s compose uses the external network name `nginx_proxy`).
-
-Run:
+Use `docker-compose.yml` on the same Docker network as NPM:
 
 ```bash
-# first start
-docker compose up -d
-
-# updates (pull new image)
-docker compose pull
-docker compose up -d
+docker compose up -d          # first start
+docker compose pull && docker compose up -d   # updates
 ```
 
-#### NPM UI setup
+**NPM setup:** Add proxy host → Forward `wuwa-api:3000` → Enable SSL.
 
-In Nginx Proxy Manager → **Proxy Hosts** → **Add Proxy Host**:
-- **Domain Names**: `api.custom.domain`
-- **Scheme**: `http`
-- **Forward Hostname / IP**: `wuwa-api`
-- **Forward Port**: `3000`
+### Hosting Options
 
-Then under **SSL**:
-- request/choose a cert for `api.custom.domain`
-- enable **Force SSL**
+| Platform | Notes |
+|----------|-------|
+| Fly.io / Render / Railway | Simple deploy; free tier limits apply |
+| Google Cloud Run | Usage-based; scales to zero |
+| Small VPS / Oracle Free VM | Best for always-on self-host |
 
-After that, your API should be reachable at:
-- `https://api.custom.domain/v1/characters/augusta`
+### Scaling Images
 
-### Hosting recommendations
+Start with images in `assets/images`. If bandwidth becomes an issue, move to object storage + CDN (S3/R2) and update image URLs.
 
-Because this API serves a lot of image bytes, free tiers are often limited by bandwidth.
+</details>
 
-Good fits:
-- Fly.io / Render / Railway / Koyeb (simple deploy; expect cold starts/limits on free tiers)
-- Google Cloud Run (good free usage-based tier; container-based; scales to zero)
-- A small VPS / Oracle Cloud Always Free VM (best for always-on self-host)
+---
 
-### Images: cache vs object storage
+## Data Sources
 
-Start simple:
-- keep images in `assets/images`
-- run with `NODE_ENV=production` so image responses can be cached aggressively
-
-If bandwidth becomes a problem:
-- move images to object storage + CDN (e.g., S3/R2 + a CDN)
-- keep the JSON API here, but change image URLs to point at the CDN
+Dataset in `assets/` is sourced from community resources (Prydwen, Fandom).
