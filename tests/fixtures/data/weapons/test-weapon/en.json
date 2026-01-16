@@ -1,0 +1,23 @@
+{
+  "id": "test-weapon",
+  "name": "Test Sword",
+  "rarity": 4,
+  "type": "Sword",
+  "secondaryStatType": "ATK%",
+  "statsByLevel": {
+    "20": { "atk": 100 },
+    "50": { "atk": 250 },
+    "90": { "atk": 500 }
+  },
+  "passive": {
+    "name": "Test Passive",
+    "descriptionMdByRank": {
+      "1": "Increases ATK by **10%**.",
+      "5": "Increases ATK by **20%**."
+    }
+  },
+  "images": {
+    "icon": "/v1/images/weapons/test-weapon/icon.webp"
+  },
+  "lastUpdated": "2026-01-15"
+}

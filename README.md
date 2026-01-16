@@ -2,8 +2,6 @@
 
 A Node.js (Fastify) REST API for **Wuthering Waves** data. It serves structured JSON (characters, weapons, metadata) and local images.
 
-Data generation/import is maintained privately; this repo ships only the API + the published dataset under `assets/`.
-
 Not affiliated with or endorsed by Kuro Games.
 
 ## Features

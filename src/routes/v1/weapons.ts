@@ -1,31 +1,27 @@
 import { FastifyInstance } from "fastify";
 import { DataStore } from "../../services/dataStore";
-
-function toNumber(value: unknown): number | null {
-  if (typeof value !== "string") return null;
-  const parsed = Number(value);
-  return Number.isFinite(parsed) ? parsed : null;
-}
-
-function includesCI(haystack: string, needle: string): boolean {
-  return haystack.toLowerCase().includes(needle.toLowerCase());
-}
-
-export type RateLimitTiers = {
-  timeWindow: string;
-  list: { max: number };
-  detail: { max: number };
-  docs: { max: number };
-};
+import {
+  toNumber,
+  includesCI,
+  parsePagination,
+  RateLimitTiers,
+} from "../../utils/query";
+import {
+  listWeaponsSchema,
+  getWeaponSchema,
+  WeaponListQuery,
+  IdParams,
+} from "../../schemas";
 
 export async function registerWeaponRoutes(
   app: FastifyInstance,
   store: DataStore,
   rate: RateLimitTiers
 ): Promise<void> {
-  app.get(
+  app.get<{ Querystring: WeaponListQuery }>(
     "/v1/weapons",
     {
+      schema: listWeaponsSchema,
       preHandler: app.rateLimit({
         max: rate.list.max,
         timeWindow: rate.timeWindow,
@@ -33,36 +29,39 @@ export async function registerWeaponRoutes(
       }),
     },
     async (req) => {
-    const query = req.query as Record<string, unknown>;
+      const query = req.query;
 
-    const search = typeof query.search === "string" ? query.search.trim() : "";
-    const type = typeof query.type === "string" ? query.type.trim() : "";
-    const rarity = toNumber(query.rarity);
+      const search = query.search?.trim() ?? "";
+      const type = query.type?.trim() ?? "";
+      const rarity = toNumber(query.rarity);
 
-    const limit = Math.min(Math.max(toNumber(query.limit) ?? 50, 1), 200);
-    const offset = Math.max(toNumber(query.offset) ?? 0, 0);
+      const { limit, offset } = parsePagination(query);
 
-    let items = store.listWeapons();
+      let items = store.listWeapons();
 
-    if (search) items = items.filter((w) => includesCI(w.name, search));
-    if (type) items = items.filter((w) => (w.type ?? "").toLowerCase() === type.toLowerCase());
-    if (rarity !== null) items = items.filter((w) => w.rarity === rarity);
+      if (search) items = items.filter((w) => includesCI(w.name, search));
+      if (type)
+        items = items.filter(
+          (w) => (w.type ?? "").toLowerCase() === type.toLowerCase()
+        );
+      if (rarity !== null) items = items.filter((w) => w.rarity === rarity);
 
-    const total = items.length;
-    const paged = items.slice(offset, offset + limit);
+      const total = items.length;
+      const paged = items.slice(offset, offset + limit);
 
-    return {
-      total,
-      limit,
-      offset,
-      items: paged,
-    };
-  }
+      return {
+        total,
+        limit,
+        offset,
+        items: paged,
+      };
+    }
   );
 
-  app.get(
+  app.get<{ Params: IdParams }>(
     "/v1/weapons/:id",
     {
+      schema: getWeaponSchema,
       preHandler: app.rateLimit({
         max: rate.detail.max,
         timeWindow: rate.timeWindow,
@@ -70,13 +69,13 @@ export async function registerWeaponRoutes(
       }),
     },
     async (req, reply) => {
-    const { id } = req.params as { id: string };
-    const weapon = store.getWeapon(id);
-    if (!weapon) {
-      reply.code(404);
-      return { error: "not_found", message: `Weapon '${id}' not found` };
+      const { id } = req.params;
+      const weapon = store.getWeapon(id);
+      if (!weapon) {
+        reply.code(404);
+        return { error: "not_found", message: `Weapon '${id}' not found` };
+      }
+      return weapon;
     }
-    return weapon;
-  }
   );
 }

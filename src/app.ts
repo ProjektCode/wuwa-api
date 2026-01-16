@@ -29,11 +29,14 @@ export async function buildApp(config: AppConfig): Promise<FastifyInstance> {
     },
   });
 
-  const poweredBy = "OpenCode + GPT-5.2";
+  const poweredBy = "OpenCode";
 
   const isProd = process.env.NODE_ENV === "production";
 
-  const defaultCorsOrigins = ["https://wuwa.projektcode.com", "https://projektcode.github.io"];
+  const defaultCorsOrigins = [
+    "https://wuwa.projektcode.com",
+    "https://projektcode.github.io",
+  ];
   const devCorsOrigins = [
     "http://localhost:8080",
     "http://127.0.0.1:8080",
@@ -64,7 +67,7 @@ export async function buildApp(config: AppConfig): Promise<FastifyInstance> {
     reply.header("X-Frame-Options", "SAMEORIGIN");
     reply.header(
       "Permissions-Policy",
-      "camera=(), microphone=(), geolocation=(), interest-cohort=()"
+      "camera=(), microphone=(), geolocation=(), interest-cohort=()",
     );
 
     // HSTS only makes sense behind HTTPS.
@@ -73,7 +76,10 @@ export async function buildApp(config: AppConfig): Promise<FastifyInstance> {
       forwardedProto === "https" ||
       (Array.isArray(forwardedProto) && forwardedProto.includes("https"));
     if (isProd && isHttps) {
-      reply.header("Strict-Transport-Security", "max-age=15552000; includeSubDomains");
+      reply.header(
+        "Strict-Transport-Security",
+        "max-age=15552000; includeSubDomains",
+      );
     }
   });
 
@@ -105,7 +111,7 @@ export async function buildApp(config: AppConfig): Promise<FastifyInstance> {
     openapi: {
       info: {
         title: "Wuthering Waves API",
-        version: "0.1.0",
+        version: "1.0.0",
         description: `Powered by ${poweredBy}`,
       },
     },
@@ -152,7 +158,7 @@ export async function buildApp(config: AppConfig): Promise<FastifyInstance> {
   app.get("/v1/meta", async () => {
     return {
       name: "wuwa-api",
-      version: "0.1.0",
+      version: "1.0.0",
       poweredBy,
       dataset,
     };

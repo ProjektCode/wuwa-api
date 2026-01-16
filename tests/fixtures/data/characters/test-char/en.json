@@ -1,0 +1,28 @@
+{
+  "id": "test-char",
+  "name": "Test Character",
+  "rarity": 5,
+  "element": "Spectro",
+  "weaponType": "Sword",
+  "statsByLevel": {
+    "20": { "hp": 2000, "atk": 150, "def": 100 },
+    "50": { "hp": 5000, "atk": 300, "def": 200 },
+    "90": { "hp": 12000, "atk": 600, "def": 400 }
+  },
+  "skills": [
+    {
+      "id": "basic-attack-test",
+      "name": "Test Basic Attack",
+      "type": "Basic Attack",
+      "category": "Normal",
+      "descriptionMd": "Performs a basic attack combo."
+    }
+  ],
+  "images": {
+    "icon": "/v1/images/characters/test-char/icon.webp",
+    "card": "/v1/images/characters/test-char/card.webp",
+    "splash": "/v1/images/characters/test-char/splash.webp",
+    "attribute": "/v1/images/characters/test-char/attribute.webp"
+  },
+  "lastUpdated": "2026-01-15"
+}
