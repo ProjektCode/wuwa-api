@@ -111,29 +111,48 @@
   "source": {
     "prydwen": {
       "url": "https://www.prydwen.gg/wuthering-waves/characters/chisa",
-      "updatedAt": "December 31st, 2025"
+      "updatedAt": "January 20th, 2026"
     },
     "fandom": {
       "basePage": "https://wutheringwaves.fandom.com/wiki/Chisa",
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Chisa/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2241.2,
+      "hp": 2241,
       "atk": 91,
-      "def": 238.08
+      "def": 238
     },
     "50": {
-      "hp": 5568.52,
-      "atk": 231.35,
-      "def": 589.62
+      "hp": 5569,
+      "atk": 231,
+      "def": 590
     },
     "90": {
       "hp": 10775,
-      "atk": 437.5,
-      "def": 1136.65
+      "atk": 438,
+      "def": 1137
     }
-  }
+  },
+  "officialIntroduction": "N/A",
+  "releaseDate": "November 20, 2025",
+  "nation": "Lahai-Roi",
+  "gender": "Female",
+  "class": "Mutant",
+  "birthplace": "Ashinohara",
+  "affiliations": "Startorch Academy",
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Wandering Through the Desolate Corridors Wandering Through the Desolate CorridorsNode 2Into the Web of Endless Bonds Into the Web of Endless BondsNode 3Across the Confusion of the Long Night Across the Confusion of the Long NightNode 4Severing the Endless Cycle of Tragic Fate Severing the Endless Cycle of Tragic FateNode 5Thousands of Lights to Guide the Way Home Thousands of Lights to Guide the Way HomeNode 6Thus, Hope is Rekindled with the Rising Dawn Thus, Hope is Rekindled with the Rising Dawn",
+      "descriptionMd": "Node 1\n\n[Wandering Through the Desolate Corridors](https://wutheringwaves.fandom.com/wiki/Wandering_Through_the_Desolate_Corridors)\n [Wandering Through the Desolate Corridors](https://wutheringwaves.fandom.com/wiki/Wandering_Through_the_Desolate_Corridors)\nNode 2\n\n[Into the Web of Endless Bonds](https://wutheringwaves.fandom.com/wiki/Into_the_Web_of_Endless_Bonds)\n [Into the Web of Endless Bonds](https://wutheringwaves.fandom.com/wiki/Into_the_Web_of_Endless_Bonds)\nNode 3\n\n[Across the Confusion of the Long Night](https://wutheringwaves.fandom.com/wiki/Across_the_Confusion_of_the_Long_Night)\n [Across the Confusion of the Long Night](https://wutheringwaves.fandom.com/wiki/Across_the_Confusion_of_the_Long_Night)\nNode 4\n\n[Severing the Endless Cycle of Tragic Fate](https://wutheringwaves.fandom.com/wiki/Severing_the_Endless_Cycle_of_Tragic_Fate)\n [Severing the Endless Cycle of Tragic Fate](https://wutheringwaves.fandom.com/wiki/Severing_the_Endless_Cycle_of_Tragic_Fate)\nNode 5\n\n[Thousands of Lights to Guide the Way Home](https://wutheringwaves.fandom.com/wiki/Thousands_of_Lights_to_Guide_the_Way_Home)\n [Thousands of Lights to Guide the Way Home](https://wutheringwaves.fandom.com/wiki/Thousands_of_Lights_to_Guide_the_Way_Home)\nNode 6\n\n[Thus, Hope is Rekindled with the Rising Dawn](https://wutheringwaves.fandom.com/wiki/Thus,_Hope_is_Rekindled_with_the_Rising_Dawn)\n [Thus, Hope is Rekindled with the Rising Dawn](https://wutheringwaves.fandom.com/wiki/Thus,_Hope_is_Rekindled_with_the_Rising_Dawn)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Wandering Through the Desolate Corridors Wandering Through the Desolate Corridors",
+      "descriptionMd": "Node 2\n\n[Into the Web of Endless Bonds](https://wutheringwaves.fandom.com/wiki/Into_the_Web_of_Endless_Bonds)\n [Into the Web of Endless Bonds](https://wutheringwaves.fandom.com/wiki/Into_the_Web_of_Endless_Bonds)\nNode 3\n\n[Across the Confusion of the Long Night](https://wutheringwaves.fandom.com/wiki/Across_the_Confusion_of_the_Long_Night)\n [Across the Confusion of the Long Night](https://wutheringwaves.fandom.com/wiki/Across_the_Confusion_of_the_Long_Night)\nNode 4\n\n[Severing the Endless Cycle of Tragic Fate](https://wutheringwaves.fandom.com/wiki/Severing_the_Endless_Cycle_of_Tragic_Fate)\n [Severing the Endless Cycle of Tragic Fate](https://wutheringwaves.fandom.com/wiki/Severing_the_Endless_Cycle_of_Tragic_Fate)\nNode 5\n\n[Thousands of Lights to Guide the Way Home](https://wutheringwaves.fandom.com/wiki/Thousands_of_Lights_to_Guide_the_Way_Home)\n [Thousands of Lights to Guide the Way Home](https://wutheringwaves.fandom.com/wiki/Thousands_of_Lights_to_Guide_the_Way_Home)\nNode 6\n\n[Thus, Hope is Rekindled with the Rising Dawn](https://wutheringwaves.fandom.com/wiki/Thus,_Hope_is_Rekindled_with_the_Rising_Dawn)\n [Thus, Hope is Rekindled with the Rising Dawn](https://wutheringwaves.fandom.com/wiki/Thus,_Hope_is_Rekindled_with_the_Rising_Dawn)"
+    }
+  ]
 }

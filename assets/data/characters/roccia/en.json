@@ -118,22 +118,44 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Roccia/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "hp": 2548,
       "atk": 78,
-      "def": 250.88
+      "def": 251
     },
     "50": {
-      "hp": 6330.8,
-      "atk": 198.3,
-      "def": 621.32
+      "hp": 6331,
+      "atk": 198,
+      "def": 621
     },
     "90": {
       "hp": 12250,
       "atk": 375,
-      "def": 1197.76
+      "def": 1198
     }
-  }
+  },
+  "officialIntroduction": "Roccia is a gifted improvisational comedian and the First Mate of the Fool's Troupe, known for her mastery of stage props.\nWith a tranquil, composed disposition, she navigates the ship's quarters, perched atop her giant box, meticulously ensuring the Troupe remains orderly and tidy.\n\n[Introduction from the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "January 23, 2025",
+  "nation": "Rinascita",
+  "gender": "Female",
+  "class": "Acquired",
+  "birthplace": "Rinascita",
+  "affiliations": [
+    "Troupe of Fools (on profile)",
+    "Ragunna"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1When Shadows Engulf the Hull When Shadows Engulf the HullNode 2When the Luceanite Gleams When the Luceanite GleamsNode 3When the Heart Sees and Hands Feel When the Heart Sees and Hands FeelNode 4When Wonders Gather in the Box When Wonders Gather in the BoxNode 5When Dreams Are Reborn on Stage When Dreams Are Reborn on StageNode 6When the Golden Wings Fly When the Golden Wings Fly",
+      "descriptionMd": "Node 1\n\n[When Shadows Engulf the Hull](https://wutheringwaves.fandom.com/wiki/When_Shadows_Engulf_the_Hull)\n [When Shadows Engulf the Hull](https://wutheringwaves.fandom.com/wiki/When_Shadows_Engulf_the_Hull)\nNode 2\n\n[When the Luceanite Gleams](https://wutheringwaves.fandom.com/wiki/When_the_Luceanite_Gleams)\n [When the Luceanite Gleams](https://wutheringwaves.fandom.com/wiki/When_the_Luceanite_Gleams)\nNode 3\n\n[When the Heart Sees and Hands Feel](https://wutheringwaves.fandom.com/wiki/When_the_Heart_Sees_and_Hands_Feel)\n [When the Heart Sees and Hands Feel](https://wutheringwaves.fandom.com/wiki/When_the_Heart_Sees_and_Hands_Feel)\nNode 4\n\n[When Wonders Gather in the Box](https://wutheringwaves.fandom.com/wiki/When_Wonders_Gather_in_the_Box)\n [When Wonders Gather in the Box](https://wutheringwaves.fandom.com/wiki/When_Wonders_Gather_in_the_Box)\nNode 5\n\n[When Dreams Are Reborn on Stage](https://wutheringwaves.fandom.com/wiki/When_Dreams_Are_Reborn_on_Stage)\n [When Dreams Are Reborn on Stage](https://wutheringwaves.fandom.com/wiki/When_Dreams_Are_Reborn_on_Stage)\nNode 6\n\n[When the Golden Wings Fly](https://wutheringwaves.fandom.com/wiki/When_the_Golden_Wings_Fly)\n [When the Golden Wings Fly](https://wutheringwaves.fandom.com/wiki/When_the_Golden_Wings_Fly)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1When Shadows Engulf the Hull When Shadows Engulf the Hull",
+      "descriptionMd": "Node 2\n\n[When the Luceanite Gleams](https://wutheringwaves.fandom.com/wiki/When_the_Luceanite_Gleams)\n [When the Luceanite Gleams](https://wutheringwaves.fandom.com/wiki/When_the_Luceanite_Gleams)\nNode 3\n\n[When the Heart Sees and Hands Feel](https://wutheringwaves.fandom.com/wiki/When_the_Heart_Sees_and_Hands_Feel)\n [When the Heart Sees and Hands Feel](https://wutheringwaves.fandom.com/wiki/When_the_Heart_Sees_and_Hands_Feel)\nNode 4\n\n[When Wonders Gather in the Box](https://wutheringwaves.fandom.com/wiki/When_Wonders_Gather_in_the_Box)\n [When Wonders Gather in the Box](https://wutheringwaves.fandom.com/wiki/When_Wonders_Gather_in_the_Box)\nNode 5\n\n[When Dreams Are Reborn on Stage](https://wutheringwaves.fandom.com/wiki/When_Dreams_Are_Reborn_on_Stage)\n [When Dreams Are Reborn on Stage](https://wutheringwaves.fandom.com/wiki/When_Dreams_Are_Reborn_on_Stage)\nNode 6\n\n[When the Golden Wings Fly](https://wutheringwaves.fandom.com/wiki/When_the_Golden_Wings_Fly)\n [When the Golden Wings Fly](https://wutheringwaves.fandom.com/wiki/When_the_Golden_Wings_Fly)"
+    }
+  ]
 }

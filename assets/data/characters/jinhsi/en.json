@@ -118,22 +118,45 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Jinhsi/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2251.6,
-      "atk": 85.8,
-      "def": 263.68
+      "hp": 2252,
+      "atk": 86,
+      "def": 264
     },
     "50": {
-      "hp": 5594.36,
-      "atk": 218.13,
-      "def": 653.02
+      "hp": 5594,
+      "atk": 218,
+      "def": 653
     },
     "90": {
       "hp": 10825,
-      "atk": 412.5,
-      "def": 1258.87
+      "atk": 413,
+      "def": 1259
     }
-  }
+  },
+  "officialIntroduction": "Being the Magistrate of Jinzhou, Jinhsi bears her noble and weighty share of duties.\n<br[Through repeated ages, the Lament has preyed upon mankind's vulnerable hope.\n\nYet, grasping the nettle, she strives with all her might to forge a path toward tomorrow.\n\n[Her introduction on the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "June 28, 2024",
+  "nation": "Huanglong",
+  "gender": "Female",
+  "class": "Congenital",
+  "birthplace": "Huanglong",
+  "affiliations": [
+    "Jinzhou (on profile)",
+    "City Hall",
+    "Mt. Firmament"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Abyssal Ascension Abyssal AscensionNode 2Chronofrost Repose Chronofrost ReposeNode 3Celestial Incarnate Celestial IncarnateNode 4Benevolent Grace Benevolent GraceNode 5Frostfire Illumination Frostfire IlluminationNode 6Thawing Triumph Thawing Triumph",
+      "descriptionMd": "Node 1\n\n[Abyssal Ascension](https://wutheringwaves.fandom.com/wiki/Abyssal_Ascension)\n [Abyssal Ascension](https://wutheringwaves.fandom.com/wiki/Abyssal_Ascension)\nNode 2\n\n[Chronofrost Repose](https://wutheringwaves.fandom.com/wiki/Chronofrost_Repose)\n [Chronofrost Repose](https://wutheringwaves.fandom.com/wiki/Chronofrost_Repose)\nNode 3\n\n[Celestial Incarnate](https://wutheringwaves.fandom.com/wiki/Celestial_Incarnate)\n [Celestial Incarnate](https://wutheringwaves.fandom.com/wiki/Celestial_Incarnate)\nNode 4\n\n[Benevolent Grace](https://wutheringwaves.fandom.com/wiki/Benevolent_Grace)\n [Benevolent Grace](https://wutheringwaves.fandom.com/wiki/Benevolent_Grace)\nNode 5\n\n[Frostfire Illumination](https://wutheringwaves.fandom.com/wiki/Frostfire_Illumination)\n [Frostfire Illumination](https://wutheringwaves.fandom.com/wiki/Frostfire_Illumination)\nNode 6\n\n[Thawing Triumph](https://wutheringwaves.fandom.com/wiki/Thawing_Triumph)\n [Thawing Triumph](https://wutheringwaves.fandom.com/wiki/Thawing_Triumph)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Abyssal Ascension Abyssal Ascension",
+      "descriptionMd": "Node 2\n\n[Chronofrost Repose](https://wutheringwaves.fandom.com/wiki/Chronofrost_Repose)\n [Chronofrost Repose](https://wutheringwaves.fandom.com/wiki/Chronofrost_Repose)\nNode 3\n\n[Celestial Incarnate](https://wutheringwaves.fandom.com/wiki/Celestial_Incarnate)\n [Celestial Incarnate](https://wutheringwaves.fandom.com/wiki/Celestial_Incarnate)\nNode 4\n\n[Benevolent Grace](https://wutheringwaves.fandom.com/wiki/Benevolent_Grace)\n [Benevolent Grace](https://wutheringwaves.fandom.com/wiki/Benevolent_Grace)\nNode 5\n\n[Frostfire Illumination](https://wutheringwaves.fandom.com/wiki/Frostfire_Illumination)\n [Frostfire Illumination](https://wutheringwaves.fandom.com/wiki/Frostfire_Illumination)\nNode 6\n\n[Thawing Triumph](https://wutheringwaves.fandom.com/wiki/Thawing_Triumph)\n [Thawing Triumph](https://wutheringwaves.fandom.com/wiki/Thawing_Triumph)"
+    }
+  ]
 }

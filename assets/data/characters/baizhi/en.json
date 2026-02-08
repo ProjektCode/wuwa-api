@@ -118,22 +118,44 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Baizhi/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "hp": 2665,
-      "atk": 44.2,
-      "def": 209.92
+      "atk": 44,
+      "def": 210
     },
     "50": {
-      "hp": 6621.5,
-      "atk": 112.37,
-      "def": 519.88
+      "hp": 6622,
+      "atk": 112,
+      "def": 520
     },
     "90": {
-      "hp": 12812.5,
-      "atk": 212.5,
-      "def": 1002.2
+      "hp": 12813,
+      "atk": 213,
+      "def": 1002
     }
-  }
+  },
+  "officialIntroduction": "Baizhi, a researcher at Huaxu Academy, is known for her sharp intellect and precise methods.\n\nDespite appearing aloof, she is approachable to those who seek knowledge.\n\nHer insatiable thirst for understanding drives her to tirelessly study Remnant Energy.\n\nShe will stop at nothing until its mysteries are unraveled, even if it means dedicating her entire life to the pursuit.\n\n[Her introduction on the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "May 23, 2024",
+  "nation": "Huanglong",
+  "gender": "Female",
+  "class": "Mutant",
+  "birthplace": "Huanglong",
+  "affiliations": [
+    "Jinzhou (on profile)",
+    "Huaxu Academy"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Complex Simplicity Complex SimplicityNode 2Silent Tundra Silent TundraNode 3Veritas Lux Mea Veritas Lux MeaNode 4Eternal Verity Eternal VerityNode 5A Wish Answered A Wish AnsweredNode 6Seeker's Devotion Seeker's Devotion",
+      "descriptionMd": "Node 1\n\n[Complex Simplicity](https://wutheringwaves.fandom.com/wiki/Complex_Simplicity)\n [Complex Simplicity](https://wutheringwaves.fandom.com/wiki/Complex_Simplicity)\nNode 2\n\n[Silent Tundra](https://wutheringwaves.fandom.com/wiki/Silent_Tundra)\n [Silent Tundra](https://wutheringwaves.fandom.com/wiki/Silent_Tundra)\nNode 3\n\n[Veritas Lux Mea](https://wutheringwaves.fandom.com/wiki/Veritas_Lux_Mea)\n [Veritas Lux Mea](https://wutheringwaves.fandom.com/wiki/Veritas_Lux_Mea)\nNode 4\n\n[Eternal Verity](https://wutheringwaves.fandom.com/wiki/Eternal_Verity)\n [Eternal Verity](https://wutheringwaves.fandom.com/wiki/Eternal_Verity)\nNode 5\n\n[A Wish Answered](https://wutheringwaves.fandom.com/wiki/A_Wish_Answered)\n [A Wish Answered](https://wutheringwaves.fandom.com/wiki/A_Wish_Answered)\nNode 6\n\n[Seeker's Devotion](https://wutheringwaves.fandom.com/wiki/Seeker%27s_Devotion)\n [Seeker's Devotion](https://wutheringwaves.fandom.com/wiki/Seeker%27s_Devotion)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Complex Simplicity Complex Simplicity",
+      "descriptionMd": "Node 2\n\n[Silent Tundra](https://wutheringwaves.fandom.com/wiki/Silent_Tundra)\n [Silent Tundra](https://wutheringwaves.fandom.com/wiki/Silent_Tundra)\nNode 3\n\n[Veritas Lux Mea](https://wutheringwaves.fandom.com/wiki/Veritas_Lux_Mea)\n [Veritas Lux Mea](https://wutheringwaves.fandom.com/wiki/Veritas_Lux_Mea)\nNode 4\n\n[Eternal Verity](https://wutheringwaves.fandom.com/wiki/Eternal_Verity)\n [Eternal Verity](https://wutheringwaves.fandom.com/wiki/Eternal_Verity)\nNode 5\n\n[A Wish Answered](https://wutheringwaves.fandom.com/wiki/A_Wish_Answered)\n [A Wish Answered](https://wutheringwaves.fandom.com/wiki/A_Wish_Answered)\nNode 6\n\n[Seeker's Devotion](https://wutheringwaves.fandom.com/wiki/Seeker%27s_Devotion)\n [Seeker's Devotion](https://wutheringwaves.fandom.com/wiki/Seeker%27s_Devotion)"
+    }
+  ]
 }

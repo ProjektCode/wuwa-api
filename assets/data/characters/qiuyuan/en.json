@@ -111,29 +111,52 @@
   "source": {
     "prydwen": {
       "url": "https://www.prydwen.gg/wuthering-waves/characters/qiuyuan",
-      "updatedAt": "December 31st, 2025"
+      "updatedAt": "January 14th, 2026"
     },
     "fandom": {
       "basePage": "https://wutheringwaves.fandom.com/wiki/Qiuyuan",
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Qiuyuan/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2545.4,
+      "hp": 2545,
       "atk": 78,
-      "def": 250.88
+      "def": 251
     },
     "50": {
-      "hp": 6324.34,
-      "atk": 198.3,
-      "def": 621.32
+      "hp": 6324,
+      "atk": 198,
+      "def": 621
     },
     "90": {
-      "hp": 12237.5,
+      "hp": 12238,
       "atk": 375,
-      "def": 1197.76
+      "def": 1198
     }
-  }
+  },
+  "officialIntroduction": "N/A",
+  "releaseDate": "October 30, 2025",
+  "nation": "Huanglong",
+  "gender": "Male",
+  "class": "Unclear",
+  "birthplace": "Huanglong",
+  "affiliations": [
+    "Mingting (on profile)",
+    "Chongzhou",
+    "Internal Security Agency (formerly)"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Sword Sheathed, Mind Unclouded Sword Sheathed, Mind UncloudedNode 2O Blade, I, Who Teach No More O Blade, I, Who Teach No MoreNode 3O Blade, I, Who Save No More O Blade, I, Who Save No MoreNode 4O Blade, I, Who Sacrifice No More O Blade, I, Who Sacrifice No MoreNode 5O Blade, I, Who Await to be Wielded O Blade, I, Who Await to be WieldedNode 6Thus I Heard, Thus I Saw, Thus I Spoke Thus I Heard, Thus I Saw, Thus I Spoke",
+      "descriptionMd": "Node 1\n\n[Sword Sheathed, Mind Unclouded](https://wutheringwaves.fandom.com/wiki/Sword_Sheathed,_Mind_Unclouded)\n [Sword Sheathed, Mind Unclouded](https://wutheringwaves.fandom.com/wiki/Sword_Sheathed,_Mind_Unclouded)\nNode 2\n\n[O Blade, I, Who Teach No More](https://wutheringwaves.fandom.com/wiki/O_Blade,_I,_Who_Teach_No_More)\n [O Blade, I, Who Teach No More](https://wutheringwaves.fandom.com/wiki/O_Blade,_I,_Who_Teach_No_More)\nNode 3\n\n[O Blade, I, Who Save No More](https://wutheringwaves.fandom.com/wiki/O_Blade,_I,_Who_Save_No_More)\n [O Blade, I, Who Save No More](https://wutheringwaves.fandom.com/wiki/O_Blade,_I,_Who_Save_No_More)\nNode 4\n\n[O Blade, I, Who Sacrifice No More](https://wutheringwaves.fandom.com/wiki/O_Blade,_I,_Who_Sacrifice_No_More)\n [O Blade, I, Who Sacrifice No More](https://wutheringwaves.fandom.com/wiki/O_Blade,_I,_Who_Sacrifice_No_More)\nNode 5\n\n[O Blade, I, Who Await to be Wielded](https://wutheringwaves.fandom.com/wiki/O_Blade,_I,_Who_Await_to_be_Wielded)\n [O Blade, I, Who Await to be Wielded](https://wutheringwaves.fandom.com/wiki/O_Blade,_I,_Who_Await_to_be_Wielded)\nNode 6\n\n[Thus I Heard, Thus I Saw, Thus I Spoke](https://wutheringwaves.fandom.com/wiki/Thus_I_Heard,_Thus_I_Saw,_Thus_I_Spoke)\n [Thus I Heard, Thus I Saw, Thus I Spoke](https://wutheringwaves.fandom.com/wiki/Thus_I_Heard,_Thus_I_Saw,_Thus_I_Spoke)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Sword Sheathed, Mind Unclouded Sword Sheathed, Mind Unclouded",
+      "descriptionMd": "Node 2\n\n[O Blade, I, Who Teach No More](https://wutheringwaves.fandom.com/wiki/O_Blade,_I,_Who_Teach_No_More)\n [O Blade, I, Who Teach No More](https://wutheringwaves.fandom.com/wiki/O_Blade,_I,_Who_Teach_No_More)\nNode 3\n\n[O Blade, I, Who Save No More](https://wutheringwaves.fandom.com/wiki/O_Blade,_I,_Who_Save_No_More)\n [O Blade, I, Who Save No More](https://wutheringwaves.fandom.com/wiki/O_Blade,_I,_Who_Save_No_More)\nNode 4\n\n[O Blade, I, Who Sacrifice No More](https://wutheringwaves.fandom.com/wiki/O_Blade,_I,_Who_Sacrifice_No_More)\n [O Blade, I, Who Sacrifice No More](https://wutheringwaves.fandom.com/wiki/O_Blade,_I,_Who_Sacrifice_No_More)\nNode 5\n\n[O Blade, I, Who Await to be Wielded](https://wutheringwaves.fandom.com/wiki/O_Blade,_I,_Who_Await_to_be_Wielded)\n [O Blade, I, Who Await to be Wielded](https://wutheringwaves.fandom.com/wiki/O_Blade,_I,_Who_Await_to_be_Wielded)\nNode 6\n\n[Thus I Heard, Thus I Saw, Thus I Spoke](https://wutheringwaves.fandom.com/wiki/Thus_I_Heard,_Thus_I_Saw,_Thus_I_Spoke)\n [Thus I Heard, Thus I Saw, Thus I Spoke](https://wutheringwaves.fandom.com/wiki/Thus_I_Heard,_Thus_I_Saw,_Thus_I_Spoke)"
+    }
+  ]
 }

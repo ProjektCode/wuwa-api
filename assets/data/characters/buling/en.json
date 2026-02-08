@@ -111,12 +111,34 @@
   "source": {
     "prydwen": {
       "url": "https://www.prydwen.gg/wuthering-waves/characters/buling",
-      "updatedAt": "January 6th, 2026"
+      "updatedAt": "January 14th, 2026"
     },
     "fandom": {
       "basePage": "https://wutheringwaves.fandom.com/wiki/Buling",
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Buling/Combat"
     }
   },
-  "lastUpdated": "2026-01-14"
+  "lastUpdated": "2026-02-07",
+  "officialIntroduction": "N/A",
+  "releaseDate": "December 11, 2025",
+  "nation": "The Black Shores",
+  "gender": "Female",
+  "class": "Natural",
+  "birthplace": "Huanglong",
+  "affiliations": [
+    "Black Shores (on profile)",
+    "Mengzhou"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Exorcist Gadgets, Lend Me Your Power Exorcist Gadgets, Lend Me Your PowerNode 2Talisman Burns, Spirits Turn Talisman Burns, Spirits TurnNode 3Summoner of Spirits, Seeker of Fate Summoner of Spirits, Seeker of FateNode 4Wanderer of Solaris, Blessed by Fortune Wanderer of Solaris, Blessed by FortuneNode 5Forum Ban? New Account! Forum Ban? New Account!Node 6\"Almighty Forum Lord of Thunder Spell\" \"Almighty Forum Lord of Thunder Spell\"",
+      "descriptionMd": "Node 1\n\n[Exorcist Gadgets, Lend Me Your Power](https://wutheringwaves.fandom.com/wiki/Exorcist_Gadgets,_Lend_Me_Your_Power)\n [Exorcist Gadgets, Lend Me Your Power](https://wutheringwaves.fandom.com/wiki/Exorcist_Gadgets,_Lend_Me_Your_Power)\nNode 2\n\n[Talisman Burns, Spirits Turn](https://wutheringwaves.fandom.com/wiki/Talisman_Burns,_Spirits_Turn)\n [Talisman Burns, Spirits Turn](https://wutheringwaves.fandom.com/wiki/Talisman_Burns,_Spirits_Turn)\nNode 3\n\n[Summoner of Spirits, Seeker of Fate](https://wutheringwaves.fandom.com/wiki/Summoner_of_Spirits,_Seeker_of_Fate)\n [Summoner of Spirits, Seeker of Fate](https://wutheringwaves.fandom.com/wiki/Summoner_of_Spirits,_Seeker_of_Fate)\nNode 4\n\n[Wanderer of Solaris, Blessed by Fortune](https://wutheringwaves.fandom.com/wiki/Wanderer_of_Solaris,_Blessed_by_Fortune)\n [Wanderer of Solaris, Blessed by Fortune](https://wutheringwaves.fandom.com/wiki/Wanderer_of_Solaris,_Blessed_by_Fortune)\nNode 5\n\n[Forum Ban? New Account!](https://wutheringwaves.fandom.com/wiki/Forum_Ban%3F_New_Account!)\n [Forum Ban? New Account!](https://wutheringwaves.fandom.com/wiki/Forum_Ban%3F_New_Account!)\nNode 6\n\n[\"Almighty Forum Lord of Thunder Spell\"](https://wutheringwaves.fandom.com/wiki/%22Almighty_Forum_Lord_of_Thunder_Spell%22)\n [\"Almighty Forum Lord of Thunder Spell\"](https://wutheringwaves.fandom.com/wiki/%22Almighty_Forum_Lord_of_Thunder_Spell%22)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Exorcist Gadgets, Lend Me Your Power Exorcist Gadgets, Lend Me Your Power",
+      "descriptionMd": "Node 2\n\n[Talisman Burns, Spirits Turn](https://wutheringwaves.fandom.com/wiki/Talisman_Burns,_Spirits_Turn)\n [Talisman Burns, Spirits Turn](https://wutheringwaves.fandom.com/wiki/Talisman_Burns,_Spirits_Turn)\nNode 3\n\n[Summoner of Spirits, Seeker of Fate](https://wutheringwaves.fandom.com/wiki/Summoner_of_Spirits,_Seeker_of_Fate)\n [Summoner of Spirits, Seeker of Fate](https://wutheringwaves.fandom.com/wiki/Summoner_of_Spirits,_Seeker_of_Fate)\nNode 4\n\n[Wanderer of Solaris, Blessed by Fortune](https://wutheringwaves.fandom.com/wiki/Wanderer_of_Solaris,_Blessed_by_Fortune)\n [Wanderer of Solaris, Blessed by Fortune](https://wutheringwaves.fandom.com/wiki/Wanderer_of_Solaris,_Blessed_by_Fortune)\nNode 5\n\n[Forum Ban? New Account!](https://wutheringwaves.fandom.com/wiki/Forum_Ban%3F_New_Account!)\n [Forum Ban? New Account!](https://wutheringwaves.fandom.com/wiki/Forum_Ban%3F_New_Account!)\nNode 6\n\n[\"Almighty Forum Lord of Thunder Spell\"](https://wutheringwaves.fandom.com/wiki/%22Almighty_Forum_Lord_of_Thunder_Spell%22)\n [\"Almighty Forum Lord of Thunder Spell\"](https://wutheringwaves.fandom.com/wiki/%22Almighty_Forum_Lord_of_Thunder_Spell%22)"
+    }
+  ]
 }

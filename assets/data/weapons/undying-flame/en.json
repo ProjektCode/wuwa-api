@@ -7,11 +7,11 @@
   "passive": {
     "name": "Loyalty",
     "descriptionMdByRank": {
-      "1": "When Intro Skill is released, increases Resonance Skill DMG Bonus by **20%** for 15s.",
-      "2": "When Intro Skill is released, increases Resonance Skill DMG Bonus by **25%** for 15s.",
-      "3": "When Intro Skill is released, increases Resonance Skill DMG Bonus by **30%** for 15s.",
-      "4": "When Intro Skill is released, increases Resonance Skill DMG Bonus by **35%** for 15s.",
-      "5": "When Intro Skill is released, increases Resonance Skill DMG Bonus by **40%** for 15s."
+      "1": "When Intro Skill is released, increases Resonance Skill DMG Bonus by **20** for 15s.",
+      "2": "When Intro Skill is released, increases Resonance Skill DMG Bonus by **25** for 15s.",
+      "3": "When Intro Skill is released, increases Resonance Skill DMG Bonus by **30** for 15s.",
+      "4": "When Intro Skill is released, increases Resonance Skill DMG Bonus by **35** for 15s.",
+      "5": "When Intro Skill is released, increases Resonance Skill DMG Bonus by **40** for 15s."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Undying%20Flame"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 85

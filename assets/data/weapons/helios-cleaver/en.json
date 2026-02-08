@@ -7,11 +7,11 @@
   "passive": {
     "name": "Plasma Recoiler",
     "descriptionMdByRank": {
-      "1": "Within 12s after Resonance Skill is cast, increases ATK by **3%** every 2s, stacking up to 4 time(s). This effect can be triggered 1 time(s) every 12s. When the number of stacks reaches 4, all stacks will be reset within 6s.",
-      "2": "Within 12s after Resonance Skill is cast, increases ATK by **3.75%** every 2s, stacking up to 4 time(s). This effect can be triggered 1 time(s) every 12s. When the number of stacks reaches 4, all stacks will be reset within 6s.",
-      "3": "Within 12s after Resonance Skill is cast, increases ATK by **4.5%** every 2s, stacking up to 4 time(s). This effect can be triggered 1 time(s) every 12s. When the number of stacks reaches 4, all stacks will be reset within 6s.",
-      "4": "Within 12s after Resonance Skill is cast, increases ATK by **5.25%** every 2s, stacking up to 4 time(s). This effect can be triggered 1 time(s) every 12s. When the number of stacks reaches 4, all stacks will be reset within 6s.",
-      "5": "Within 12s after Resonance Skill is cast, increases ATK by **6%** every 2s, stacking up to 4 time(s). This effect can be triggered 1 time(s) every 12s. When the number of stacks reaches 4, all stacks will be reset within 6s."
+      "1": "Within 12s after Resonance Skill is cast, increases ATK by **3** every 2s, stacking up to 4 time(s). This effect can be triggered 1 time(s) every 12s. When the number of stacks reaches 4, all stacks will be reset within 6s.",
+      "2": "Within 12s after Resonance Skill is cast, increases ATK by **3.75** every 2s, stacking up to 4 time(s). This effect can be triggered 1 time(s) every 12s. When the number of stacks reaches 4, all stacks will be reset within 6s.",
+      "3": "Within 12s after Resonance Skill is cast, increases ATK by **4.5** every 2s, stacking up to 4 time(s). This effect can be triggered 1 time(s) every 12s. When the number of stacks reaches 4, all stacks will be reset within 6s.",
+      "4": "Within 12s after Resonance Skill is cast, increases ATK by **5.25** every 2s, stacking up to 4 time(s). This effect can be triggered 1 time(s) every 12s. When the number of stacks reaches 4, all stacks will be reset within 6s.",
+      "5": "Within 12s after Resonance Skill is cast, increases ATK by **6** every 2s, stacking up to 4 time(s). This effect can be triggered 1 time(s) every 12s. When the number of stacks reaches 4, all stacks will be reset within 6s."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Helios%20Cleaver"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 85

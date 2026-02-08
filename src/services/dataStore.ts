@@ -7,6 +7,21 @@ export type Character = {
   rarity?: number;
   element?: string;
   weaponType?: string;
+  combatRoles?: string | string[] | null;
+  officialIntroduction?: string | null;
+  releaseDate?: string | null;
+  nation?: string | null;
+  gender?: string | null;
+  class?: string | null;
+  birthplace?: string | null;
+  additionalTitles?: string | string[] | null;
+  affiliations?: string | string[] | null;
+  skinImages?: string[] | null;
+  resonanceChain?: Array<{
+    rank?: number | null;
+    name?: string | null;
+    descriptionMd?: string | null;
+  }> | null;
   statsByLevel?: Record<string, { hp: number; atk: number; def: number }>;
   skills?: Array<{
     id: string;

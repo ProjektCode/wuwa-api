@@ -118,22 +118,45 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Zani/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2241.2,
+      "hp": 2241,
       "atk": 91,
-      "def": 238.08
+      "def": 238
     },
     "50": {
-      "hp": 5568.52,
-      "atk": 231.35,
-      "def": 589.62
+      "hp": 5569,
+      "atk": 231,
+      "def": 590
     },
     "90": {
       "hp": 10775,
-      "atk": 437.5,
-      "def": 1136.65
+      "atk": 438,
+      "def": 1137
     }
-  }
+  },
+  "officialIntroduction": "Zani, a serious and reliable Montelli employee, follows a strict routine and manages tasks with ease.\n\nFor years, she has clocked in on time without fail, finding as much enjoyment in her well-ordered life as in her carefully planned moments of leisure.\n\nIntroduction from the [Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "April 29, 2025",
+  "nation": "Rinascita",
+  "gender": "Female",
+  "class": "Mutant",
+  "birthplace": "Rinascita",
+  "affiliations": [
+    "Ragunna (on profile)",
+    "Montelli Family",
+    "Averado Bank"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1When the Alarm Clock Rings When the Alarm Clock RingsNode 2Stale Bread With Energy Drink Stale Bread With Energy DrinkNode 3Each Day A New Commute Each Day A New CommuteNode 4More Efficiency, Less Drama More Efficiency, Less DramaNode 5Delivered In Full On Time Delivered In Full On TimeNode 6First Things First? Clock Out! First Things First? Clock Out!",
+      "descriptionMd": "Node 1\n\n[When the Alarm Clock Rings](https://wutheringwaves.fandom.com/wiki/When_the_Alarm_Clock_Rings)\n [When the Alarm Clock Rings](https://wutheringwaves.fandom.com/wiki/When_the_Alarm_Clock_Rings)\nNode 2\n\n[Stale Bread With Energy Drink](https://wutheringwaves.fandom.com/wiki/Stale_Bread_With_Energy_Drink)\n [Stale Bread With Energy Drink](https://wutheringwaves.fandom.com/wiki/Stale_Bread_With_Energy_Drink)\nNode 3\n\n[Each Day A New Commute](https://wutheringwaves.fandom.com/wiki/Each_Day_A_New_Commute)\n [Each Day A New Commute](https://wutheringwaves.fandom.com/wiki/Each_Day_A_New_Commute)\nNode 4\n\n[More Efficiency, Less Drama](https://wutheringwaves.fandom.com/wiki/More_Efficiency,_Less_Drama)\n [More Efficiency, Less Drama](https://wutheringwaves.fandom.com/wiki/More_Efficiency,_Less_Drama)\nNode 5\n\n[Delivered In Full On Time](https://wutheringwaves.fandom.com/wiki/Delivered_In_Full_On_Time)\n [Delivered In Full On Time](https://wutheringwaves.fandom.com/wiki/Delivered_In_Full_On_Time)\nNode 6\n\n[First Things First? Clock Out!](https://wutheringwaves.fandom.com/wiki/First_Things_First%3F_Clock_Out!)\n [First Things First? Clock Out!](https://wutheringwaves.fandom.com/wiki/First_Things_First%3F_Clock_Out!)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1When the Alarm Clock Rings When the Alarm Clock Rings",
+      "descriptionMd": "Node 2\n\n[Stale Bread With Energy Drink](https://wutheringwaves.fandom.com/wiki/Stale_Bread_With_Energy_Drink)\n [Stale Bread With Energy Drink](https://wutheringwaves.fandom.com/wiki/Stale_Bread_With_Energy_Drink)\nNode 3\n\n[Each Day A New Commute](https://wutheringwaves.fandom.com/wiki/Each_Day_A_New_Commute)\n [Each Day A New Commute](https://wutheringwaves.fandom.com/wiki/Each_Day_A_New_Commute)\nNode 4\n\n[More Efficiency, Less Drama](https://wutheringwaves.fandom.com/wiki/More_Efficiency,_Less_Drama)\n [More Efficiency, Less Drama](https://wutheringwaves.fandom.com/wiki/More_Efficiency,_Less_Drama)\nNode 5\n\n[Delivered In Full On Time](https://wutheringwaves.fandom.com/wiki/Delivered_In_Full_On_Time)\n [Delivered In Full On Time](https://wutheringwaves.fandom.com/wiki/Delivered_In_Full_On_Time)\nNode 6\n\n[First Things First? Clock Out!](https://wutheringwaves.fandom.com/wiki/First_Things_First%3F_Clock_Out!)\n [First Things First? Clock Out!](https://wutheringwaves.fandom.com/wiki/First_Things_First%3F_Clock_Out!)"
+    }
+  ]
 }

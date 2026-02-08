@@ -7,11 +7,11 @@
   "passive": {
     "name": "Laughter Prevails",
     "descriptionMdByRank": {
-      "1": "Increase Crit. Rate by **8%**. Casting Resonance Liberation gives **24%** Basic Attack DMG Bonus for 10s. Dealing Basic Attack DMG gives **24%** Basic Attack DMG Bonus for 4s.",
-      "2": "Increase Crit. Rate by **10%**. Casting Resonance Liberation gives **30%** Basic Attack DMG Bonus for 10s. Dealing Basic Attack DMG gives **30%** Basic Attack DMG Bonus for 4s.",
-      "3": "Increase Crit. Rate by **12%**. Casting Resonance Liberation gives **36%** Basic Attack DMG Bonus for 10s. Dealing Basic Attack DMG gives **36%** Basic Attack DMG Bonus for 4s.",
-      "4": "Increase Crit. Rate by **14%**. Casting Resonance Liberation gives **42%** Basic Attack DMG Bonus for 10s. Dealing Basic Attack DMG gives **42%** Basic Attack DMG Bonus for 4s.",
-      "5": "Increase Crit. Rate by **16%**. Casting Resonance Liberation gives **48%** Basic Attack DMG Bonus for 10s. Dealing Basic Attack DMG gives **48%** Basic Attack DMG Bonus for 4s."
+      "1": "Increase Crit. Rate by **8**. Casting Resonance Liberation gives **24** Basic Attack DMG Bonus for 10s. Dealing Basic Attack DMG gives **24** Basic Attack DMG Bonus for 4s.",
+      "2": "Increase Crit. Rate by **10**. Casting Resonance Liberation gives **30** Basic Attack DMG Bonus for 10s. Dealing Basic Attack DMG gives **30** Basic Attack DMG Bonus for 4s.",
+      "3": "Increase Crit. Rate by **12**. Casting Resonance Liberation gives **36** Basic Attack DMG Bonus for 10s. Dealing Basic Attack DMG gives **36** Basic Attack DMG Bonus for 4s.",
+      "4": "Increase Crit. Rate by **14**. Casting Resonance Liberation gives **42** Basic Attack DMG Bonus for 10s. Dealing Basic Attack DMG gives **42** Basic Attack DMG Bonus for 4s.",
+      "5": "Increase Crit. Rate by **16**. Casting Resonance Liberation gives **48** Basic Attack DMG Bonus for 10s. Dealing Basic Attack DMG gives **48** Basic Attack DMG Bonus for 4s."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Unflickering%20Valor"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 85

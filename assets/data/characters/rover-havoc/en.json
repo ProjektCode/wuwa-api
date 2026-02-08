@@ -114,9 +114,47 @@
       "updatedAt": "December 31st, 2025"
     },
     "fandom": {
-      "basePage": "https://wutheringwaves.fandom.com/wiki/Rover%20(Havoc)",
-      "combatPage": "https://wutheringwaves.fandom.com/wiki/Rover%20(Havoc)/Combat"
+      "basePage": "https://wutheringwaves.fandom.com/wiki/Rover",
+      "combatPage": "https://wutheringwaves.fandom.com/wiki/Rover/Combat"
     }
   },
-  "lastUpdated": "2026-01-14"
+  "lastUpdated": "2026-02-07",
+  "statsByLevel": {
+    "20": {
+      "hp": 2371,
+      "atk": 78,
+      "def": 287
+    },
+    "50": {
+      "hp": 5892,
+      "atk": 198,
+      "def": 710
+    },
+    "90": {
+      "hp": 11400,
+      "atk": 375,
+      "def": 1369
+    }
+  },
+  "officialIntroduction": "N/A",
+  "releaseDate": "May 23, 2024",
+  "nation": "The Black Shores",
+  "birthplace": "Homeland Civilization",
+  "affiliations": [
+    "Unknown (on profile)",
+    "Black Shores",
+    "Startorch Academy"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Odyssey of Beginnings Odyssey of BeginningsNode 2Microcosmic Murmurs Microcosmic MurmursNode 3Visages of Dust Visages of DustNode 4Resonating Lamella Resonating LamellaNode 5Temporal Virtuoso Temporal VirtuosoNode 6Echoes of Wanderlust Echoes of Wanderlust",
+      "descriptionMd": "Node 1\n\n[Odyssey of Beginnings](https://wutheringwaves.fandom.com/wiki/Odyssey_of_Beginnings)\n [Odyssey of Beginnings](https://wutheringwaves.fandom.com/wiki/Odyssey_of_Beginnings)\nNode 2\n\n[Microcosmic Murmurs](https://wutheringwaves.fandom.com/wiki/Microcosmic_Murmurs)\n [Microcosmic Murmurs](https://wutheringwaves.fandom.com/wiki/Microcosmic_Murmurs)\nNode 3\n\n[Visages of Dust](https://wutheringwaves.fandom.com/wiki/Visages_of_Dust)\n [Visages of Dust](https://wutheringwaves.fandom.com/wiki/Visages_of_Dust)\nNode 4\n\n[Resonating Lamella](https://wutheringwaves.fandom.com/wiki/Resonating_Lamella)\n [Resonating Lamella](https://wutheringwaves.fandom.com/wiki/Resonating_Lamella)\nNode 5\n\n[Temporal Virtuoso](https://wutheringwaves.fandom.com/wiki/Temporal_Virtuoso)\n [Temporal Virtuoso](https://wutheringwaves.fandom.com/wiki/Temporal_Virtuoso)\nNode 6\n\n[Echoes of Wanderlust](https://wutheringwaves.fandom.com/wiki/Echoes_of_Wanderlust)\n [Echoes of Wanderlust](https://wutheringwaves.fandom.com/wiki/Echoes_of_Wanderlust)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Odyssey of Beginnings Odyssey of Beginnings",
+      "descriptionMd": "Node 2\n\n[Microcosmic Murmurs](https://wutheringwaves.fandom.com/wiki/Microcosmic_Murmurs)\n [Microcosmic Murmurs](https://wutheringwaves.fandom.com/wiki/Microcosmic_Murmurs)\nNode 3\n\n[Visages of Dust](https://wutheringwaves.fandom.com/wiki/Visages_of_Dust)\n [Visages of Dust](https://wutheringwaves.fandom.com/wiki/Visages_of_Dust)\nNode 4\n\n[Resonating Lamella](https://wutheringwaves.fandom.com/wiki/Resonating_Lamella)\n [Resonating Lamella](https://wutheringwaves.fandom.com/wiki/Resonating_Lamella)\nNode 5\n\n[Temporal Virtuoso](https://wutheringwaves.fandom.com/wiki/Temporal_Virtuoso)\n [Temporal Virtuoso](https://wutheringwaves.fandom.com/wiki/Temporal_Virtuoso)\nNode 6\n\n[Echoes of Wanderlust](https://wutheringwaves.fandom.com/wiki/Echoes_of_Wanderlust)\n [Echoes of Wanderlust](https://wutheringwaves.fandom.com/wiki/Echoes_of_Wanderlust)"
+    }
+  ]
 }

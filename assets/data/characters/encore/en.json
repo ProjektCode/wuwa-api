@@ -118,22 +118,41 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Encore/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2186.6,
-      "atk": 88.4,
-      "def": 261.12
+      "hp": 2187,
+      "atk": 88,
+      "def": 261
     },
     "50": {
-      "hp": 5432.86,
-      "atk": 224.74,
-      "def": 646.68
+      "hp": 5433,
+      "atk": 225,
+      "def": 647
     },
     "90": {
-      "hp": 10512.5,
+      "hp": 10513,
       "atk": 425,
-      "def": 1246.64
+      "def": 1247
     }
-  }
+  },
+  "officialIntroduction": "Encore, a consultant from the Black Shores, is a quirky, lively, and spunky girl who loves to recount her friendships and adventures through fantasy and fairy tales.\n\nShe always has two Woolies with her, who are Encore's best friends and protectors.\n\nWith Cosmos and Cloudy, Encore travels all over the world!\n\n[Her introduction on the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "May 23, 2024",
+  "nation": "The Black Shores",
+  "gender": "Female",
+  "class": "Congenital",
+  "birthplace": "New Federation",
+  "affiliations": "Black Shores",
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Wooly's Fairy Tale Wooly's Fairy TaleNode 2Sheep-counting Lullaby Sheep-counting LullabyNode 3Fog? The Black Shores! Fog? The Black Shores!Node 4Adventure? Let's go! Adventure? Let's go!Node 5Hero Takes the Stage! Hero Takes the Stage!Node 6Woolies Save the World! Woolies Save the World!",
+      "descriptionMd": "Node 1\n\n[Wooly's Fairy Tale](https://wutheringwaves.fandom.com/wiki/Wooly%27s_Fairy_Tale)\n [Wooly's Fairy Tale](https://wutheringwaves.fandom.com/wiki/Wooly%27s_Fairy_Tale)\nNode 2\n\n[Sheep-counting Lullaby](https://wutheringwaves.fandom.com/wiki/Sheep-counting_Lullaby)\n [Sheep-counting Lullaby](https://wutheringwaves.fandom.com/wiki/Sheep-counting_Lullaby)\nNode 3\n\n[Fog? The Black Shores!](https://wutheringwaves.fandom.com/wiki/Fog%3F_The_Black_Shores!)\n [Fog? The Black Shores!](https://wutheringwaves.fandom.com/wiki/Fog%3F_The_Black_Shores!)\nNode 4\n\n[Adventure? Let's go!](https://wutheringwaves.fandom.com/wiki/Adventure%3F_Let%27s_go!)\n [Adventure? Let's go!](https://wutheringwaves.fandom.com/wiki/Adventure%3F_Let%27s_go!)\nNode 5\n\n[Hero Takes the Stage!](https://wutheringwaves.fandom.com/wiki/Hero_Takes_the_Stage!)\n [Hero Takes the Stage!](https://wutheringwaves.fandom.com/wiki/Hero_Takes_the_Stage!)\nNode 6\n\n[Woolies Save the World!](https://wutheringwaves.fandom.com/wiki/Woolies_Save_the_World!)\n [Woolies Save the World!](https://wutheringwaves.fandom.com/wiki/Woolies_Save_the_World!)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Wooly's Fairy Tale Wooly's Fairy Tale",
+      "descriptionMd": "Node 2\n\n[Sheep-counting Lullaby](https://wutheringwaves.fandom.com/wiki/Sheep-counting_Lullaby)\n [Sheep-counting Lullaby](https://wutheringwaves.fandom.com/wiki/Sheep-counting_Lullaby)\nNode 3\n\n[Fog? The Black Shores!](https://wutheringwaves.fandom.com/wiki/Fog%3F_The_Black_Shores!)\n [Fog? The Black Shores!](https://wutheringwaves.fandom.com/wiki/Fog%3F_The_Black_Shores!)\nNode 4\n\n[Adventure? Let's go!](https://wutheringwaves.fandom.com/wiki/Adventure%3F_Let%27s_go!)\n [Adventure? Let's go!](https://wutheringwaves.fandom.com/wiki/Adventure%3F_Let%27s_go!)\nNode 5\n\n[Hero Takes the Stage!](https://wutheringwaves.fandom.com/wiki/Hero_Takes_the_Stage!)\n [Hero Takes the Stage!](https://wutheringwaves.fandom.com/wiki/Hero_Takes_the_Stage!)\nNode 6\n\n[Woolies Save the World!](https://wutheringwaves.fandom.com/wiki/Woolies_Save_the_World!)\n [Woolies Save the World!](https://wutheringwaves.fandom.com/wiki/Woolies_Save_the_World!)"
+    }
+  ]
 }

@@ -118,22 +118,45 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Calcharo/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "hp": 2184,
       "atk": 91,
-      "def": 248.32
+      "def": 248
     },
     "50": {
-      "hp": 5426.4,
-      "atk": 231.35,
-      "def": 614.98
+      "hp": 5426,
+      "atk": 231,
+      "def": 615
     },
     "90": {
       "hp": 10500,
-      "atk": 437.5,
-      "def": 1185.53
+      "atk": 438,
+      "def": 1186
     }
-  }
+  },
+  "officialIntroduction": "N/A",
+  "releaseDate": "May 23, 2024",
+  "gender": "Male",
+  "class": "Natural",
+  "birthplace": "New Federation",
+  "affiliations": [
+    "Ghost Hounds (on profile)",
+    "Jinzhou",
+    "Lawless Zone (formerly)",
+    "Underdogs (formerly)"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Covert Negotiation Covert NegotiationNode 2Zero-Sum Game Zero-Sum GameNode 3Iron Fist Diplomacy Iron Fist DiplomacyNode 4Dark Alliance Dark AllianceNode 5Unconventional Compact Unconventional CompactNode 6The Ultimatum The Ultimatum",
+      "descriptionMd": "Node 1\n\n[Covert Negotiation](https://wutheringwaves.fandom.com/wiki/Covert_Negotiation)\n [Covert Negotiation](https://wutheringwaves.fandom.com/wiki/Covert_Negotiation)\nNode 2\n\n[Zero-Sum Game](https://wutheringwaves.fandom.com/wiki/Zero-Sum_Game)\n [Zero-Sum Game](https://wutheringwaves.fandom.com/wiki/Zero-Sum_Game)\nNode 3\n\n[Iron Fist Diplomacy](https://wutheringwaves.fandom.com/wiki/Iron_Fist_Diplomacy)\n [Iron Fist Diplomacy](https://wutheringwaves.fandom.com/wiki/Iron_Fist_Diplomacy)\nNode 4\n\n[Dark Alliance](https://wutheringwaves.fandom.com/wiki/Dark_Alliance)\n [Dark Alliance](https://wutheringwaves.fandom.com/wiki/Dark_Alliance)\nNode 5\n\n[Unconventional Compact](https://wutheringwaves.fandom.com/wiki/Unconventional_Compact)\n [Unconventional Compact](https://wutheringwaves.fandom.com/wiki/Unconventional_Compact)\nNode 6\n\n[The Ultimatum](https://wutheringwaves.fandom.com/wiki/The_Ultimatum)\n [The Ultimatum](https://wutheringwaves.fandom.com/wiki/The_Ultimatum)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Covert Negotiation Covert Negotiation",
+      "descriptionMd": "Node 2\n\n[Zero-Sum Game](https://wutheringwaves.fandom.com/wiki/Zero-Sum_Game)\n [Zero-Sum Game](https://wutheringwaves.fandom.com/wiki/Zero-Sum_Game)\nNode 3\n\n[Iron Fist Diplomacy](https://wutheringwaves.fandom.com/wiki/Iron_Fist_Diplomacy)\n [Iron Fist Diplomacy](https://wutheringwaves.fandom.com/wiki/Iron_Fist_Diplomacy)\nNode 4\n\n[Dark Alliance](https://wutheringwaves.fandom.com/wiki/Dark_Alliance)\n [Dark Alliance](https://wutheringwaves.fandom.com/wiki/Dark_Alliance)\nNode 5\n\n[Unconventional Compact](https://wutheringwaves.fandom.com/wiki/Unconventional_Compact)\n [Unconventional Compact](https://wutheringwaves.fandom.com/wiki/Unconventional_Compact)\nNode 6\n\n[The Ultimatum](https://wutheringwaves.fandom.com/wiki/The_Ultimatum)\n [The Ultimatum](https://wutheringwaves.fandom.com/wiki/The_Ultimatum)"
+    }
+  ]
 }

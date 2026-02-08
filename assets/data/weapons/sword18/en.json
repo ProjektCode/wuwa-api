@@ -7,11 +7,11 @@
   "passive": {
     "name": "Daybreak",
     "descriptionMdByRank": {
-      "1": "When Equipped Resonator's HP drops below **40%**, increases Heavy Attack DMG by **18%** and restores HP by **5%** upon dealing Heavy Attack DMG. This effect can be triggered 1 time(s) every 8s.",
-      "2": "When Equipped Resonator's HP drops below **50%**, increases Heavy Attack DMG by **22.5%** and restores HP by **6.25%** upon dealing Heavy Attack DMG. This effect can be triggered 1 time(s) every 8s.",
-      "3": "When Equipped Resonator's HP drops below **60%**, increases Heavy Attack DMG by **27%** and restores HP by **7.5%** upon dealing Heavy Attack DMG. This effect can be triggered 1 time(s) every 8s.",
-      "4": "When Equipped Resonator's HP drops below **70%**, increases Heavy Attack DMG by **31.5%** and restores HP by **8.75%** upon dealing Heavy Attack DMG. This effect can be triggered 1 time(s) every 8s.",
-      "5": "When Equipped Resonator's HP drops below **80%**, increases Heavy Attack DMG by **36%** and restores HP by **10%** upon dealing Heavy Attack DMG. This effect can be triggered 1 time(s) every 8s."
+      "1": "When Equipped Resonator's HP drops below **40**, increases Heavy Attack DMG by **18** and restores HP by **5** upon dealing Heavy Attack DMG. This effect can be triggered 1 time(s) every 8s.",
+      "2": "When Equipped Resonator's HP drops below **50**, increases Heavy Attack DMG by **22.5** and restores HP by **6.25** upon dealing Heavy Attack DMG. This effect can be triggered 1 time(s) every 8s.",
+      "3": "When Equipped Resonator's HP drops below **60**, increases Heavy Attack DMG by **27** and restores HP by **7.5** upon dealing Heavy Attack DMG. This effect can be triggered 1 time(s) every 8s.",
+      "4": "When Equipped Resonator's HP drops below **70**, increases Heavy Attack DMG by **31.5** and restores HP by **8.75** upon dealing Heavy Attack DMG. This effect can be triggered 1 time(s) every 8s.",
+      "5": "When Equipped Resonator's HP drops below **80**, increases Heavy Attack DMG by **36** and restores HP by **10** upon dealing Heavy Attack DMG. This effect can be triggered 1 time(s) every 8s."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Sword18"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 80

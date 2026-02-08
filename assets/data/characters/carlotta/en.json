@@ -118,22 +118,44 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Carlotta/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2589.6,
-      "atk": 96.2,
-      "def": 250.88
+      "hp": 2590,
+      "atk": 96,
+      "def": 251
     },
     "50": {
-      "hp": 6434.16,
-      "atk": 244.57,
-      "def": 621.32
+      "hp": 6434,
+      "atk": 245,
+      "def": 621
     },
     "90": {
       "hp": 12450,
-      "atk": 462.5,
-      "def": 1197.76
+      "atk": 463,
+      "def": 1198
     }
-  }
+  },
+  "officialIntroduction": "Carlotta, the second daughter of the esteemed Montelli family, embodies innate nobility and a refined appreciation for art. Her elegance is matched by her unconventional spirit, unshackled by tradition.\nTo ensure her family’s future, she alternates between dual roles, addressing delicate \"troubles\" behind the scenes.\n\n[Introduction from the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "January 02, 2025",
+  "nation": "Rinascita",
+  "gender": "Female",
+  "class": "Mutant",
+  "birthplace": "Ragunna",
+  "affiliations": [
+    "Ragunna (on profile)",
+    "Montelli Family"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Beauty Blazes Brightest Before It Fades Beauty Blazes Brightest Before It FadesNode 2Fallen Petals Give Life to New Blooms Fallen Petals Give Life to New BloomsNode 3Adelante, Cortado, Spinning in Grace Adelante, Cortado, Spinning in GraceNode 4Yesterday's Raindrops Make Finest Wine Yesterday's Raindrops Make Finest WineNode 5Toast to Past, Today, and Every Day to Come Toast to Past, Today, and Every Day to ComeNode 6As the Curtain Falls, I Remain What I Am As the Curtain Falls, I Remain What I Am",
+      "descriptionMd": "Node 1\n\n[Beauty Blazes Brightest Before It Fades](https://wutheringwaves.fandom.com/wiki/Beauty_Blazes_Brightest_Before_It_Fades)\n [Beauty Blazes Brightest Before It Fades](https://wutheringwaves.fandom.com/wiki/Beauty_Blazes_Brightest_Before_It_Fades)\nNode 2\n\n[Fallen Petals Give Life to New Blooms](https://wutheringwaves.fandom.com/wiki/Fallen_Petals_Give_Life_to_New_Blooms)\n [Fallen Petals Give Life to New Blooms](https://wutheringwaves.fandom.com/wiki/Fallen_Petals_Give_Life_to_New_Blooms)\nNode 3\n\n[Adelante, Cortado, Spinning in Grace](https://wutheringwaves.fandom.com/wiki/Adelante,_Cortado,_Spinning_in_Grace)\n [Adelante, Cortado, Spinning in Grace](https://wutheringwaves.fandom.com/wiki/Adelante,_Cortado,_Spinning_in_Grace)\nNode 4\n\n[Yesterday's Raindrops Make Finest Wine](https://wutheringwaves.fandom.com/wiki/Yesterday%27s_Raindrops_Make_Finest_Wine)\n [Yesterday's Raindrops Make Finest Wine](https://wutheringwaves.fandom.com/wiki/Yesterday%27s_Raindrops_Make_Finest_Wine)\nNode 5\n\n[Toast to Past, Today, and Every Day to Come](https://wutheringwaves.fandom.com/wiki/Toast_to_Past,_Today,_and_Every_Day_to_Come)\n [Toast to Past, Today, and Every Day to Come](https://wutheringwaves.fandom.com/wiki/Toast_to_Past,_Today,_and_Every_Day_to_Come)\nNode 6\n\n[As the Curtain Falls, I Remain What I Am](https://wutheringwaves.fandom.com/wiki/As_the_Curtain_Falls,_I_Remain_What_I_Am)\n [As the Curtain Falls, I Remain What I Am](https://wutheringwaves.fandom.com/wiki/As_the_Curtain_Falls,_I_Remain_What_I_Am)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Beauty Blazes Brightest Before It Fades Beauty Blazes Brightest Before It Fades",
+      "descriptionMd": "Node 2\n\n[Fallen Petals Give Life to New Blooms](https://wutheringwaves.fandom.com/wiki/Fallen_Petals_Give_Life_to_New_Blooms)\n [Fallen Petals Give Life to New Blooms](https://wutheringwaves.fandom.com/wiki/Fallen_Petals_Give_Life_to_New_Blooms)\nNode 3\n\n[Adelante, Cortado, Spinning in Grace](https://wutheringwaves.fandom.com/wiki/Adelante,_Cortado,_Spinning_in_Grace)\n [Adelante, Cortado, Spinning in Grace](https://wutheringwaves.fandom.com/wiki/Adelante,_Cortado,_Spinning_in_Grace)\nNode 4\n\n[Yesterday's Raindrops Make Finest Wine](https://wutheringwaves.fandom.com/wiki/Yesterday%27s_Raindrops_Make_Finest_Wine)\n [Yesterday's Raindrops Make Finest Wine](https://wutheringwaves.fandom.com/wiki/Yesterday%27s_Raindrops_Make_Finest_Wine)\nNode 5\n\n[Toast to Past, Today, and Every Day to Come](https://wutheringwaves.fandom.com/wiki/Toast_to_Past,_Today,_and_Every_Day_to_Come)\n [Toast to Past, Today, and Every Day to Come](https://wutheringwaves.fandom.com/wiki/Toast_to_Past,_Today,_and_Every_Day_to_Come)\nNode 6\n\n[As the Curtain Falls, I Remain What I Am](https://wutheringwaves.fandom.com/wiki/As_the_Curtain_Falls,_I_Remain_What_I_Am)\n [As the Curtain Falls, I Remain What I Am](https://wutheringwaves.fandom.com/wiki/As_the_Curtain_Falls,_I_Remain_What_I_Am)"
+    }
+  ]
 }

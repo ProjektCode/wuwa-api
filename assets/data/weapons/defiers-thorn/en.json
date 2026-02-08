@@ -7,11 +7,11 @@
   "passive": {
     "name": "A Free Knight's Tarantella",
     "descriptionMdByRank": {
-      "1": "Max HP is increased by **12%**. 15s after casting Intro Skill or Basic Attacks, ignores **8%** of the target's DEF when dealing damage. If the target has at least 1 stack of Aero Erosion, the target’s DMG taken is Amplified by **20%**.",
-      "2": "Max HP is increased by **15%**. 15s after casting Intro Skill or Basic Attacks, ignores **10%** of the target's DEF when dealing damage. If the target has at least 1 stack of Aero Erosion, the target’s DMG taken is Amplified by **25%**.",
-      "3": "Max HP is increased by **18%**. 15s after casting Intro Skill or Basic Attacks, ignores **12%** of the target's DEF when dealing damage. If the target has at least 1 stack of Aero Erosion, the target’s DMG taken is Amplified by **30%**.",
-      "4": "Max HP is increased by **21%**. 15s after casting Intro Skill or Basic Attacks, ignores **14%** of the target's DEF when dealing damage. If the target has at least 1 stack of Aero Erosion, the target’s DMG taken is Amplified by **35%**.",
-      "5": "Max HP is increased by **24%**. 15s after casting Intro Skill or Basic Attacks, ignores **16%** of the target's DEF when dealing damage. If the target has at least 1 stack of Aero Erosion, the target’s DMG taken is Amplified by **40%**."
+      "1": "Max HP is increased by **12**. 15s after casting Intro Skill or Basic Attacks, ignores **8** of the target's DEF when dealing damage. If the target has at least 1 stack of Aero Erosion, the target’s DMG taken is Amplified by **20**.",
+      "2": "Max HP is increased by **15**. 15s after casting Intro Skill or Basic Attacks, ignores **10** of the target's DEF when dealing damage. If the target has at least 1 stack of Aero Erosion, the target’s DMG taken is Amplified by **25**.",
+      "3": "Max HP is increased by **18**. 15s after casting Intro Skill or Basic Attacks, ignores **12** of the target's DEF when dealing damage. If the target has at least 1 stack of Aero Erosion, the target’s DMG taken is Amplified by **30**.",
+      "4": "Max HP is increased by **21**. 15s after casting Intro Skill or Basic Attacks, ignores **14** of the target's DEF when dealing damage. If the target has at least 1 stack of Aero Erosion, the target’s DMG taken is Amplified by **35**.",
+      "5": "Max HP is increased by **24**. 15s after casting Intro Skill or Basic Attacks, ignores **16** of the target's DEF when dealing damage. If the target has at least 1 stack of Aero Erosion, the target’s DMG taken is Amplified by **40**."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Defier's%20Thorn"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 85

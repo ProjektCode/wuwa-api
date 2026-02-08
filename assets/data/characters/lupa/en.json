@@ -118,22 +118,43 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Lupa/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2477.8,
-      "atk": 80.6,
-      "def": 248.32
+      "hp": 2478,
+      "atk": 81,
+      "def": 248
     },
     "50": {
-      "hp": 6156.38,
-      "atk": 204.91,
-      "def": 614.98
+      "hp": 6156,
+      "atk": 205,
+      "def": 615
     },
     "90": {
-      "hp": 11912.5,
-      "atk": 387.5,
-      "def": 1185.53
+      "hp": 11913,
+      "atk": 388,
+      "def": 1186
     }
-  }
+  },
+  "officialIntroduction": "The star gladiator of Septimont, a warrior with a pure heart, untamed spirit, intense passion, and immense potential.\nShe will relentlessly pursue the things she admires, cherishing each moment that allows her to indulge in competition and self-expression on stage.\n\n[Her introduction on the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "July 03, 2025",
+  "nation": "Rinascita",
+  "class": "Non-congenital",
+  "birthplace": "Rinascita",
+  "affiliations": [
+    "Septimont (on profile)",
+    "House Silva (formerly)"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Behold the Nameless One Behold the Nameless OneNode 2Every Ground, Her Hunting Field Every Ground, Her Hunting FieldNode 3Wolflame Howls in Her Wake Wolflame Howls in Her WakeNode 4High and Aflame Is Her Banner High and Aflame Is Her BannerNode 5Embrace the Thunderous Triumph Embrace the Thunderous TriumphNode 6To the Brightest Flaming Star To the Brightest Flaming Star",
+      "descriptionMd": "Node 1\n\n[Behold the Nameless One](https://wutheringwaves.fandom.com/wiki/Behold_the_Nameless_One)\n [Behold the Nameless One](https://wutheringwaves.fandom.com/wiki/Behold_the_Nameless_One)\nNode 2\n\n[Every Ground, Her Hunting Field](https://wutheringwaves.fandom.com/wiki/Every_Ground,_Her_Hunting_Field)\n [Every Ground, Her Hunting Field](https://wutheringwaves.fandom.com/wiki/Every_Ground,_Her_Hunting_Field)\nNode 3\n\n[Wolflame Howls in Her Wake](https://wutheringwaves.fandom.com/wiki/Wolflame_Howls_in_Her_Wake)\n [Wolflame Howls in Her Wake](https://wutheringwaves.fandom.com/wiki/Wolflame_Howls_in_Her_Wake)\nNode 4\n\n[High and Aflame Is Her Banner](https://wutheringwaves.fandom.com/wiki/High_and_Aflame_Is_Her_Banner)\n [High and Aflame Is Her Banner](https://wutheringwaves.fandom.com/wiki/High_and_Aflame_Is_Her_Banner)\nNode 5\n\n[Embrace the Thunderous Triumph](https://wutheringwaves.fandom.com/wiki/Embrace_the_Thunderous_Triumph)\n [Embrace the Thunderous Triumph](https://wutheringwaves.fandom.com/wiki/Embrace_the_Thunderous_Triumph)\nNode 6\n\n[To the Brightest Flaming Star](https://wutheringwaves.fandom.com/wiki/To_the_Brightest_Flaming_Star)\n [To the Brightest Flaming Star](https://wutheringwaves.fandom.com/wiki/To_the_Brightest_Flaming_Star)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Behold the Nameless One Behold the Nameless One",
+      "descriptionMd": "Node 2\n\n[Every Ground, Her Hunting Field](https://wutheringwaves.fandom.com/wiki/Every_Ground,_Her_Hunting_Field)\n [Every Ground, Her Hunting Field](https://wutheringwaves.fandom.com/wiki/Every_Ground,_Her_Hunting_Field)\nNode 3\n\n[Wolflame Howls in Her Wake](https://wutheringwaves.fandom.com/wiki/Wolflame_Howls_in_Her_Wake)\n [Wolflame Howls in Her Wake](https://wutheringwaves.fandom.com/wiki/Wolflame_Howls_in_Her_Wake)\nNode 4\n\n[High and Aflame Is Her Banner](https://wutheringwaves.fandom.com/wiki/High_and_Aflame_Is_Her_Banner)\n [High and Aflame Is Her Banner](https://wutheringwaves.fandom.com/wiki/High_and_Aflame_Is_Her_Banner)\nNode 5\n\n[Embrace the Thunderous Triumph](https://wutheringwaves.fandom.com/wiki/Embrace_the_Thunderous_Triumph)\n [Embrace the Thunderous Triumph](https://wutheringwaves.fandom.com/wiki/Embrace_the_Thunderous_Triumph)\nNode 6\n\n[To the Brightest Flaming Star](https://wutheringwaves.fandom.com/wiki/To_the_Brightest_Flaming_Star)\n [To the Brightest Flaming Star](https://wutheringwaves.fandom.com/wiki/To_the_Brightest_Flaming_Star)"
+    }
+  ]
 }

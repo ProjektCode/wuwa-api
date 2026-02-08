@@ -7,11 +7,11 @@
   "passive": {
     "name": "Unified",
     "descriptionMdByRank": {
-      "1": "Resonance Skill DMG Bonus is increased by **12%**.",
-      "2": "Resonance Skill DMG Bonus is increased by **15%**.",
-      "3": "Resonance Skill DMG Bonus is increased by **18%**.",
-      "4": "Resonance Skill DMG Bonus is increased by **21%**.",
-      "5": "Resonance Skill DMG Bonus is increased by **24%**."
+      "1": "Resonance Skill DMG Bonus is increased by **12**.",
+      "2": "Resonance Skill DMG Bonus is increased by **15**.",
+      "3": "Resonance Skill DMG Bonus is increased by **18**.",
+      "4": "Resonance Skill DMG Bonus is increased by **21**.",
+      "5": "Resonance Skill DMG Bonus is increased by **24**."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Guardian%20Sword"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 62

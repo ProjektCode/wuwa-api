@@ -118,22 +118,44 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Lingyang/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2160.6,
+      "hp": 2161,
       "atk": 91,
-      "def": 253.44
+      "def": 253
     },
     "50": {
-      "hp": 5368.26,
-      "atk": 231.35,
-      "def": 627.66
+      "hp": 5368,
+      "atk": 231,
+      "def": 628
     },
     "90": {
-      "hp": 10387.5,
-      "atk": 437.5,
-      "def": 1209.98
+      "hp": 10388,
+      "atk": 438,
+      "def": 1210
     }
-  }
+  },
+  "officialIntroduction": "N/A",
+  "releaseDate": "May 23, 2024",
+  "nation": "Huanglong",
+  "gender": "Male",
+  "class": "Natural",
+  "birthplace": "Huanglong",
+  "affiliations": [
+    "Jinzhou (on profile)",
+    "Liondance Troupe"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Lion of Light, Blessings Abound Lion of Light, Blessings AboundNode 2Dominant and Fierce, Power Unbound Dominant and Fierce, Power UnboundNode 3Jaw-Dropping Feats, Loud and Wide Jaw-Dropping Feats, Loud and WideNode 4Immortals Bow, in Reverence Flawed Immortals Bow, in Reverence FlawedNode 5Seven Stars Shine, Stepped upon High Seven Stars Shine, Stepped upon HighNode 6Demons Tremble, Divine Power Nigh Demons Tremble, Divine Power Nigh",
+      "descriptionMd": "Node 1\n\n[Lion of Light, Blessings Abound](https://wutheringwaves.fandom.com/wiki/Lion_of_Light,_Blessings_Abound)\n [Lion of Light, Blessings Abound](https://wutheringwaves.fandom.com/wiki/Lion_of_Light,_Blessings_Abound)\nNode 2\n\n[Dominant and Fierce, Power Unbound](https://wutheringwaves.fandom.com/wiki/Dominant_and_Fierce,_Power_Unbound)\n [Dominant and Fierce, Power Unbound](https://wutheringwaves.fandom.com/wiki/Dominant_and_Fierce,_Power_Unbound)\nNode 3\n\n[Jaw-Dropping Feats, Loud and Wide](https://wutheringwaves.fandom.com/wiki/Jaw-Dropping_Feats,_Loud_and_Wide)\n [Jaw-Dropping Feats, Loud and Wide](https://wutheringwaves.fandom.com/wiki/Jaw-Dropping_Feats,_Loud_and_Wide)\nNode 4\n\n[Immortals Bow, in Reverence Flawed](https://wutheringwaves.fandom.com/wiki/Immortals_Bow,_in_Reverence_Flawed)\n [Immortals Bow, in Reverence Flawed](https://wutheringwaves.fandom.com/wiki/Immortals_Bow,_in_Reverence_Flawed)\nNode 5\n\n[Seven Stars Shine, Stepped upon High](https://wutheringwaves.fandom.com/wiki/Seven_Stars_Shine,_Stepped_upon_High)\n [Seven Stars Shine, Stepped upon High](https://wutheringwaves.fandom.com/wiki/Seven_Stars_Shine,_Stepped_upon_High)\nNode 6\n\n[Demons Tremble, Divine Power Nigh](https://wutheringwaves.fandom.com/wiki/Demons_Tremble,_Divine_Power_Nigh)\n [Demons Tremble, Divine Power Nigh](https://wutheringwaves.fandom.com/wiki/Demons_Tremble,_Divine_Power_Nigh)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Lion of Light, Blessings Abound Lion of Light, Blessings Abound",
+      "descriptionMd": "Node 2\n\n[Dominant and Fierce, Power Unbound](https://wutheringwaves.fandom.com/wiki/Dominant_and_Fierce,_Power_Unbound)\n [Dominant and Fierce, Power Unbound](https://wutheringwaves.fandom.com/wiki/Dominant_and_Fierce,_Power_Unbound)\nNode 3\n\n[Jaw-Dropping Feats, Loud and Wide](https://wutheringwaves.fandom.com/wiki/Jaw-Dropping_Feats,_Loud_and_Wide)\n [Jaw-Dropping Feats, Loud and Wide](https://wutheringwaves.fandom.com/wiki/Jaw-Dropping_Feats,_Loud_and_Wide)\nNode 4\n\n[Immortals Bow, in Reverence Flawed](https://wutheringwaves.fandom.com/wiki/Immortals_Bow,_in_Reverence_Flawed)\n [Immortals Bow, in Reverence Flawed](https://wutheringwaves.fandom.com/wiki/Immortals_Bow,_in_Reverence_Flawed)\nNode 5\n\n[Seven Stars Shine, Stepped upon High](https://wutheringwaves.fandom.com/wiki/Seven_Stars_Shine,_Stepped_upon_High)\n [Seven Stars Shine, Stepped upon High](https://wutheringwaves.fandom.com/wiki/Seven_Stars_Shine,_Stepped_upon_High)\nNode 6\n\n[Demons Tremble, Divine Power Nigh](https://wutheringwaves.fandom.com/wiki/Demons_Tremble,_Divine_Power_Nigh)\n [Demons Tremble, Divine Power Nigh](https://wutheringwaves.fandom.com/wiki/Demons_Tremble,_Divine_Power_Nigh)"
+    }
+  ]
 }

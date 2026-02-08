@@ -118,22 +118,44 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Sanhua/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "hp": 2093,
-      "atk": 57.2,
-      "def": 197.12
+      "atk": 57,
+      "def": 197
     },
     "50": {
-      "hp": 5200.3,
-      "atk": 145.42,
-      "def": 488.18
+      "hp": 5200,
+      "atk": 145,
+      "def": 488
     },
     "90": {
-      "hp": 10062.5,
+      "hp": 10063,
       "atk": 275,
-      "def": 941.09
+      "def": 941
     }
-  }
+  },
+  "officialIntroduction": "A loyal and reliable guard for Jinhsi, Sanhua is composed and reserved.\n\nSanhua perceives a world distinctly different from that in the eyes of others, and her body temperature is below normal\n\nHer Forte allows her to cool the surrounding air and conjure snow.\n\nTo maintain emotional stability and prevent Overclocking, Sanhua finds solace in the art of swordplay.\n\nThis allows her to master her Forte with graceful ease and alleviates the burden on her body.\n\n[Her introduction on the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "May 23, 2024",
+  "nation": "Huanglong",
+  "gender": "Female",
+  "class": "Mutant",
+  "birthplace": "Huanglong",
+  "affiliations": [
+    "Jinzhou (on profile)",
+    "City Hall"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Solitude's Embrace Solitude's EmbraceNode 2Snowy Clarity Snowy ClarityNode 3Anomalous Vision Anomalous VisionNode 4Blade Mastery Blade MasteryNode 5Unraveling Fate Unraveling FateNode 6Daybreak Radiance Daybreak Radiance",
+      "descriptionMd": "Node 1\n\n[Solitude's Embrace](https://wutheringwaves.fandom.com/wiki/Solitude%27s_Embrace)\n [Solitude's Embrace](https://wutheringwaves.fandom.com/wiki/Solitude%27s_Embrace)\nNode 2\n\n[Snowy Clarity](https://wutheringwaves.fandom.com/wiki/Snowy_Clarity)\n [Snowy Clarity](https://wutheringwaves.fandom.com/wiki/Snowy_Clarity)\nNode 3\n\n[Anomalous Vision](https://wutheringwaves.fandom.com/wiki/Anomalous_Vision)\n [Anomalous Vision](https://wutheringwaves.fandom.com/wiki/Anomalous_Vision)\nNode 4\n\n[Blade Mastery](https://wutheringwaves.fandom.com/wiki/Blade_Mastery)\n [Blade Mastery](https://wutheringwaves.fandom.com/wiki/Blade_Mastery)\nNode 5\n\n[Unraveling Fate](https://wutheringwaves.fandom.com/wiki/Unraveling_Fate)\n [Unraveling Fate](https://wutheringwaves.fandom.com/wiki/Unraveling_Fate)\nNode 6\n\n[Daybreak Radiance](https://wutheringwaves.fandom.com/wiki/Daybreak_Radiance)\n [Daybreak Radiance](https://wutheringwaves.fandom.com/wiki/Daybreak_Radiance)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Solitude's Embrace Solitude's Embrace",
+      "descriptionMd": "Node 2\n\n[Snowy Clarity](https://wutheringwaves.fandom.com/wiki/Snowy_Clarity)\n [Snowy Clarity](https://wutheringwaves.fandom.com/wiki/Snowy_Clarity)\nNode 3\n\n[Anomalous Vision](https://wutheringwaves.fandom.com/wiki/Anomalous_Vision)\n [Anomalous Vision](https://wutheringwaves.fandom.com/wiki/Anomalous_Vision)\nNode 4\n\n[Blade Mastery](https://wutheringwaves.fandom.com/wiki/Blade_Mastery)\n [Blade Mastery](https://wutheringwaves.fandom.com/wiki/Blade_Mastery)\nNode 5\n\n[Unraveling Fate](https://wutheringwaves.fandom.com/wiki/Unraveling_Fate)\n [Unraveling Fate](https://wutheringwaves.fandom.com/wiki/Unraveling_Fate)\nNode 6\n\n[Daybreak Radiance](https://wutheringwaves.fandom.com/wiki/Daybreak_Radiance)\n [Daybreak Radiance](https://wutheringwaves.fandom.com/wiki/Daybreak_Radiance)"
+    }
+  ]
 }

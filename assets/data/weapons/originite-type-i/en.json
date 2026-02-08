@@ -7,11 +7,11 @@
   "passive": {
     "name": "Temperance",
     "descriptionMdByRank": {
-      "1": "When Resonance Skill is released, restores HP by **3%**. This effect can be triggered 1 time(s) every 12s.",
-      "2": "When Resonance Skill is released, restores HP by **3.75%**. This effect can be triggered 1 time(s) every 12s.",
-      "3": "When Resonance Skill is released, restores HP by **4.5%**. This effect can be triggered 1 time(s) every 12s.",
-      "4": "When Resonance Skill is released, restores HP by **5.25%**. This effect can be triggered 1 time(s) every 12s.",
-      "5": "When Resonance Skill is released, restores HP by **6%**. This effect can be triggered 1 time(s) every 12s."
+      "1": "When Resonance Skill is released, restores HP by **3**. This effect can be triggered 1 time(s) every 12s.",
+      "2": "When Resonance Skill is released, restores HP by **3.75**. This effect can be triggered 1 time(s) every 12s.",
+      "3": "When Resonance Skill is released, restores HP by **4.5**. This effect can be triggered 1 time(s) every 12s.",
+      "4": "When Resonance Skill is released, restores HP by **5.25**. This effect can be triggered 1 time(s) every 12s.",
+      "5": "When Resonance Skill is released, restores HP by **6**. This effect can be triggered 1 time(s) every 12s."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Originite%3A%20Type%20I"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 62

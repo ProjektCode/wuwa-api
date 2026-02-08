@@ -118,22 +118,44 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Chixia/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 1890.2,
-      "atk": 62.4,
-      "def": 199.68
+      "hp": 1890,
+      "atk": 62,
+      "def": 200
     },
     "50": {
-      "hp": 4696.42,
-      "atk": 158.64,
-      "def": 494.52
+      "hp": 4696,
+      "atk": 159,
+      "def": 495
     },
     "90": {
-      "hp": 9087.5,
+      "hp": 9088,
       "atk": 300,
-      "def": 953.32
+      "def": 953
     }
-  }
+  },
+  "officialIntroduction": "Chixia is a junior Jinzhou Patroller.\n\nShe roams Jinzhou City, leaving her fiery mark on every alley she stamps through.\n\nAs the starring hero among her community, Chixia is always ready for anyone in need.\n\n[Her introduction on the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "May 23, 2024",
+  "nation": "Huanglong",
+  "gender": "Female",
+  "class": "Mutant",
+  "birthplace": "Huanglong",
+  "affiliations": [
+    "Jinzhou (on profile)",
+    "Public Security Bureau"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1No.1 Hero Play Fan No.1 Hero Play FanNode 2Leaping Sparkles Leaping SparklesNode 3Eternal Flames Eternal FlamesNode 4Hero’s Ultimate Move Hero’s Ultimate MoveNode 5Triumphant Explosions Triumphant ExplosionsNode 6Easter Egg Performance Easter Egg Performance",
+      "descriptionMd": "Node 1\n\n[No.1 Hero Play Fan](https://wutheringwaves.fandom.com/wiki/No.1_Hero_Play_Fan)\n [No.1 Hero Play Fan](https://wutheringwaves.fandom.com/wiki/No.1_Hero_Play_Fan)\nNode 2\n\n[Leaping Sparkles](https://wutheringwaves.fandom.com/wiki/Leaping_Sparkles)\n [Leaping Sparkles](https://wutheringwaves.fandom.com/wiki/Leaping_Sparkles)\nNode 3\n\n[Eternal Flames](https://wutheringwaves.fandom.com/wiki/Eternal_Flames)\n [Eternal Flames](https://wutheringwaves.fandom.com/wiki/Eternal_Flames)\nNode 4\n\n[Hero’s Ultimate Move](https://wutheringwaves.fandom.com/wiki/Hero%E2%80%99s_Ultimate_Move)\n [Hero’s Ultimate Move](https://wutheringwaves.fandom.com/wiki/Hero%E2%80%99s_Ultimate_Move)\nNode 5\n\n[Triumphant Explosions](https://wutheringwaves.fandom.com/wiki/Triumphant_Explosions)\n [Triumphant Explosions](https://wutheringwaves.fandom.com/wiki/Triumphant_Explosions)\nNode 6\n\n[Easter Egg Performance](https://wutheringwaves.fandom.com/wiki/Easter_Egg_Performance)\n [Easter Egg Performance](https://wutheringwaves.fandom.com/wiki/Easter_Egg_Performance)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1No.1 Hero Play Fan No.1 Hero Play Fan",
+      "descriptionMd": "Node 2\n\n[Leaping Sparkles](https://wutheringwaves.fandom.com/wiki/Leaping_Sparkles)\n [Leaping Sparkles](https://wutheringwaves.fandom.com/wiki/Leaping_Sparkles)\nNode 3\n\n[Eternal Flames](https://wutheringwaves.fandom.com/wiki/Eternal_Flames)\n [Eternal Flames](https://wutheringwaves.fandom.com/wiki/Eternal_Flames)\nNode 4\n\n[Hero’s Ultimate Move](https://wutheringwaves.fandom.com/wiki/Hero%E2%80%99s_Ultimate_Move)\n [Hero’s Ultimate Move](https://wutheringwaves.fandom.com/wiki/Hero%E2%80%99s_Ultimate_Move)\nNode 5\n\n[Triumphant Explosions](https://wutheringwaves.fandom.com/wiki/Triumphant_Explosions)\n [Triumphant Explosions](https://wutheringwaves.fandom.com/wiki/Triumphant_Explosions)\nNode 6\n\n[Easter Egg Performance](https://wutheringwaves.fandom.com/wiki/Easter_Egg_Performance)\n [Easter Egg Performance](https://wutheringwaves.fandom.com/wiki/Easter_Egg_Performance)"
+    }
+  ]
 }

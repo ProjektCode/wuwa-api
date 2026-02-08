@@ -7,11 +7,11 @@
   "passive": {
     "name": "Thread of Fate",
     "descriptionMdByRank": {
-      "1": "ATK is increased by **12%**. When the wielder casts [Intro Skill](https://wutheringwaves.fandom.com/wiki/Intro_Skill) or inflicts [Negative Status](https://wutheringwaves.fandom.com/wiki/Negative_Status), they gain **8%** Resonance Liberation DMG Bonus, stacking up to 3 times for 15s. At max stacks, when Resonators in the team inflict Negative Status, grants **24%** All-Attribute DMG Bonus for 15s. Effects of the same name cannot be stacked.",
-      "2": "ATK is increased by **15%**. When the wielder casts [Intro Skill](https://wutheringwaves.fandom.com/wiki/Intro_Skill) or inflicts [Negative Status](https://wutheringwaves.fandom.com/wiki/Negative_Status), they gain **10%** Resonance Liberation DMG Bonus, stacking up to 3 times for 15s. At max stacks, when Resonators in the team inflict Negative Status, grants **30%** All-Attribute DMG Bonus for 15s. Effects of the same name cannot be stacked.",
-      "3": "ATK is increased by **18%**. When the wielder casts [Intro Skill](https://wutheringwaves.fandom.com/wiki/Intro_Skill) or inflicts [Negative Status](https://wutheringwaves.fandom.com/wiki/Negative_Status), they gain **12%** Resonance Liberation DMG Bonus, stacking up to 3 times for 15s. At max stacks, when Resonators in the team inflict Negative Status, grants **36%** All-Attribute DMG Bonus for 15s. Effects of the same name cannot be stacked.",
-      "4": "ATK is increased by **21%**. When the wielder casts [Intro Skill](https://wutheringwaves.fandom.com/wiki/Intro_Skill) or inflicts [Negative Status](https://wutheringwaves.fandom.com/wiki/Negative_Status), they gain **14%** Resonance Liberation DMG Bonus, stacking up to 3 times for 15s. At max stacks, when Resonators in the team inflict Negative Status, grants **42%** All-Attribute DMG Bonus for 15s. Effects of the same name cannot be stacked.",
-      "5": "ATK is increased by **24%**. When the wielder casts [Intro Skill](https://wutheringwaves.fandom.com/wiki/Intro_Skill) or inflicts [Negative Status](https://wutheringwaves.fandom.com/wiki/Negative_Status), they gain **16%** Resonance Liberation DMG Bonus, stacking up to 3 times for 15s. At max stacks, when Resonators in the team inflict Negative Status, grants **48%** All-Attribute DMG Bonus for 15s. Effects of the same name cannot be stacked."
+      "1": "ATK is increased by **12**. When the wielder casts [Intro Skill](https://wutheringwaves.fandom.com/wiki/Intro_Skill) or inflicts [Negative Status](https://wutheringwaves.fandom.com/wiki/Negative_Status), they gain **8** Resonance Liberation DMG Bonus, stacking up to 3 times for 15s. At max stacks, when Resonators in the team inflict Negative Status, grants **24** All-Attribute DMG Bonus for 15s. Effects of the same name cannot be stacked.",
+      "2": "ATK is increased by **15**. When the wielder casts [Intro Skill](https://wutheringwaves.fandom.com/wiki/Intro_Skill) or inflicts [Negative Status](https://wutheringwaves.fandom.com/wiki/Negative_Status), they gain **10** Resonance Liberation DMG Bonus, stacking up to 3 times for 15s. At max stacks, when Resonators in the team inflict Negative Status, grants **30** All-Attribute DMG Bonus for 15s. Effects of the same name cannot be stacked.",
+      "3": "ATK is increased by **18**. When the wielder casts [Intro Skill](https://wutheringwaves.fandom.com/wiki/Intro_Skill) or inflicts [Negative Status](https://wutheringwaves.fandom.com/wiki/Negative_Status), they gain **12** Resonance Liberation DMG Bonus, stacking up to 3 times for 15s. At max stacks, when Resonators in the team inflict Negative Status, grants **36** All-Attribute DMG Bonus for 15s. Effects of the same name cannot be stacked.",
+      "4": "ATK is increased by **21**. When the wielder casts [Intro Skill](https://wutheringwaves.fandom.com/wiki/Intro_Skill) or inflicts [Negative Status](https://wutheringwaves.fandom.com/wiki/Negative_Status), they gain **14** Resonance Liberation DMG Bonus, stacking up to 3 times for 15s. At max stacks, when Resonators in the team inflict Negative Status, grants **42** All-Attribute DMG Bonus for 15s. Effects of the same name cannot be stacked.",
+      "5": "ATK is increased by **24**. When the wielder casts [Intro Skill](https://wutheringwaves.fandom.com/wiki/Intro_Skill) or inflicts [Negative Status](https://wutheringwaves.fandom.com/wiki/Negative_Status), they gain **16** Resonance Liberation DMG Bonus, stacking up to 3 times for 15s. At max stacks, when Resonators in the team inflict Negative Status, grants **48** All-Attribute DMG Bonus for 15s. Effects of the same name cannot be stacked."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Kumokiri"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 104

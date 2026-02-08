@@ -7,11 +7,11 @@
   "passive": {
     "name": "Panorama",
     "descriptionMdByRank": {
-      "1": "Increase ATK by **12%**. While the wielder is on the field, using Resonance Skill grants **12%** Basic Attack DMG Bonus, stacking up to 3 times for 6s. At 3 stacks or above, casting Outro Skill consumes all stacks of this effect and grants the wielder **52%** Basic Attack DMG Bonus for 27s, effective when the wielder is off the field.",
-      "2": "Increase ATK by **15%**. While the wielder is on the field, using Resonance Skill grants **15%** Basic Attack DMG Bonus, stacking up to 3 times for 6s. At 3 stacks or above, casting Outro Skill consumes all stacks of this effect and grants the wielder **65%** Basic Attack DMG Bonus for 27s, effective when the wielder is off the field.",
-      "3": "Increase ATK by **18%**. While the wielder is on the field, using Resonance Skill grants **18%** Basic Attack DMG Bonus, stacking up to 3 times for 6s. At 3 stacks or above, casting Outro Skill consumes all stacks of this effect and grants the wielder **78%** Basic Attack DMG Bonus for 27s, effective when the wielder is off the field.",
-      "4": "Increase ATK by **21%**. While the wielder is on the field, using Resonance Skill grants **21%** Basic Attack DMG Bonus, stacking up to 3 times for 6s. At 3 stacks or above, casting Outro Skill consumes all stacks of this effect and grants the wielder **91%** Basic Attack DMG Bonus for 27s, effective when the wielder is off the field.",
-      "5": "Increase ATK by **24%**. While the wielder is on the field, using Resonance Skill grants **24%** Basic Attack DMG Bonus, stacking up to 3 times for 6s. At 3 stacks or above, casting Outro Skill consumes all stacks of this effect and grants the wielder **104%** Basic Attack DMG Bonus for 27s, effective when the wielder is off the field."
+      "1": "Increase ATK by **12**. While the wielder is on the field, using Resonance Skill grants **12** Basic Attack DMG Bonus, stacking up to 3 times for 6s. At 3 stacks or above, casting Outro Skill consumes all stacks of this effect and grants the wielder **52** Basic Attack DMG Bonus for 27s, effective when the wielder is off the field.",
+      "2": "Increase ATK by **15**. While the wielder is on the field, using Resonance Skill grants **15** Basic Attack DMG Bonus, stacking up to 3 times for 6s. At 3 stacks or above, casting Outro Skill consumes all stacks of this effect and grants the wielder **65** Basic Attack DMG Bonus for 27s, effective when the wielder is off the field.",
+      "3": "Increase ATK by **18**. While the wielder is on the field, using Resonance Skill grants **18** Basic Attack DMG Bonus, stacking up to 3 times for 6s. At 3 stacks or above, casting Outro Skill consumes all stacks of this effect and grants the wielder **78** Basic Attack DMG Bonus for 27s, effective when the wielder is off the field.",
+      "4": "Increase ATK by **21**. While the wielder is on the field, using Resonance Skill grants **21** Basic Attack DMG Bonus, stacking up to 3 times for 6s. At 3 stacks or above, casting Outro Skill consumes all stacks of this effect and grants the wielder **91** Basic Attack DMG Bonus for 27s, effective when the wielder is off the field.",
+      "5": "Increase ATK by **24**. While the wielder is on the field, using Resonance Skill grants **24** Basic Attack DMG Bonus, stacking up to 3 times for 6s. At 3 stacks or above, casting Outro Skill consumes all stacks of this effect and grants the wielder **104** Basic Attack DMG Bonus for 27s, effective when the wielder is off the field."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Rime-Draped%20Sprouts"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 104

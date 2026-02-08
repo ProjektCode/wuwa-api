@@ -75,6 +75,24 @@ const characterSkillSchema = {
   required: ["id", "name"],
 } as const;
 
+const stringOrStringArraySchema = {
+  anyOf: [
+    { type: "string" },
+    { type: "array", items: { type: "string" } },
+  ],
+  nullable: true,
+} as const;
+
+const resonanceChainEntrySchema = {
+  type: "object",
+  properties: {
+    rank: { type: "integer", nullable: true },
+    name: { type: "string", nullable: true },
+    descriptionMd: { type: "string", nullable: true },
+  },
+  required: ["name", "descriptionMd"],
+} as const;
+
 const characterSchema = {
   type: "object",
   properties: {
@@ -83,6 +101,25 @@ const characterSchema = {
     rarity: { type: "integer", nullable: true },
     element: { type: "string", nullable: true },
     weaponType: { type: "string", nullable: true },
+    combatRoles: stringOrStringArraySchema,
+    officialIntroduction: { type: "string", nullable: true },
+    releaseDate: { type: "string", nullable: true },
+    nation: { type: "string", nullable: true },
+    gender: { type: "string", nullable: true },
+    class: { type: "string", nullable: true },
+    birthplace: { type: "string", nullable: true },
+    additionalTitles: stringOrStringArraySchema,
+    affiliations: stringOrStringArraySchema,
+    skinImages: {
+      type: "array",
+      items: { type: "string" },
+      nullable: true,
+    },
+    resonanceChain: {
+      type: "array",
+      items: resonanceChainEntrySchema,
+      nullable: true,
+    },
     statsByLevel: {
       type: "object",
       additionalProperties: {

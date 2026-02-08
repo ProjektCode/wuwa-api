@@ -118,22 +118,45 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Galbrena/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2142.4,
-      "atk": 96.2,
-      "def": 232.96
+      "hp": 2142,
+      "atk": 96,
+      "def": 233
     },
     "50": {
-      "hp": 5323.04,
-      "atk": 244.57,
-      "def": 576.94
+      "hp": 5323,
+      "atk": 245,
+      "def": 577
     },
     "90": {
       "hp": 10300,
-      "atk": 462.5,
-      "def": 1112.2
+      "atk": 463,
+      "def": 1112
     }
-  }
+  },
+  "officialIntroduction": "N/A",
+  "releaseDate": "October 09, 2025",
+  "nation": "The Black Shores",
+  "gender": "Female",
+  "class": "Congenital",
+  "birthplace": "Rinascita",
+  "affiliations": [
+    "Black Shores (on profile)",
+    "Septimont",
+    "Fabianum"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Heart of Defiance Ever Ablaze Heart of Defiance Ever AblazeNode 2Hellbound Dive of Fire and Abyss Hellbound Dive of Fire and AbyssNode 3Hunter's Blood Oath Rekindled Hunter's Blood Oath RekindledNode 4Carry Forth This Fading Spark Carry Forth This Fading SparkNode 5Though Light Fades, Torment Consumes Though Light Fades, Torment ConsumesNode 6I Remain Who I am, Eternal My Flame I Remain Who I am, Eternal My Flame",
+      "descriptionMd": "Node 1\n\n[Heart of Defiance Ever Ablaze](https://wutheringwaves.fandom.com/wiki/Heart_of_Defiance_Ever_Ablaze)\n [Heart of Defiance Ever Ablaze](https://wutheringwaves.fandom.com/wiki/Heart_of_Defiance_Ever_Ablaze)\nNode 2\n\n[Hellbound Dive of Fire and Abyss](https://wutheringwaves.fandom.com/wiki/Hellbound_Dive_of_Fire_and_Abyss)\n [Hellbound Dive of Fire and Abyss](https://wutheringwaves.fandom.com/wiki/Hellbound_Dive_of_Fire_and_Abyss)\nNode 3\n\n[Hunter's Blood Oath Rekindled](https://wutheringwaves.fandom.com/wiki/Hunter%27s_Blood_Oath_Rekindled)\n [Hunter's Blood Oath Rekindled](https://wutheringwaves.fandom.com/wiki/Hunter%27s_Blood_Oath_Rekindled)\nNode 4\n\n[Carry Forth This Fading Spark](https://wutheringwaves.fandom.com/wiki/Carry_Forth_This_Fading_Spark)\n [Carry Forth This Fading Spark](https://wutheringwaves.fandom.com/wiki/Carry_Forth_This_Fading_Spark)\nNode 5\n\n[Though Light Fades, Torment Consumes](https://wutheringwaves.fandom.com/wiki/Though_Light_Fades,_Torment_Consumes)\n [Though Light Fades, Torment Consumes](https://wutheringwaves.fandom.com/wiki/Though_Light_Fades,_Torment_Consumes)\nNode 6\n\n[I Remain Who I am, Eternal My Flame](https://wutheringwaves.fandom.com/wiki/I_Remain_Who_I_am,_Eternal_My_Flame)\n [I Remain Who I am, Eternal My Flame](https://wutheringwaves.fandom.com/wiki/I_Remain_Who_I_am,_Eternal_My_Flame)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Heart of Defiance Ever Ablaze Heart of Defiance Ever Ablaze",
+      "descriptionMd": "Node 2\n\n[Hellbound Dive of Fire and Abyss](https://wutheringwaves.fandom.com/wiki/Hellbound_Dive_of_Fire_and_Abyss)\n [Hellbound Dive of Fire and Abyss](https://wutheringwaves.fandom.com/wiki/Hellbound_Dive_of_Fire_and_Abyss)\nNode 3\n\n[Hunter's Blood Oath Rekindled](https://wutheringwaves.fandom.com/wiki/Hunter%27s_Blood_Oath_Rekindled)\n [Hunter's Blood Oath Rekindled](https://wutheringwaves.fandom.com/wiki/Hunter%27s_Blood_Oath_Rekindled)\nNode 4\n\n[Carry Forth This Fading Spark](https://wutheringwaves.fandom.com/wiki/Carry_Forth_This_Fading_Spark)\n [Carry Forth This Fading Spark](https://wutheringwaves.fandom.com/wiki/Carry_Forth_This_Fading_Spark)\nNode 5\n\n[Though Light Fades, Torment Consumes](https://wutheringwaves.fandom.com/wiki/Though_Light_Fades,_Torment_Consumes)\n [Though Light Fades, Torment Consumes](https://wutheringwaves.fandom.com/wiki/Though_Light_Fades,_Torment_Consumes)\nNode 6\n\n[I Remain Who I am, Eternal My Flame](https://wutheringwaves.fandom.com/wiki/I_Remain_Who_I_am,_Eternal_My_Flame)\n [I Remain Who I am, Eternal My Flame](https://wutheringwaves.fandom.com/wiki/I_Remain_Who_I_am,_Eternal_My_Flame)"
+    }
+  ]
 }

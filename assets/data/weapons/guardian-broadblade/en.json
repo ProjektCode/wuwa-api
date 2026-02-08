@@ -7,11 +7,11 @@
   "passive": {
     "name": "Consensus",
     "descriptionMdByRank": {
-      "1": "Increases Basic Attack DMG and Heavy Attack DMG by **12%**.",
-      "2": "Increases Basic Attack DMG and Heavy Attack DMG by **15%**.",
-      "3": "Increases Basic Attack DMG and Heavy Attack DMG by **18%**.",
-      "4": "Increases Basic Attack DMG and Heavy Attack DMG by **21%**.",
-      "5": "Increases Basic Attack DMG and Heavy Attack DMG by **24%**."
+      "1": "Increases Basic Attack DMG and Heavy Attack DMG by **12**.",
+      "2": "Increases Basic Attack DMG and Heavy Attack DMG by **15**.",
+      "3": "Increases Basic Attack DMG and Heavy Attack DMG by **18**.",
+      "4": "Increases Basic Attack DMG and Heavy Attack DMG by **21**.",
+      "5": "Increases Basic Attack DMG and Heavy Attack DMG by **24**."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Guardian%20Broadblade"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 67

@@ -118,22 +118,44 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Cantarella/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2412.8,
-      "atk": 83.2,
-      "def": 230.4
+      "hp": 2413,
+      "atk": 83,
+      "def": 230
     },
     "50": {
-      "hp": 5994.88,
-      "atk": 211.52,
-      "def": 570.6
+      "hp": 5995,
+      "atk": 212,
+      "def": 571
     },
     "90": {
       "hp": 11600,
       "atk": 400,
-      "def": 1099.98
+      "def": 1100
     }
-  }
+  },
+  "officialIntroduction": "The Fisalia family's thirty-sixth head, Cantarella Fisalia.\n\nShe locks your gaze with eyes as deep as the ocean, where dark tides seem to surge and swirl.\n\nFor a moment, you think you glimpse something in the ocean's depths—but you are unsure if it is the shadow of a giant sea creature... or the tail feathers of the Celestial Steed.\n\nHer introduction on the [Official Website](https://wutheringwaves.kurogames.com/en/main#resonators).",
+  "releaseDate": "March 27, 2025",
+  "nation": "Rinascita",
+  "gender": "Female",
+  "class": "Unclear",
+  "birthplace": "Rinascita",
+  "affiliations": [
+    "Fisalia Family (on profile)",
+    "Ragunna"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Embrace the Endless Waves Embrace the Endless WavesNode 2Surrender to the Illusive Reverie Surrender to the Illusive ReverieNode 3Gaze into the Abyss Gaze into the AbyssNode 4Behold Your Own Soul Behold Your Own SoulNode 5Rest in Your Reflection Rest in Your ReflectionNode 6Fall, Fall... and Fall Deeper into the Dream Fall, Fall... and Fall Deeper into the Dream",
+      "descriptionMd": "Node 1\n\n[Embrace the Endless Waves](https://wutheringwaves.fandom.com/wiki/Embrace_the_Endless_Waves)\n [Embrace the Endless Waves](https://wutheringwaves.fandom.com/wiki/Embrace_the_Endless_Waves)\nNode 2\n\n[Surrender to the Illusive Reverie](https://wutheringwaves.fandom.com/wiki/Surrender_to_the_Illusive_Reverie)\n [Surrender to the Illusive Reverie](https://wutheringwaves.fandom.com/wiki/Surrender_to_the_Illusive_Reverie)\nNode 3\n\n[Gaze into the Abyss](https://wutheringwaves.fandom.com/wiki/Gaze_into_the_Abyss)\n [Gaze into the Abyss](https://wutheringwaves.fandom.com/wiki/Gaze_into_the_Abyss)\nNode 4\n\n[Behold Your Own Soul](https://wutheringwaves.fandom.com/wiki/Behold_Your_Own_Soul)\n [Behold Your Own Soul](https://wutheringwaves.fandom.com/wiki/Behold_Your_Own_Soul)\nNode 5\n\n[Rest in Your Reflection](https://wutheringwaves.fandom.com/wiki/Rest_in_Your_Reflection)\n [Rest in Your Reflection](https://wutheringwaves.fandom.com/wiki/Rest_in_Your_Reflection)\nNode 6\n\n[Fall, Fall... and Fall Deeper into the Dream](https://wutheringwaves.fandom.com/wiki/Fall,_Fall..._and_Fall_Deeper_into_the_Dream)\n [Fall, Fall... and Fall Deeper into the Dream](https://wutheringwaves.fandom.com/wiki/Fall,_Fall..._and_Fall_Deeper_into_the_Dream)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Embrace the Endless Waves Embrace the Endless Waves",
+      "descriptionMd": "Node 2\n\n[Surrender to the Illusive Reverie](https://wutheringwaves.fandom.com/wiki/Surrender_to_the_Illusive_Reverie)\n [Surrender to the Illusive Reverie](https://wutheringwaves.fandom.com/wiki/Surrender_to_the_Illusive_Reverie)\nNode 3\n\n[Gaze into the Abyss](https://wutheringwaves.fandom.com/wiki/Gaze_into_the_Abyss)\n [Gaze into the Abyss](https://wutheringwaves.fandom.com/wiki/Gaze_into_the_Abyss)\nNode 4\n\n[Behold Your Own Soul](https://wutheringwaves.fandom.com/wiki/Behold_Your_Own_Soul)\n [Behold Your Own Soul](https://wutheringwaves.fandom.com/wiki/Behold_Your_Own_Soul)\nNode 5\n\n[Rest in Your Reflection](https://wutheringwaves.fandom.com/wiki/Rest_in_Your_Reflection)\n [Rest in Your Reflection](https://wutheringwaves.fandom.com/wiki/Rest_in_Your_Reflection)\nNode 6\n\n[Fall, Fall... and Fall Deeper into the Dream](https://wutheringwaves.fandom.com/wiki/Fall,_Fall..._and_Fall_Deeper_into_the_Dream)\n [Fall, Fall... and Fall Deeper into the Dream](https://wutheringwaves.fandom.com/wiki/Fall,_Fall..._and_Fall_Deeper_into_the_Dream)"
+    }
+  ]
 }

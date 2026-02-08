@@ -7,11 +7,11 @@
   "passive": {
     "name": "Darkness Breaker",
     "descriptionMdByRank": {
-      "1": "Increases ATK by **12%**. Casting Basic Attack grants the following effects: Dealing damage ignores **8%** of the target's DEF and Amplifies Spectro Frazzle DMG dealt by **50%** for 6s. Retriggering the effect resets its duration.",
-      "2": "Increases ATK by **15%**. Casting Basic Attack grants the following effects: Dealing damage ignores **10%** of the target's DEF and Amplifies Spectro Frazzle DMG dealt by **62.5%** for 6s. Retriggering the effect resets its duration.",
-      "3": "Increases ATK by **18%**. Casting Basic Attack grants the following effects: Dealing damage ignores **12%** of the target's DEF and Amplifies Spectro Frazzle DMG dealt by **75%** for 6s. Retriggering the effect resets its duration.",
-      "4": "Increases ATK by **21%**. Casting Basic Attack grants the following effects: Dealing damage ignores **14%** of the target's DEF and Amplifies Spectro Frazzle DMG dealt by **87.5%** for 6s. Retriggering the effect resets its duration.",
-      "5": "Increases ATK by **24%**. Casting Basic Attack grants the following effects: Dealing damage ignores **16%** of the target's DEF and Amplifies Spectro Frazzle DMG dealt by **100%** for 6s. Retriggering the effect resets its duration."
+      "1": "Increases ATK by **12**. Casting Basic Attack grants the following effects: Dealing damage ignores **8** of the target's DEF and Amplifies Spectro Frazzle DMG dealt by **50** for 6s. Retriggering the effect resets its duration.",
+      "2": "Increases ATK by **15**. Casting Basic Attack grants the following effects: Dealing damage ignores **10** of the target's DEF and Amplifies Spectro Frazzle DMG dealt by **62.5** for 6s. Retriggering the effect resets its duration.",
+      "3": "Increases ATK by **18**. Casting Basic Attack grants the following effects: Dealing damage ignores **12** of the target's DEF and Amplifies Spectro Frazzle DMG dealt by **75** for 6s. Retriggering the effect resets its duration.",
+      "4": "Increases ATK by **21**. Casting Basic Attack grants the following effects: Dealing damage ignores **14** of the target's DEF and Amplifies Spectro Frazzle DMG dealt by **87.5** for 6s. Retriggering the effect resets its duration.",
+      "5": "Increases ATK by **24**. Casting Basic Attack grants the following effects: Dealing damage ignores **16** of the target's DEF and Amplifies Spectro Frazzle DMG dealt by **100** for 6s. Retriggering the effect resets its duration."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Blazing%20Justice"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 122

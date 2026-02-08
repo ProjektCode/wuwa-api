@@ -7,11 +7,11 @@
   "passive": {
     "name": "Valiance",
     "descriptionMdByRank": {
-      "1": "When Intro Skill is released, increases ATK by **8%**, lasting for 10s.",
-      "2": "When Intro Skill is released, increases ATK by **10%**, lasting for 10s.",
-      "3": "When Intro Skill is released, increases ATK by **12%**, lasting for 10s.",
-      "4": "When Intro Skill is released, increases ATK by **14%**, lasting for 10s.",
-      "5": "When Intro Skill is released, increases ATK by **16%**, lasting for 10s."
+      "1": "When Intro Skill is released, increases ATK by **8**, lasting for 10s.",
+      "2": "When Intro Skill is released, increases ATK by **10**, lasting for 10s.",
+      "3": "When Intro Skill is released, increases ATK by **12**, lasting for 10s.",
+      "4": "When Intro Skill is released, increases ATK by **14**, lasting for 10s.",
+      "5": "When Intro Skill is released, increases ATK by **16**, lasting for 10s."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Gauntlets%20of%20Night"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 67

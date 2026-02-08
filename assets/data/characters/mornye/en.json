@@ -4,7 +4,116 @@
   "rarity": 5,
   "element": "Fusion",
   "weaponType": "Broadblade",
-  "skills": [],
+  "skills": [
+    {
+      "id": "basic-attack-ground-state-calibration",
+      "name": "Ground State Calibration",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack**\n\n- Perform up to **4** consecutive attacks, dealing Fusion DMG.\n\n**Heavy Attack**\n\n- Consume STA to attack the target, dealing Fusion DMG.\n\n**Basic Attack - Wide Field Observation Mode**\n\n- While in Wide Field Observation Mode, Basic Attack is replaced with Basic Attack - Wide Field Observation Mode.\n- Perform up to **3** consecutive attacks, dealing Fusion DMG.\n\n**Mid-air Attack**\n\n- Consume STA to perform Mid-air Plunging Attack, dealing Fusion DMG. Press Normal Attack within a certain time afterward to cast Basic Attack Stage 3.\n\n**Dodge Counter**\n\n- Press Normal Attack right after a successful Dodge to attack the target, dealing Fusion DMG.\n- Press Normal Attack shortly after performing this attack to perform Basic Attack Stage 2.\n\n**Dodge Counter - Wide Field Observation Mode**\n\n- While in Wide Field Observation Mode, Dodge Counter is replaced with Dodge Counter - Wide Field Observation Mode.\n- Press Normal Attack right after a successful Dodge to counterattack and deal Fusion DMG.\n- Within a certain time afterward, press Normal Attack to cast Basic Attack - Wide Field Observation Mode Stage 3.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Basic Attack Stage 1 DMG | 11.20%+8.40%*2 |\n| Basic Attack Stage 2 DMG | 12.00%+12.00%+9.00%*4 |\n| Basic Attack Stage 3 DMG | 20.80%+5.20%*6 |\n| Basic Attack Stage 4 DMG | 68.00% |\n| Basic Attack - Wide Field Observation Mode Stage 1 DMG | 7.00%*4 |\n| Basic Attack - Wide Field Observation Mode Stage 2 DMG | 13.00%*4 |\n| Basic Attack - Wide Field Observation Mode Stage 3 DMG | 4.68%*4+16.64%*2 |\n| Heavy Attack DMG | 5.58%+5.58%+7.44% |\n| Mid-air Attack DMG | 49.60% |\n| Dodge Counter DMG | 81.60% |\n| Dodge Counter - Wide Field Observation Mode DMG | 13.00%*4 |\n| Heavy Attack STA Cost | 25 |\n| Mid-air Attack STA Cost | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Basic Attack Stage 1 DMG | 15.25%+11.44%*2 |\n| Basic Attack Stage 2 DMG | 16.33%+16.33%+12.25%*4 |\n| Basic Attack Stage 3 DMG | 28.31%+7.08%*6 |\n| Basic Attack Stage 4 DMG | 92.54% |\n| Basic Attack - Wide Field Observation Mode Stage 1 DMG | 9.53%*4 |\n| Basic Attack - Wide Field Observation Mode Stage 2 DMG | 17.70%*4 |\n| Basic Attack - Wide Field Observation Mode Stage 3 DMG | 6.37%*4+22.65%*2 |\n| Heavy Attack DMG | 7.60%+7.60%+10.13% |\n| Mid-air Attack DMG | 67.50% |\n| Dodge Counter DMG | 111.05% |\n| Dodge Counter - Wide Field Observation Mode DMG | 17.70%*4 |\n| Heavy Attack STA Cost | 25 |\n| Mid-air Attack STA Cost | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Basic Attack Stage 1 DMG | 22.27%+16.71%*2 |\n| Basic Attack Stage 2 DMG | 23.86%+23.86%+17.90%*4 |\n| Basic Attack Stage 3 DMG | 41.36%+10.34%*6 |\n| Basic Attack Stage 4 DMG | 135.20% |\n| Basic Attack - Wide Field Observation Mode Stage 1 DMG | 13.92%*4 |\n| Basic Attack - Wide Field Observation Mode Stage 2 DMG | 25.85%*4 |\n| Basic Attack - Wide Field Observation Mode Stage 3 DMG | 9.31%*4+33.09%*2 |\n| Heavy Attack DMG | 11.10%+11.10%+14.80% |\n| Mid-air Attack DMG | 98.61% |\n| Dodge Counter DMG | 162.23% |\n| Dodge Counter - Wide Field Observation Mode DMG | 25.85%*4 |\n| Heavy Attack STA Cost | 25 |\n| Mid-air Attack STA Cost | 30 |"
+      }
+    },
+    {
+      "id": "resonance-skill-resolution",
+      "name": "Resolution",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "**Expectation Error**\n\n- Heal all nearby Resonators in the team and enter the Parry state, during which DMG taken is reduced by **100%** for a time. Switching to another Resonator ends this state immediately.\n- If attacked while in the Parry state, exit the state and cast Resonance Skill - Optimal Solution.\n- If not attacked while in the Parry state, press Normal Attack to exit the state and cast Basic Attack Stage 2.\n\n**Optimal Solution**\n\n- Stagnate nearby targets and deal Fusion DMG, reducing the cooldown of Resonance Skill - Expectation Error by **2s**.\n- Switching to another Resonator ends the Stagnation effect early.\n\n**Distributed Array**\n\n- While in Wide Field Observation Mode, Resonance Skill is replaced with Resonance Skill - Distributed Array.\n- Heal all nearby Resonators in the team and summon Hover Cannons to strike the target, dealing Fusion DMG.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Distributed Array Healing | 225+54.00% DEF |\n| Expectation Error Healing | 49+11.88% DEF |\n| Optimal Solution DMG | 90.40% |\n| Distributed Array DMG | 20.00%*4 |\n| Expectation Error Cooldown | 5s |\n| Distributed Array Cooldown | 16s |\n| Distributed Array Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Distributed Array Healing | 355+65.88% DEF |\n| Expectation Error Healing | 78+14.49% DEF |\n| Optimal Solution DMG | 123.02% |\n| Distributed Array DMG | 27.22%*4 |\n| Expectation Error Cooldown | 5s |\n| Distributed Array Cooldown | 16s |\n| Distributed Array Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Distributed Array Healing | 427+113.40% DEF |\n| Expectation Error Healing | 94+24.94% DEF |\n| Optimal Solution DMG | 179.73% |\n| Distributed Array DMG | 39.77%*4 |\n| Expectation Error Cooldown | 5s |\n| Distributed Array Cooldown | 16s |\n| Distributed Array Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "resonance-liberation-critical-protocol",
+      "name": "Critical Protocol",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "Attack the targets within the effective range, dealing Fusion DMG.\n\nFor every **1% **of Mornye's Energy Regen exceeding **100%,** this skill gains an additional** 0.5%** Crit. Rate (up to **80%**) and **1%** Crit. DMG (up to **160%**).\n\nWhen casting this skill, if a Syntony Field is present, remove it and generate a High Syntony Field.\n\nCan be performed in mid-air.\n\n**High Syntony Field**\n\n- High Syntony Field lasts for **25s**.\n- Increases the DEF of all nearby Resonators in the team within the High Syntony Field by **20%**.\n- Inherits the Syntony Field's boost to resistance to interruption and Off-Tune Buildup Rate.\n- Inherits the Syntony Field's healing effect and increases the Healing Multiplier by **40%**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 262.73% DEF |\n| Cooldown | 25s |\n| Resonance Energy Cost | 175 |\n| Concerto Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 357.52% DEF |\n| Cooldown | 25s |\n| Resonance Energy Cost | 175 |\n| Concerto Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 522.33% DEF |\n| Cooldown | 25s |\n| Resonance Energy Cost | 175 |\n| Concerto Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-mass-energy-equivalence",
+      "name": "Mass-Energy Equivalence",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "**Baseline Mode**\n\n- While in her default Baseline Mode, Mornye gains Rest Mass Energy.\n\n**Heavy Attack - Geopotential Shift**\n\n- When Rest Mass Energy reaches **100 **points, Heavy Attack is replaced with Heavy Attack - Geopotential Shift.\n- Cast Heavy Attack - Geopotential Shift to deal Fusion DMG, considered Heavy Attack DMG. Afterward, Mornye jumps into mid-air, consumes all Rest Mass Energy and enters Wide Field Observation Mode.\n\n**Wide Field Observation Mode**\n\n- Wide Field Observation Mode lasts for **30s**.\n  - Upon entering Wide Field Observation Mode, Mornye generates a Syntony Field.\n  - While in Wide Field Observation Mode, Mornye gains Relative Momentum.\n  - If Relative Momentum is below **100 **when holding Normal Attack, perform Basic Attack - Wide Field Observation Mode Stage 1 to 3 in sequence. If Relative Momentum reaches **100 **during this time, cast Heavy Attack - Inversion instead.\n  - While moving, Mornye continuously consumes STA. STA cannot be recovered while in Wide Field Observation Mode.\n  - When Dodging with directional input, Mornye starts to fly at speed, which lasts for up to **10s **or until STA is depleted or until the Wide Field Observation Mode ends.\n  - When Mornye is hit or launched into mid-air, press Dodge to immediately recover from the attack, which is considered a successful Dodge. This effect can be triggered up to **3 **times, which resets when Wide Field Observation Mode ends.\n  - Press Jump and Mornye will slowly descend. Before she lands, Basic Attack - Wide Field Observation Mode, Resonance Skill - Distributed Array, and Heavy Attack - Inversion are unavailable. If Jump is pressed when Mornye runs out of STA, she will exit the Wide Field Observation Mode. She will leave the Wide Field Observation Mode also when she Dodges, Jumps, or performs Mid-air Attacks.\n- Additionally, performing environmental interactions, using Utilities, or switching to another Resonator ends Wide Field Observation Mode. The state also ends when Mornye is no longer airborne.\n\n**Syntony Field**\n\n- Syntony Field lasts for **25s**.\n- When the Syntony Field is generated, deal Fusion DMG, considered Resonance Liberation DMG.\n- Continuously restores HP for nearby active Resonators in the team within the Syntony Field, triggered once every **3s**.\n- Increases the Off-Tune Buildup Rate of all nearby Resonators in the team within the Syntony Field by **50%**.\n- Enhances the resistance to interruption of nearby active Resonators in the team within the Syntony Field.\n\n**Heavy Attack - Inversion**\n\n- When Relative Momentum reaches **100 **points, Heavy Attack is replaced with Heavy Attack - Inversion.\n- Consume all Relative Momentum to cast Heavy Attack - Inversion, dealing Fusion DMG, considered Heavy Attack DMG.\n- Heavy Attack - Inversion inflicts Observation Marker upon the target on hit for **30s**.\n\n**Observation Marker**\n\n- When a Resonator in the team deals Tune Break DMG to a target inflicted with Observation Marker, Mornye inflicts an Interfered Marker on the target for **8s**.\n\n**Interfered Marker**\n\n- Targets affected by Tune Rupture - Interfered or Tune Strain - Interfered take increased DMG from all nearby Resonators in the team. For every **1%** of Mornye's Energy Regen exceeding **100%**, their DMG is increased by **0.25%**, up to **40%**.\n\n**Visual Field**\n\n- When a Resonator in the team defeats a target inflicted with Observation Marker or Interfered Marker, Mornye gains Visual Field for **3s**. While in this state, Mornye inflicts Observation Marker on the target hit whenever any Resonator in the team deals damage.\n\n**Tune Rupture Response - Particle Jet**\n\n- Mornye deals one instance of Fusion DMG to targets in the Tune Rupture - Interfered state within range, considered Tune Rupture DMG.\n\n**Rest Mass Energy**\n\n- Mornye can hold up to **100 **points of Rest Mass Energy.\n- While in Baseline Mode, she gains Rest Mass Energy when performing Basic Attack, Heavy Attack, Dodge Counter, or when Resonance Skill - Optimal Solution hits a target.\n\n**Relative Momentum**\n\n- Mornye can hold up to **100 **points of Relative Momentum.\n- While in Wide Field Observation Mode, she gains Relative Momentum when Basic Attack - Wide Field Observation Mode, Dodge Counter - Wide Field Observation Mode or Resonance Skill - Distributed Array hits the target.\n- Mornye cannot gain Relative Momentum during Heavy Attack - Inversion.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Syntony Field Healing | 40+9.63% DEF |\n| Syntony Field DMG | 20.00%*5 |\n| Heavy Attack - Geopotential Shift DMG | 22.20%+49.81% |\n| Heavy Attack - Inversion DMG | 130.00% |\n| Tune Rupture Response - Particle Jet DMG | 150.00% Tune AMP |\n| Wide Field Observation Mode STA Cost Per Sec | 5 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Syntony Field Healing | 63+11.75% DEF |\n| Syntony Field DMG | 27.22%*5 |\n| Heavy Attack - Geopotential Shift DMG | 30.21%+67.78% |\n| Heavy Attack - Inversion DMG | 176.91% |\n| Tune Rupture Response - Particle Jet DMG | 204.12% Tune AMP |\n| Wide Field Observation Mode STA Cost Per Sec | 5 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Syntony Field Healing | 76+20.24% DEF |\n| Syntony Field DMG | 39.77%*5 |\n| Heavy Attack - Geopotential Shift DMG | 44.14%+99.02% |\n| Heavy Attack - Inversion DMG | 258.46% |\n| Tune Rupture Response - Particle Jet DMG | 298.22% Tune AMP |\n| Wide Field Observation Mode STA Cost Per Sec | 5 |"
+      }
+    },
+    {
+      "id": "inherent-skill-blueprint",
+      "name": "Blueprint",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "Mornye's Energy Regen is increased by **10%**.\n\nCasting Intro Skill - Convergence restores **20 **points of Concerto Energy, triggered once every **20s**.\n\nCasting Basic Attack - Wide Field Observation Mode Stage 3 restores **20 **points of Concerto Energy, triggered once every **20s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-boundedness",
+      "name": "Boundedness",
+      "type": "Inherent Skill",
+      "category": "Active",
+      "descriptionMd": "Casting Resonance Skill - Expectation Error or Resonance Skill - Distributed Array grants Proof of Boundedness to all Resonators in the team:\n\n- Proof of Boundedness lasts for **60s **and can be gained once every **5 **min.\n- When the active Resonator takes DMG greater than **30% **of their Max HP, they instead take DMG equal to **30% **of their Max HP. This effect can trigger up to **3 **times. Proof of Boundedness is removed after triggering it **3 **times.\n- When the active Resonator takes a fatal blow, they are not downed by this instance of damage. This effect can trigger up to **1 **time. Proof of Boundedness is removed after triggering it **1 **time.\n- When Proof of Boundedness is removed, the active Resonator restores HP equal to **150% **of Mornye's DEF.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-convergence",
+      "name": "Convergence",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "Attack the target to deal Fusion DMG, then jump into mid-air, clearing all Rest Mass Energy and entering Wide Field Observation Mode.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Skill DMG | 102.00% |\n| Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Skill DMG | 138.81% |\n| Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Skill DMG | 202.79% |\n| Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-recursion",
+      "name": "Recursion",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "Resonators in the team gain **25%** All DMG Amplification for **30s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "forte-circuit-decoupling",
+      "name": "Decoupling",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "Mornye can respond to Tune Rupture - Interfered and Tune Strain - Interfered.\n\n- Responding to Tune Rupture - Interfered: When any Resonator in the team deals Tune Break DMG and inflicts Tune Rupture - Interfered, Mornye casts Tune Rupture Response - Particle Jet. Each target can be damaged by this skill up to once every **8s**.\n- Responding to Tune Strain - Interfered: Each stack of Tune Strain - Interfered on the target increases Mornye's total DMG against them. Each point of Mornye's Tune Break Boost increases the total DMG by **0.12%**. While Mornye is in the team, the max stack limit of Tune Strain - Interfered on a target is increased by **1**.\n\nMornye can perform Tune Break against the targets with full Off-Tune Level.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
   "images": {
     "icon": "/v1/images/characters/mornye/icon.webp",
     "card": "/v1/images/characters/mornye/card.webp",
@@ -14,12 +123,51 @@
   "source": {
     "prydwen": {
       "url": "https://www.prydwen.gg/wuthering-waves/characters/mornye",
-      "updatedAt": "November 30th, 2025"
+      "updatedAt": "February 4th, 2026"
     },
     "fandom": {
       "basePage": "https://wutheringwaves.fandom.com/wiki/Mornye",
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Mornye/Combat"
     }
   },
-  "lastUpdated": "2026-01-14"
+  "lastUpdated": "2026-02-07",
+  "statsByLevel": {
+    "20": {
+      "hp": 3198,
+      "atk": 60,
+      "def": 284
+    },
+    "50": {
+      "hp": 7946,
+      "atk": 152,
+      "def": 704
+    },
+    "90": {
+      "hp": 15375,
+      "atk": 288,
+      "def": 1357
+    }
+  },
+  "officialIntroduction": "N/A",
+  "releaseDate": "January 15, 2026",
+  "nation": "Lahai-Roi",
+  "gender": "Female",
+  "class": "Natural",
+  "birthplace": "New Federation",
+  "affiliations": [
+    "Spacetrek Collective (on profile)",
+    "Startorch Academy"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1The Silent Observer The Silent ObserverNode 2Morning Star of Entropy Morning Star of EntropyNode 3Blueprint of Recursion Blueprint of RecursionNode 4Latent Variables of the Cosmos Latent Variables of the CosmosNode 5Time Dilation Effect Time Dilation EffectNode 6To the Far Shores of the Stars To the Far Shores of the Stars",
+      "descriptionMd": "Node 1\n\n[The Silent Observer](https://wutheringwaves.fandom.com/wiki/The_Silent_Observer)\n [The Silent Observer](https://wutheringwaves.fandom.com/wiki/The_Silent_Observer)\nNode 2\n\n[Morning Star of Entropy](https://wutheringwaves.fandom.com/wiki/Morning_Star_of_Entropy)\n [Morning Star of Entropy](https://wutheringwaves.fandom.com/wiki/Morning_Star_of_Entropy)\nNode 3\n\n[Blueprint of Recursion](https://wutheringwaves.fandom.com/wiki/Blueprint_of_Recursion)\n [Blueprint of Recursion](https://wutheringwaves.fandom.com/wiki/Blueprint_of_Recursion)\nNode 4\n\n[Latent Variables of the Cosmos](https://wutheringwaves.fandom.com/wiki/Latent_Variables_of_the_Cosmos)\n [Latent Variables of the Cosmos](https://wutheringwaves.fandom.com/wiki/Latent_Variables_of_the_Cosmos)\nNode 5\n\n[Time Dilation Effect](https://wutheringwaves.fandom.com/wiki/Time_Dilation_Effect)\n [Time Dilation Effect](https://wutheringwaves.fandom.com/wiki/Time_Dilation_Effect)\nNode 6\n\n[To the Far Shores of the Stars](https://wutheringwaves.fandom.com/wiki/To_the_Far_Shores_of_the_Stars)\n [To the Far Shores of the Stars](https://wutheringwaves.fandom.com/wiki/To_the_Far_Shores_of_the_Stars)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1The Silent Observer The Silent Observer",
+      "descriptionMd": "Node 2\n\n[Morning Star of Entropy](https://wutheringwaves.fandom.com/wiki/Morning_Star_of_Entropy)\n [Morning Star of Entropy](https://wutheringwaves.fandom.com/wiki/Morning_Star_of_Entropy)\nNode 3\n\n[Blueprint of Recursion](https://wutheringwaves.fandom.com/wiki/Blueprint_of_Recursion)\n [Blueprint of Recursion](https://wutheringwaves.fandom.com/wiki/Blueprint_of_Recursion)\nNode 4\n\n[Latent Variables of the Cosmos](https://wutheringwaves.fandom.com/wiki/Latent_Variables_of_the_Cosmos)\n [Latent Variables of the Cosmos](https://wutheringwaves.fandom.com/wiki/Latent_Variables_of_the_Cosmos)\nNode 5\n\n[Time Dilation Effect](https://wutheringwaves.fandom.com/wiki/Time_Dilation_Effect)\n [Time Dilation Effect](https://wutheringwaves.fandom.com/wiki/Time_Dilation_Effect)\nNode 6\n\n[To the Far Shores of the Stars](https://wutheringwaves.fandom.com/wiki/To_the_Far_Shores_of_the_Stars)\n [To the Far Shores of the Stars](https://wutheringwaves.fandom.com/wiki/To_the_Far_Shores_of_the_Stars)"
+    }
+  ]
 }

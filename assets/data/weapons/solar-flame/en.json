@@ -7,11 +7,11 @@
   "passive": {
     "name": "Oath of Tide Hunters",
     "descriptionMdByRank": {
-      "1": "Dealing Basic Attack or Heavy Attack DMG increases ATK by **2.2%** and grants **2.2%** Heavy Attack DMG Bonus for 7s, stacking up to 4 times. This effect can be triggered every 1s.",
-      "2": "Dealing Basic Attack or Heavy Attack DMG increases ATK by **3.4%** and grants **3.4%** Heavy Attack DMG Bonus for 7s, stacking up to 4 times. This effect can be triggered every 1s.",
-      "3": "Dealing Basic Attack or Heavy Attack DMG increases ATK by **4.7%** and grants **4.7%** Heavy Attack DMG Bonus for 7s, stacking up to 4 times. This effect can be triggered every 1s.",
-      "4": "Dealing Basic Attack or Heavy Attack DMG increases ATK by **5.9%** and grants **5.9%** Heavy Attack DMG Bonus for 7s, stacking up to 4 times. This effect can be triggered every 1s.",
-      "5": "Dealing Basic Attack or Heavy Attack DMG increases ATK by **7.2%** and grants **7.2%** Heavy Attack DMG Bonus for 7s, stacking up to 4 times. This effect can be triggered every 1s."
+      "1": "Dealing Basic Attack or Heavy Attack DMG increases ATK by **2.2** and grants **2.2** Heavy Attack DMG Bonus for 7s, stacking up to 4 times. This effect can be triggered every 1s.",
+      "2": "Dealing Basic Attack or Heavy Attack DMG increases ATK by **3.4** and grants **3.4** Heavy Attack DMG Bonus for 7s, stacking up to 4 times. This effect can be triggered every 1s.",
+      "3": "Dealing Basic Attack or Heavy Attack DMG increases ATK by **4.7** and grants **4.7** Heavy Attack DMG Bonus for 7s, stacking up to 4 times. This effect can be triggered every 1s.",
+      "4": "Dealing Basic Attack or Heavy Attack DMG increases ATK by **5.9** and grants **5.9** Heavy Attack DMG Bonus for 7s, stacking up to 4 times. This effect can be triggered every 1s.",
+      "5": "Dealing Basic Attack or Heavy Attack DMG increases ATK by **7.2** and grants **7.2** Heavy Attack DMG Bonus for 7s, stacking up to 4 times. This effect can be triggered every 1s."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Solar%20Flame"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 85

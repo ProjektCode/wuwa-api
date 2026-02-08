@@ -118,22 +118,44 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Taoqi/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 1861.6,
-      "atk": 46.8,
-      "def": 327.68
+      "hp": 1862,
+      "atk": 47,
+      "def": 328
     },
     "50": {
-      "hp": 4625.36,
-      "atk": 118.98,
-      "def": 811.52
+      "hp": 4625,
+      "atk": 119,
+      "def": 812
     },
     "90": {
       "hp": 8950,
       "atk": 225,
-      "def": 1564.42
+      "def": 1564
     }
-  }
+  },
+  "officialIntroduction": "Taoqi oversees Jinzhou's border defense at the Ministry of Development.\nDespite her unhurried demeanor, she is an exceptionally dependable individual who works tirelessly to protect others and provide a peaceful haven.\nWith effortless efficiency, she balances her work and personal life, steadily moving towards her ultimate goal: creating a future of true safety for all.\n\n[Her introduction on the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "May 23, 2024",
+  "nation": "Huanglong",
+  "gender": "Female",
+  "class": "Natural",
+  "birthplace": "Huanglong",
+  "affiliations": [
+    "Jinzhou (on profile)",
+    "Ministry of Development"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Essense of Tranquility Essense of TranquilityNode 2Silent Strength Silent StrengthNode 3Keen-eyed Observer Keen-eyed ObserverNode 4Heavylifting Duty Heavylifting DutyNode 5Benevolent Guardian Benevolent GuardianNode 6Defender of Peace Defender of Peace",
+      "descriptionMd": "Node 1\n\n[Essense of Tranquility](https://wutheringwaves.fandom.com/wiki/Essense_of_Tranquility)\n [Essense of Tranquility](https://wutheringwaves.fandom.com/wiki/Essense_of_Tranquility)\nNode 2\n\n[Silent Strength](https://wutheringwaves.fandom.com/wiki/Silent_Strength)\n [Silent Strength](https://wutheringwaves.fandom.com/wiki/Silent_Strength)\nNode 3\n\n[Keen-eyed Observer](https://wutheringwaves.fandom.com/wiki/Keen-eyed_Observer)\n [Keen-eyed Observer](https://wutheringwaves.fandom.com/wiki/Keen-eyed_Observer)\nNode 4\n\n[Heavylifting Duty](https://wutheringwaves.fandom.com/wiki/Heavylifting_Duty)\n [Heavylifting Duty](https://wutheringwaves.fandom.com/wiki/Heavylifting_Duty)\nNode 5\n\n[Benevolent Guardian](https://wutheringwaves.fandom.com/wiki/Benevolent_Guardian)\n [Benevolent Guardian](https://wutheringwaves.fandom.com/wiki/Benevolent_Guardian)\nNode 6\n\n[Defender of Peace](https://wutheringwaves.fandom.com/wiki/Defender_of_Peace)\n [Defender of Peace](https://wutheringwaves.fandom.com/wiki/Defender_of_Peace)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Essense of Tranquility Essense of Tranquility",
+      "descriptionMd": "Node 2\n\n[Silent Strength](https://wutheringwaves.fandom.com/wiki/Silent_Strength)\n [Silent Strength](https://wutheringwaves.fandom.com/wiki/Silent_Strength)\nNode 3\n\n[Keen-eyed Observer](https://wutheringwaves.fandom.com/wiki/Keen-eyed_Observer)\n [Keen-eyed Observer](https://wutheringwaves.fandom.com/wiki/Keen-eyed_Observer)\nNode 4\n\n[Heavylifting Duty](https://wutheringwaves.fandom.com/wiki/Heavylifting_Duty)\n [Heavylifting Duty](https://wutheringwaves.fandom.com/wiki/Heavylifting_Duty)\nNode 5\n\n[Benevolent Guardian](https://wutheringwaves.fandom.com/wiki/Benevolent_Guardian)\n [Benevolent Guardian](https://wutheringwaves.fandom.com/wiki/Benevolent_Guardian)\nNode 6\n\n[Defender of Peace](https://wutheringwaves.fandom.com/wiki/Defender_of_Peace)\n [Defender of Peace](https://wutheringwaves.fandom.com/wiki/Defender_of_Peace)"
+    }
+  ]
 }

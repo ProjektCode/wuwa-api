@@ -118,22 +118,41 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Zhezhi/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "hp": 2548,
       "atk": 78,
-      "def": 250.88
+      "def": 251
     },
     "50": {
-      "hp": 6330.8,
-      "atk": 198.3,
-      "def": 621.32
+      "hp": 6331,
+      "atk": 198,
+      "def": 621
     },
     "90": {
       "hp": 12250,
       "atk": 375,
-      "def": 1197.76
+      "def": 1198
     }
-  }
+  },
+  "officialIntroduction": "N/A",
+  "releaseDate": "August 15, 2024",
+  "nation": "Huanglong",
+  "gender": "Female",
+  "class": "Congenital",
+  "birthplace": "Huanglong",
+  "affiliations": "Jinzhou",
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Brushwork's Finish Brushwork's FinishNode 2Vivid Strokes Vivid StrokesNode 3Reflection's Grace Reflection's GraceNode 4Hue's Spectrum Hue's SpectrumNode 5Composition's Clue Composition's ClueNode 6Infinite Legacy Infinite Legacy",
+      "descriptionMd": "Node 1\n\n[Brushwork's Finish](https://wutheringwaves.fandom.com/wiki/Brushwork%27s_Finish)\n [Brushwork's Finish](https://wutheringwaves.fandom.com/wiki/Brushwork%27s_Finish)\nNode 2\n\n[Vivid Strokes](https://wutheringwaves.fandom.com/wiki/Vivid_Strokes)\n [Vivid Strokes](https://wutheringwaves.fandom.com/wiki/Vivid_Strokes)\nNode 3\n\n[Reflection's Grace](https://wutheringwaves.fandom.com/wiki/Reflection%27s_Grace)\n [Reflection's Grace](https://wutheringwaves.fandom.com/wiki/Reflection%27s_Grace)\nNode 4\n\n[Hue's Spectrum](https://wutheringwaves.fandom.com/wiki/Hue%27s_Spectrum)\n [Hue's Spectrum](https://wutheringwaves.fandom.com/wiki/Hue%27s_Spectrum)\nNode 5\n\n[Composition's Clue](https://wutheringwaves.fandom.com/wiki/Composition%27s_Clue)\n [Composition's Clue](https://wutheringwaves.fandom.com/wiki/Composition%27s_Clue)\nNode 6\n\n[Infinite Legacy](https://wutheringwaves.fandom.com/wiki/Infinite_Legacy)\n [Infinite Legacy](https://wutheringwaves.fandom.com/wiki/Infinite_Legacy)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Brushwork's Finish Brushwork's Finish",
+      "descriptionMd": "Node 2\n\n[Vivid Strokes](https://wutheringwaves.fandom.com/wiki/Vivid_Strokes)\n [Vivid Strokes](https://wutheringwaves.fandom.com/wiki/Vivid_Strokes)\nNode 3\n\n[Reflection's Grace](https://wutheringwaves.fandom.com/wiki/Reflection%27s_Grace)\n [Reflection's Grace](https://wutheringwaves.fandom.com/wiki/Reflection%27s_Grace)\nNode 4\n\n[Hue's Spectrum](https://wutheringwaves.fandom.com/wiki/Hue%27s_Spectrum)\n [Hue's Spectrum](https://wutheringwaves.fandom.com/wiki/Hue%27s_Spectrum)\nNode 5\n\n[Composition's Clue](https://wutheringwaves.fandom.com/wiki/Composition%27s_Clue)\n [Composition's Clue](https://wutheringwaves.fandom.com/wiki/Composition%27s_Clue)\nNode 6\n\n[Infinite Legacy](https://wutheringwaves.fandom.com/wiki/Infinite_Legacy)\n [Infinite Legacy](https://wutheringwaves.fandom.com/wiki/Infinite_Legacy)"
+    }
+  ]
 }

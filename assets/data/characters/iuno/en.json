@@ -111,29 +111,50 @@
   "source": {
     "prydwen": {
       "url": "https://www.prydwen.gg/wuthering-waves/characters/iuno",
-      "updatedAt": "December 31st, 2025"
+      "updatedAt": "January 30th, 2026"
     },
     "fandom": {
       "basePage": "https://wutheringwaves.fandom.com/wiki/Iuno",
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Iuno/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2189.2,
-      "atk": 93.6,
-      "def": 235.52
+      "hp": 2189,
+      "atk": 94,
+      "def": 236
     },
     "50": {
-      "hp": 5439.32,
-      "atk": 237.96,
-      "def": 583.28
+      "hp": 5439,
+      "atk": 238,
+      "def": 583
     },
     "90": {
       "hp": 10525,
       "atk": 450,
-      "def": 1124.42
+      "def": 1124
     }
-  }
+  },
+  "officialIntroduction": "Iuno is a Priestess well-known in Septimont for being a prodigy.\nShe is blessed with the infallible ability to see the future by studying how moonlight changes.\n\n[Introduction from the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "September 17, 2025",
+  "nation": "Rinascita",
+  "gender": "Female",
+  "class": "Congenital",
+  "affiliations": [
+    "Septimont (on profile)",
+    "Tetragon Temple"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Wax or Wane, All Gild the Bough Wax or Wane, All Gild the BoughNode 2Day or Night, Let This Be Eternal Day or Night, Let This Be EternalNode 3I Drink Deep of Their Forgetting I Drink Deep of Their ForgettingNode 4Rainy Season Dwell in My Eyes Rainy Season Dwell in My EyesNode 5A Thousand Futile Glimpses A Thousand Futile GlimpsesNode 6I Am the Constant in the Chaos I Am the Constant in the Chaos",
+      "descriptionMd": "Node 1\n\n[Wax or Wane, All Gild the Bough](https://wutheringwaves.fandom.com/wiki/Wax_or_Wane,_All_Gild_the_Bough)\n [Wax or Wane, All Gild the Bough](https://wutheringwaves.fandom.com/wiki/Wax_or_Wane,_All_Gild_the_Bough)\nNode 2\n\n[Day or Night, Let This Be Eternal](https://wutheringwaves.fandom.com/wiki/Day_or_Night,_Let_This_Be_Eternal)\n [Day or Night, Let This Be Eternal](https://wutheringwaves.fandom.com/wiki/Day_or_Night,_Let_This_Be_Eternal)\nNode 3\n\n[I Drink Deep of Their Forgetting](https://wutheringwaves.fandom.com/wiki/I_Drink_Deep_of_Their_Forgetting)\n [I Drink Deep of Their Forgetting](https://wutheringwaves.fandom.com/wiki/I_Drink_Deep_of_Their_Forgetting)\nNode 4\n\n[Rainy Season Dwell in My Eyes](https://wutheringwaves.fandom.com/wiki/Rainy_Season_Dwell_in_My_Eyes)\n [Rainy Season Dwell in My Eyes](https://wutheringwaves.fandom.com/wiki/Rainy_Season_Dwell_in_My_Eyes)\nNode 5\n\n[A Thousand Futile Glimpses](https://wutheringwaves.fandom.com/wiki/A_Thousand_Futile_Glimpses)\n [A Thousand Futile Glimpses](https://wutheringwaves.fandom.com/wiki/A_Thousand_Futile_Glimpses)\nNode 6\n\n[I Am the Constant in the Chaos](https://wutheringwaves.fandom.com/wiki/I_Am_the_Constant_in_the_Chaos)\n [I Am the Constant in the Chaos](https://wutheringwaves.fandom.com/wiki/I_Am_the_Constant_in_the_Chaos)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Wax or Wane, All Gild the Bough Wax or Wane, All Gild the Bough",
+      "descriptionMd": "Node 2\n\n[Day or Night, Let This Be Eternal](https://wutheringwaves.fandom.com/wiki/Day_or_Night,_Let_This_Be_Eternal)\n [Day or Night, Let This Be Eternal](https://wutheringwaves.fandom.com/wiki/Day_or_Night,_Let_This_Be_Eternal)\nNode 3\n\n[I Drink Deep of Their Forgetting](https://wutheringwaves.fandom.com/wiki/I_Drink_Deep_of_Their_Forgetting)\n [I Drink Deep of Their Forgetting](https://wutheringwaves.fandom.com/wiki/I_Drink_Deep_of_Their_Forgetting)\nNode 4\n\n[Rainy Season Dwell in My Eyes](https://wutheringwaves.fandom.com/wiki/Rainy_Season_Dwell_in_My_Eyes)\n [Rainy Season Dwell in My Eyes](https://wutheringwaves.fandom.com/wiki/Rainy_Season_Dwell_in_My_Eyes)\nNode 5\n\n[A Thousand Futile Glimpses](https://wutheringwaves.fandom.com/wiki/A_Thousand_Futile_Glimpses)\n [A Thousand Futile Glimpses](https://wutheringwaves.fandom.com/wiki/A_Thousand_Futile_Glimpses)\nNode 6\n\n[I Am the Constant in the Chaos](https://wutheringwaves.fandom.com/wiki/I_Am_the_Constant_in_the_Chaos)\n [I Am the Constant in the Chaos](https://wutheringwaves.fandom.com/wiki/I_Am_the_Constant_in_the_Chaos)"
+    }
+  ]
 }

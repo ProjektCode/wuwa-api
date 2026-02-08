@@ -7,11 +7,11 @@
   "passive": {
     "name": "Prologue",
     "descriptionMdByRank": {
-      "1": "Increases ATK by **5%**.",
-      "2": "Increases ATK by **6.25%**.",
-      "3": "Increases ATK by **7.5%**.",
-      "4": "Increases ATK by **8.75%**.",
-      "5": "Increases ATK by **10%**."
+      "1": "Increases ATK by **5**.",
+      "2": "Increases ATK by **6.25**.",
+      "3": "Increases ATK by **7.5**.",
+      "4": "Increases ATK by **8.75**.",
+      "5": "Increases ATK by **10**."
     }
   },
   "images": {
@@ -22,5 +22,5 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Tyro%20Pistols"
     }
   },
-  "lastUpdated": "2026-01-14"
+  "lastUpdated": "2026-02-07"
 }

@@ -118,22 +118,43 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Verina/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2961.4,
-      "atk": 70.2,
-      "def": 230.4
+      "hp": 2961,
+      "atk": 70,
+      "def": 230
     },
     "50": {
-      "hp": 7357.94,
-      "atk": 178.47,
-      "def": 570.6
+      "hp": 7358,
+      "atk": 178,
+      "def": 571
     },
     "90": {
-      "hp": 14237.5,
-      "atk": 337.5,
-      "def": 1099.98
+      "hp": 14238,
+      "atk": 338,
+      "def": 1100
     }
-  }
+  },
+  "officialIntroduction": "With an extensive knowledge of botany, Verina is always solicitous, always smiling, and always wishing for every flower to be blessed with the miracle of life.s ends up taking on caretaker duties in any expedition, showing remarkable tenacity for her age. [[2]](#cite_note-2)\n\nFormerly a member of a Pioneer Association expedition team from the New Federation, Verina is a humble and determined plant breeder.\n\nSomehow she always ends up taking on caretaker duties in any expedition, showing remarkable tenacity for her age.\n\n[Her introduction on the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "May 23, 2024",
+  "gender": "Female",
+  "class": "Congenital",
+  "birthplace": "New Federation",
+  "affiliations": [
+    "Jinzhou (on profile)",
+    "Pioneer Association"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Moment of Emergence Moment of EmergenceNode 2Sprouting Reflections Sprouting ReflectionsNode 3The Choice to Flourish The Choice to FlourishNode 4Blossoming Embrace Blossoming EmbraceNode 5Miraculous Blooms Miraculous BloomsNode 6Joyous Harvest Joyous Harvest",
+      "descriptionMd": "Node 1\n\n[Moment of Emergence](https://wutheringwaves.fandom.com/wiki/Moment_of_Emergence)\n [Moment of Emergence](https://wutheringwaves.fandom.com/wiki/Moment_of_Emergence)\nNode 2\n\n[Sprouting Reflections](https://wutheringwaves.fandom.com/wiki/Sprouting_Reflections)\n [Sprouting Reflections](https://wutheringwaves.fandom.com/wiki/Sprouting_Reflections)\nNode 3\n\n[The Choice to Flourish](https://wutheringwaves.fandom.com/wiki/The_Choice_to_Flourish)\n [The Choice to Flourish](https://wutheringwaves.fandom.com/wiki/The_Choice_to_Flourish)\nNode 4\n\n[Blossoming Embrace](https://wutheringwaves.fandom.com/wiki/Blossoming_Embrace)\n [Blossoming Embrace](https://wutheringwaves.fandom.com/wiki/Blossoming_Embrace)\nNode 5\n\n[Miraculous Blooms](https://wutheringwaves.fandom.com/wiki/Miraculous_Blooms)\n [Miraculous Blooms](https://wutheringwaves.fandom.com/wiki/Miraculous_Blooms)\nNode 6\n\n[Joyous Harvest](https://wutheringwaves.fandom.com/wiki/Joyous_Harvest)\n [Joyous Harvest](https://wutheringwaves.fandom.com/wiki/Joyous_Harvest)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Moment of Emergence Moment of Emergence",
+      "descriptionMd": "Node 2\n\n[Sprouting Reflections](https://wutheringwaves.fandom.com/wiki/Sprouting_Reflections)\n [Sprouting Reflections](https://wutheringwaves.fandom.com/wiki/Sprouting_Reflections)\nNode 3\n\n[The Choice to Flourish](https://wutheringwaves.fandom.com/wiki/The_Choice_to_Flourish)\n [The Choice to Flourish](https://wutheringwaves.fandom.com/wiki/The_Choice_to_Flourish)\nNode 4\n\n[Blossoming Embrace](https://wutheringwaves.fandom.com/wiki/Blossoming_Embrace)\n [Blossoming Embrace](https://wutheringwaves.fandom.com/wiki/Blossoming_Embrace)\nNode 5\n\n[Miraculous Blooms](https://wutheringwaves.fandom.com/wiki/Miraculous_Blooms)\n [Miraculous Blooms](https://wutheringwaves.fandom.com/wiki/Miraculous_Blooms)\nNode 6\n\n[Joyous Harvest](https://wutheringwaves.fandom.com/wiki/Joyous_Harvest)\n [Joyous Harvest](https://wutheringwaves.fandom.com/wiki/Joyous_Harvest)"
+    }
+  ]
 }

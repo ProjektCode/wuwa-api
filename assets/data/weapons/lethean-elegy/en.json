@@ -7,11 +7,11 @@
   "passive": {
     "name": "Underworld Requiem",
     "descriptionMdByRank": {
-      "1": "[ATK](https://wutheringwaves.fandom.com/wiki/ATK) is increased by **12%**. Within 12s after dealing Echo Skill DMG, gain **32%** Resonance Skill DMG Bonus and **32%** Echo Skill DMG Amplification, and ignore **8%** of the target's [DEF](https://wutheringwaves.fandom.com/wiki/DEF) when dealing damage.",
-      "2": "[ATK](https://wutheringwaves.fandom.com/wiki/ATK) is increased by **15%**. Within 12s after dealing Echo Skill DMG, gain **40%** Resonance Skill DMG Bonus and **40%** Echo Skill DMG Amplification, and ignore **10%** of the target's [DEF](https://wutheringwaves.fandom.com/wiki/DEF) when dealing damage.",
-      "3": "[ATK](https://wutheringwaves.fandom.com/wiki/ATK) is increased by **18%**. Within 12s after dealing Echo Skill DMG, gain **48%** Resonance Skill DMG Bonus and **48%** Echo Skill DMG Amplification, and ignore **12%** of the target's [DEF](https://wutheringwaves.fandom.com/wiki/DEF) when dealing damage.",
-      "4": "[ATK](https://wutheringwaves.fandom.com/wiki/ATK) is increased by **21%**. Within 12s after dealing Echo Skill DMG, gain **56%** Resonance Skill DMG Bonus and **56%** Echo Skill DMG Amplification, and ignore **14%** of the target's [DEF](https://wutheringwaves.fandom.com/wiki/DEF) when dealing damage.",
-      "5": "[ATK](https://wutheringwaves.fandom.com/wiki/ATK) is increased by **24%**. Within 12s after dealing Echo Skill DMG, gain **64%** Resonance Skill DMG Bonus and **64%** Echo Skill DMG Amplification, and ignore **16%** of the target's [DEF](https://wutheringwaves.fandom.com/wiki/DEF) when dealing damage."
+      "1": "[ATK](https://wutheringwaves.fandom.com/wiki/ATK) is increased by **12**. Within 12s after dealing Echo Skill DMG, gain **32** Resonance Skill DMG Bonus and **32** Echo Skill DMG Amplification, and ignore **8** of the target's [DEF](https://wutheringwaves.fandom.com/wiki/DEF) when dealing damage.",
+      "2": "[ATK](https://wutheringwaves.fandom.com/wiki/ATK) is increased by **15**. Within 12s after dealing Echo Skill DMG, gain **40** Resonance Skill DMG Bonus and **40** Echo Skill DMG Amplification, and ignore **10** of the target's [DEF](https://wutheringwaves.fandom.com/wiki/DEF) when dealing damage.",
+      "3": "[ATK](https://wutheringwaves.fandom.com/wiki/ATK) is increased by **18**. Within 12s after dealing Echo Skill DMG, gain **48** Resonance Skill DMG Bonus and **48** Echo Skill DMG Amplification, and ignore **12** of the target's [DEF](https://wutheringwaves.fandom.com/wiki/DEF) when dealing damage.",
+      "4": "[ATK](https://wutheringwaves.fandom.com/wiki/ATK) is increased by **21**. Within 12s after dealing Echo Skill DMG, gain **56** Resonance Skill DMG Bonus and **56** Echo Skill DMG Amplification, and ignore **14** of the target's [DEF](https://wutheringwaves.fandom.com/wiki/DEF) when dealing damage.",
+      "5": "[ATK](https://wutheringwaves.fandom.com/wiki/ATK) is increased by **24**. Within 12s after dealing Echo Skill DMG, gain **64** Resonance Skill DMG Bonus and **64** Echo Skill DMG Amplification, and ignore **16** of the target's [DEF](https://wutheringwaves.fandom.com/wiki/DEF) when dealing damage."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Lethean%20Elegy"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 122

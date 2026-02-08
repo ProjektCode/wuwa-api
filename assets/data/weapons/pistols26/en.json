@@ -7,11 +7,11 @@
   "passive": {
     "name": "Omniscient",
     "descriptionMdByRank": {
-      "1": "When the Resonator takes no damage, increases ATK by **6%** every 5s, stacking up to 2 time(s). This effect lasts for 8s. When the Resonator takes damage, reduces the number of stacks by 1 and restores their HP by **5%**.",
-      "2": "When the Resonator takes no damage, increases ATK by **7.5%** every 5s, stacking up to 2 time(s). This effect lasts for 8s. When the Resonator takes damage, reduces the number of stacks by 1 and restores their HP by **6.25%**.",
-      "3": "When the Resonator takes no damage, increases ATK by **9%** every 5s, stacking up to 2 time(s). This effect lasts for 8s. When the Resonator takes damage, reduces the number of stacks by 1 and restores their HP by **7.5%**.",
-      "4": "When the Resonator takes no damage, increases ATK by **10.5%** every 5s, stacking up to 2 time(s). This effect lasts for 8s. When the Resonator takes damage, reduces the number of stacks by 1 and restores their HP by **8.75%**.",
-      "5": "When the Resonator takes no damage, increases ATK by **12%** every 5s, stacking up to 2 time(s). This effect lasts for 8s. When the Resonator takes damage, reduces the number of stacks by 1 and restores their HP by **10%**."
+      "1": "When the Resonator takes no damage, increases ATK by **6** every 5s, stacking up to 2 time(s). This effect lasts for 8s. When the Resonator takes damage, reduces the number of stacks by 1 and restores their HP by **5**.",
+      "2": "When the Resonator takes no damage, increases ATK by **7.5** every 5s, stacking up to 2 time(s). This effect lasts for 8s. When the Resonator takes damage, reduces the number of stacks by 1 and restores their HP by **6.25**.",
+      "3": "When the Resonator takes no damage, increases ATK by **9** every 5s, stacking up to 2 time(s). This effect lasts for 8s. When the Resonator takes damage, reduces the number of stacks by 1 and restores their HP by **7.5**.",
+      "4": "When the Resonator takes no damage, increases ATK by **10.5** every 5s, stacking up to 2 time(s). This effect lasts for 8s. When the Resonator takes damage, reduces the number of stacks by 1 and restores their HP by **8.75**.",
+      "5": "When the Resonator takes no damage, increases ATK by **12** every 5s, stacking up to 2 time(s). This effect lasts for 8s. When the Resonator takes damage, reduces the number of stacks by 1 and restores their HP by **10**."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Pistols26"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 80

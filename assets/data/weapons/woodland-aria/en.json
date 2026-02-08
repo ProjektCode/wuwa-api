@@ -7,11 +7,11 @@
   "passive": {
     "name": "Lingering Summer Tune",
     "descriptionMdByRank": {
-      "1": "ATK is increased by **12%**. Inflicting Aero Erosion on the target gives **24%** Aero DMG Bonus for 10s. Hitting targets with Aero Erosion reduces their Aero RES by **10%** for 20s. Effects of the same name cannot be stacked.",
-      "2": "ATK is increased by **15%**. Inflicting Aero Erosion on the target gives **30%** Aero DMG Bonus for 10s. Hitting targets with Aero Erosion reduces their Aero RES by **11.5%** for 20s. Effects of the same name cannot be stacked.",
-      "3": "ATK is increased by **18%**. Inflicting Aero Erosion on the target gives **36%** Aero DMG Bonus for 10s. Hitting targets with Aero Erosion reduces their Aero RES by **13%** for 20s. Effects of the same name cannot be stacked.",
-      "4": "ATK is increased by **21%**. Inflicting Aero Erosion on the target gives **42%** Aero DMG Bonus for 10s. Hitting targets with Aero Erosion reduces their Aero RES by **14.5%** for 20s. Effects of the same name cannot be stacked.",
-      "5": "ATK is increased by **24%**. Inflicting Aero Erosion on the target gives **48%** Aero DMG Bonus for 10s. Hitting targets with Aero Erosion reduces their Aero RES by **16%** for 20s. Effects of the same name cannot be stacked."
+      "1": "ATK is increased by **12**. Inflicting Aero Erosion on the target gives **24** Aero DMG Bonus for 10s. Hitting targets with Aero Erosion reduces their Aero RES by **10** for 20s. Effects of the same name cannot be stacked.",
+      "2": "ATK is increased by **15**. Inflicting Aero Erosion on the target gives **30** Aero DMG Bonus for 10s. Hitting targets with Aero Erosion reduces their Aero RES by **11.5** for 20s. Effects of the same name cannot be stacked.",
+      "3": "ATK is increased by **18**. Inflicting Aero Erosion on the target gives **36** Aero DMG Bonus for 10s. Hitting targets with Aero Erosion reduces their Aero RES by **13** for 20s. Effects of the same name cannot be stacked.",
+      "4": "ATK is increased by **21**. Inflicting Aero Erosion on the target gives **42** Aero DMG Bonus for 10s. Hitting targets with Aero Erosion reduces their Aero RES by **14.5** for 20s. Effects of the same name cannot be stacked.",
+      "5": "ATK is increased by **24**. Inflicting Aero Erosion on the target gives **48** Aero DMG Bonus for 10s. Hitting targets with Aero Erosion reduces their Aero RES by **16** for 20s. Effects of the same name cannot be stacked."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Woodland%20Aria"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 104

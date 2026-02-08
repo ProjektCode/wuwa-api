@@ -7,11 +7,11 @@
   "passive": {
     "name": "Rejuvinate",
     "descriptionMdByRank": {
-      "1": "When hitting a target with Basic Attacks, restores HP by **0.5%**. This effect can be triggered 1 time(s) every 3s.",
-      "2": "When hitting a target with Basic Attacks, restores HP by **0.65%**. This effect can be triggered 1 time(s) every 3s.",
-      "3": "When hitting a target with Basic Attacks, restores HP by **0.8%**. This effect can be triggered 1 time(s) every 3s.",
-      "4": "When hitting a target with Basic Attacks, restores HP by **0.95%**. This effect can be triggered 1 time(s) every 3s.",
-      "5": "When hitting a target with Basic Attacks, restores HP by **1.1%**. This effect can be triggered 1 time(s) every 3s."
+      "1": "When hitting a target with Basic Attacks, restores HP by **0.5**. This effect can be triggered 1 time(s) every 3s.",
+      "2": "When hitting a target with Basic Attacks, restores HP by **0.65**. This effect can be triggered 1 time(s) every 3s.",
+      "3": "When hitting a target with Basic Attacks, restores HP by **0.8**. This effect can be triggered 1 time(s) every 3s.",
+      "4": "When hitting a target with Basic Attacks, restores HP by **0.95**. This effect can be triggered 1 time(s) every 3s.",
+      "5": "When hitting a target with Basic Attacks, restores HP by **1.1**. This effect can be triggered 1 time(s) every 3s."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Originite%3A%20Type%20IV"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 62

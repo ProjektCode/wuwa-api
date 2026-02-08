@@ -118,22 +118,43 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Mortefi/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2085.2,
+      "hp": 2085,
       "atk": 52,
-      "def": 238.08
+      "def": 238
     },
     "50": {
-      "hp": 5180.92,
-      "atk": 132.2,
-      "def": 589.62
+      "hp": 5181,
+      "atk": 132,
+      "def": 590
     },
     "90": {
       "hp": 10025,
       "atk": 250,
-      "def": 1136.65
+      "def": 1137
     }
-  }
+  },
+  "officialIntroduction": "Born into the upper class, Mortefi is a lofty man with an erudite look.\nRenowned for his exceptional talent in scientific research, Mortefi was once famed as the youngest genius in the New Federation.\nDriven by a thirst for knowledge, Mortefi later abandoned his privileged life to work as an International Research Fellow at the Huaxu Academy.\nIt's not hard to win Mortefi's favor: Just remember to talk nicely, and always shower him with ample praise.\n\n[His introduction on the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "May 23, 2024",
+  "gender": "Male",
+  "class": "Mutant",
+  "birthplace": "New Federation",
+  "affiliations": [
+    "Jinzhou (on profile)",
+    "Huaxu Academy"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Solitary Etude Solitary EtudeNode 2Hypocritical Hymn Hypocritical HymnNode 3Flaming Recitativo Flaming RecitativoNode 4Cathartic Waltz Cathartic WaltzNode 5Funerary Quartet Funerary QuartetNode 6Apoplectic Instrumental Apoplectic Instrumental",
+      "descriptionMd": "Node 1\n\n[Solitary Etude](https://wutheringwaves.fandom.com/wiki/Solitary_Etude)\n [Solitary Etude](https://wutheringwaves.fandom.com/wiki/Solitary_Etude)\nNode 2\n\n[Hypocritical Hymn](https://wutheringwaves.fandom.com/wiki/Hypocritical_Hymn)\n [Hypocritical Hymn](https://wutheringwaves.fandom.com/wiki/Hypocritical_Hymn)\nNode 3\n\n[Flaming Recitativo](https://wutheringwaves.fandom.com/wiki/Flaming_Recitativo)\n [Flaming Recitativo](https://wutheringwaves.fandom.com/wiki/Flaming_Recitativo)\nNode 4\n\n[Cathartic Waltz](https://wutheringwaves.fandom.com/wiki/Cathartic_Waltz)\n [Cathartic Waltz](https://wutheringwaves.fandom.com/wiki/Cathartic_Waltz)\nNode 5\n\n[Funerary Quartet](https://wutheringwaves.fandom.com/wiki/Funerary_Quartet)\n [Funerary Quartet](https://wutheringwaves.fandom.com/wiki/Funerary_Quartet)\nNode 6\n\n[Apoplectic Instrumental](https://wutheringwaves.fandom.com/wiki/Apoplectic_Instrumental)\n [Apoplectic Instrumental](https://wutheringwaves.fandom.com/wiki/Apoplectic_Instrumental)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Solitary Etude Solitary Etude",
+      "descriptionMd": "Node 2\n\n[Hypocritical Hymn](https://wutheringwaves.fandom.com/wiki/Hypocritical_Hymn)\n [Hypocritical Hymn](https://wutheringwaves.fandom.com/wiki/Hypocritical_Hymn)\nNode 3\n\n[Flaming Recitativo](https://wutheringwaves.fandom.com/wiki/Flaming_Recitativo)\n [Flaming Recitativo](https://wutheringwaves.fandom.com/wiki/Flaming_Recitativo)\nNode 4\n\n[Cathartic Waltz](https://wutheringwaves.fandom.com/wiki/Cathartic_Waltz)\n [Cathartic Waltz](https://wutheringwaves.fandom.com/wiki/Cathartic_Waltz)\nNode 5\n\n[Funerary Quartet](https://wutheringwaves.fandom.com/wiki/Funerary_Quartet)\n [Funerary Quartet](https://wutheringwaves.fandom.com/wiki/Funerary_Quartet)\nNode 6\n\n[Apoplectic Instrumental](https://wutheringwaves.fandom.com/wiki/Apoplectic_Instrumental)\n [Apoplectic Instrumental](https://wutheringwaves.fandom.com/wiki/Apoplectic_Instrumental)"
+    }
+  ]
 }

@@ -7,11 +7,11 @@
   "passive": {
     "name": "Swordsworn",
     "descriptionMdByRank": {
-      "1": "Increases Attribute DMG Bonus by **12%**. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by **24%**, stacking up to 2 times. This effect lasts for 14s.",
-      "2": "Increases Attribute DMG Bonus by **15%**. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by **30%**, stacking up to 2 times. This effect lasts for 14s.",
-      "3": "Increases Attribute DMG Bonus by **18%**. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by **36%**, stacking up to 2 times. This effect lasts for 14s.",
-      "4": "Increases Attribute DMG Bonus by **21%**. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by **42%**, stacking up to 2 times. This effect lasts for 14s.",
-      "5": "Increases Attribute DMG Bonus by **24%**. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by **48%**, stacking up to 2 times. This effect lasts for 14s."
+      "1": "Increases Attribute DMG Bonus by **12**. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by **24**, stacking up to 2 times. This effect lasts for 14s.",
+      "2": "Increases Attribute DMG Bonus by **15**. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by **30**, stacking up to 2 times. This effect lasts for 14s.",
+      "3": "Increases Attribute DMG Bonus by **18**. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by **36**, stacking up to 2 times. This effect lasts for 14s.",
+      "4": "Increases Attribute DMG Bonus by **21**. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by **42**, stacking up to 2 times. This effect lasts for 14s.",
+      "5": "Increases Attribute DMG Bonus by **24**. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by **48**, stacking up to 2 times. This effect lasts for 14s."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Verdant%20Summit"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 122

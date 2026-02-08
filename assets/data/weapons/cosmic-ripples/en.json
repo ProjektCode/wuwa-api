@@ -7,11 +7,11 @@
   "passive": {
     "name": "Stormy Resolution",
     "descriptionMdByRank": {
-      "1": "Increases Energy Regen by **12.8%**. When hitting a target with Basic Attacks, increases Basic Attack DMG Bonus by **3.2%**, stacking up to 5 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.5s.",
-      "2": "Increases Energy Regen by **16%**. When hitting a target with Basic Attacks, increases Basic Attack DMG Bonus by **4%**, stacking up to 5 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.5s.",
-      "3": "Increases Energy Regen by **19.2%**. When hitting a target with Basic Attacks, increases Basic Attack DMG Bonus by **4.8%**, stacking up to 5 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.5s.",
-      "4": "Increases Energy Regen by **22.4%**. When hitting a target with Basic Attacks, increases Basic Attack DMG Bonus by **5.6%**, stacking up to 5 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.5s.",
-      "5": "Increases Energy Regen by **25.6%**. When hitting a target with Basic Attacks, increases Basic Attack DMG Bonus by **6.4%**, stacking up to 5 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.5s."
+      "1": "Increases Energy Regen by **12.8**. When hitting a target with Basic Attacks, increases Basic Attack DMG Bonus by **3.2**, stacking up to 5 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.5s.",
+      "2": "Increases Energy Regen by **16**. When hitting a target with Basic Attacks, increases Basic Attack DMG Bonus by **4**, stacking up to 5 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.5s.",
+      "3": "Increases Energy Regen by **19.2**. When hitting a target with Basic Attacks, increases Basic Attack DMG Bonus by **4.8**, stacking up to 5 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.5s.",
+      "4": "Increases Energy Regen by **22.4**. When hitting a target with Basic Attacks, increases Basic Attack DMG Bonus by **5.6**, stacking up to 5 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.5s.",
+      "5": "Increases Energy Regen by **25.6**. When hitting a target with Basic Attacks, increases Basic Attack DMG Bonus by **6.4**, stacking up to 5 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.5s."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Cosmic%20Ripples"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 104

@@ -118,22 +118,44 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Danjin/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "hp": 1963,
-      "atk": 54.6,
-      "def": 240.64
+      "atk": 55,
+      "def": 241
     },
     "50": {
-      "hp": 4877.3,
-      "atk": 138.81,
-      "def": 595.96
+      "hp": 4877,
+      "atk": 139,
+      "def": 596
     },
     "90": {
-      "hp": 9437.5,
-      "atk": 262.5,
-      "def": 1148.87
+      "hp": 9438,
+      "atk": 263,
+      "def": 1149
     }
-  }
+  },
+  "officialIntroduction": "N/A",
+  "releaseDate": "May 23, 2024",
+  "nation": "Huanglong",
+  "gender": "Female",
+  "class": "Mutant",
+  "birthplace": "Huanglong",
+  "affiliations": [
+    "Jinzhou (on profile)",
+    "Midnight Rangers"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Crimson Heart of Justice Crimson Heart of JusticeNode 2Dusted Mirror Dusted MirrorNode 3Fleeting Blossom Fleeting BlossomNode 4Solitary Carnation Solitary CarnationNode 5Reigning Blade Reigning BladeNode 6Bloodied Jade Bloodied Jade",
+      "descriptionMd": "Node 1\n\n[Crimson Heart of Justice](https://wutheringwaves.fandom.com/wiki/Crimson_Heart_of_Justice)\n [Crimson Heart of Justice](https://wutheringwaves.fandom.com/wiki/Crimson_Heart_of_Justice)\nNode 2\n\n[Dusted Mirror](https://wutheringwaves.fandom.com/wiki/Dusted_Mirror)\n [Dusted Mirror](https://wutheringwaves.fandom.com/wiki/Dusted_Mirror)\nNode 3\n\n[Fleeting Blossom](https://wutheringwaves.fandom.com/wiki/Fleeting_Blossom)\n [Fleeting Blossom](https://wutheringwaves.fandom.com/wiki/Fleeting_Blossom)\nNode 4\n\n[Solitary Carnation](https://wutheringwaves.fandom.com/wiki/Solitary_Carnation)\n [Solitary Carnation](https://wutheringwaves.fandom.com/wiki/Solitary_Carnation)\nNode 5\n\n[Reigning Blade](https://wutheringwaves.fandom.com/wiki/Reigning_Blade)\n [Reigning Blade](https://wutheringwaves.fandom.com/wiki/Reigning_Blade)\nNode 6\n\n[Bloodied Jade](https://wutheringwaves.fandom.com/wiki/Bloodied_Jade)\n [Bloodied Jade](https://wutheringwaves.fandom.com/wiki/Bloodied_Jade)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Crimson Heart of Justice Crimson Heart of Justice",
+      "descriptionMd": "Node 2\n\n[Dusted Mirror](https://wutheringwaves.fandom.com/wiki/Dusted_Mirror)\n [Dusted Mirror](https://wutheringwaves.fandom.com/wiki/Dusted_Mirror)\nNode 3\n\n[Fleeting Blossom](https://wutheringwaves.fandom.com/wiki/Fleeting_Blossom)\n [Fleeting Blossom](https://wutheringwaves.fandom.com/wiki/Fleeting_Blossom)\nNode 4\n\n[Solitary Carnation](https://wutheringwaves.fandom.com/wiki/Solitary_Carnation)\n [Solitary Carnation](https://wutheringwaves.fandom.com/wiki/Solitary_Carnation)\nNode 5\n\n[Reigning Blade](https://wutheringwaves.fandom.com/wiki/Reigning_Blade)\n [Reigning Blade](https://wutheringwaves.fandom.com/wiki/Reigning_Blade)\nNode 6\n\n[Bloodied Jade](https://wutheringwaves.fandom.com/wiki/Bloodied_Jade)\n [Bloodied Jade](https://wutheringwaves.fandom.com/wiki/Bloodied_Jade)"
+    }
+  ]
 }

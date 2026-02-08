@@ -118,22 +118,41 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Camellya/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2147.6,
-      "atk": 93.6,
-      "def": 243.2
+      "hp": 2148,
+      "atk": 94,
+      "def": 243
     },
     "50": {
-      "hp": 5335.96,
-      "atk": 237.96,
-      "def": 602.3
+      "hp": 5336,
+      "atk": 238,
+      "def": 602
     },
     "90": {
       "hp": 10325,
       "atk": 450,
-      "def": 1161.09
+      "def": 1161
     }
-  }
+  },
+  "officialIntroduction": "Bloom Bearer from the Black Shores, Camellya is a laid-back character free from shackles, with her personal aroma of \"danger.\"\nIntrigued by the belief in fate, she wanders the lands of her own accord, following such a chain of scenarios and its vague guidance.\n\nIntroduction from the [Official Website](https://wutheringwaves.kurogames.com/m/en/main/#resonators)",
+  "releaseDate": "November 14, 2024",
+  "nation": "The Black Shores",
+  "gender": "Female",
+  "class": "Artificial",
+  "birthplace": "Unknown",
+  "affiliations": "Black Shores",
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Somewhere No One Travelled Somewhere No One TravelledNode 2Calling Upon the Silent Rose Calling Upon the Silent RoseNode 3A Bud Adorned by Thorns A Bud Adorned by ThornsNode 4Roots Set Deep In Eternity Roots Set Deep In EternityNode 5Infinity Held in Your Palm Infinity Held in Your PalmNode 6Bloom For You Thousand Times Over Bloom For You Thousand Times Over",
+      "descriptionMd": "Node 1\n\n[Somewhere No One Travelled](https://wutheringwaves.fandom.com/wiki/Somewhere_No_One_Travelled)\n [Somewhere No One Travelled](https://wutheringwaves.fandom.com/wiki/Somewhere_No_One_Travelled)\nNode 2\n\n[Calling Upon the Silent Rose](https://wutheringwaves.fandom.com/wiki/Calling_Upon_the_Silent_Rose)\n [Calling Upon the Silent Rose](https://wutheringwaves.fandom.com/wiki/Calling_Upon_the_Silent_Rose)\nNode 3\n\n[A Bud Adorned by Thorns](https://wutheringwaves.fandom.com/wiki/A_Bud_Adorned_by_Thorns)\n [A Bud Adorned by Thorns](https://wutheringwaves.fandom.com/wiki/A_Bud_Adorned_by_Thorns)\nNode 4\n\n[Roots Set Deep In Eternity](https://wutheringwaves.fandom.com/wiki/Roots_Set_Deep_In_Eternity)\n [Roots Set Deep In Eternity](https://wutheringwaves.fandom.com/wiki/Roots_Set_Deep_In_Eternity)\nNode 5\n\n[Infinity Held in Your Palm](https://wutheringwaves.fandom.com/wiki/Infinity_Held_in_Your_Palm)\n [Infinity Held in Your Palm](https://wutheringwaves.fandom.com/wiki/Infinity_Held_in_Your_Palm)\nNode 6\n\n[Bloom For You Thousand Times Over](https://wutheringwaves.fandom.com/wiki/Bloom_For_You_Thousand_Times_Over)\n [Bloom For You Thousand Times Over](https://wutheringwaves.fandom.com/wiki/Bloom_For_You_Thousand_Times_Over)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Somewhere No One Travelled Somewhere No One Travelled",
+      "descriptionMd": "Node 2\n\n[Calling Upon the Silent Rose](https://wutheringwaves.fandom.com/wiki/Calling_Upon_the_Silent_Rose)\n [Calling Upon the Silent Rose](https://wutheringwaves.fandom.com/wiki/Calling_Upon_the_Silent_Rose)\nNode 3\n\n[A Bud Adorned by Thorns](https://wutheringwaves.fandom.com/wiki/A_Bud_Adorned_by_Thorns)\n [A Bud Adorned by Thorns](https://wutheringwaves.fandom.com/wiki/A_Bud_Adorned_by_Thorns)\nNode 4\n\n[Roots Set Deep In Eternity](https://wutheringwaves.fandom.com/wiki/Roots_Set_Deep_In_Eternity)\n [Roots Set Deep In Eternity](https://wutheringwaves.fandom.com/wiki/Roots_Set_Deep_In_Eternity)\nNode 5\n\n[Infinity Held in Your Palm](https://wutheringwaves.fandom.com/wiki/Infinity_Held_in_Your_Palm)\n [Infinity Held in Your Palm](https://wutheringwaves.fandom.com/wiki/Infinity_Held_in_Your_Palm)\nNode 6\n\n[Bloom For You Thousand Times Over](https://wutheringwaves.fandom.com/wiki/Bloom_For_You_Thousand_Times_Over)\n [Bloom For You Thousand Times Over](https://wutheringwaves.fandom.com/wiki/Bloom_For_You_Thousand_Times_Over)"
+    }
+  ]
 }

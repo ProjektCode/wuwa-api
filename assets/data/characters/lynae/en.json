@@ -123,12 +123,51 @@
   "source": {
     "prydwen": {
       "url": "https://www.prydwen.gg/wuthering-waves/characters/lynae",
-      "updatedAt": "January 1st, 2026"
+      "updatedAt": "January 14th, 2026"
     },
     "fandom": {
       "basePage": "https://wutheringwaves.fandom.com/wiki/Lynae",
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Lynae/Combat"
     }
   },
-  "lastUpdated": "2026-01-14"
+  "lastUpdated": "2026-02-07",
+  "statsByLevel": {
+    "20": {
+      "hp": 2545,
+      "atk": 78,
+      "def": 251
+    },
+    "50": {
+      "hp": 6324,
+      "atk": 198,
+      "def": 621
+    },
+    "90": {
+      "hp": 12238,
+      "atk": 375,
+      "def": 1198
+    }
+  },
+  "officialIntroduction": "N/A",
+  "releaseDate": "December 25, 2025",
+  "nation": "Lahai-Roi",
+  "gender": "Female",
+  "class": "Congenital",
+  "birthplace": "New Federation",
+  "affiliations": [
+    "Startorch Academy (on profile)",
+    "Lawless Zone (formerly)"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Days to be Painted Like a Canvas Days to be Painted Like a CanvasNode 2Into Lights' Vanishing Point Into Lights' Vanishing PointNode 3For One Brilliant Moment For One Brilliant MomentNode 4Shadows of a Wind Racer Shadows of a Wind RacerNode 5Visions of a Future Unbound Visions of a Future UnboundNode 6Painted in My True Color Painted in My True Color",
+      "descriptionMd": "Node 1\n\n[Days to be Painted Like a Canvas](https://wutheringwaves.fandom.com/wiki/Days_to_be_Painted_Like_a_Canvas)\n [Days to be Painted Like a Canvas](https://wutheringwaves.fandom.com/wiki/Days_to_be_Painted_Like_a_Canvas)\nNode 2\n\n[Into Lights' Vanishing Point](https://wutheringwaves.fandom.com/wiki/Into_Lights%27_Vanishing_Point)\n [Into Lights' Vanishing Point](https://wutheringwaves.fandom.com/wiki/Into_Lights%27_Vanishing_Point)\nNode 3\n\n[For One Brilliant Moment](https://wutheringwaves.fandom.com/wiki/For_One_Brilliant_Moment)\n [For One Brilliant Moment](https://wutheringwaves.fandom.com/wiki/For_One_Brilliant_Moment)\nNode 4\n\n[Shadows of a Wind Racer](https://wutheringwaves.fandom.com/wiki/Shadows_of_a_Wind_Racer)\n [Shadows of a Wind Racer](https://wutheringwaves.fandom.com/wiki/Shadows_of_a_Wind_Racer)\nNode 5\n\n[Visions of a Future Unbound](https://wutheringwaves.fandom.com/wiki/Visions_of_a_Future_Unbound)\n [Visions of a Future Unbound](https://wutheringwaves.fandom.com/wiki/Visions_of_a_Future_Unbound)\nNode 6\n\n[Painted in My True Color](https://wutheringwaves.fandom.com/wiki/Painted_in_My_True_Color)\n [Painted in My True Color](https://wutheringwaves.fandom.com/wiki/Painted_in_My_True_Color)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Days to be Painted Like a Canvas Days to be Painted Like a Canvas",
+      "descriptionMd": "Node 2\n\n[Into Lights' Vanishing Point](https://wutheringwaves.fandom.com/wiki/Into_Lights%27_Vanishing_Point)\n [Into Lights' Vanishing Point](https://wutheringwaves.fandom.com/wiki/Into_Lights%27_Vanishing_Point)\nNode 3\n\n[For One Brilliant Moment](https://wutheringwaves.fandom.com/wiki/For_One_Brilliant_Moment)\n [For One Brilliant Moment](https://wutheringwaves.fandom.com/wiki/For_One_Brilliant_Moment)\nNode 4\n\n[Shadows of a Wind Racer](https://wutheringwaves.fandom.com/wiki/Shadows_of_a_Wind_Racer)\n [Shadows of a Wind Racer](https://wutheringwaves.fandom.com/wiki/Shadows_of_a_Wind_Racer)\nNode 5\n\n[Visions of a Future Unbound](https://wutheringwaves.fandom.com/wiki/Visions_of_a_Future_Unbound)\n [Visions of a Future Unbound](https://wutheringwaves.fandom.com/wiki/Visions_of_a_Future_Unbound)\nNode 6\n\n[Painted in My True Color](https://wutheringwaves.fandom.com/wiki/Painted_in_My_True_Color)\n [Painted in My True Color](https://wutheringwaves.fandom.com/wiki/Painted_in_My_True_Color)"
+    }
+  ]
 }

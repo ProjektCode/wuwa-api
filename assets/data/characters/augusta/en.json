@@ -118,22 +118,44 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Augusta/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2142.4,
-      "atk": 96.2,
-      "def": 232.96
+      "hp": 2142,
+      "atk": 96,
+      "def": 233
     },
     "50": {
-      "hp": 5323.04,
-      "atk": 244.57,
-      "def": 576.94
+      "hp": 5323,
+      "atk": 245,
+      "def": 577
     },
     "90": {
       "hp": 10300,
-      "atk": 462.5,
-      "def": 1112.2
+      "atk": 463,
+      "def": 1112
     }
-  }
+  },
+  "officialIntroduction": "Augusta is the undefeated gladiator in the arena and a fearless leader with a will of iron.\nShe is a mere mortal, but has reached heights of glory attempted by only a few, and her blade speaks her power loud and clear.\n\n[Introduction from the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "August 28, 2025",
+  "nation": "Rinascita",
+  "gender": "Female",
+  "class": "Congenital",
+  "affiliations": [
+    "Septimont (on profile)",
+    "Ephor's Palace",
+    "Fabianum"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Stained in Scorched Earth Stained in Scorched EarthNode 2Cleansed in Crimson War Cleansed in Crimson WarNode 3Forged in Rot and Ruin Forged in Rot and RuinNode 4Ascent in Sun and Glory Ascent in Sun and GloryNode 5Unshaken in Wrathful Tides Unshaken in Wrathful TidesNode 6Engraved in Radiant Light Engraved in Radiant Light",
+      "descriptionMd": "Node 1\n\n[Stained in Scorched Earth](https://wutheringwaves.fandom.com/wiki/Stained_in_Scorched_Earth)\n [Stained in Scorched Earth](https://wutheringwaves.fandom.com/wiki/Stained_in_Scorched_Earth)\nNode 2\n\n[Cleansed in Crimson War](https://wutheringwaves.fandom.com/wiki/Cleansed_in_Crimson_War)\n [Cleansed in Crimson War](https://wutheringwaves.fandom.com/wiki/Cleansed_in_Crimson_War)\nNode 3\n\n[Forged in Rot and Ruin](https://wutheringwaves.fandom.com/wiki/Forged_in_Rot_and_Ruin)\n [Forged in Rot and Ruin](https://wutheringwaves.fandom.com/wiki/Forged_in_Rot_and_Ruin)\nNode 4\n\n[Ascent in Sun and Glory](https://wutheringwaves.fandom.com/wiki/Ascent_in_Sun_and_Glory)\n [Ascent in Sun and Glory](https://wutheringwaves.fandom.com/wiki/Ascent_in_Sun_and_Glory)\nNode 5\n\n[Unshaken in Wrathful Tides](https://wutheringwaves.fandom.com/wiki/Unshaken_in_Wrathful_Tides)\n [Unshaken in Wrathful Tides](https://wutheringwaves.fandom.com/wiki/Unshaken_in_Wrathful_Tides)\nNode 6\n\n[Engraved in Radiant Light](https://wutheringwaves.fandom.com/wiki/Engraved_in_Radiant_Light)\n [Engraved in Radiant Light](https://wutheringwaves.fandom.com/wiki/Engraved_in_Radiant_Light)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Stained in Scorched Earth Stained in Scorched Earth",
+      "descriptionMd": "Node 2\n\n[Cleansed in Crimson War](https://wutheringwaves.fandom.com/wiki/Cleansed_in_Crimson_War)\n [Cleansed in Crimson War](https://wutheringwaves.fandom.com/wiki/Cleansed_in_Crimson_War)\nNode 3\n\n[Forged in Rot and Ruin](https://wutheringwaves.fandom.com/wiki/Forged_in_Rot_and_Ruin)\n [Forged in Rot and Ruin](https://wutheringwaves.fandom.com/wiki/Forged_in_Rot_and_Ruin)\nNode 4\n\n[Ascent in Sun and Glory](https://wutheringwaves.fandom.com/wiki/Ascent_in_Sun_and_Glory)\n [Ascent in Sun and Glory](https://wutheringwaves.fandom.com/wiki/Ascent_in_Sun_and_Glory)\nNode 5\n\n[Unshaken in Wrathful Tides](https://wutheringwaves.fandom.com/wiki/Unshaken_in_Wrathful_Tides)\n [Unshaken in Wrathful Tides](https://wutheringwaves.fandom.com/wiki/Unshaken_in_Wrathful_Tides)\nNode 6\n\n[Engraved in Radiant Light](https://wutheringwaves.fandom.com/wiki/Engraved_in_Radiant_Light)\n [Engraved in Radiant Light](https://wutheringwaves.fandom.com/wiki/Engraved_in_Radiant_Light)"
+    }
+  ]
 }

@@ -118,22 +118,41 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Aalto/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2048.8,
-      "atk": 54.6,
-      "def": 225.28
+      "hp": 2049,
+      "atk": 55,
+      "def": 225
     },
     "50": {
-      "hp": 5090.48,
-      "atk": 138.81,
-      "def": 557.92
+      "hp": 5090,
+      "atk": 139,
+      "def": 558
     },
     "90": {
       "hp": 9850,
-      "atk": 262.5,
-      "def": 1075.54
+      "atk": 263,
+      "def": 1076
     }
-  }
+  },
+  "officialIntroduction": "Aalto is an enigmatic Information Broker, known for his elusive nature and welcoming smile.\n\nRumor has it he'll provide any information at the right price.\n\nHe was invited to join the Black Shores, a mysterious organization based on an isolated island, for his intel-gathering expertise.\n\nBoth working for the Black Shores as Consultants, Aalto and Encore have become an inseparable and lively duo during missions.\n\nDespite his skittish demeanor, Aalto's true character shines through as a reliable and attentive individual.\n\n[His introduction on the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "May 23, 2024",
+  "nation": "The Black Shores",
+  "gender": "Male",
+  "class": "Congenital",
+  "birthplace": "New Federation",
+  "affiliations": "Black Shores",
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Trickster's Opening Show Trickster's Opening ShowNode 2Mistweaver's Debut Mistweaver's DebutNode 3Hazey Transition Hazey TransitionNode 4Blake Bloom for Finale Blake Bloom for FinaleNode 5Applause of the Lost Applause of the LostNode 6Broker's Secrets Broker's Secrets",
+      "descriptionMd": "Node 1\n\n[Trickster's Opening Show](https://wutheringwaves.fandom.com/wiki/Trickster%27s_Opening_Show)\n [Trickster's Opening Show](https://wutheringwaves.fandom.com/wiki/Trickster%27s_Opening_Show)\nNode 2\n\n[Mistweaver's Debut](https://wutheringwaves.fandom.com/wiki/Mistweaver%27s_Debut)\n [Mistweaver's Debut](https://wutheringwaves.fandom.com/wiki/Mistweaver%27s_Debut)\nNode 3\n\n[Hazey Transition](https://wutheringwaves.fandom.com/wiki/Hazey_Transition)\n [Hazey Transition](https://wutheringwaves.fandom.com/wiki/Hazey_Transition)\nNode 4\n\n[Blake Bloom for Finale](https://wutheringwaves.fandom.com/wiki/Blake_Bloom_for_Finale)\n [Blake Bloom for Finale](https://wutheringwaves.fandom.com/wiki/Blake_Bloom_for_Finale)\nNode 5\n\n[Applause of the Lost](https://wutheringwaves.fandom.com/wiki/Applause_of_the_Lost)\n [Applause of the Lost](https://wutheringwaves.fandom.com/wiki/Applause_of_the_Lost)\nNode 6\n\n[Broker's Secrets](https://wutheringwaves.fandom.com/wiki/Broker%27s_Secrets)\n [Broker's Secrets](https://wutheringwaves.fandom.com/wiki/Broker%27s_Secrets)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Trickster's Opening Show Trickster's Opening Show",
+      "descriptionMd": "Node 2\n\n[Mistweaver's Debut](https://wutheringwaves.fandom.com/wiki/Mistweaver%27s_Debut)\n [Mistweaver's Debut](https://wutheringwaves.fandom.com/wiki/Mistweaver%27s_Debut)\nNode 3\n\n[Hazey Transition](https://wutheringwaves.fandom.com/wiki/Hazey_Transition)\n [Hazey Transition](https://wutheringwaves.fandom.com/wiki/Hazey_Transition)\nNode 4\n\n[Blake Bloom for Finale](https://wutheringwaves.fandom.com/wiki/Blake_Bloom_for_Finale)\n [Blake Bloom for Finale](https://wutheringwaves.fandom.com/wiki/Blake_Bloom_for_Finale)\nNode 5\n\n[Applause of the Lost](https://wutheringwaves.fandom.com/wiki/Applause_of_the_Lost)\n [Applause of the Lost](https://wutheringwaves.fandom.com/wiki/Applause_of_the_Lost)\nNode 6\n\n[Broker's Secrets](https://wutheringwaves.fandom.com/wiki/Broker%27s_Secrets)\n [Broker's Secrets](https://wutheringwaves.fandom.com/wiki/Broker%27s_Secrets)"
+    }
+  ]
 }

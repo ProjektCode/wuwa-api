@@ -7,11 +7,11 @@
   "passive": {
     "name": "Path Observer",
     "descriptionMdByRank": {
-      "1": "Increases ATK by **12%**.\nWhen a Resonator in the team casts a Tune Break skill, it grants a **12%** ATK increase and **12%** Basic Attack DMG Bonus to the wielder for 14s.",
-      "2": "Increases ATK by **15%**.\nWhen a Resonator in the team casts a Tune Break skill, it grants a **13.5%** ATK increase and **13.5%** Basic Attack DMG Bonus to the wielder for 14s.",
-      "3": "Increases ATK by **18%**.\nWhen a Resonator in the team casts a Tune Break skill, it grants a **15%** ATK increase and **15%** Basic Attack DMG Bonus to the wielder for 14s.",
-      "4": "Increases ATK by **21%**.\nWhen a Resonator in the team casts a Tune Break skill, it grants a **16.5%** ATK increase and **16.5%** Basic Attack DMG Bonus to the wielder for 14s.",
-      "5": "Increases ATK by **24%**.\nWhen a Resonator in the team casts a Tune Break skill, it grants a **18%** ATK increase and **18%** Basic Attack DMG Bonus to the wielder for 14s."
+      "1": "Increases ATK by **12**.\nWhen a Resonator in the team casts a Tune Break skill, it grants a **12** ATK increase and **12** Basic Attack DMG Bonus to the wielder for 14s.",
+      "2": "Increases ATK by **15**.\nWhen a Resonator in the team casts a Tune Break skill, it grants a **13.5** ATK increase and **13.5** Basic Attack DMG Bonus to the wielder for 14s.",
+      "3": "Increases ATK by **18**.\nWhen a Resonator in the team casts a Tune Break skill, it grants a **15** ATK increase and **15** Basic Attack DMG Bonus to the wielder for 14s.",
+      "4": "Increases ATK by **21**.\nWhen a Resonator in the team casts a Tune Break skill, it grants a **16.5** ATK increase and **16.5** Basic Attack DMG Bonus to the wielder for 14s.",
+      "5": "Increases ATK by **24**.\nWhen a Resonator in the team casts a Tune Break skill, it grants a **18** ATK increase and **18** Basic Attack DMG Bonus to the wielder for 14s."
     }
   },
   "images": {
@@ -22,5 +22,5 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Boson%20Astrolabe"
     }
   },
-  "lastUpdated": "2026-01-14"
+  "lastUpdated": "2026-02-07"
 }

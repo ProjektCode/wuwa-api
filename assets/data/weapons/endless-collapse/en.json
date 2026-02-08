@@ -7,11 +7,11 @@
   "passive": {
     "name": "Intergalactic Gaze",
     "descriptionMdByRank": {
-      "1": "Casting the Resonance Skill grants **6** Resonance Energy and increases ATK by **10%**, lasting for 16s. This effect can be triggered once every 20s.",
-      "2": "Casting the Resonance Skill grants **7** Resonance Energy and increases ATK by **12.5%**, lasting for 16s. This effect can be triggered once every 20s.",
-      "3": "Casting the Resonance Skill grants **8** Resonance Energy and increases ATK by **15%**, lasting for 16s. This effect can be triggered once every 20s.",
-      "4": "Casting the Resonance Skill grants **9** Resonance Energy and increases ATK by **17.5%**, lasting for 16s. This effect can be triggered once every 20s.",
-      "5": "Casting the Resonance Skill grants **10** Resonance Energy and increases ATK by **20%**, lasting for 16s. This effect can be triggered once every 20s."
+      "1": "Casting the Resonance Skill grants **6** Resonance Energy and increases ATK by **10**, lasting for 16s. This effect can be triggered once every 20s.",
+      "2": "Casting the Resonance Skill grants **7** Resonance Energy and increases ATK by **12.5**, lasting for 16s. This effect can be triggered once every 20s.",
+      "3": "Casting the Resonance Skill grants **8** Resonance Energy and increases ATK by **15**, lasting for 16s. This effect can be triggered once every 20s.",
+      "4": "Casting the Resonance Skill grants **9** Resonance Energy and increases ATK by **17.5**, lasting for 16s. This effect can be triggered once every 20s.",
+      "5": "Casting the Resonance Skill grants **10** Resonance Energy and increases ATK by **20**, lasting for 16s. This effect can be triggered once every 20s."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Endless%20Collapse"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 96

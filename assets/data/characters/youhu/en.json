@@ -118,22 +118,41 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Youhu/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2074.8,
-      "atk": 54.6,
-      "def": 220.16
+      "hp": 2075,
+      "atk": 55,
+      "def": 220
     },
     "50": {
-      "hp": 5155.08,
-      "atk": 138.81,
-      "def": 545.24
+      "hp": 5155,
+      "atk": 139,
+      "def": 545
     },
     "90": {
       "hp": 9975,
-      "atk": 262.5,
-      "def": 1051.09
+      "atk": 263,
+      "def": 1051
     }
-  }
+  },
+  "officialIntroduction": "A voluble and whimsical antique appraiser. Known for creating limericks on the spot, she presents her appraisals with flair and precision. She sets up a stall on the street, ensuring antiques find their way to those who truly cherish them.\n\n[Introduction from the Official Website](https://wutheringwaves.kurogames.com/m/en/main/news/detail/1525)",
+  "releaseDate": "October 24, 2024",
+  "nation": "Huanglong",
+  "gender": "Female",
+  "class": "Mutant",
+  "birthplace": "Huanglong",
+  "affiliations": "Chongzhou",
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Waterside Respite Waterside RespiteNode 2Sunroom Siesta Sunroom SiestaNode 3Restless Sleep Restless SleepNode 4Frosted Lullaby Frosted LullabyNode 5Dreamland Meander Dreamland MeanderNode 6Slumber Evermore Slumber Evermore",
+      "descriptionMd": "Node 1\n\n[Waterside Respite](https://wutheringwaves.fandom.com/wiki/Waterside_Respite)\n [Waterside Respite](https://wutheringwaves.fandom.com/wiki/Waterside_Respite)\nNode 2\n\n[Sunroom Siesta](https://wutheringwaves.fandom.com/wiki/Sunroom_Siesta)\n [Sunroom Siesta](https://wutheringwaves.fandom.com/wiki/Sunroom_Siesta)\nNode 3\n\n[Restless Sleep](https://wutheringwaves.fandom.com/wiki/Restless_Sleep)\n [Restless Sleep](https://wutheringwaves.fandom.com/wiki/Restless_Sleep)\nNode 4\n\n[Frosted Lullaby](https://wutheringwaves.fandom.com/wiki/Frosted_Lullaby)\n [Frosted Lullaby](https://wutheringwaves.fandom.com/wiki/Frosted_Lullaby)\nNode 5\n\n[Dreamland Meander](https://wutheringwaves.fandom.com/wiki/Dreamland_Meander)\n [Dreamland Meander](https://wutheringwaves.fandom.com/wiki/Dreamland_Meander)\nNode 6\n\n[Slumber Evermore](https://wutheringwaves.fandom.com/wiki/Slumber_Evermore)\n [Slumber Evermore](https://wutheringwaves.fandom.com/wiki/Slumber_Evermore)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Waterside Respite Waterside Respite",
+      "descriptionMd": "Node 2\n\n[Sunroom Siesta](https://wutheringwaves.fandom.com/wiki/Sunroom_Siesta)\n [Sunroom Siesta](https://wutheringwaves.fandom.com/wiki/Sunroom_Siesta)\nNode 3\n\n[Restless Sleep](https://wutheringwaves.fandom.com/wiki/Restless_Sleep)\n [Restless Sleep](https://wutheringwaves.fandom.com/wiki/Restless_Sleep)\nNode 4\n\n[Frosted Lullaby](https://wutheringwaves.fandom.com/wiki/Frosted_Lullaby)\n [Frosted Lullaby](https://wutheringwaves.fandom.com/wiki/Frosted_Lullaby)\nNode 5\n\n[Dreamland Meander](https://wutheringwaves.fandom.com/wiki/Dreamland_Meander)\n [Dreamland Meander](https://wutheringwaves.fandom.com/wiki/Dreamland_Meander)\nNode 6\n\n[Slumber Evermore](https://wutheringwaves.fandom.com/wiki/Slumber_Evermore)\n [Slumber Evermore](https://wutheringwaves.fandom.com/wiki/Slumber_Evermore)"
+    }
+  ]
 }

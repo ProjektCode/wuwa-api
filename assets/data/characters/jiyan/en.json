@@ -118,22 +118,44 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Jiyan/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2181.4,
+      "hp": 2181,
       "atk": 91,
-      "def": 248.32
+      "def": 248
     },
     "50": {
-      "hp": 5419.94,
-      "atk": 231.35,
-      "def": 614.98
+      "hp": 5420,
+      "atk": 231,
+      "def": 615
     },
     "90": {
-      "hp": 10487.5,
-      "atk": 437.5,
-      "def": 1185.53
+      "hp": 10488,
+      "atk": 438,
+      "def": 1186
     }
-  }
+  },
+  "officialIntroduction": "Jiyan is the General of Midnight Rangers stationed in Jinzhou, embracing strong sense of justice and resolution.\n\nBorn in a family devoted to medicine, Jiyan is both skilled and attentive.\n\nLater, in a bid to fend off the encroaching Tacet Discords, he relinquished his role in medicine and took up arms as a soldier.\n\n[His introduction on the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "May 23, 2024",
+  "nation": "Huanglong",
+  "gender": "Male",
+  "class": "Mutant",
+  "birthplace": "Huanglong",
+  "affiliations": [
+    "Jinzhou (on profile)",
+    "Midnight Rangers"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Benevolence BenevolenceNode 2Versatility VersatilityNode 3Spectation SpectationNode 4Prudence PrudenceNode 5Resolution ResolutionNode 6Fortitude Fortitude",
+      "descriptionMd": "Node 1\n\n[Benevolence](https://wutheringwaves.fandom.com/wiki/Benevolence)\n [Benevolence](https://wutheringwaves.fandom.com/wiki/Benevolence)\nNode 2\n\n[Versatility](https://wutheringwaves.fandom.com/wiki/Versatility)\n [Versatility](https://wutheringwaves.fandom.com/wiki/Versatility)\nNode 3\n\n[Spectation](https://wutheringwaves.fandom.com/wiki/Spectation)\n [Spectation](https://wutheringwaves.fandom.com/wiki/Spectation)\nNode 4\n\n[Prudence](https://wutheringwaves.fandom.com/wiki/Prudence)\n [Prudence](https://wutheringwaves.fandom.com/wiki/Prudence)\nNode 5\n\n[Resolution](https://wutheringwaves.fandom.com/wiki/Resolution)\n [Resolution](https://wutheringwaves.fandom.com/wiki/Resolution)\nNode 6\n\n[Fortitude](https://wutheringwaves.fandom.com/wiki/Fortitude)\n [Fortitude](https://wutheringwaves.fandom.com/wiki/Fortitude)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Benevolence Benevolence",
+      "descriptionMd": "Node 2\n\n[Versatility](https://wutheringwaves.fandom.com/wiki/Versatility)\n [Versatility](https://wutheringwaves.fandom.com/wiki/Versatility)\nNode 3\n\n[Spectation](https://wutheringwaves.fandom.com/wiki/Spectation)\n [Spectation](https://wutheringwaves.fandom.com/wiki/Spectation)\nNode 4\n\n[Prudence](https://wutheringwaves.fandom.com/wiki/Prudence)\n [Prudence](https://wutheringwaves.fandom.com/wiki/Prudence)\nNode 5\n\n[Resolution](https://wutheringwaves.fandom.com/wiki/Resolution)\n [Resolution](https://wutheringwaves.fandom.com/wiki/Resolution)\nNode 6\n\n[Fortitude](https://wutheringwaves.fandom.com/wiki/Fortitude)\n [Fortitude](https://wutheringwaves.fandom.com/wiki/Fortitude)"
+    }
+  ]
 }

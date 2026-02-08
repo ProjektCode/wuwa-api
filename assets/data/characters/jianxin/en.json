@@ -118,22 +118,41 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Jianxin/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2935.4,
-      "atk": 70.2,
-      "def": 235.52
+      "hp": 2935,
+      "atk": 70,
+      "def": 236
     },
     "50": {
-      "hp": 7293.34,
-      "atk": 178.47,
-      "def": 583.28
+      "hp": 7293,
+      "atk": 178,
+      "def": 583
     },
     "90": {
-      "hp": 14112.5,
-      "atk": 337.5,
-      "def": 1124.42
+      "hp": 14113,
+      "atk": 338,
+      "def": 1124
     }
-  }
+  },
+  "officialIntroduction": "N/A",
+  "releaseDate": "May 23, 2024",
+  "nation": "Huanglong",
+  "gender": "Female",
+  "class": "Natural",
+  "birthplace": "Huanglong",
+  "affiliations": "Jinzhou",
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Verdant Branchlet Verdant BranchletNode 2Tao Seeker's Journey Tao Seeker's JourneyNode 3Principles of Wuwei Principles of WuweiNode 4Multitide Reflection Multitide ReflectionNode 5Mirroring Introspection Mirroring IntrospectionNode 6Truth from Within Truth from Within",
+      "descriptionMd": "Node 1\n\n[Verdant Branchlet](https://wutheringwaves.fandom.com/wiki/Verdant_Branchlet)\n [Verdant Branchlet](https://wutheringwaves.fandom.com/wiki/Verdant_Branchlet)\nNode 2\n\n[Tao Seeker's Journey](https://wutheringwaves.fandom.com/wiki/Tao_Seeker%27s_Journey)\n [Tao Seeker's Journey](https://wutheringwaves.fandom.com/wiki/Tao_Seeker%27s_Journey)\nNode 3\n\n[Principles of Wuwei](https://wutheringwaves.fandom.com/wiki/Principles_of_Wuwei)\n [Principles of Wuwei](https://wutheringwaves.fandom.com/wiki/Principles_of_Wuwei)\nNode 4\n\n[Multitide Reflection](https://wutheringwaves.fandom.com/wiki/Multitide_Reflection)\n [Multitide Reflection](https://wutheringwaves.fandom.com/wiki/Multitide_Reflection)\nNode 5\n\n[Mirroring Introspection](https://wutheringwaves.fandom.com/wiki/Mirroring_Introspection)\n [Mirroring Introspection](https://wutheringwaves.fandom.com/wiki/Mirroring_Introspection)\nNode 6\n\n[Truth from Within](https://wutheringwaves.fandom.com/wiki/Truth_from_Within)\n [Truth from Within](https://wutheringwaves.fandom.com/wiki/Truth_from_Within)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Verdant Branchlet Verdant Branchlet",
+      "descriptionMd": "Node 2\n\n[Tao Seeker's Journey](https://wutheringwaves.fandom.com/wiki/Tao_Seeker%27s_Journey)\n [Tao Seeker's Journey](https://wutheringwaves.fandom.com/wiki/Tao_Seeker%27s_Journey)\nNode 3\n\n[Principles of Wuwei](https://wutheringwaves.fandom.com/wiki/Principles_of_Wuwei)\n [Principles of Wuwei](https://wutheringwaves.fandom.com/wiki/Principles_of_Wuwei)\nNode 4\n\n[Multitide Reflection](https://wutheringwaves.fandom.com/wiki/Multitide_Reflection)\n [Multitide Reflection](https://wutheringwaves.fandom.com/wiki/Multitide_Reflection)\nNode 5\n\n[Mirroring Introspection](https://wutheringwaves.fandom.com/wiki/Mirroring_Introspection)\n [Mirroring Introspection](https://wutheringwaves.fandom.com/wiki/Mirroring_Introspection)\nNode 6\n\n[Truth from Within](https://wutheringwaves.fandom.com/wiki/Truth_from_Within)\n [Truth from Within](https://wutheringwaves.fandom.com/wiki/Truth_from_Within)"
+    }
+  ]
 }

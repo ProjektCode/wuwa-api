@@ -118,22 +118,44 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Lumi/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "hp": 1768,
-      "atk": 70.2,
-      "def": 184.32
+      "atk": 70,
+      "def": 184
     },
     "50": {
-      "hp": 4392.8,
-      "atk": 178.47,
-      "def": 456.48
+      "hp": 4393,
+      "atk": 178,
+      "def": 456
     },
     "90": {
       "hp": 8500,
-      "atk": 337.5,
-      "def": 879.98
+      "atk": 338,
+      "def": 880
     }
-  }
+  },
+  "officialIntroduction": "From dense forests to vast wilderness, places where navigator of Lollo Logistics Lumi has traveled bear witness to her charming personality, like a shaft of sunlight.\n\nBorn disciplined, she is now enjoying her daily tasks as a diligent courier, honoring her duty of punctual delivery.\n\n[Her introduction on the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "December 12, 2024",
+  "nation": "Huanglong",
+  "gender": "Female",
+  "class": "Congenital",
+  "birthplace": "Huanglong",
+  "affiliations": [
+    "Yuezhou (on profile)",
+    "Lollo Logistics"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Parcel To Be Delivered Parcel To Be DeliveredNode 2Lollo Logistics, Ready to Help Lollo Logistics, Ready to HelpNode 3Priority Parcel In Transit Priority Parcel In TransitNode 4Captain Lumi, At Your Service Captain Lumi, At Your ServiceNode 5Parcel Collected On Time Parcel Collected On TimeNode 6Give Me A Five-star Rating Give Me A Five-star Rating",
+      "descriptionMd": "Node 1\n\n[Parcel To Be Delivered](https://wutheringwaves.fandom.com/wiki/Parcel_To_Be_Delivered)\n [Parcel To Be Delivered](https://wutheringwaves.fandom.com/wiki/Parcel_To_Be_Delivered)\nNode 2\n\n[Lollo Logistics, Ready to Help](https://wutheringwaves.fandom.com/wiki/Lollo_Logistics,_Ready_to_Help)\n [Lollo Logistics, Ready to Help](https://wutheringwaves.fandom.com/wiki/Lollo_Logistics,_Ready_to_Help)\nNode 3\n\n[Priority Parcel In Transit](https://wutheringwaves.fandom.com/wiki/Priority_Parcel_In_Transit)\n [Priority Parcel In Transit](https://wutheringwaves.fandom.com/wiki/Priority_Parcel_In_Transit)\nNode 4\n\n[Captain Lumi, At Your Service](https://wutheringwaves.fandom.com/wiki/Captain_Lumi,_At_Your_Service)\n [Captain Lumi, At Your Service](https://wutheringwaves.fandom.com/wiki/Captain_Lumi,_At_Your_Service)\nNode 5\n\n[Parcel Collected On Time](https://wutheringwaves.fandom.com/wiki/Parcel_Collected_On_Time)\n [Parcel Collected On Time](https://wutheringwaves.fandom.com/wiki/Parcel_Collected_On_Time)\nNode 6\n\n[Give Me A Five-star Rating](https://wutheringwaves.fandom.com/wiki/Give_Me_A_Five-star_Rating)\n [Give Me A Five-star Rating](https://wutheringwaves.fandom.com/wiki/Give_Me_A_Five-star_Rating)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Parcel To Be Delivered Parcel To Be Delivered",
+      "descriptionMd": "Node 2\n\n[Lollo Logistics, Ready to Help](https://wutheringwaves.fandom.com/wiki/Lollo_Logistics,_Ready_to_Help)\n [Lollo Logistics, Ready to Help](https://wutheringwaves.fandom.com/wiki/Lollo_Logistics,_Ready_to_Help)\nNode 3\n\n[Priority Parcel In Transit](https://wutheringwaves.fandom.com/wiki/Priority_Parcel_In_Transit)\n [Priority Parcel In Transit](https://wutheringwaves.fandom.com/wiki/Priority_Parcel_In_Transit)\nNode 4\n\n[Captain Lumi, At Your Service](https://wutheringwaves.fandom.com/wiki/Captain_Lumi,_At_Your_Service)\n [Captain Lumi, At Your Service](https://wutheringwaves.fandom.com/wiki/Captain_Lumi,_At_Your_Service)\nNode 5\n\n[Parcel Collected On Time](https://wutheringwaves.fandom.com/wiki/Parcel_Collected_On_Time)\n [Parcel Collected On Time](https://wutheringwaves.fandom.com/wiki/Parcel_Collected_On_Time)\nNode 6\n\n[Give Me A Five-star Rating](https://wutheringwaves.fandom.com/wiki/Give_Me_A_Five-star_Rating)\n [Give Me A Five-star Rating](https://wutheringwaves.fandom.com/wiki/Give_Me_A_Five-star_Rating)"
+    }
+  ]
 }

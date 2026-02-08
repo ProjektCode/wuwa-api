@@ -118,22 +118,44 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Phoebe/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2251.6,
-      "atk": 85.8,
-      "def": 263.68
+      "hp": 2252,
+      "atk": 86,
+      "def": 264
     },
     "50": {
-      "hp": 5594.36,
-      "atk": 218.13,
-      "def": 653.02
+      "hp": 5594,
+      "atk": 218,
+      "def": 653
     },
     "90": {
       "hp": 10825,
-      "atk": 412.5,
-      "def": 1258.87
+      "atk": 413,
+      "def": 1259
     }
-  }
+  },
+  "officialIntroduction": "Phoebe, an Acolyte of the Order of the Deep, always carries herself with warmth and grace.\n\nDevout and steadfast in her adherence to the Order's doctrines, she embodies exceptional self-discipline. Yet beneath her composed exterior burns a vibrant spirit, alight with heartfelt joy for all she holds dear.\n\n[His introduction on the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "February 13, 2025",
+  "nation": "Rinascita",
+  "gender": "Female",
+  "class": "Unclear",
+  "birthplace": "Rinascita",
+  "affiliations": [
+    "Ragunna (on profile)",
+    "Order of the Deep"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Warm Light and Bedside Wishes Warm Light and Bedside WishesNode 2A Boat Adrift in Tears A Boat Adrift in TearsNode 3Daisy Wreaths and Dreams Daisy Wreaths and DreamsNode 4Ringing Bells on Wings Aloft Ringing Bells on Wings AloftNode 5Prayer to the Distant Light Prayer to the Distant LightNode 6Whispering Chirps in Silence Whispering Chirps in Silence",
+      "descriptionMd": "Node 1\n\n[Warm Light and Bedside Wishes](https://wutheringwaves.fandom.com/wiki/Warm_Light_and_Bedside_Wishes)\n [Warm Light and Bedside Wishes](https://wutheringwaves.fandom.com/wiki/Warm_Light_and_Bedside_Wishes)\nNode 2\n\n[A Boat Adrift in Tears](https://wutheringwaves.fandom.com/wiki/A_Boat_Adrift_in_Tears)\n [A Boat Adrift in Tears](https://wutheringwaves.fandom.com/wiki/A_Boat_Adrift_in_Tears)\nNode 3\n\n[Daisy Wreaths and Dreams](https://wutheringwaves.fandom.com/wiki/Daisy_Wreaths_and_Dreams)\n [Daisy Wreaths and Dreams](https://wutheringwaves.fandom.com/wiki/Daisy_Wreaths_and_Dreams)\nNode 4\n\n[Ringing Bells on Wings Aloft](https://wutheringwaves.fandom.com/wiki/Ringing_Bells_on_Wings_Aloft)\n [Ringing Bells on Wings Aloft](https://wutheringwaves.fandom.com/wiki/Ringing_Bells_on_Wings_Aloft)\nNode 5\n\n[Prayer to the Distant Light](https://wutheringwaves.fandom.com/wiki/Prayer_to_the_Distant_Light)\n [Prayer to the Distant Light](https://wutheringwaves.fandom.com/wiki/Prayer_to_the_Distant_Light)\nNode 6\n\n[Whispering Chirps in Silence](https://wutheringwaves.fandom.com/wiki/Whispering_Chirps_in_Silence)\n [Whispering Chirps in Silence](https://wutheringwaves.fandom.com/wiki/Whispering_Chirps_in_Silence)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Warm Light and Bedside Wishes Warm Light and Bedside Wishes",
+      "descriptionMd": "Node 2\n\n[A Boat Adrift in Tears](https://wutheringwaves.fandom.com/wiki/A_Boat_Adrift_in_Tears)\n [A Boat Adrift in Tears](https://wutheringwaves.fandom.com/wiki/A_Boat_Adrift_in_Tears)\nNode 3\n\n[Daisy Wreaths and Dreams](https://wutheringwaves.fandom.com/wiki/Daisy_Wreaths_and_Dreams)\n [Daisy Wreaths and Dreams](https://wutheringwaves.fandom.com/wiki/Daisy_Wreaths_and_Dreams)\nNode 4\n\n[Ringing Bells on Wings Aloft](https://wutheringwaves.fandom.com/wiki/Ringing_Bells_on_Wings_Aloft)\n [Ringing Bells on Wings Aloft](https://wutheringwaves.fandom.com/wiki/Ringing_Bells_on_Wings_Aloft)\nNode 5\n\n[Prayer to the Distant Light](https://wutheringwaves.fandom.com/wiki/Prayer_to_the_Distant_Light)\n [Prayer to the Distant Light](https://wutheringwaves.fandom.com/wiki/Prayer_to_the_Distant_Light)\nNode 6\n\n[Whispering Chirps in Silence](https://wutheringwaves.fandom.com/wiki/Whispering_Chirps_in_Silence)\n [Whispering Chirps in Silence](https://wutheringwaves.fandom.com/wiki/Whispering_Chirps_in_Silence)"
+    }
+  ]
 }

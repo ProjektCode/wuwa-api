@@ -118,22 +118,44 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Yangyang/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2121.6,
+      "hp": 2122,
       "atk": 52,
-      "def": 230.4
+      "def": 230
     },
     "50": {
-      "hp": 5271.36,
-      "atk": 132.2,
-      "def": 570.6
+      "hp": 5271,
+      "atk": 132,
+      "def": 571
     },
     "90": {
       "hp": 10200,
       "atk": 250,
-      "def": 1099.98
+      "def": 1100
     }
-  }
+  },
+  "officialIntroduction": "Yangyang journeyed far away from home to become an Outrider in Jinzhou.\n\nInstead of seeking the spotlight, Yangyang chooses to provide comfort through quiet companionship for others.\n\nAfter enduring hardships and anguish, she has found a clear purpose: to be a beacon of guidance and an aiding presence in a world still in need of healing.\n\n[Her introduction on the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "May 23, 2024",
+  "nation": "Huanglong",
+  "gender": "Female",
+  "class": "Natural",
+  "birthplace": "Huanglong",
+  "affiliations": [
+    "Jinzhou (on profile)",
+    "Midnight Rangers"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Sapphire Skies, Soaring Sparrows Sapphire Skies, Soaring SparrowsNode 2Nesting Twigs, in Beaks They Harrow Nesting Twigs, in Beaks They HarrowNode 3Nature Sings in Symphony Nature Sings in SymphonyNode 4Close Your Eyes and Listen in Close Your Eyes and Listen inNode 5Winds Whisper in Harmony Winds Whisper in HarmonyNode 6A Tribute to Life's Sweet Hymn A Tribute to Life's Sweet Hymn",
+      "descriptionMd": "Node 1\n\n[Sapphire Skies, Soaring Sparrows](https://wutheringwaves.fandom.com/wiki/Sapphire_Skies,_Soaring_Sparrows)\n [Sapphire Skies, Soaring Sparrows](https://wutheringwaves.fandom.com/wiki/Sapphire_Skies,_Soaring_Sparrows)\nNode 2\n\n[Nesting Twigs, in Beaks They Harrow](https://wutheringwaves.fandom.com/wiki/Nesting_Twigs,_in_Beaks_They_Harrow)\n [Nesting Twigs, in Beaks They Harrow](https://wutheringwaves.fandom.com/wiki/Nesting_Twigs,_in_Beaks_They_Harrow)\nNode 3\n\n[Nature Sings in Symphony](https://wutheringwaves.fandom.com/wiki/Nature_Sings_in_Symphony)\n [Nature Sings in Symphony](https://wutheringwaves.fandom.com/wiki/Nature_Sings_in_Symphony)\nNode 4\n\n[Close Your Eyes and Listen in](https://wutheringwaves.fandom.com/wiki/Close_Your_Eyes_and_Listen_in)\n [Close Your Eyes and Listen in](https://wutheringwaves.fandom.com/wiki/Close_Your_Eyes_and_Listen_in)\nNode 5\n\n[Winds Whisper in Harmony](https://wutheringwaves.fandom.com/wiki/Winds_Whisper_in_Harmony)\n [Winds Whisper in Harmony](https://wutheringwaves.fandom.com/wiki/Winds_Whisper_in_Harmony)\nNode 6\n\n[A Tribute to Life's Sweet Hymn](https://wutheringwaves.fandom.com/wiki/A_Tribute_to_Life%27s_Sweet_Hymn)\n [A Tribute to Life's Sweet Hymn](https://wutheringwaves.fandom.com/wiki/A_Tribute_to_Life%27s_Sweet_Hymn)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Sapphire Skies, Soaring Sparrows Sapphire Skies, Soaring Sparrows",
+      "descriptionMd": "Node 2\n\n[Nesting Twigs, in Beaks They Harrow](https://wutheringwaves.fandom.com/wiki/Nesting_Twigs,_in_Beaks_They_Harrow)\n [Nesting Twigs, in Beaks They Harrow](https://wutheringwaves.fandom.com/wiki/Nesting_Twigs,_in_Beaks_They_Harrow)\nNode 3\n\n[Nature Sings in Symphony](https://wutheringwaves.fandom.com/wiki/Nature_Sings_in_Symphony)\n [Nature Sings in Symphony](https://wutheringwaves.fandom.com/wiki/Nature_Sings_in_Symphony)\nNode 4\n\n[Close Your Eyes and Listen in](https://wutheringwaves.fandom.com/wiki/Close_Your_Eyes_and_Listen_in)\n [Close Your Eyes and Listen in](https://wutheringwaves.fandom.com/wiki/Close_Your_Eyes_and_Listen_in)\nNode 5\n\n[Winds Whisper in Harmony](https://wutheringwaves.fandom.com/wiki/Winds_Whisper_in_Harmony)\n [Winds Whisper in Harmony](https://wutheringwaves.fandom.com/wiki/Winds_Whisper_in_Harmony)\nNode 6\n\n[A Tribute to Life's Sweet Hymn](https://wutheringwaves.fandom.com/wiki/A_Tribute_to_Life%27s_Sweet_Hymn)\n [A Tribute to Life's Sweet Hymn](https://wutheringwaves.fandom.com/wiki/A_Tribute_to_Life%27s_Sweet_Hymn)"
+    }
+  ]
 }

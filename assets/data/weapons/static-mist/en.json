@@ -7,11 +7,11 @@
   "passive": {
     "name": "Stormy Resolution",
     "descriptionMdByRank": {
-      "1": "Increases Energy Regen by **12.8%**. When Outro Skill is released, increases the switched-in Resonator's ATK by **10%**, stacking up to 1 time(s). This effect lasts for 14s.",
-      "2": "Increases Energy Regen by **16%**. When Outro Skill is released, increases the switched-in Resonator's ATK by **12.5%**, stacking up to 1 time(s). This effect lasts for 14s.",
-      "3": "Increases Energy Regen by **19.2%**. When Outro Skill is released, increases the switched-in Resonator's ATK by **15%**, stacking up to 1 time(s). This effect lasts for 14s.",
-      "4": "Increases Energy Regen by **22.4%**. When Outro Skill is released, increases the switched-in Resonator's ATK by **17.55%**, stacking up to 1 time(s). This effect lasts for 14s.",
-      "5": "Increases Energy Regen by **25.6%**. When Outro Skill is released, increases the switched-in Resonator's ATK by **20%**, stacking up to 1 time(s). This effect lasts for 14s."
+      "1": "Increases Energy Regen by **12.8**. When Outro Skill is released, increases the switched-in Resonator's ATK by **10**, stacking up to 1 time(s). This effect lasts for 14s.",
+      "2": "Increases Energy Regen by **16**. When Outro Skill is released, increases the switched-in Resonator's ATK by **12.5**, stacking up to 1 time(s). This effect lasts for 14s.",
+      "3": "Increases Energy Regen by **19.2**. When Outro Skill is released, increases the switched-in Resonator's ATK by **15**, stacking up to 1 time(s). This effect lasts for 14s.",
+      "4": "Increases Energy Regen by **22.4**. When Outro Skill is released, increases the switched-in Resonator's ATK by **17.55**, stacking up to 1 time(s). This effect lasts for 14s.",
+      "5": "Increases Energy Regen by **25.6**. When Outro Skill is released, increases the switched-in Resonator's ATK by **20**, stacking up to 1 time(s). This effect lasts for 14s."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Static%20Mist"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 122

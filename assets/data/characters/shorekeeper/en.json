@@ -118,22 +118,40 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Shorekeeper/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 3476.2,
-      "atk": 59.8,
-      "def": 230.4
+      "hp": 3476,
+      "atk": 60,
+      "def": 230
     },
     "50": {
-      "hp": 8637.02,
-      "atk": 152.03,
-      "def": 570.6
+      "hp": 8637,
+      "atk": 152,
+      "def": 571
     },
     "90": {
-      "hp": 16712.5,
-      "atk": 287.5,
-      "def": 1099.98
+      "hp": 16713,
+      "atk": 288,
+      "def": 1100
     }
-  }
+  },
+  "officialIntroduction": "The Shorekeeper of the Black Shores, a mysterious divine being governing the essence of aloofness, emerges in response to your summon. \nHaving spent eons in guardianship, the first stirrings of emotion and desire awaken within her heart, fostering a firm determination to connect with the world — and with you.\n\n[Her introduction on the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)In her role as the guardian of the Black Shores, a simple title is all the Shorekeeper needs to explain her existence. Beyond her worldly responsibilities, it's you who allowed desires, bonds, and emotions to bloom inside her.[[4]](#cite_note-4)",
+  "releaseDate": "September 29, 2024",
+  "nation": "The Black Shores",
+  "gender": "Female",
+  "birthplace": "The Black Shores",
+  "affiliations": "Black Shores",
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Unspoken Conjecture Unspoken ConjectureNode 2Night's Gift and Refusal Night's Gift and RefusalNode 3Infinity Awaits Me Infinity Awaits MeNode 4Overflowing Quietude Overflowing QuietudeNode 5Echoes in Silence Echoes in SilenceNode 6To the New World To the New World",
+      "descriptionMd": "Node 1\n\n[Unspoken Conjecture](https://wutheringwaves.fandom.com/wiki/Unspoken_Conjecture)\n [Unspoken Conjecture](https://wutheringwaves.fandom.com/wiki/Unspoken_Conjecture)\nNode 2\n\n[Night's Gift and Refusal](https://wutheringwaves.fandom.com/wiki/Night%27s_Gift_and_Refusal)\n [Night's Gift and Refusal](https://wutheringwaves.fandom.com/wiki/Night%27s_Gift_and_Refusal)\nNode 3\n\n[Infinity Awaits Me](https://wutheringwaves.fandom.com/wiki/Infinity_Awaits_Me)\n [Infinity Awaits Me](https://wutheringwaves.fandom.com/wiki/Infinity_Awaits_Me)\nNode 4\n\n[Overflowing Quietude](https://wutheringwaves.fandom.com/wiki/Overflowing_Quietude)\n [Overflowing Quietude](https://wutheringwaves.fandom.com/wiki/Overflowing_Quietude)\nNode 5\n\n[Echoes in Silence](https://wutheringwaves.fandom.com/wiki/Echoes_in_Silence)\n [Echoes in Silence](https://wutheringwaves.fandom.com/wiki/Echoes_in_Silence)\nNode 6\n\n[To the New World](https://wutheringwaves.fandom.com/wiki/To_the_New_World)\n [To the New World](https://wutheringwaves.fandom.com/wiki/To_the_New_World)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Unspoken Conjecture Unspoken Conjecture",
+      "descriptionMd": "Node 2\n\n[Night's Gift and Refusal](https://wutheringwaves.fandom.com/wiki/Night%27s_Gift_and_Refusal)\n [Night's Gift and Refusal](https://wutheringwaves.fandom.com/wiki/Night%27s_Gift_and_Refusal)\nNode 3\n\n[Infinity Awaits Me](https://wutheringwaves.fandom.com/wiki/Infinity_Awaits_Me)\n [Infinity Awaits Me](https://wutheringwaves.fandom.com/wiki/Infinity_Awaits_Me)\nNode 4\n\n[Overflowing Quietude](https://wutheringwaves.fandom.com/wiki/Overflowing_Quietude)\n [Overflowing Quietude](https://wutheringwaves.fandom.com/wiki/Overflowing_Quietude)\nNode 5\n\n[Echoes in Silence](https://wutheringwaves.fandom.com/wiki/Echoes_in_Silence)\n [Echoes in Silence](https://wutheringwaves.fandom.com/wiki/Echoes_in_Silence)\nNode 6\n\n[To the New World](https://wutheringwaves.fandom.com/wiki/To_the_New_World)\n [To the New World](https://wutheringwaves.fandom.com/wiki/To_the_New_World)"
+    }
+  ]
 }

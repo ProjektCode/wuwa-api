@@ -118,22 +118,41 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Ciaccona/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2415.4,
-      "atk": 98.8,
-      "def": 250.88
+      "hp": 2415,
+      "atk": 99,
+      "def": 251
     },
     "50": {
-      "hp": 6001.34,
-      "atk": 251.18,
-      "def": 621.32
+      "hp": 6001,
+      "atk": 251,
+      "def": 621
     },
     "90": {
-      "hp": 11612.5,
+      "hp": 11613,
       "atk": 475,
-      "def": 1197.76
+      "def": 1198
     }
-  }
+  },
+  "officialIntroduction": "Ciaccona, the bard of Rinascita, is free-spirited, romantic, sincere, and passionate.\n\nOn her journey, she sang radiant poems of saints and heroes, weaving tales of people, miracles, turmoil, and suffering—along with the sorrow of death and farewell.\n\nIntroduction from the [Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "May 22, 2025",
+  "nation": "Rinascita",
+  "gender": "Female",
+  "class": "Unclear",
+  "birthplace": "Rinascita",
+  "affiliations": "Ragunna",
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Where Wind Sings Where Wind SingsNode 2Song of the Four Seasons Song of the Four SeasonsNode 3Starlit Improv Starlit ImprovNode 4Toccata and Fugue Toccata and FugueNode 5Eternal Idyll to Lasting Summer Eternal Idyll to Lasting SummerNode 6Unending Cadence Unending Cadence",
+      "descriptionMd": "Node 1\n\n[Where Wind Sings](https://wutheringwaves.fandom.com/wiki/Where_Wind_Sings)\n [Where Wind Sings](https://wutheringwaves.fandom.com/wiki/Where_Wind_Sings)\nNode 2\n\n[Song of the Four Seasons](https://wutheringwaves.fandom.com/wiki/Song_of_the_Four_Seasons)\n [Song of the Four Seasons](https://wutheringwaves.fandom.com/wiki/Song_of_the_Four_Seasons)\nNode 3\n\n[Starlit Improv](https://wutheringwaves.fandom.com/wiki/Starlit_Improv)\n [Starlit Improv](https://wutheringwaves.fandom.com/wiki/Starlit_Improv)\nNode 4\n\n[Toccata and Fugue](https://wutheringwaves.fandom.com/wiki/Toccata_and_Fugue)\n [Toccata and Fugue](https://wutheringwaves.fandom.com/wiki/Toccata_and_Fugue)\nNode 5\n\n[Eternal Idyll to Lasting Summer](https://wutheringwaves.fandom.com/wiki/Eternal_Idyll_to_Lasting_Summer)\n [Eternal Idyll to Lasting Summer](https://wutheringwaves.fandom.com/wiki/Eternal_Idyll_to_Lasting_Summer)\nNode 6\n\n[Unending Cadence](https://wutheringwaves.fandom.com/wiki/Unending_Cadence)\n [Unending Cadence](https://wutheringwaves.fandom.com/wiki/Unending_Cadence)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Where Wind Sings Where Wind Sings",
+      "descriptionMd": "Node 2\n\n[Song of the Four Seasons](https://wutheringwaves.fandom.com/wiki/Song_of_the_Four_Seasons)\n [Song of the Four Seasons](https://wutheringwaves.fandom.com/wiki/Song_of_the_Four_Seasons)\nNode 3\n\n[Starlit Improv](https://wutheringwaves.fandom.com/wiki/Starlit_Improv)\n [Starlit Improv](https://wutheringwaves.fandom.com/wiki/Starlit_Improv)\nNode 4\n\n[Toccata and Fugue](https://wutheringwaves.fandom.com/wiki/Toccata_and_Fugue)\n [Toccata and Fugue](https://wutheringwaves.fandom.com/wiki/Toccata_and_Fugue)\nNode 5\n\n[Eternal Idyll to Lasting Summer](https://wutheringwaves.fandom.com/wiki/Eternal_Idyll_to_Lasting_Summer)\n [Eternal Idyll to Lasting Summer](https://wutheringwaves.fandom.com/wiki/Eternal_Idyll_to_Lasting_Summer)\nNode 6\n\n[Unending Cadence](https://wutheringwaves.fandom.com/wiki/Unending_Cadence)\n [Unending Cadence](https://wutheringwaves.fandom.com/wiki/Unending_Cadence)"
+    }
+  ]
 }

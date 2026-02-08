@@ -118,22 +118,44 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Yuanwu/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 1773.2,
-      "atk": 46.8,
-      "def": 343.04
+      "hp": 1773,
+      "atk": 47,
+      "def": 343
     },
     "50": {
-      "hp": 4405.72,
-      "atk": 118.98,
-      "def": 849.56
+      "hp": 4406,
+      "atk": 119,
+      "def": 850
     },
     "90": {
       "hp": 8525,
       "atk": 225,
-      "def": 1637.75
+      "def": 1638
     }
-  }
+  },
+  "officialIntroduction": "N/A",
+  "releaseDate": "May 23, 2024",
+  "nation": "Huanglong",
+  "gender": "Male",
+  "class": "Natural",
+  "birthplace": "Huanglong",
+  "affiliations": [
+    "Jinzhou (on profile)",
+    "Yuanwu Boxing Gym"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Steaming Cup of Justice Steaming Cup of JusticeNode 2Fierce Heart, Serene Mind Fierce Heart, Serene MindNode 3Upholder of Integrity Upholder of IntegrityNode 4Retributive Knuckles Retributive KnucklesNode 5Neighborhood Protector Neighborhood ProtectorNode 6Defender of All Realms Defender of All Realms",
+      "descriptionMd": "Node 1\n\n[Steaming Cup of Justice](https://wutheringwaves.fandom.com/wiki/Steaming_Cup_of_Justice)\n [Steaming Cup of Justice](https://wutheringwaves.fandom.com/wiki/Steaming_Cup_of_Justice)\nNode 2\n\n[Fierce Heart, Serene Mind](https://wutheringwaves.fandom.com/wiki/Fierce_Heart,_Serene_Mind)\n [Fierce Heart, Serene Mind](https://wutheringwaves.fandom.com/wiki/Fierce_Heart,_Serene_Mind)\nNode 3\n\n[Upholder of Integrity](https://wutheringwaves.fandom.com/wiki/Upholder_of_Integrity)\n [Upholder of Integrity](https://wutheringwaves.fandom.com/wiki/Upholder_of_Integrity)\nNode 4\n\n[Retributive Knuckles](https://wutheringwaves.fandom.com/wiki/Retributive_Knuckles)\n [Retributive Knuckles](https://wutheringwaves.fandom.com/wiki/Retributive_Knuckles)\nNode 5\n\n[Neighborhood Protector](https://wutheringwaves.fandom.com/wiki/Neighborhood_Protector)\n [Neighborhood Protector](https://wutheringwaves.fandom.com/wiki/Neighborhood_Protector)\nNode 6\n\n[Defender of All Realms](https://wutheringwaves.fandom.com/wiki/Defender_of_All_Realms)\n [Defender of All Realms](https://wutheringwaves.fandom.com/wiki/Defender_of_All_Realms)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Steaming Cup of Justice Steaming Cup of Justice",
+      "descriptionMd": "Node 2\n\n[Fierce Heart, Serene Mind](https://wutheringwaves.fandom.com/wiki/Fierce_Heart,_Serene_Mind)\n [Fierce Heart, Serene Mind](https://wutheringwaves.fandom.com/wiki/Fierce_Heart,_Serene_Mind)\nNode 3\n\n[Upholder of Integrity](https://wutheringwaves.fandom.com/wiki/Upholder_of_Integrity)\n [Upholder of Integrity](https://wutheringwaves.fandom.com/wiki/Upholder_of_Integrity)\nNode 4\n\n[Retributive Knuckles](https://wutheringwaves.fandom.com/wiki/Retributive_Knuckles)\n [Retributive Knuckles](https://wutheringwaves.fandom.com/wiki/Retributive_Knuckles)\nNode 5\n\n[Neighborhood Protector](https://wutheringwaves.fandom.com/wiki/Neighborhood_Protector)\n [Neighborhood Protector](https://wutheringwaves.fandom.com/wiki/Neighborhood_Protector)\nNode 6\n\n[Defender of All Realms](https://wutheringwaves.fandom.com/wiki/Defender_of_All_Realms)\n [Defender of All Realms](https://wutheringwaves.fandom.com/wiki/Defender_of_All_Realms)"
+    }
+  ]
 }

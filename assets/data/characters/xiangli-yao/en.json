@@ -118,22 +118,44 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Xiangli%20Yao/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "hp": 2210,
-      "atk": 88.4,
+      "atk": 88,
       "def": 256
     },
     "50": {
       "hp": 5491,
-      "atk": 224.74,
+      "atk": 225,
       "def": 634
     },
     "90": {
       "hp": 10625,
       "atk": 425,
-      "def": 1222.2
+      "def": 1222
     }
-  }
+  },
+  "officialIntroduction": "Huaxu Academy's Principal Investigator, Xiangli Yao, displays exceptional expertise in various research fields despite his young age.\nHe is a gentle yet rational soul, embracing unique insights and commitment to the research of Automata Mechanics.[[5]](#cite_note-5)",
+  "releaseDate": "September 07, 2024",
+  "nation": "Huanglong",
+  "gender": "Male",
+  "class": "Mutant",
+  "birthplace": "Huanglong",
+  "affiliations": [
+    "Jinzhou (on profile)",
+    "Huaxu Academy"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Prodigy of Protégés Prodigy of ProtégésNode 2Traces of Predecessors Traces of PredecessorsNode 3Ruins of Ancient Ruins of AncientNode 4Vessel of Rebirth Vessel of RebirthNode 5End of Stars End of StarsNode 6Solace of the Ordinary Solace of the Ordinary",
+      "descriptionMd": "Node 1\n\n[Prodigy of Protégés](https://wutheringwaves.fandom.com/wiki/Prodigy_of_Prot%C3%A9g%C3%A9s)\n [Prodigy of Protégés](https://wutheringwaves.fandom.com/wiki/Prodigy_of_Prot%C3%A9g%C3%A9s)\nNode 2\n\n[Traces of Predecessors](https://wutheringwaves.fandom.com/wiki/Traces_of_Predecessors)\n [Traces of Predecessors](https://wutheringwaves.fandom.com/wiki/Traces_of_Predecessors)\nNode 3\n\n[Ruins of Ancient](https://wutheringwaves.fandom.com/wiki/Ruins_of_Ancient)\n [Ruins of Ancient](https://wutheringwaves.fandom.com/wiki/Ruins_of_Ancient)\nNode 4\n\n[Vessel of Rebirth](https://wutheringwaves.fandom.com/wiki/Vessel_of_Rebirth)\n [Vessel of Rebirth](https://wutheringwaves.fandom.com/wiki/Vessel_of_Rebirth)\nNode 5\n\n[End of Stars](https://wutheringwaves.fandom.com/wiki/End_of_Stars)\n [End of Stars](https://wutheringwaves.fandom.com/wiki/End_of_Stars)\nNode 6\n\n[Solace of the Ordinary](https://wutheringwaves.fandom.com/wiki/Solace_of_the_Ordinary)\n [Solace of the Ordinary](https://wutheringwaves.fandom.com/wiki/Solace_of_the_Ordinary)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Prodigy of Protégés Prodigy of Protégés",
+      "descriptionMd": "Node 2\n\n[Traces of Predecessors](https://wutheringwaves.fandom.com/wiki/Traces_of_Predecessors)\n [Traces of Predecessors](https://wutheringwaves.fandom.com/wiki/Traces_of_Predecessors)\nNode 3\n\n[Ruins of Ancient](https://wutheringwaves.fandom.com/wiki/Ruins_of_Ancient)\n [Ruins of Ancient](https://wutheringwaves.fandom.com/wiki/Ruins_of_Ancient)\nNode 4\n\n[Vessel of Rebirth](https://wutheringwaves.fandom.com/wiki/Vessel_of_Rebirth)\n [Vessel of Rebirth](https://wutheringwaves.fandom.com/wiki/Vessel_of_Rebirth)\nNode 5\n\n[End of Stars](https://wutheringwaves.fandom.com/wiki/End_of_Stars)\n [End of Stars](https://wutheringwaves.fandom.com/wiki/End_of_Stars)\nNode 6\n\n[Solace of the Ordinary](https://wutheringwaves.fandom.com/wiki/Solace_of_the_Ordinary)\n [Solace of the Ordinary](https://wutheringwaves.fandom.com/wiki/Solace_of_the_Ordinary)"
+    }
+  ]
 }

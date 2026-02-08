@@ -1,5 +1,9 @@
 {
   "characters": {
+    "aemeath": {
+      "fandomPage": "Aemeath",
+      "prydwenSlug": "aemeath"
+    },
     "rover-spectro": {
       "fandomPage": "Rover",
       "attributeUrl": "https://static.wikia.nocookie.net/wutheringwaves/images/6/6a/Spectro_Icon.png/revision/latest"

@@ -7,11 +7,11 @@
   "passive": {
     "name": "Pole of the Celestial Dome",
     "descriptionMdByRank": {
-      "1": "Casting [Resonance Liberation](https://wutheringwaves.fandom.com/wiki/Resonance_Liberation) increases the Resonator's [Healing Bonus](https://wutheringwaves.fandom.com/wiki/Healing) by **16%** for 15s.",
-      "2": "Casting [Resonance Liberation](https://wutheringwaves.fandom.com/wiki/Resonance_Liberation) increases the Resonator's [Healing Bonus](https://wutheringwaves.fandom.com/wiki/Healing) by **20%** for 15s.",
-      "3": "Casting [Resonance Liberation](https://wutheringwaves.fandom.com/wiki/Resonance_Liberation) increases the Resonator's [Healing Bonus](https://wutheringwaves.fandom.com/wiki/Healing) by **24%** for 15s.",
-      "4": "Casting [Resonance Liberation](https://wutheringwaves.fandom.com/wiki/Resonance_Liberation) increases the Resonator's [Healing Bonus](https://wutheringwaves.fandom.com/wiki/Healing) by **28%** for 15s.",
-      "5": "Casting [Resonance Liberation](https://wutheringwaves.fandom.com/wiki/Resonance_Liberation) increases the Resonator's [Healing Bonus](https://wutheringwaves.fandom.com/wiki/Healing) by **32%** for 15s."
+      "1": "Casting [Resonance Liberation](https://wutheringwaves.fandom.com/wiki/Resonance_Liberation) increases the Resonator's [Healing Bonus](https://wutheringwaves.fandom.com/wiki/Healing) by **16** for 15s.",
+      "2": "Casting [Resonance Liberation](https://wutheringwaves.fandom.com/wiki/Resonance_Liberation) increases the Resonator's [Healing Bonus](https://wutheringwaves.fandom.com/wiki/Healing) by **20** for 15s.",
+      "3": "Casting [Resonance Liberation](https://wutheringwaves.fandom.com/wiki/Resonance_Liberation) increases the Resonator's [Healing Bonus](https://wutheringwaves.fandom.com/wiki/Healing) by **24** for 15s.",
+      "4": "Casting [Resonance Liberation](https://wutheringwaves.fandom.com/wiki/Resonance_Liberation) increases the Resonator's [Healing Bonus](https://wutheringwaves.fandom.com/wiki/Healing) by **28** for 15s.",
+      "5": "Casting [Resonance Liberation](https://wutheringwaves.fandom.com/wiki/Resonance_Liberation) increases the Resonator's [Healing Bonus](https://wutheringwaves.fandom.com/wiki/Healing) by **32** for 15s."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Call%20of%20the%20Abyss"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 70

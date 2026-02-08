@@ -118,22 +118,39 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Phrolova/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2241.2,
+      "hp": 2241,
       "atk": 91,
-      "def": 238.08
+      "def": 238
     },
     "50": {
-      "hp": 5568.52,
-      "atk": 231.35,
-      "def": 589.62
+      "hp": 5569,
+      "atk": 231,
+      "def": 590
     },
     "90": {
       "hp": 10775,
-      "atk": 437.5,
-      "def": 1136.65
+      "atk": 438,
+      "def": 1137
     }
-  }
+  },
+  "officialIntroduction": "Phrolova, a Fractsidus Overseer walking the fine line between life and death, an uncanny, deadly conductor.\n\nA silent wave of her baton is enough to attune the very frequencies of being and conduct the symphonies of \"souls.\" The music of hers can sculpt a better world or, just as easily, summon a legion to wreak havoc.[[3]](#cite_note-3)\n\nThe silent and somber Overseer of the Fractsidus, Phrolova carries an endless sadness that envelops everyone around her.\nShe weaves music that bridges the gap between life and death, crafting an ideal world within her heart.\n\n[Introduction from the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "July 24, 2025",
+  "class": "Mutant",
+  "birthplace": "Ostina",
+  "affiliations": "Fractsidus (formerly)",
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1A Key to Netherworld's Secrets A Key to Netherworld's SecretsNode 2A Rope Tied to a Life Beyond A Rope Tied to a Life BeyondNode 3A Dagger to Cut Clean Obsessions A Dagger to Cut Clean ObsessionsNode 4A Torch Illuminating the Path A Torch Illuminating the PathNode 5A Forked Road in Fate's Heartland A Forked Road in Fate's HeartlandNode 6A Night to Depart From Eternal Rest A Night to Depart From Eternal Rest",
+      "descriptionMd": "Node 1\n\n[A Key to Netherworld's Secrets](https://wutheringwaves.fandom.com/wiki/A_Key_to_Netherworld%27s_Secrets)\n [A Key to Netherworld's Secrets](https://wutheringwaves.fandom.com/wiki/A_Key_to_Netherworld%27s_Secrets)\nNode 2\n\n[A Rope Tied to a Life Beyond](https://wutheringwaves.fandom.com/wiki/A_Rope_Tied_to_a_Life_Beyond)\n [A Rope Tied to a Life Beyond](https://wutheringwaves.fandom.com/wiki/A_Rope_Tied_to_a_Life_Beyond)\nNode 3\n\n[A Dagger to Cut Clean Obsessions](https://wutheringwaves.fandom.com/wiki/A_Dagger_to_Cut_Clean_Obsessions)\n [A Dagger to Cut Clean Obsessions](https://wutheringwaves.fandom.com/wiki/A_Dagger_to_Cut_Clean_Obsessions)\nNode 4\n\n[A Torch Illuminating the Path](https://wutheringwaves.fandom.com/wiki/A_Torch_Illuminating_the_Path)\n [A Torch Illuminating the Path](https://wutheringwaves.fandom.com/wiki/A_Torch_Illuminating_the_Path)\nNode 5\n\n[A Forked Road in Fate's Heartland](https://wutheringwaves.fandom.com/wiki/A_Forked_Road_in_Fate%27s_Heartland)\n [A Forked Road in Fate's Heartland](https://wutheringwaves.fandom.com/wiki/A_Forked_Road_in_Fate%27s_Heartland)\nNode 6\n\n[A Night to Depart From Eternal Rest](https://wutheringwaves.fandom.com/wiki/A_Night_to_Depart_From_Eternal_Rest)\n [A Night to Depart From Eternal Rest](https://wutheringwaves.fandom.com/wiki/A_Night_to_Depart_From_Eternal_Rest)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1A Key to Netherworld's Secrets A Key to Netherworld's Secrets",
+      "descriptionMd": "Node 2\n\n[A Rope Tied to a Life Beyond](https://wutheringwaves.fandom.com/wiki/A_Rope_Tied_to_a_Life_Beyond)\n [A Rope Tied to a Life Beyond](https://wutheringwaves.fandom.com/wiki/A_Rope_Tied_to_a_Life_Beyond)\nNode 3\n\n[A Dagger to Cut Clean Obsessions](https://wutheringwaves.fandom.com/wiki/A_Dagger_to_Cut_Clean_Obsessions)\n [A Dagger to Cut Clean Obsessions](https://wutheringwaves.fandom.com/wiki/A_Dagger_to_Cut_Clean_Obsessions)\nNode 4\n\n[A Torch Illuminating the Path](https://wutheringwaves.fandom.com/wiki/A_Torch_Illuminating_the_Path)\n [A Torch Illuminating the Path](https://wutheringwaves.fandom.com/wiki/A_Torch_Illuminating_the_Path)\nNode 5\n\n[A Forked Road in Fate's Heartland](https://wutheringwaves.fandom.com/wiki/A_Forked_Road_in_Fate%27s_Heartland)\n [A Forked Road in Fate's Heartland](https://wutheringwaves.fandom.com/wiki/A_Forked_Road_in_Fate%27s_Heartland)\nNode 6\n\n[A Night to Depart From Eternal Rest](https://wutheringwaves.fandom.com/wiki/A_Night_to_Depart_From_Eternal_Rest)\n [A Night to Depart From Eternal Rest](https://wutheringwaves.fandom.com/wiki/A_Night_to_Depart_From_Eternal_Rest)"
+    }
+  ]
 }

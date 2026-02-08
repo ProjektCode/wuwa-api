@@ -118,22 +118,45 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Yinlin/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "hp": 2288,
-      "atk": 83.2,
-      "def": 268.8
+      "atk": 83,
+      "def": 269
     },
     "50": {
-      "hp": 5684.8,
-      "atk": 211.52,
-      "def": 665.7
+      "hp": 5685,
+      "atk": 212,
+      "def": 666
     },
     "90": {
       "hp": 11000,
       "atk": 400,
-      "def": 1283.31
+      "def": 1283
     }
-  }
+  },
+  "officialIntroduction": "N/A",
+  "releaseDate": "June 06, 2024",
+  "nation": "Huanglong",
+  "gender": "Female",
+  "class": "Congenital",
+  "birthplace": "Huanglong",
+  "affiliations": [
+    "Jinzhou (on profile)",
+    "Public Security Bureau (formerly)",
+    "Séance Society (formerly)"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Morality's Crossroad Morality's CrossroadNode 2Ensnarled By Rapport Ensnarled By RapportNode 3Unyielding Verdict Unyielding VerdictNode 4Steadfast Conviction Steadfast ConvictionNode 5Resounding Will Resounding WillNode 6Pursuit of Justice Pursuit of Justice",
+      "descriptionMd": "Node 1\n\n[Morality's Crossroad](https://wutheringwaves.fandom.com/wiki/Morality%27s_Crossroad)\n [Morality's Crossroad](https://wutheringwaves.fandom.com/wiki/Morality%27s_Crossroad)\nNode 2\n\n[Ensnarled By Rapport](https://wutheringwaves.fandom.com/wiki/Ensnarled_By_Rapport)\n [Ensnarled By Rapport](https://wutheringwaves.fandom.com/wiki/Ensnarled_By_Rapport)\nNode 3\n\n[Unyielding Verdict](https://wutheringwaves.fandom.com/wiki/Unyielding_Verdict)\n [Unyielding Verdict](https://wutheringwaves.fandom.com/wiki/Unyielding_Verdict)\nNode 4\n\n[Steadfast Conviction](https://wutheringwaves.fandom.com/wiki/Steadfast_Conviction)\n [Steadfast Conviction](https://wutheringwaves.fandom.com/wiki/Steadfast_Conviction)\nNode 5\n\n[Resounding Will](https://wutheringwaves.fandom.com/wiki/Resounding_Will)\n [Resounding Will](https://wutheringwaves.fandom.com/wiki/Resounding_Will)\nNode 6\n\n[Pursuit of Justice](https://wutheringwaves.fandom.com/wiki/Pursuit_of_Justice)\n [Pursuit of Justice](https://wutheringwaves.fandom.com/wiki/Pursuit_of_Justice)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Morality's Crossroad Morality's Crossroad",
+      "descriptionMd": "Node 2\n\n[Ensnarled By Rapport](https://wutheringwaves.fandom.com/wiki/Ensnarled_By_Rapport)\n [Ensnarled By Rapport](https://wutheringwaves.fandom.com/wiki/Ensnarled_By_Rapport)\nNode 3\n\n[Unyielding Verdict](https://wutheringwaves.fandom.com/wiki/Unyielding_Verdict)\n [Unyielding Verdict](https://wutheringwaves.fandom.com/wiki/Unyielding_Verdict)\nNode 4\n\n[Steadfast Conviction](https://wutheringwaves.fandom.com/wiki/Steadfast_Conviction)\n [Steadfast Conviction](https://wutheringwaves.fandom.com/wiki/Steadfast_Conviction)\nNode 5\n\n[Resounding Will](https://wutheringwaves.fandom.com/wiki/Resounding_Will)\n [Resounding Will](https://wutheringwaves.fandom.com/wiki/Resounding_Will)\nNode 6\n\n[Pursuit of Justice](https://wutheringwaves.fandom.com/wiki/Pursuit_of_Justice)\n [Pursuit of Justice](https://wutheringwaves.fandom.com/wiki/Pursuit_of_Justice)"
+    }
+  ]
 }

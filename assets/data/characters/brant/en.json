@@ -118,22 +118,43 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Brant/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2428.4,
+      "hp": 2428,
       "atk": 78,
-      "def": 273.92
+      "def": 274
     },
     "50": {
-      "hp": 6033.64,
-      "atk": 198.3,
-      "def": 678.38
+      "hp": 6034,
+      "atk": 198,
+      "def": 678
     },
     "90": {
       "hp": 11675,
       "atk": 375,
-      "def": 1307.75
+      "def": 1308
     }
-  }
+  },
+  "officialIntroduction": "As captain of the Fool's Troupe, Brant exudes a carefree, easygoing charm, unbound by convention.\n\nBeneath his flamboyant persona lies a genuine heart, deeply devoted to his family and companions. His life is dedicated to securing a safe haven for the Troupe's members\n\n[His introduction on the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "March 06, 2025",
+  "gender": "Male",
+  "class": "Natural",
+  "birthplace": "Rinascita",
+  "affiliations": [
+    "Ragunna (on profile)",
+    "Troupe of Fools"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1By Currents and Winds By Currents and WindsNode 2For Smiles and Cheers For Smiles and CheersNode 3Through Storms I Sail Through Storms I SailNode 4To Freedom I Sing To Freedom I SingNode 5All the World's an Actor's Stage All the World's an Actor's StageNode 6All the World's a Captain's Carnevale All the World's a Captain's Carnevale",
+      "descriptionMd": "Node 1\n\n[By Currents and Winds](https://wutheringwaves.fandom.com/wiki/By_Currents_and_Winds)\n [By Currents and Winds](https://wutheringwaves.fandom.com/wiki/By_Currents_and_Winds)\nNode 2\n\n[For Smiles and Cheers](https://wutheringwaves.fandom.com/wiki/For_Smiles_and_Cheers)\n [For Smiles and Cheers](https://wutheringwaves.fandom.com/wiki/For_Smiles_and_Cheers)\nNode 3\n\n[Through Storms I Sail](https://wutheringwaves.fandom.com/wiki/Through_Storms_I_Sail)\n [Through Storms I Sail](https://wutheringwaves.fandom.com/wiki/Through_Storms_I_Sail)\nNode 4\n\n[To Freedom I Sing](https://wutheringwaves.fandom.com/wiki/To_Freedom_I_Sing)\n [To Freedom I Sing](https://wutheringwaves.fandom.com/wiki/To_Freedom_I_Sing)\nNode 5\n\n[All the World's an Actor's Stage](https://wutheringwaves.fandom.com/wiki/All_the_World%27s_an_Actor%27s_Stage)\n [All the World's an Actor's Stage](https://wutheringwaves.fandom.com/wiki/All_the_World%27s_an_Actor%27s_Stage)\nNode 6\n\n[All the World's a Captain's Carnevale](https://wutheringwaves.fandom.com/wiki/All_the_World%27s_a_Captain%27s_Carnevale)\n [All the World's a Captain's Carnevale](https://wutheringwaves.fandom.com/wiki/All_the_World%27s_a_Captain%27s_Carnevale)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1By Currents and Winds By Currents and Winds",
+      "descriptionMd": "Node 2\n\n[For Smiles and Cheers](https://wutheringwaves.fandom.com/wiki/For_Smiles_and_Cheers)\n [For Smiles and Cheers](https://wutheringwaves.fandom.com/wiki/For_Smiles_and_Cheers)\nNode 3\n\n[Through Storms I Sail](https://wutheringwaves.fandom.com/wiki/Through_Storms_I_Sail)\n [Through Storms I Sail](https://wutheringwaves.fandom.com/wiki/Through_Storms_I_Sail)\nNode 4\n\n[To Freedom I Sing](https://wutheringwaves.fandom.com/wiki/To_Freedom_I_Sing)\n [To Freedom I Sing](https://wutheringwaves.fandom.com/wiki/To_Freedom_I_Sing)\nNode 5\n\n[All the World's an Actor's Stage](https://wutheringwaves.fandom.com/wiki/All_the_World%27s_an_Actor%27s_Stage)\n [All the World's an Actor's Stage](https://wutheringwaves.fandom.com/wiki/All_the_World%27s_an_Actor%27s_Stage)\nNode 6\n\n[All the World's a Captain's Carnevale](https://wutheringwaves.fandom.com/wiki/All_the_World%27s_a_Captain%27s_Carnevale)\n [All the World's a Captain's Carnevale](https://wutheringwaves.fandom.com/wiki/All_the_World%27s_a_Captain%27s_Carnevale)"
+    }
+  ]
 }

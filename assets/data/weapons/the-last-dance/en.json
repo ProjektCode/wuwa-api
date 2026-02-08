@@ -7,11 +7,11 @@
   "passive": {
     "name": "Silent Eulogy",
     "descriptionMdByRank": {
-      "1": "Increases ATK by **12%**. Every time Intro Skill or Resonance Liberation is cast, Resonance Skill DMG Bonus increases by **48%** for 5s.",
-      "2": "Increases ATK by **15%**. Every time Intro Skill or Resonance Liberation is cast, Resonance Skill DMG Bonus increases by **60%** for 5s.",
-      "3": "Increases ATK by **18%**. Every time Intro Skill or Resonance Liberation is cast, Resonance Skill DMG Bonus increases by **72%** for 5s.",
-      "4": "Increases ATK by **21%**. Every time Intro Skill or Resonance Liberation is cast, Resonance Skill DMG Bonus increases by **84%** for 5s.",
-      "5": "Increases ATK by **24%**. Every time Intro Skill or Resonance Liberation is cast, Resonance Skill DMG Bonus increases by **96%** for 5s."
+      "1": "Increases ATK by **12**. Every time Intro Skill or Resonance Liberation is cast, Resonance Skill DMG Bonus increases by **48** for 5s.",
+      "2": "Increases ATK by **15**. Every time Intro Skill or Resonance Liberation is cast, Resonance Skill DMG Bonus increases by **60** for 5s.",
+      "3": "Increases ATK by **18**. Every time Intro Skill or Resonance Liberation is cast, Resonance Skill DMG Bonus increases by **72** for 5s.",
+      "4": "Increases ATK by **21**. Every time Intro Skill or Resonance Liberation is cast, Resonance Skill DMG Bonus increases by **84** for 5s.",
+      "5": "Increases ATK by **24**. Every time Intro Skill or Resonance Liberation is cast, Resonance Skill DMG Bonus increases by **96** for 5s."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/The%20Last%20Dance"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 104

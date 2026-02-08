@@ -7,11 +7,11 @@
   "passive": {
     "name": "Alarcrity",
     "descriptionMdByRank": {
-      "1": "When Counter Attack is released, restores HP by **1.6%**. This effect can be triggered 1 time(s) every 6s.",
-      "2": "When Counter Attack is released, restores HP by **2%**. This effect can be triggered 1 time(s) every 6s.",
-      "3": "When Counter Attack is released, restores HP by **2.4%**. This effect can be triggered 1 time(s) every 6s.",
-      "4": "When Counter Attack is released, restores HP by **2.8%**. This effect can be triggered 1 time(s) every 6s.",
-      "5": "When Counter Attack is released, restores HP by **3.2%**. This effect can be triggered 1 time(s) every 6s."
+      "1": "When Counter Attack is released, restores HP by **1.6**. This effect can be triggered 1 time(s) every 6s.",
+      "2": "When Counter Attack is released, restores HP by **2**. This effect can be triggered 1 time(s) every 6s.",
+      "3": "When Counter Attack is released, restores HP by **2.4**. This effect can be triggered 1 time(s) every 6s.",
+      "4": "When Counter Attack is released, restores HP by **2.8**. This effect can be triggered 1 time(s) every 6s.",
+      "5": "When Counter Attack is released, restores HP by **3.2**. This effect can be triggered 1 time(s) every 6s."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Originite%3A%20Type%20III"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 67

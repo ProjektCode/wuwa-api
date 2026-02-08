@@ -4,7 +4,116 @@
   "rarity": 5,
   "element": "Fusion",
   "weaponType": "Sword",
-  "skills": [],
+  "skills": [
+    {
+      "id": "basic-attack-infinity-calibration",
+      "name": "Infinity Calibration",
+      "type": "Basic Attack",
+      "category": "Active",
+      "descriptionMd": "**Basic Attack - Aemeath**\n\n- Perform up to **4** consecutive attacks, dealing Fusion DMG.\n\n**Heavy Attack - Aemeath**\n\n- Hold Normal Attack to charge the attack by consuming STA, release to cast Heavy Attack - Aemeath: Charged I, dealing Fusion DMG.\n- Hold Normal Attack longer to cast Heavy Attack - Aemeath: Charged II, dealing higher Fusion DMG.\n- When in Instant Response, Heavy Attack - Aemeath: Charged II charges more quickly. Casting Heavy Attack - Aemeath: Charged II, Heavy Attack - Mech: Charged II, or Resonance Liberation Heavenfall Edict: Finale ends Instant Response.\n- This Skill DMG is considered Resonance Liberation DMG.\n- Press Normal Attack shortly after casting Heavy Attack - Aemeath: Charged I to cast Basic Attack - Aemeath Stage 2.\n- Press Normal Attack shortly after casting Heavy Attack - Aemeath: Charged II to cast Basic Attack - Aemeath Stage 3.\n\n**Mid-air Attack - Aemeath**\n\n- Consume STA to perform a Plunging Attack, dealing Fusion DMG.\n- Press Normal Attack shortly after casting this skill to cast Basic Attack - Aemeath Stage 2.\n\n**Dodge Counter - Aemeath**\n\n- Press Normal Attack shortly after a successful Dodge to attack the target, dealing Fusion DMG.\n- Press Normal Attack shortly after casting this skill to cast Basic Attack - Aemeath Stage 4.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Basic Attack - Aemeath Stage 1 DMG | 23.31% |\n| Basic Attack - Aemeath Stage 2 DMG | 6.99%+10.48%+17.47% |\n| Basic Attack - Aemeath Stage 3 DMG | 4.69%*3+9.37%+23.42% |\n| Basic Attack - Aemeath Stage 4 DMG | 3.39%*5+50.77% |\n| Heavy Attack - Aemeath Charged I DMG | 9.34%+37.36% |\n| Heavy Attack - Aemeath Charged II DMG | 5.84%*4+93.36% |\n| Mid-air Attack - Aemeath DMG | 43.40% |\n| Dodge Counter - Aemeath DMG | 13.09%*3+26.17%+65.42% |\n| Heavy Attack - Aemeath STA Cost | 20 |\n| Mid-air Attack - Aemeath STA Cost | 30 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Basic Attack - Aemeath Stage 1 DMG | 31.73% |\n| Basic Attack - Aemeath Stage 2 DMG | 9.51%+14.26%+23.77% |\n| Basic Attack - Aemeath Stage 3 DMG | 6.38%*3+12.75%+31.87% |\n| Basic Attack - Aemeath Stage 4 DMG | 4.61%*5+69.09% |\n| Heavy Attack - Aemeath Charged I DMG | 12.71%+50.83% |\n| Heavy Attack - Aemeath Charged II DMG | 7.94%*4+127.04% |\n| Mid-air Attack - Aemeath DMG | 59.06% |\n| Dodge Counter - Aemeath DMG | 17.81%*3+35.61%+89.02% |\n| Heavy Attack - Aemeath STA Cost | 20 |\n| Mid-air Attack - Aemeath STA Cost | 30 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Basic Attack - Aemeath Stage 1 DMG | 46.35% |\n| Basic Attack - Aemeath Stage 2 DMG | 13.89%+20.84%+34.73% |\n| Basic Attack - Aemeath Stage 3 DMG | 9.32%*3+18.63%+46.56% |\n| Basic Attack - Aemeath Stage 4 DMG | 6.73%*5+100.94% |\n| Heavy Attack - Aemeath Charged I DMG | 18.57%+74.26% |\n| Heavy Attack - Aemeath Charged II DMG | 11.60%*4+185.60% |\n| Mid-air Attack - Aemeath DMG | 86.29% |\n| Dodge Counter - Aemeath DMG | 26.02%*3+52.03%+130.06% |\n| Heavy Attack - Aemeath STA Cost | 20 |\n| Mid-air Attack - Aemeath STA Cost | 30 |"
+      }
+    },
+    {
+      "id": "resonance-skill-shared-voyage",
+      "name": "Shared Voyage",
+      "type": "Resonance Skill",
+      "category": "Active",
+      "descriptionMd": "**Form Switch**\n\n- Aemeath can switch forms between herself and her Mech. The Mech inherits Aemeath's Stats and unlocks new moves.\n- Aemeath automatically casts Basic Attack - Stage 1 upon casting Form Switch.\n- While in the Mech form, Aemeath casts Mid-air Attack automatically upon casting Form Switch in mid-air.\n\n**Sync Strike: Armament Merge**\n\n- Press Resonance Skill shortly after casting Basic Attack - Aemeath Stage 2, 3 & 4, Heavy Attack - Aemeath, or Dodge Counter - Aemeath to cast Sync Strike: Armament Merge, dealing Fusion DMG.\n- Switch into the Mech form after casting this skill. Press the Normal Attack button shortly after to cast Basic Attack - Mech Stage 2.\n\n**Sync Strike: Call of Dawn**\n\n- Press Resonance Skill shortly after casting Basic Attack - Mech Stage 2, 3 & 4, Heavy Attack - Mech, or Dodge Counter - Mech to cast Sync Strike: Call of Dawn, dealing Fusion DMG.\n- Can be cast in mid-air.\n- Switch into Aemeath after casting this skill. Press the Normal Attack button shortly after to cast Basic Attack - Aemeath Stage 2.\n\n**Basic Attack - Mech**\n\n- Perform up to **4 **consecutive attacks, dealing Fusion DMG.\n- Can be cast in mid-air close to the ground.\n\n**Heavy Attack - Mech**\n\n- Hold the Normal Attack button to charge by consuming STA, release to cast Heavy Attack - Mech: Charged I to attack the target, dealing Fusion DMG.\n- Hold the Normal Attack button longer to cast Heavy Attack - Mech: Charged II, dealing higher Fusion DMG.\n- When in Instant Response, Heavy Attack - Mech: Charged II charges more quickly. Casting Heavy Attack - Aemeath: Charged II, Heavy Attack - Mech: Charged II, or Resonance Liberation Heavenfall Edict: Finale ends Instant Response.\n- This Skill DMG is considered Resonance Liberation DMG.\n- Can be cast in mid-air close to the ground.\n- Press Normal Attack shortly after casting Heavy Attack - Mech: Charged I to cast Basic Attack - Mech Stage 2.\n- Press Normal Attack shortly after casting Heavy Attack - Mech: Charged II to cast Basic Attack - Mech Stage 3.\n\n**Mid-air Attack - Mech**\n\n- Consume STA to perform Plunging Attack, dealing Fusion DMG.\n- Press the Normal Attack button shortly after casting this skill to cast Basic Attack - Mech Stage 2.\n\n**Dodge Counter - Mech**\n\n- Press the Normal Attack button shortly after a successful Dodge to attack the target, dealing Fusion DMG.\n- Press the Normal Attack button shortly after casting this skill to cast Basic Attack - Mech Stage 4.\n- Can be cast in mid-air close to the ground",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Sync Strike: Armament Merge DMG | 13.54%+20.31%+33.85% |\n| Sync Strike: Call of Dawn DMG | 8.22%*3+57.48% |\n| Basic Attack - Mech Stage 1 DMG | 11.67%*3 |\n| Basic Attack - Mech Stage 2 DMG | 9.34%+37.36% |\n| Basic Attack - Mech Stage 3 DMG | 1.96%*6+41.02%+5.86% |\n| Basic Attack - Mech Stage 4 DMG | 20.31%+47.39% |\n| Heavy Attack - Mech Charged I DMG | 46.69% |\n| Heavy Attack - Mech Charged II DMG | 116.69% |\n| Mid-air Attack - Mech DMG | 36.89%+2.17%*3 |\n| Dodge Counter - Mech DMG | 4.76%*6+99.82%+14.26% |\n| Heavy Attack - Mech STA Cost | 20 |\n| Mid-air Attack - Mech STA Cost | 30 |\n| Form Switch Cooldown | 1s |",
+        "5": "| Name | Value |\n| --- | --- |\n| Sync Strike: Armament Merge DMG | 18.43%+27.64%+46.06% |\n| Sync Strike: Call of Dawn DMG | 11.18%*3+78.22% |\n| Basic Attack - Mech Stage 1 DMG | 15.88%*3 |\n| Basic Attack - Mech Stage 2 DMG | 12.71%+50.83% |\n| Basic Attack - Mech Stage 3 DMG | 2.66%*6+55.82%+7.98% |\n| Basic Attack - Mech Stage 4 DMG | 27.64%+64.48% |\n| Heavy Attack - Mech Charged I DMG | 63.54% |\n| Heavy Attack - Mech Charged II DMG | 158.80% |\n| Mid-air Attack - Mech DMG | 50.20%+2.96%*3 |\n| Dodge Counter - Mech DMG | 6.47%*6+135.83%+19.41% |\n| Heavy Attack - Mech STA Cost | 20 |\n| Mid-air Attack - Mech STA Cost | 30 |\n| Form Switch Cooldown | 1s |",
+        "10": "| Name | Value |\n| --- | --- |\n| Sync Strike: Armament Merge DMG | 26.92%+40.38%+67.29% |\n| Sync Strike: Call of Dawn DMG | 16.33%*3+114.28% |\n| Basic Attack - Mech Stage 1 DMG | 23.20%*3 |\n| Basic Attack - Mech Stage 2 DMG | 18.57%+74.26% |\n| Basic Attack - Mech Stage 3 DMG | 3.89%*6+81.54%+11.65% |\n| Basic Attack - Mech Stage 4 DMG | 40.38%+94.21% |\n| Heavy Attack - Mech Charged I DMG | 92.83% |\n| Heavy Attack - Mech Charged II DMG | 232.00% |\n| Mid-air Attack - Mech DMG | 73.35%+4.32%*3 |\n| Dodge Counter - Mech DMG | 9.45%*6+198.44%+28.35% |\n| Heavy Attack - Mech STA Cost | 20 |\n| Mid-air Attack - Mech STA Cost | 30 |\n| Form Switch Cooldown | 1s |"
+      }
+    },
+    {
+      "id": "resonance-liberation-towards-the-daybreak",
+      "name": "Towards the Daybreak",
+      "type": "Resonance Liberation",
+      "category": "Active",
+      "descriptionMd": "**Heavenfall Edict - Overdrive**\n\n- Deal Fusion DMG. Switch into Mech form after casting this skill.\n- Can be cast in mid-air close to the ground.\n- Casting this skill grants the following effects:\n  - Enter Stardust Resonance for **30s**.\n  - Enter Heavenfall Edict: Unbound for **60s**.\n- Press Normal Attack shortly after casting this skill to cast Basic Attack - Mech Stage 2.\n- Press Resonance Skill to perform Resonance Skill Form Switch shortly after casting this skill to cast Basic Attack - Aemeath Stage 2.\n- The next Seraphic Duet cast within 30s after casting this skill doesn't consume Rupturous Trail/Fusion Trail.\n\n**Stardust Resonance**\n\n- Enhance the effect of Resonance Skill Seraphic Duet.\n- This effect ends after Seraphic Duet is cast **2 **times.\n\n**Heavenfall Edict - Unbound**\n\n- Heavenfall Edict - Overdrive is replaced with Heavenfall Edict - Finale.\n- When in Heavenfall Edict - Unbound and Resonance Rate reaches the limit, enter Instant Response. Instant Response is removed when the Heavenfall Edict - Unbound state ends.\n\n**Heavenfall Edict - Finale**\n\n- Press Resonance Skill or Resonance Liberation to cast Heavenfall Edict: Finale when the following conditions are met:\n  - Be in the Heavenfall Edict: Unbound state.\n  - Synchronization Rate reaches the limit.\n  - Resonance Rate reaches the limit.\n- Casting this skill depletes all Synchronization Rate and Resonance Rate, dealing Fusion DMG, and ends the Heavenfall Edict: Unbound state and Seraphic Duo state.\n- Switch back to Aemeath after casting this skill.\n- Can be cast in mid-air close to the ground.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Heavenfall Edict: Overdrive DMG | 101.00%+134.67%*3 |\n| Heavenfall Edict: Finale DMG | 900.00% |\n| Heavenfall Edict: Overdrive Cooldown | 25s |\n| Heavenfall Edict: Finale Cooldown | 25s |\n| Heavenfall Edict: Overdrive Resonance Cost | 125 |\n| Heavenfall Edict: Overdrive Concerto Regen | 20 |\n| Heavenfall Edict: Finale Concerto Regen | 20 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Heavenfall Edict: Overdrive DMG | 137.45%+183.26%*3 |\n| Heavenfall Edict: Finale DMG | 1224.72% |\n| Heavenfall Edict: Overdrive Cooldown | 25s |\n| Heavenfall Edict: Finale Cooldown | 25s |\n| Heavenfall Edict: Overdrive Resonance Cost | 125 |\n| Heavenfall Edict: Overdrive Concerto Regen | 20 |\n| Heavenfall Edict: Finale Concerto Regen | 20 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Heavenfall Edict: Overdrive DMG | 186.72%+248.96%*3 |\n| Heavenfall Edict: Finale DMG | 1663.83% |\n| Heavenfall Edict: Overdrive Cooldown | 25s |\n| Heavenfall Edict: Finale Cooldown | 25s |\n| Heavenfall Edict: Overdrive Resonance Cost | 125 |\n| Heavenfall Edict: Overdrive Concerto Regen | 20 |\n| Heavenfall Edict: Finale Concerto Regen | 20 |"
+      }
+    },
+    {
+      "id": "forte-circuit-to-sculpt-the-silence",
+      "name": "To Sculpt the Silence",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "**Seraphic Duo**\n\n- When casting Basic Attack - Aemeath Stage 4 or Basic Attack - Mech Stage 4, enter Seraphic Duo for **5s**.\n\n**Resonance Skill - Seraphic Duet: Overture**\n\n- When Aemeath is in Seraphic Duo and the Synchronization Rate is no less than **100 **points, press Resonance Skill to cast Resonance Skill Seraphic Duet: Overture at the cost of **100 **points of Synchronization Rate, dealing Fusion DMG, considered Resonance Liberation DMG.\n- Can be cast in mid-air close to the ground.\n- Switch into the Mech form after casting this skill and exit Seraphic Duo. Press Normal Attack within a certain period of time to cast Basic Attack - Mech Stage 2.\n\n**Resonance Skill - Seraphic Duet: Encore**\n\n- In the Mech form, when in Seraphic Duo and the Synchronization Rate is no less than **100 **points, press Resonance Skill to cast Resonance Skill Seraphic Duet: Encore at the cost of **100 **points of Synchronization Rate, dealing Fusion DMG, considered Resonance Liberation DMG.\n- Can be cast in mid-air close to the ground.\n- Switch back to Aemeath and exit the Seraphic Duo state. Press Normal Attack shortly afterward to cast Basic Attack - Aemeath Stage 2.\n\n**Resonance Mode**\n\n- In Resonance Mode - Tune Rupture, when Resonators in the team respond to Tune Rupture - Interfered, inflict **10 **stacks of Rupturous Trail on the target for **30s**, stacking up to **30 **times.\n- In Resonance Mode - Fusion Burst, when Resonators in the team inflict Fusion Burst, inflict **1 **stack of Fusion Trail for **30s**, stacking up to **30 **times.\n- While in combat, when the Fusion Burst on targets near the active Resonator reaches **0 **stacks, inflict **1 **stack of Fusion Burst. If the targets have more than **5 **stacks of Fusion Burst, trigger Fusion Burst based on their max stack limit and remove all of their stacks.\n- In Resonance Mode - Tune Rupture/Resonance Mode - Fusion Burst, inflict Tune Rupture - Shifting/Fusion Burst when the following skills deal damage. The same skill can only trigger this effect on the same target once every **3s**:\n  - Basic Attack - Aemeath Stage 3 & 4, Basic Attack - Mech Stage 3 & 4, Resonance Skill Sync Strike: Armament Merge, Resonance Skill Sync Strike: Call of Dawn, Intro Skill Songs Across the Universe, and Intro Skill Debut of Meteoric Radiance.\n- Resonance Skill Seraphic Duet gains the following enhancements based on Aemeath's Resonance Mode:\n  - When in Resonance Mode - Tune Rupture, Resonance Skill Seraphic Duet removes Rupturous Trail stacks on nearby targets and additionally deals **5 **instances of Tune Rupture DMG, each time to a random target within range. For each stack of Rupturous Trail removed from a target, the DMG Multiplier of the additional instances of Tune Rupture DMG triggered by Seraphic Duet against the target is increased by **4%**. This effect lasts for **1s**. The target's Off-Tune Level does not affect the triggering of these instances of Tune Rupture DMG.\n  - When in Resonance Mode - Fusion Burst, Resonance Skill Seraphic Duet removes the Fusion Trail stacks on targets if they are inflicted with Fusion Trail, and trigger the Fusion Burst on the target based on its max stack limit without removing its stacks. Each stack of Fusion Trail removed from the target increases the DMG Multiplier of Fusion Burst on the main target by** 10%**.\n- When in Stardust Resonance, Resonance Skill Seraphic Duet gains the following enhancements based on Aemeath's Resonance Mode:\n  - In Resonance Mode - Tune Rupture, casting Resonance Skill Seraphic Duet additionally deal **10 **instances of Tune Rupture DMG.\n  - In Resonance Mode - Fusion Burst, the DMG Multiplier of Fusion Burst triggered by Resonance Skill Seraphic Duet on the main target is additionally increased by **200%**. The DMG Multiplier increase effect is stackable with that provided by Fusion Trail.\n\n**Tune Rupture Response - Starburst**\n\n- Active in Resonance Mode - Tune Rupture. Deal Fusion DMG to targets within range that are affected by Tune Rupture - Interfered, considered Tune Rupture DMG.\n\n**Starflux Thrust**\n\n- When in the Mech form and Starflux is more than **200**, use the Utility button to cast Starflux Thrust and soar in the air by continuously consuming Starflux.\n\n**Synchronization Rate**\n\n- Synchronization Rate is capped at **200 **points.\n  - Dealing damage with Basic Attack - Aemeath, Mid-air Attack - Aemeath, Dodge Counter - Aemeath, Basic Attack - Mech, Mid-air Attack - Mech, Dodge Counter - Mech, Resonance Skill Sync Strike: Armament Merge, and Resonance Skill Sync Strike: Call of Dawn recovers Synchronization Rate.\n  - Casting Intro Skill Songs Across the Universe and Debut of Meteoric Radiance recovers **40 **points of Synchronization Rate.\n  - Casting Resonance Liberation Heavenfall Edict: Overdrive recovers **30 **points of Synchronization Rate.\n  - When in Instant Response and Heavenfall Edict: Unbound at the same time, casting Heavy Attack - Aemeath Charged II or Heavy Attack - Mech Charged II recovers **200 **points of Synchronization Rate.\n\n**Resonance Rate**\n\n- Resonance Rate is capped at **4 **points.\n  - Casting Resonance Skill Seraphic Duet recovers **1 **point of Resonance Rate.\n  - Casting Resonance Liberation Heavenfall Edict: Overdrive recovers **1 **point of Resonance Rate.\n  - When in Starlume Acceleration, casting Resonance Liberation Heavenfall Edict: Overdrive additionally recovers **1 **point of Resonance Rate.\n\n**Starflux**\n\n- Starflux is capped at **600 **points.\n- Starflux recovers naturally over time.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Seraphic Duet: Encore DMG | 9.00%*4+18.00%*3+90.00% |\n| Seraphic Duet: Overture DMG | 9.00%+7.50%*6+12.00%*3+30.00%*3 |\n| Tune Rupture Response - Starburst DMG | 300.00% Tune AMP |\n| Seraphic Duet Bonus DMG (Per Instance) | 55.00% Tune AMP |",
+        "5": "| Name | Value |\n| --- | --- |\n| Seraphic Duet: Encore DMG | 12.25%*4+24.50%*3+122.48% |\n| Seraphic Duet: Overture DMG | 12.25%+10.21%*6+16.33%*3+40.83%*3 |\n| Tune Rupture Response - Starburst DMG | 408.24% Tune AMP |\n| Seraphic Duet Bonus DMG (Per Instance) | 74.85% Tune AMP |",
+        "10": "| Name | Value |\n| --- | --- |\n| Seraphic Duet: Encore DMG | 17.90%*4+35.79%*3+178.93% |\n| Seraphic Duet: Overture DMG | 17.90%+14.92%*6+23.86%*3+59.65%*3 |\n| Tune Rupture Response - Starburst DMG | 596.43% Tune AMP |\n| Seraphic Duet Bonus DMG (Per Instance) | 109.35% Tune AMP |"
+      }
+    },
+    {
+      "id": "inherent-skill-before-all-sounds",
+      "name": "Before All Sounds",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "In Instant Response, Heavy Attack - Aemeath and Heavy Attack - Mech gain **200% **DMG Amplification.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "inherent-skill-between-the-stars",
+      "name": "Between the Stars",
+      "type": "Inherent Skill",
+      "category": "Inherent",
+      "descriptionMd": "In Resonance Mode - Tune Rupture, when Resonators in the team inflict Tune Rupture - Shifting or deal Tune Rupture DMG, Aemeath's Crit. DMG increases by **20%**, up to **3 **times. Each Resonator can only trigger this effect once.\n\nWith **3 **stacks, Resonance Liberation Heavenfall Edict: Finale DMG is Amplified by **25%**.\n\nResonators joining the team or switching Resonance Mode resets this effect.\n\nIn Resonance Mode - Fusion Burst, when Resonators in the team inflict Fusion Burst, Aemeath's Crit. DMG increases by **30%**, up to **2 **times. Each Resonator can only trigger this effect once.\n\nWith **2 **stacks, Resonance Liberation Heavenfall Edict: Finale DMG is Amplified by **25%**.\n\nResonators joining the team or switching Resonance Mode resets this effect.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "intro-skill-overture-of-departure",
+      "name": "Overture of Departure",
+      "type": "Intro Skill",
+      "category": "Transition",
+      "descriptionMd": "**Songs Across the Universe**\n\n- Deal Fusion DMG.\n- Cast this skill to enter Starlume Acceleration for **15s**.\n- Press Normal Attack shortly after casting this skill to cast Basic Attack - Aemeath Stage 3.\n- Press Resonance Skill and cast Resonance Skill Form Switch shortly after casting this skill to cast Basic Attack - Mech Stage 3 automatically.\n\n**Debut of Meteoric Radiance**\n\n- In the Mech form, Songs Across the Universe is replaced with Debut of Meteoric Radiance.\n- Deal Fusion DMG.\n- Casting this skill grants Starlume Acceleration for **15s**.\n- Press Normal Attack shortly after casting this skill to cast Basic Attack - Mech Stage 3.\n- Press Resonance Skill and cast Resonance Skill Form Switch shortly after casting this skill to cast Basic Attack - Aemeath Stage 3 automatically.\n\n**Starlume Acceleration**\n\n- In Starlume Acceleration, casting Resonance Liberation Heavenfall Edict: Overdrive addtionally restores Resonance Rate.\n  Casting Resonance Liberation Heavenfall Edict: Overdrive ends Starlume Acceleration.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |\n| Songs Across the Universe DMG | 6.77%*2+54.16% |\n| Debut of Meteoric Radiance DMG | 32.85%+49.27% |\n| Songs Across the Universe Concerto Regen | 10 |\n| Debut of Meteoric Radiance Concerto Regen | 10 |",
+        "5": "| Name | Value |\n| --- | --- |\n| Songs Across the Universe DMG | 9.22%*2+73.70% |\n| Debut of Meteoric Radiance DMG | 44.70%+67.05% |\n| Songs Across the Universe Concerto Regen | 10 |\n| Debut of Meteoric Radiance Concerto Regen | 10 |",
+        "10": "| Name | Value |\n| --- | --- |\n| Songs Across the Universe DMG | 13.46%*2+107.66% |\n| Debut of Meteoric Radiance DMG | 65.30%+97.95% |\n| Songs Across the Universe Concerto Regen | 10 |\n| Debut of Meteoric Radiance Concerto Regen | 10 |"
+      }
+    },
+    {
+      "id": "outro-skill-silent-protection",
+      "name": "Silent Protection",
+      "type": "Outro Skill",
+      "category": "Transition",
+      "descriptionMd": "When casting this skill, the following effects are triggered based on the Resonance Mode Aemeath is in:\n\n- In Resonance Mode - Tune Rupture: all Resonators in the team except Aemeath gain **10% **All-DMG Amplification for **20s**. The All-DMG Amplification effect is increased to **20% **for Resonators who inflict Tune Rupture - Shifting.\n- In Resonance Mode - Fusion Burst: all Resonators in the team except Aemeath gain **10%** All-DMG Amplification for **20s**. The All-DMG Amplification effect is increased to **20%** for Resonators who inflict Fusion Burst.\n- Casting this skill resets the effects above.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    },
+    {
+      "id": "forte-circuit-unlanded-melody",
+      "name": "Unlanded Melody",
+      "type": "Forte Circuit",
+      "category": "Forte Circuit",
+      "descriptionMd": "When the target's Off-Tune Level is full, Aemeath can cast Tune Break on the target.\n\nPress Normal Attack shortly after casting Tune Break to cast Basic Attack Stage 3.\n\nResponding to Tune Rupture - Interfered: when Resonators in the team trigger Tune Break on the target and cause them to be affected by Tune Rupture - Interfered, Aemeath triggers Tune Rupture Response - Starburst. The same target can only be damaged by this skill once every **8s**.",
+      "scalingMdByRank": {
+        "1": "| Name | Value |\n| --- | --- |",
+        "5": "| Name | Value |\n| --- | --- |",
+        "10": "| Name | Value |\n| --- | --- |"
+      }
+    }
+  ],
   "images": {
     "icon": "/v1/images/characters/aemeath/icon.webp",
     "card": "/v1/images/characters/aemeath/card.webp",
@@ -14,12 +123,39 @@
   "source": {
     "prydwen": {
       "url": "https://www.prydwen.gg/wuthering-waves/characters/aemeath",
-      "updatedAt": "January 3rd, 2026"
+      "updatedAt": "February 4th, 2026"
     },
     "fandom": {
       "basePage": "https://wutheringwaves.fandom.com/wiki/Aemeath",
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Aemeath/Combat"
     }
   },
-  "lastUpdated": "2026-01-14"
+  "lastUpdated": "2026-02-07",
+  "statsByLevel": {
+    "20": {
+      "hp": 2293,
+      "atk": 88,
+      "def": 241
+    },
+    "50": {
+      "hp": 5698,
+      "atk": 225,
+      "def": 596
+    },
+    "90": {
+      "hp": 11025,
+      "atk": 425,
+      "def": 1149
+    }
+  },
+  "officialIntroduction": "N/A",
+  "releaseDate": "February 05, 2026",
+  "nation": "Lahai-Roi",
+  "gender": "Female",
+  "class": "Natural",
+  "birthplace": "Roya Frostlands",
+  "affiliations": [
+    "Startorch Academy (on profile)",
+    "Roya Tribe"
+  ]
 }

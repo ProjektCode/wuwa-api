@@ -7,11 +7,11 @@
   "passive": {
     "name": "Definite Solution",
     "descriptionMdByRank": {
-      "1": "Increases DEF by **16%**\nCasting Resonance Liberation restores **8** points of Concerto Energy. This effect can be triggered once every 20s. When the wielder heals Resonators, increases Crit. DMG of all nearby Resonators in the team by **20%** for 4s. Effects of the same name cannot be stacked.",
-      "2": "Increases DEF by **20%**\nCasting Resonance Liberation restores **10** points of Concerto Energy. This effect can be triggered once every 20s. When the wielder heals Resonators, increases Crit. DMG of all nearby Resonators in the team by **25%** for 4s. Effects of the same name cannot be stacked.",
-      "3": "Increases DEF by **24%**\nCasting Resonance Liberation restores **12** points of Concerto Energy. This effect can be triggered once every 20s. When the wielder heals Resonators, increases Crit. DMG of all nearby Resonators in the team by **30%** for 4s. Effects of the same name cannot be stacked.",
-      "4": "Increases DEF by **28%**\nCasting Resonance Liberation restores **14** points of Concerto Energy. This effect can be triggered once every 20s. When the wielder heals Resonators, increases Crit. DMG of all nearby Resonators in the team by **35%** for 4s. Effects of the same name cannot be stacked.",
-      "5": "Increases DEF by **32%**\nCasting Resonance Liberation restores **16** points of Concerto Energy. This effect can be triggered once every 20s. When the wielder heals Resonators, increases Crit. DMG of all nearby Resonators in the team by **40%** for 4s. Effects of the same name cannot be stacked."
+      "1": "Increases DEF by **16**%\nCasting Resonance Liberation restores **8** points of Concerto Energy. This effect can be triggered once every 20s. When the wielder heals Resonators, increases Crit. DMG of all nearby Resonators in the team by **20**% for 4s. Effects of the same name cannot be stacked.",
+      "2": "Increases DEF by **20**%\nCasting Resonance Liberation restores **10** points of Concerto Energy. This effect can be triggered once every 20s. When the wielder heals Resonators, increases Crit. DMG of all nearby Resonators in the team by **25**% for 4s. Effects of the same name cannot be stacked.",
+      "3": "Increases DEF by **24**%\nCasting Resonance Liberation restores **12** points of Concerto Energy. This effect can be triggered once every 20s. When the wielder heals Resonators, increases Crit. DMG of all nearby Resonators in the team by **30**% for 4s. Effects of the same name cannot be stacked.",
+      "4": "Increases DEF by **28**%\nCasting Resonance Liberation restores **14** points of Concerto Energy. This effect can be triggered once every 20s. When the wielder heals Resonators, increases Crit. DMG of all nearby Resonators in the team by **35**% for 4s. Effects of the same name cannot be stacked.",
+      "5": "Increases DEF by **32**%\nCasting Resonance Liberation restores **16** points of Concerto Energy. This effect can be triggered once every 20s. When the wielder heals Resonators, increases Crit. DMG of all nearby Resonators in the team by **40**% for 4s. Effects of the same name cannot be stacked."
     }
   },
   "images": {
@@ -22,5 +22,5 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Starfield%20Calibrator"
     }
   },
-  "lastUpdated": "2026-01-14"
+  "lastUpdated": "2026-02-07"
 }

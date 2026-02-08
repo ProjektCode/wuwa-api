@@ -7,11 +7,11 @@
   "passive": {
     "name": "Thunderblaze Eminence",
     "descriptionMdByRank": {
-      "1": "Increases ATK by **12%**. Casting Intro Skill or Resonance Skill increases Heavy Attack DMG by **20%** for 15s. Obtaining Shield allows Heavy Attack DMG to ignore **7.2%** of the target's DEF for 7s, stacking up to 5 times. This effect triggers once every 0.5s.",
-      "2": "Increases ATK by **15%**. Casting Intro Skill or Resonance Skill increases Heavy Attack DMG by **25%** for 15s. Obtaining Shield allows Heavy Attack DMG to ignore **8.4%** of the target's DEF for 7s, stacking up to 5 times. This effect triggers once every 0.5s.",
-      "3": "Increases ATK by **18%**. Casting Intro Skill or Resonance Skill increases Heavy Attack DMG by **30%** for 15s. Obtaining Shield allows Heavy Attack DMG to ignore **9.6%** of the target's DEF for 7s, stacking up to 5 times. This effect triggers once every 0.5s.",
-      "4": "Increases ATK by **21%**. Casting Intro Skill or Resonance Skill increases Heavy Attack DMG by **35%** for 15s. Obtaining Shield allows Heavy Attack DMG to ignore **10.8%** of the target's DEF for 7s, stacking up to 5 times. This effect triggers once every 0.5s.",
-      "5": "Increases ATK by **24%**. Casting Intro Skill or Resonance Skill increases Heavy Attack DMG by **40%** for 15s. Obtaining Shield allows Heavy Attack DMG to ignore **12%** of the target's DEF for 7s, stacking up to 5 times. This effect triggers once every 0.5s."
+      "1": "Increases ATK by **12**. Casting Intro Skill or Resonance Skill increases Heavy Attack DMG by **20** for 15s. Obtaining Shield allows Heavy Attack DMG to ignore **7.2** of the target's DEF for 7s, stacking up to 5 times. This effect triggers once every 0.5s.",
+      "2": "Increases ATK by **15**. Casting Intro Skill or Resonance Skill increases Heavy Attack DMG by **25** for 15s. Obtaining Shield allows Heavy Attack DMG to ignore **8.4** of the target's DEF for 7s, stacking up to 5 times. This effect triggers once every 0.5s.",
+      "3": "Increases ATK by **18**. Casting Intro Skill or Resonance Skill increases Heavy Attack DMG by **30** for 15s. Obtaining Shield allows Heavy Attack DMG to ignore **9.6** of the target's DEF for 7s, stacking up to 5 times. This effect triggers once every 0.5s.",
+      "4": "Increases ATK by **21**. Casting Intro Skill or Resonance Skill increases Heavy Attack DMG by **35** for 15s. Obtaining Shield allows Heavy Attack DMG to ignore **10.8** of the target's DEF for 7s, stacking up to 5 times. This effect triggers once every 0.5s.",
+      "5": "Increases ATK by **24**. Casting Intro Skill or Resonance Skill increases Heavy Attack DMG by **40** for 15s. Obtaining Shield allows Heavy Attack DMG to ignore **12** of the target's DEF for 7s, stacking up to 5 times. This effect triggers once every 0.5s."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Thunderflare%20Dominion"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 140

@@ -7,11 +7,11 @@
   "passive": {
     "name": "Persevere",
     "descriptionMdByRank": {
-      "1": "Increases ATK by **4%**",
-      "2": "Increases ATK by **5%**",
-      "3": "Increases ATK by **6%**",
-      "4": "Increases ATK by **7%**",
-      "5": "Increases ATK by **8%**"
+      "1": "Increases ATK by **4**",
+      "2": "Increases ATK by **5**",
+      "3": "Increases ATK by **6**",
+      "4": "Increases ATK by **7**",
+      "5": "Increases ATK by **8**"
     }
   },
   "images": {
@@ -22,5 +22,5 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Training%20Gauntlets"
     }
   },
-  "lastUpdated": "2026-01-14"
+  "lastUpdated": "2026-02-07"
 }

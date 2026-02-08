@@ -7,11 +7,11 @@
   "passive": {
     "name": "Battlebound",
     "descriptionMdByRank": {
-      "1": "When Intro Skill is released, increases ATK by **8%** and DEF by **15%**, lasting for 15s.",
-      "2": "When Intro Skill is released, increases ATK by **10%** and DEF by **18.75%**, lasting for 15s.",
-      "3": "When Intro Skill is released, increases ATK by **12%** and DEF by **22.5%**, lasting for 15s.",
-      "4": "When Intro Skill is released, increases ATK by **14%** and DEF by **26.25%**, lasting for 15s.",
-      "5": "When Intro Skill is released, increases ATK by **16%** and DEF by **30%**, lasting for 15s."
+      "1": "When Intro Skill is released, increases ATK by **8** and DEF by **15**, lasting for 15s.",
+      "2": "When Intro Skill is released, increases ATK by **10** and DEF by **18.75**, lasting for 15s.",
+      "3": "When Intro Skill is released, increases ATK by **12** and DEF by **22.5**, lasting for 15s.",
+      "4": "When Intro Skill is released, increases ATK by **14** and DEF by **26.25**, lasting for 15s.",
+      "5": "When Intro Skill is released, increases ATK by **16** and DEF by **30**, lasting for 15s."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Dauntless%20Evernight"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 70

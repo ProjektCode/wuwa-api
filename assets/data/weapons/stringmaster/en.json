@@ -7,11 +7,11 @@
   "passive": {
     "name": "Electric Amplification",
     "descriptionMdByRank": {
-      "1": "Increases the DMG Bonus of all Resonance Attributes by **12%**. When Resonance Skill hits a target, increases ATK by **12%**, stacking up to 2. This effect lasts for 5s. When the equipped character is not on the field, increases their ATK by an additional **12%**.",
-      "2": "Increases the DMG Bonus of all Resonance Attributes by **15%**. When Resonance Skill hits a target, increases ATK by **15%**, stacking up to 2. This effect lasts for 5s. When the equipped character is not on the field, increases their ATK by an additional **15%**.",
-      "3": "Increases the DMG Bonus of all Resonance Attributes by **18%**. When Resonance Skill hits a target, increases ATK by **18%**, stacking up to 2. This effect lasts for 5s. When the equipped character is not on the field, increases their ATK by an additional **18%**.",
-      "4": "Increases the DMG Bonus of all Resonance Attributes by **21%**. When Resonance Skill hits a target, increases ATK by **21%**, stacking up to 2. This effect lasts for 5s. When the equipped character is not on the field, increases their ATK by an additional **21%**.",
-      "5": "Increases the DMG Bonus of all Resonance Attributes by **24%**. When Resonance Skill hits a target, increases ATK by **24%**, stacking up to 2. This effect lasts for 5s. When the equipped character is not on the field, increases their ATK by an additional **24%**."
+      "1": "Increases the DMG Bonus of all Resonance Attributes by **12**. When Resonance Skill hits a target, increases ATK by **12**, stacking up to 2. This effect lasts for 5s. When the equipped character is not on the field, increases their ATK by an additional **12**.",
+      "2": "Increases the DMG Bonus of all Resonance Attributes by **15**. When Resonance Skill hits a target, increases ATK by **15**, stacking up to 2. This effect lasts for 5s. When the equipped character is not on the field, increases their ATK by an additional **15**.",
+      "3": "Increases the DMG Bonus of all Resonance Attributes by **18**. When Resonance Skill hits a target, increases ATK by **18**, stacking up to 2. This effect lasts for 5s. When the equipped character is not on the field, increases their ATK by an additional **18**.",
+      "4": "Increases the DMG Bonus of all Resonance Attributes by **21**. When Resonance Skill hits a target, increases ATK by **21**, stacking up to 2. This effect lasts for 5s. When the equipped character is not on the field, increases their ATK by an additional **21**.",
+      "5": "Increases the DMG Bonus of all Resonance Attributes by **24**. When Resonance Skill hits a target, increases ATK by **24**, stacking up to 2. This effect lasts for 5s. When the equipped character is not on the field, increases their ATK by an additional **24**."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Stringmaster"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 104

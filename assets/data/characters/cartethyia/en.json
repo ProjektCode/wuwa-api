@@ -118,22 +118,44 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Cartethyia/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 3078.4,
+      "hp": 3078,
       "atk": 65,
       "def": 128
     },
     "50": {
-      "hp": 7648.64,
-      "atk": 165.25,
+      "hp": 7649,
+      "atk": 165,
       "def": 317
     },
     "90": {
       "hp": 14800,
-      "atk": 312.5,
-      "def": 611.1
+      "atk": 313,
+      "def": 611
     }
-  }
+  },
+  "officialIntroduction": "The powers of the Sentinel and Threnodian clash and unite within her, propelling her into an uncertain future.\nWhether the future is bright or dim, she will hold the blade firmly and confront all that comes her way.\n\n[Her introduction on the Official Website.](https://wutheringwaves.kurogames.com/en/main#resonators)",
+  "releaseDate": "June 12, 2025",
+  "nation": "Rinascita",
+  "gender": "Female",
+  "class": "Congenital",
+  "birthplace": "Rinascita",
+  "affiliations": [
+    "Ragunna (on profile)",
+    "Order of the Deep (formerly)"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Crown Destined by Fate Crown Destined by FateNode 2Blade Broken by Tempest Blade Broken by TempestNode 3Prisoner Hanged in the Tower Prisoner Hanged in the TowerNode 4Sacrifice Made for Salvation Sacrifice Made for SalvationNode 5Hope Reshaped in Storms Hope Reshaped in StormsNode 6Freedom Found in Storm's Wake Freedom Found in Storm's Wake",
+      "descriptionMd": "Node 1\n\n[Crown Destined by Fate](https://wutheringwaves.fandom.com/wiki/Crown_Destined_by_Fate)\n [Crown Destined by Fate](https://wutheringwaves.fandom.com/wiki/Crown_Destined_by_Fate)\nNode 2\n\n[Blade Broken by Tempest](https://wutheringwaves.fandom.com/wiki/Blade_Broken_by_Tempest)\n [Blade Broken by Tempest](https://wutheringwaves.fandom.com/wiki/Blade_Broken_by_Tempest)\nNode 3\n\n[Prisoner Hanged in the Tower](https://wutheringwaves.fandom.com/wiki/Prisoner_Hanged_in_the_Tower)\n [Prisoner Hanged in the Tower](https://wutheringwaves.fandom.com/wiki/Prisoner_Hanged_in_the_Tower)\nNode 4\n\n[Sacrifice Made for Salvation](https://wutheringwaves.fandom.com/wiki/Sacrifice_Made_for_Salvation)\n [Sacrifice Made for Salvation](https://wutheringwaves.fandom.com/wiki/Sacrifice_Made_for_Salvation)\nNode 5\n\n[Hope Reshaped in Storms](https://wutheringwaves.fandom.com/wiki/Hope_Reshaped_in_Storms)\n [Hope Reshaped in Storms](https://wutheringwaves.fandom.com/wiki/Hope_Reshaped_in_Storms)\nNode 6\n\n[Freedom Found in Storm's Wake](https://wutheringwaves.fandom.com/wiki/Freedom_Found_in_Storm%27s_Wake)\n [Freedom Found in Storm's Wake](https://wutheringwaves.fandom.com/wiki/Freedom_Found_in_Storm%27s_Wake)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Crown Destined by Fate Crown Destined by Fate",
+      "descriptionMd": "Node 2\n\n[Blade Broken by Tempest](https://wutheringwaves.fandom.com/wiki/Blade_Broken_by_Tempest)\n [Blade Broken by Tempest](https://wutheringwaves.fandom.com/wiki/Blade_Broken_by_Tempest)\nNode 3\n\n[Prisoner Hanged in the Tower](https://wutheringwaves.fandom.com/wiki/Prisoner_Hanged_in_the_Tower)\n [Prisoner Hanged in the Tower](https://wutheringwaves.fandom.com/wiki/Prisoner_Hanged_in_the_Tower)\nNode 4\n\n[Sacrifice Made for Salvation](https://wutheringwaves.fandom.com/wiki/Sacrifice_Made_for_Salvation)\n [Sacrifice Made for Salvation](https://wutheringwaves.fandom.com/wiki/Sacrifice_Made_for_Salvation)\nNode 5\n\n[Hope Reshaped in Storms](https://wutheringwaves.fandom.com/wiki/Hope_Reshaped_in_Storms)\n [Hope Reshaped in Storms](https://wutheringwaves.fandom.com/wiki/Hope_Reshaped_in_Storms)\nNode 6\n\n[Freedom Found in Storm's Wake](https://wutheringwaves.fandom.com/wiki/Freedom_Found_in_Storm%27s_Wake)\n [Freedom Found in Storm's Wake](https://wutheringwaves.fandom.com/wiki/Freedom_Found_in_Storm%27s_Wake)"
+    }
+  ]
 }

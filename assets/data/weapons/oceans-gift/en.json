@@ -7,11 +7,11 @@
   "passive": {
     "name": "Fish Catch",
     "descriptionMdByRank": {
-      "1": "Dealing DMG to enemies with Spectro Frazzle increases the wielder's Spectro DMG by **6%**, gaining 1 stack per second for 6s, stacking up to 4 stacks.",
-      "2": "Dealing DMG to enemies with Spectro Frazzle increases the wielder's Spectro DMG by **7%**, gaining 1 stack per second for 6s, stacking up to 4 stacks.",
-      "3": "Dealing DMG to enemies with Spectro Frazzle increases the wielder's Spectro DMG by **8%**, gaining 1 stack per second for 6s, stacking up to 4 stacks.",
-      "4": "Dealing DMG to enemies with Spectro Frazzle increases the wielder's Spectro DMG by **9%**, gaining 1 stack per second for 6s, stacking up to 4 stacks.",
-      "5": "Dealing DMG to enemies with Spectro Frazzle increases the wielder's Spectro DMG by **10%**, gaining 1 stack per second for 6s, stacking up to 4 stacks."
+      "1": "Dealing DMG to enemies with Spectro Frazzle increases the wielder's Spectro DMG by **6**, gaining 1 stack per second for 6s, stacking up to 4 stacks.",
+      "2": "Dealing DMG to enemies with Spectro Frazzle increases the wielder's Spectro DMG by **7**, gaining 1 stack per second for 6s, stacking up to 4 stacks.",
+      "3": "Dealing DMG to enemies with Spectro Frazzle increases the wielder's Spectro DMG by **8**, gaining 1 stack per second for 6s, stacking up to 4 stacks.",
+      "4": "Dealing DMG to enemies with Spectro Frazzle increases the wielder's Spectro DMG by **9**, gaining 1 stack per second for 6s, stacking up to 4 stacks.",
+      "5": "Dealing DMG to enemies with Spectro Frazzle increases the wielder's Spectro DMG by **10**, gaining 1 stack per second for 6s, stacking up to 4 stacks."
     }
   },
   "images": {
@@ -22,7 +22,7 @@
       "url": "https://wutheringwaves.fandom.com/wiki/Ocean's%20Gift"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
       "atk": 96

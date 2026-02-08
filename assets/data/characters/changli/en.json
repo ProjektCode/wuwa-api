@@ -118,22 +118,44 @@
       "combatPage": "https://wutheringwaves.fandom.com/wiki/Changli/Combat"
     }
   },
-  "lastUpdated": "2026-01-14",
+  "lastUpdated": "2026-02-07",
   "statsByLevel": {
     "20": {
-      "hp": 2160.6,
-      "atk": 96.2,
-      "def": 230.4
+      "hp": 2161,
+      "atk": 96,
+      "def": 230
     },
     "50": {
-      "hp": 5368.26,
-      "atk": 244.57,
-      "def": 570.6
+      "hp": 5368,
+      "atk": 245,
+      "def": 571
     },
     "90": {
-      "hp": 10387.5,
-      "atk": 462.5,
-      "def": 1099.98
+      "hp": 10388,
+      "atk": 463,
+      "def": 1100
     }
-  }
+  },
+  "officialIntroduction": "N/A",
+  "releaseDate": "July 22, 2024",
+  "nation": "Huanglong",
+  "gender": "Female",
+  "class": "Natural",
+  "birthplace": "Huanglong",
+  "affiliations": [
+    "Jinzhou (on profile)",
+    "City Hall"
+  ],
+  "resonanceChain": [
+    {
+      "rank": 1,
+      "name": "Node 1Hidden Thoughts Hidden ThoughtsNode 2Pursuit of Desires Pursuit of DesiresNode 3Learned Secrets Learned SecretsNode 4Polished Words Polished WordsNode 5Sacrificed Gains Sacrificed GainsNode 6Realized Plans Realized Plans",
+      "descriptionMd": "Node 1\n\n[Hidden Thoughts](https://wutheringwaves.fandom.com/wiki/Hidden_Thoughts)\n [Hidden Thoughts](https://wutheringwaves.fandom.com/wiki/Hidden_Thoughts)\nNode 2\n\n[Pursuit of Desires](https://wutheringwaves.fandom.com/wiki/Pursuit_of_Desires)\n [Pursuit of Desires](https://wutheringwaves.fandom.com/wiki/Pursuit_of_Desires)\nNode 3\n\n[Learned Secrets](https://wutheringwaves.fandom.com/wiki/Learned_Secrets)\n [Learned Secrets](https://wutheringwaves.fandom.com/wiki/Learned_Secrets)\nNode 4\n\n[Polished Words](https://wutheringwaves.fandom.com/wiki/Polished_Words)\n [Polished Words](https://wutheringwaves.fandom.com/wiki/Polished_Words)\nNode 5\n\n[Sacrificed Gains](https://wutheringwaves.fandom.com/wiki/Sacrificed_Gains)\n [Sacrificed Gains](https://wutheringwaves.fandom.com/wiki/Sacrificed_Gains)\nNode 6\n\n[Realized Plans](https://wutheringwaves.fandom.com/wiki/Realized_Plans)\n [Realized Plans](https://wutheringwaves.fandom.com/wiki/Realized_Plans)"
+    },
+    {
+      "rank": 1,
+      "name": "Node 1Hidden Thoughts Hidden Thoughts",
+      "descriptionMd": "Node 2\n\n[Pursuit of Desires](https://wutheringwaves.fandom.com/wiki/Pursuit_of_Desires)\n [Pursuit of Desires](https://wutheringwaves.fandom.com/wiki/Pursuit_of_Desires)\nNode 3\n\n[Learned Secrets](https://wutheringwaves.fandom.com/wiki/Learned_Secrets)\n [Learned Secrets](https://wutheringwaves.fandom.com/wiki/Learned_Secrets)\nNode 4\n\n[Polished Words](https://wutheringwaves.fandom.com/wiki/Polished_Words)\n [Polished Words](https://wutheringwaves.fandom.com/wiki/Polished_Words)\nNode 5\n\n[Sacrificed Gains](https://wutheringwaves.fandom.com/wiki/Sacrificed_Gains)\n [Sacrificed Gains](https://wutheringwaves.fandom.com/wiki/Sacrificed_Gains)\nNode 6\n\n[Realized Plans](https://wutheringwaves.fandom.com/wiki/Realized_Plans)\n [Realized Plans](https://wutheringwaves.fandom.com/wiki/Realized_Plans)"
+    }
+  ]
 }
