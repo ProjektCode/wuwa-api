@@ -19,16 +19,6 @@ This section provides a quick guide to get the WuwaAPI up and running.
     ```bash
     npm start
     ```
-4.  **Importer Usage (Dry Run):**
-    To run the importer without publishing data, which writes staged data to `.local/import-output`:
-    ```bash
-    node dist/scripts/importer/run.js
-    ```
-5.  **Importer Usage (Publish):**
-    To publish data directly to the API's data store:
-    ```bash
-    node dist/scripts/importer/run.js --publish
-    ```
 
 ## Further Documentation
 
