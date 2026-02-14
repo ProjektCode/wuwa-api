@@ -1,42 +1,32 @@
 # WuwaAPI
 
-A Fastify REST API, assets-driven, designed to serve Wuthering Waves data.
+Welcome to the WuwaAPI! This is a Fastify-based REST API designed to provide Wuthering Waves game data, directly sourced from game assets. It's built for developers who need quick and reliable access to game information.
 
 ## Quickstart
 
-This section provides a quick guide to get the WuwaAPI up and running.
+Get the API up and running quickly with these simple steps:
 
-1.  **Install Dependencies:**
+1.  **Install Dependencies**
     ```bash
     npm install
     ```
-2.  **Run Development Server:**
+2.  **Start Development Server**
     ```bash
     npm run dev
     ```
-    The API will be accessible at `http://localhost:3000` (or configured port).
-3.  **Start Production Server:**
+    The API will be accessible at `http://localhost:3000`.
+3.  **Build and Start Production Server**
     ```bash
+    npm run build
     npm start
     ```
-4.  **Importer Usage (Dry Run):**
-    To run the importer without publishing data, which writes staged data to `.local/import-output`:
-    ```bash
-    node dist/scripts/importer/run.js
-    ```
-5.  **Importer Usage (Publish):**
-    To publish data directly to the API's data store:
-    ```bash
-    node dist/scripts/importer/run.js --publish
-    ```
-
-## Badges
-
-*(Add relevant badges here, e.g., build status, license, etc.)*
+    The API runs by default on `http://localhost:3000`. You can customize the host and port using the `HOST` and `PORT` environment variables.
 
 ## Further Documentation
 
-*   **Setup & Installation:** See `docs/SETUP.md` for detailed installation and configuration steps.
-*   **Contributing:** Refer to `docs/CONTRIBUTING.md` for guidelines on how to contribute to this project.
-*   **API Reference:** Detailed API endpoint descriptions are available in `docs/API.md`.
-*   **Version History:** Check `CHANGELOG.md` for a record of all changes.
+For more in-depth information, please refer to these documents:
+
+*   **Detailed Setup Guide:** `docs/SETUP.md`
+*   **Contributing to WuwaAPI:** `docs/CONTRIBUTING.md`
+*   **API Reference:** `docs/API.md`
+*   **Changelog:** `CHANGELOG.md`
