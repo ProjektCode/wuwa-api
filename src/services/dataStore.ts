@@ -60,6 +60,22 @@ export type DataStore = {
   getWeapon(id: string): Weapon | null;
 };
 
+type LoadStats = {
+  total: number;
+  loaded: number;
+  bad: number;
+};
+
+export type DataStoreLoadStats = {
+  characters: LoadStats;
+  weapons: LoadStats;
+};
+
+type LoadResult<T> = {
+  map: Map<string, T>;
+  stats: LoadStats;
+};
+
 async function readJsonFile<T>(filePath: string): Promise<T> {
   const raw = await readFile(filePath, "utf8");
   return JSON.parse(raw) as T;
@@ -68,36 +84,54 @@ async function readJsonFile<T>(filePath: string): Promise<T> {
 async function loadEntities<T extends { id: string }>(
   root: string,
   entityType: string
-): Promise<Map<string, T>> {
+): Promise<LoadResult<T>> {
   const dirPath = path.join(root, entityType);
   let entries: string[];
   try {
     entries = await readdir(dirPath);
   } catch {
-    return new Map();
+    return {
+      map: new Map(),
+      stats: { total: 0, loaded: 0, bad: 0 },
+    };
   }
 
   const map = new Map<string, T>();
+  let loaded = 0;
+  let bad = 0;
   await Promise.all(
     entries.map(async (id) => {
       const filePath = path.join(dirPath, id, "en.json");
       try {
         const entity = await readJsonFile<T>(filePath);
-        if (entity?.id) map.set(entity.id, entity);
+        if (entity?.id) {
+          map.set(entity.id, entity);
+          loaded += 1;
+        } else {
+          bad += 1;
+        }
       } catch {
-        // ignore bad entries; importer/CI should catch
+        bad += 1;
       }
     })
   );
 
-  return map;
+  return {
+    map,
+    stats: { total: entries.length, loaded, bad },
+  };
 }
 
-export async function createDataStore(dataRoot: string): Promise<DataStore> {
-  const [characters, weapons] = await Promise.all([
+export async function createDataStore(
+  dataRoot: string
+): Promise<{ store: DataStore; stats: DataStoreLoadStats }> {
+  const [charactersResult, weaponsResult] = await Promise.all([
     loadEntities<Character>(dataRoot, "characters"),
     loadEntities<Weapon>(dataRoot, "weapons"),
   ]);
+
+  const characters = charactersResult.map;
+  const weapons = weaponsResult.map;
 
   // Normalize character base stats (in-game values are whole numbers).
   for (const c of characters.values()) {
@@ -110,9 +144,15 @@ export async function createDataStore(dataRoot: string): Promise<DataStore> {
   }
 
   return {
-    listCharacters: () => [...characters.values()],
-    getCharacter: (id) => characters.get(id) ?? null,
-    listWeapons: () => [...weapons.values()],
-    getWeapon: (id) => weapons.get(id) ?? null,
+    store: {
+      listCharacters: () => [...characters.values()],
+      getCharacter: (id) => characters.get(id) ?? null,
+      listWeapons: () => [...weapons.values()],
+      getWeapon: (id) => weapons.get(id) ?? null,
+    },
+    stats: {
+      characters: charactersResult.stats,
+      weapons: weaponsResult.stats,
+    },
   };
 }

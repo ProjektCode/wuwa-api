@@ -145,13 +145,20 @@ export async function registerCharacterRoutes(
     async (req, reply) => {
       const { id, file } = req.params;
 
-      // Basic traversal protection.
-      if (file !== path.posix.basename(file)) {
+      const normalizedFile = file.toLowerCase();
+      const isInvalidFile =
+        file.includes("/") ||
+        file.includes("\\") ||
+        file.includes("..") ||
+        !normalizedFile.endsWith(".webp") ||
+        !/^[a-z0-9-]+\.webp$/.test(normalizedFile);
+
+      if (isInvalidFile) {
         reply.code(400);
         return { error: "bad_request", message: "Invalid file name" };
       }
 
-      const filePath = path.resolve(imagesRoot, "characters", id, file);
+      const filePath = path.resolve(imagesRoot, "characters", id, normalizedFile);
 
       let bytes: Buffer;
       try {

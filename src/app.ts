@@ -15,9 +15,17 @@ import { registerCharacterRoutes } from "./routes/v1/characters";
 import { registerWeaponRoutes } from "./routes/v1/weapons";
 
 export async function buildApp(config: AppConfig): Promise<FastifyInstance> {
+  const trustProxy = (() => {
+    const raw = process.env.TRUST_PROXY;
+    if (!raw) return false;
+    if (raw === "true") return true;
+    const hops = Number(raw);
+    return Number.isFinite(hops) && hops > 0 ? hops : false;
+  })();
+
   const app = Fastify({
-    // Required when running behind Nginx Proxy Manager so req.ip uses X-Forwarded-For.
-    trustProxy: true,
+    // Set TRUST_PROXY=true or a hop count when behind a trusted proxy.
+    trustProxy,
     logger: {
       transport:
         process.env.NODE_ENV === "development"
@@ -146,10 +154,18 @@ export async function buildApp(config: AppConfig): Promise<FastifyInstance> {
     return payload;
   });
 
-  const [store, dataset] = await Promise.all([
+  const [{ store, stats }, dataset] = await Promise.all([
     createDataStore(config.dataRoot),
     computeDatasetInfo(config.dataRoot),
   ]);
+
+  app.log.info(
+    {
+      characters: stats.characters,
+      weapons: stats.weapons,
+    },
+    "dataset load summary",
+  );
 
   app.get("/healthz", async () => {
     return { ok: true };

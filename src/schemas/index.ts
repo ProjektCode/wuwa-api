@@ -54,6 +54,9 @@ const badRequestResponse = {
   required: ["error", "message"],
 } as const;
 
+const slugPattern = "^[a-z0-9-]+$";
+const imageFilePattern = "^[a-z0-9-]+\\.webp$";
+
 // ============================================================================
 // Character Schemas
 // ============================================================================
@@ -79,8 +82,8 @@ const stringOrStringArraySchema = {
   anyOf: [
     { type: "string" },
     { type: "array", items: { type: "string" } },
+    { type: "null" },
   ],
-  nullable: true,
 } as const;
 
 const resonanceChainEntrySchema = {
@@ -196,7 +199,11 @@ export const getCharacterSchema: FastifySchema = {
   params: {
     type: "object",
     properties: {
-      id: { type: "string", description: "Character ID (slug)" },
+      id: {
+        type: "string",
+        description: "Character ID (slug)",
+        pattern: slugPattern,
+      },
     },
     required: ["id"],
   },
@@ -212,7 +219,11 @@ export const listCharacterImagesSchema: FastifySchema = {
   params: {
     type: "object",
     properties: {
-      id: { type: "string", description: "Character ID (slug)" },
+      id: {
+        type: "string",
+        description: "Character ID (slug)",
+        pattern: slugPattern,
+      },
     },
     required: ["id"],
   },
@@ -245,8 +256,16 @@ export const getCharacterImageSchema: FastifySchema = {
   params: {
     type: "object",
     properties: {
-      id: { type: "string", description: "Character ID (slug)" },
-      file: { type: "string", description: "Image filename (e.g., icon.webp)" },
+      id: {
+        type: "string",
+        description: "Character ID (slug)",
+        pattern: slugPattern,
+      },
+      file: {
+        type: "string",
+        description: "Image filename (e.g., icon.webp)",
+        pattern: imageFilePattern,
+      },
     },
     required: ["id", "file"],
   },
@@ -345,7 +364,11 @@ export const getWeaponSchema: FastifySchema = {
   params: {
     type: "object",
     properties: {
-      id: { type: "string", description: "Weapon ID (slug)" },
+      id: {
+        type: "string",
+        description: "Weapon ID (slug)",
+        pattern: slugPattern,
+      },
     },
     required: ["id"],
   },
